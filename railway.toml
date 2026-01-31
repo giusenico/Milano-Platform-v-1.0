@@ -1,0 +1,9 @@
+build:
+  command: npm install
+
+start:
+  command: node server/index.js
+
+environment:
+  NODE_ENV: production
+  PORT: ${{ PORT }}

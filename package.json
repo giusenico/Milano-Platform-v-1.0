@@ -9,7 +9,7 @@
     "dev:frontend": "cd website && npm run dev",
     "dev:server": "node server/index.js",
     "start": "node server/index.js",
-    "build": "cd website && npm run build",
+    "build": "echo 'No build needed for backend'",
     "install:all": "npm install && cd website && npm install",
     "sync": "python3 data_pipeline/scripts/sync_to_website.py --verbose",
     "pipeline": "python3 data_pipeline/scripts/run_pipeline.py"

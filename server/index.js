@@ -29,6 +29,10 @@ const PORT = process.env.PORT || 3001
 // Database connection - unified database with robust fallback
 const dbPath = process.env.DB_PATH || path.join(__dirname, '../db/milano_unified.db')
 
+console.log('🔍 Looking for database at:', dbPath)
+console.log('📂 Current directory:', __dirname)
+console.log('📁 Database exists:', fs.existsSync(dbPath))
+
 // Database state
 let db = null
 let dbStatus = {
