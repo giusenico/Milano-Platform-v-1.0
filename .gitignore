@@ -21,12 +21,11 @@ env/
 ENV/
 .venv
 
-# Database files (non committare il database locale)
-*.db
-*.sqlite
-*.sqlite3
-db/*.db
-db/*.sqlite
+# Database files
+# Il database milano_unified.db è incluso per demo
+# *.db
+# *.sqlite
+# *.sqlite3
 
 # Logs
 logs/
