@@ -361,6 +361,7 @@ app.get('/api/quartieri', requireDatabase, (req, res) => {
 /**
  * GET /api/quartieri/:id/timeseries
  * Returns time series data for a specific neighborhood
+ * Supports both OMI zone IDs (e.g., "centro-duomo") and NIL slugs (e.g., "giambellino")
  */
 app.get('/api/quartieri/:id/timeseries', (req, res) => {
   try {
@@ -392,8 +393,46 @@ app.get('/api/quartieri/:id/timeseries', (req, res) => {
       }
     }
     
+    // If still not found, try to find via NIL → OMI mapping
     if (!quartiereName) {
-      return res.status(404).json({ error: 'Quartiere not found', id: id })
+      // Check if the id is a NIL slug
+      const omiZone = nilToOmiDescription[id]
+      if (omiZone && omiZone.length > 0) {
+        // Get the first OMI zone that maps to this NIL
+        const normalizedOmiZone = omiZone[0]
+        // Find this OMI zone in quartiereMapping (need to search by normalized name)
+        for (const [dbName, mappedId] of Object.entries(quartiereMapping)) {
+          const cleanName = normalizeQuartiereName(dbName).toUpperCase()
+          if (cleanName.includes(normalizedOmiZone.replace(/-/g, ' ').toUpperCase().slice(0, 10))) {
+            quartiereName = dbName
+            break
+          }
+        }
+        // If still not found, try direct DB search with OMI zone name parts
+        if (!quartiereName) {
+          const omiParts = normalizedOmiZone.split('-').filter(p => p.length > 3)
+          for (const part of omiParts) {
+            const searchStmt = db.prepare(`
+              SELECT DISTINCT Quartiere FROM prezzi_medi_quartiere 
+              WHERE UPPER(Quartiere) LIKE UPPER(?)
+              LIMIT 1
+            `)
+            const searchResult = searchStmt.get(`%${part.toUpperCase()}%`)
+            if (searchResult) {
+              quartiereName = searchResult.Quartiere
+              break
+            }
+          }
+        }
+      }
+    }
+    
+    if (!quartiereName) {
+      return res.status(404).json({ 
+        error: 'Quartiere not found', 
+        id: id,
+        hint: 'This NIL may not have direct OMI price data. Try using an OMI zone ID instead.'
+      })
     }
     
     // quartiereName is now the raw name from DB
@@ -1039,16 +1078,18 @@ app.get('/api/popolazione-quartiere/:nil', (req, res) => {
     const amenities = db.prepare(`
       SELECT 
         pubblici_esercizi,
-        impianti_sportivi,
-        servizi_sociali,
-        comandi_polizia
+        mercati,
+        farmacie,
+        scuole,
+        biblioteche
       FROM vw_amenities_by_nil
       WHERE id_nil = ?
     `).get(nilMatch.id_nil) || {
       pubblici_esercizi: 0,
-      impianti_sportivi: 0,
-      servizi_sociali: 0,
-      comandi_polizia: 0
+      mercati: 0,
+      farmacie: 0,
+      scuole: 0,
+      biblioteche: 0
     }
 
     if (timeSeries.length === 0) {
