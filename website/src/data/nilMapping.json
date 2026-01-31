@@ -1,0 +1,442 @@
+{
+  "DUOMO": {
+    "id": 1,
+    "label": "DUOMO",
+    "area_km2": 2.3416155658866744
+  },
+  "BRERA": {
+    "id": 2,
+    "label": "BRERA",
+    "area_km2": 1.6373329159284558
+  },
+  "GIARDINI P.TA VENEZIA": {
+    "id": 3,
+    "label": "GIARDINI P. TA VENEZIA",
+    "area_km2": 0.24963738926598283
+  },
+  "GUASTALLA": {
+    "id": 4,
+    "label": "GUASTALLA",
+    "area_km2": 1.547962258204172
+  },
+  "PORTA VIGENTINA - PORTA LODOVICA": {
+    "id": 5,
+    "label": "PORTA VIGENTINA - PORTA LODOVICA",
+    "area_km2": 1.1351964109476247
+  },
+  "PORTA TICINESE - CONCA DEL NAVIGLIO": {
+    "id": 6,
+    "label": "PORTA TICINESE - CONCA DEL NAVIGLIO",
+    "area_km2": 1.2550173143643943
+  },
+  "MAGENTA - S. VITTORE": {
+    "id": 7,
+    "label": "MAGENTA - S. VITTORE",
+    "area_km2": 1.3900943365620766
+  },
+  "PARCO SEMPIONE": {
+    "id": 8,
+    "label": "PARCO SEMPIONE",
+    "area_km2": 0.47042028463693264
+  },
+  "PORTA GARIBALDI - PORTA NUOVA": {
+    "id": 9,
+    "label": "PORTA GARIBALDI - PORTA NUOVA",
+    "area_km2": 0.7856384123541725
+  },
+  "STAZIONE CENTRALE - PONTE SEVESO": {
+    "id": 10,
+    "label": "STAZIONE CENTRALE - PONTE SEVESO",
+    "area_km2": 1.5560187497838518
+  },
+  "ISOLA": {
+    "id": 11,
+    "label": "ISOLA",
+    "area_km2": 1.32288711576507
+  },
+  "MACIACHINI - MAGGIOLINA": {
+    "id": 12,
+    "label": "MACIACHINI - MAGGIOLINA",
+    "area_km2": 1.6749176277235163
+  },
+  "GRECO - SEGNANO": {
+    "id": 13,
+    "label": "GRECO - SEGNANO",
+    "area_km2": 1.7686026100683716
+  },
+  "NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q.RE FULVIO TESTI": {
+    "id": 14,
+    "label": "NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q. RE FULVIO TESTI",
+    "area_km2": 4.246804958129313
+  },
+  "BICOCCA": {
+    "id": 15,
+    "label": "BICOCCA",
+    "area_km2": 1.5294983324541414
+  },
+  "GORLA - PRECOTTO": {
+    "id": 16,
+    "label": "GORLA - PRECOTTO",
+    "area_km2": 3.0019185541748357
+  },
+  "ADRIANO": {
+    "id": 17,
+    "label": "ADRIANO",
+    "area_km2": 2.4333575088807535
+  },
+  "CIMIANO - ROTTOLE - Q.RE FELTRE": {
+    "id": 18,
+    "label": "CIMIANO - ROTTOLE - Q. RE FELTRE",
+    "area_km2": 4.971419176599595
+  },
+  "PADOVA - TURRO - CRESCENZAGO": {
+    "id": 19,
+    "label": "PADOVA - TURRO - CRESCENZAGO",
+    "area_km2": 2.061867450298829
+  },
+  "LORETO - CASORETTO - NOLO": {
+    "id": 20,
+    "label": "LORETO - CASORETTO - NOLO",
+    "area_km2": 1.7474994702872866
+  },
+  "BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE": {
+    "id": 21,
+    "label": "BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE",
+    "area_km2": 2.8774335129932083
+  },
+  "CITTA' STUDI": {
+    "id": 22,
+    "label": "CITTA' STUDI",
+    "area_km2": 2.207404065911436
+  },
+  "LAMBRATE - ORTICA": {
+    "id": 23,
+    "label": "LAMBRATE - ORTICA",
+    "area_km2": 3.0939474678909877
+  },
+  "PARCO FORLANINI - CAVRIANO": {
+    "id": 24,
+    "label": "PARCO FORLANINI - CAVRIANO",
+    "area_km2": 2.9260061170099525
+  },
+  "CORSICA": {
+    "id": 25,
+    "label": "CORSICA",
+    "area_km2": 1.0812888607873017
+  },
+  "XXII MARZO": {
+    "id": 26,
+    "label": "XXII MARZO",
+    "area_km2": 1.637437814391759
+  },
+  "PTA ROMANA": {
+    "id": 27,
+    "label": "PTA ROMANA",
+    "area_km2": 1.00275560029223
+  },
+  "UMBRIA - MOLISE - CALVAIRATE": {
+    "id": 28,
+    "label": "UMBRIA - MOLISE - CALVAIRATE",
+    "area_km2": 1.1923516694366665
+  },
+  "ORTOMERCATO": {
+    "id": 29,
+    "label": "ORTOMERCATO",
+    "area_km2": 1.402466654797046
+  },
+  "TALIEDO - MORSENCHIO - Q.RE FORLANINI": {
+    "id": 30,
+    "label": "TALIEDO - MORSENCHIO - Q. RE FORLANINI",
+    "area_km2": 3.821209819521341
+  },
+  "MONLUE' - PONTE LAMBRO": {
+    "id": 31,
+    "label": "MONLUE' - PONTE LAMBRO",
+    "area_km2": 2.629017606532328
+  },
+  "TRIULZO SUPERIORE": {
+    "id": 32,
+    "label": "TRIULZO SUPERIORE",
+    "area_km2": 1.3895782319235852
+  },
+  "ROGOREDO - SANTA GIULIA": {
+    "id": 33,
+    "label": "ROGOREDO - SANTA GIULIA",
+    "area_km2": 1.2001163812189641
+  },
+  "CHIARAVALLE": {
+    "id": 34,
+    "label": "CHIARAVALLE",
+    "area_km2": 0.30949418994014727
+  },
+  "LODI - CORVETTO": {
+    "id": 35,
+    "label": "LODI - CORVETTO",
+    "area_km2": 3.6389548699819576
+  },
+  "SCALO ROMANA": {
+    "id": 36,
+    "label": "SCALO ROMANA",
+    "area_km2": 1.7366888318760205
+  },
+  "MORIVIONE": {
+    "id": 37,
+    "label": "MORIVIONE",
+    "area_km2": 0.8179457898120522
+  },
+  "VIGENTINO - Q.RE FATIMA": {
+    "id": 38,
+    "label": "VIGENTINO - Q. RE FATIMA",
+    "area_km2": 1.8531634059392266
+  },
+  "QUINTOSOLE": {
+    "id": 39,
+    "label": "QUINTOSOLE",
+    "area_km2": 1.0585251045138209
+  },
+  "RONCHETTO DELLE RANE": {
+    "id": 40,
+    "label": "RONCHETTO DELLE RANE",
+    "area_km2": 0.18886344696488022
+  },
+  "GRATOSOGLIO - Q.RE MISSAGLIA - Q.RE TERRAZZE": {
+    "id": 41,
+    "label": "GRATOSOGLIO - Q. RE MISSAGLIA - Q. RE TERRAZZE",
+    "area_km2": 3.3164476607358986
+  },
+  "STADERA - CHIESA ROSSA - Q.RE TORRETTA - CONCA FALLATA": {
+    "id": 42,
+    "label": "STADERA - CHIESA ROSSA - Q. RE TORRETTA - CONCA FALLATA",
+    "area_km2": 3.2321151729171875
+  },
+  "TIBALDI": {
+    "id": 43,
+    "label": "TIBALDI",
+    "area_km2": 0.7861845977734513
+  },
+  "PORTA TICINESE - CONCHETTA": {
+    "id": 44,
+    "label": "PORTA TICINESE - CONCHETTA",
+    "area_km2": 1.4838718505437385
+  },
+  "MONCUCCO - SAN CRISTOFORO": {
+    "id": 45,
+    "label": "MONCUCCO - SAN CRISTOFORO",
+    "area_km2": 1.5961137828250347
+  },
+  "BARONA": {
+    "id": 46,
+    "label": "BARONA",
+    "area_km2": 2.0062487404270652
+  },
+  "CANTALUPA": {
+    "id": 47,
+    "label": "CANTALUPA",
+    "area_km2": 0.9266816847310886
+  },
+  "RONCHETTO SUL NAVIGLIO - Q.RE LODOVICO IL MORO": {
+    "id": 48,
+    "label": "RONCHETTO SUL NAVIGLIO - Q. RE LODOVICO IL MORO",
+    "area_km2": 2.406306078969872
+  },
+  "GIAMBELLINO": {
+    "id": 49,
+    "label": "GIAMBELLINO",
+    "area_km2": 1.9682847445451992
+  },
+  "PORTA GENOVA": {
+    "id": 50,
+    "label": "PORTA GENOVA",
+    "area_km2": 0.9967486866493264
+  },
+  "PORTA MAGENTA": {
+    "id": 51,
+    "label": "PORTA MAGENTA",
+    "area_km2": 1.3064013967037427
+  },
+  "BANDE NERE": {
+    "id": 52,
+    "label": "BANDE NERE",
+    "area_km2": 2.663780197130018
+  },
+  "LORENTEGGIO": {
+    "id": 53,
+    "label": "LORENTEGGIO",
+    "area_km2": 2.6443381012277554
+  },
+  "MUGGIANO": {
+    "id": 54,
+    "label": "MUGGIANO",
+    "area_km2": 0.44420165672425965
+  },
+  "BAGGIO - Q.RE DEGLI OLMI - Q.RE VALSESIA": {
+    "id": 55,
+    "label": "BAGGIO - Q. RE DEGLI OLMI - Q. RE VALSESIA",
+    "area_km2": 3.4717500732819295
+  },
+  "FORZE ARMATE": {
+    "id": 56,
+    "label": "FORZE ARMATE",
+    "area_km2": 3.2067828217585417
+  },
+  "SAN SIRO": {
+    "id": 57,
+    "label": "SAN SIRO",
+    "area_km2": 0.9848882778514986
+  },
+  "DE ANGELI - MONTE ROSA": {
+    "id": 58,
+    "label": "DE ANGELI - MONTE ROSA",
+    "area_km2": 1.3230285760155243
+  },
+  "TRE TORRI": {
+    "id": 59,
+    "label": "TRE TORRI",
+    "area_km2": 0.5132969410420727
+  },
+  "STADIO - IPPODROMI": {
+    "id": 60,
+    "label": "STADIO - IPPODROMI",
+    "area_km2": 3.4351775065797856
+  },
+  "QUARTO CAGNINO": {
+    "id": 61,
+    "label": "QUARTO CAGNINO",
+    "area_km2": 0.9863542126550384
+  },
+  "QUINTO ROMANO": {
+    "id": 62,
+    "label": "QUINTO ROMANO",
+    "area_km2": 1.6457974355263905
+  },
+  "FIGINO": {
+    "id": 63,
+    "label": "FIGINO",
+    "area_km2": 1.4246600739678987
+  },
+  "TRENNO": {
+    "id": 64,
+    "label": "TRENNO",
+    "area_km2": 0.4896920828331928
+  },
+  "Q.RE GALLARATESE - Q.RE SAN LEONARDO - LAMPUGNANO": {
+    "id": 65,
+    "label": "Q. RE GALLARATESE - Q. RE SAN LEONARDO - LAMPUGNANO",
+    "area_km2": 3.895679313395549
+  },
+  "QT 8": {
+    "id": 66,
+    "label": "QT 8",
+    "area_km2": 1.0243986533556813
+  },
+  "PORTELLO": {
+    "id": 67,
+    "label": "PORTELLO",
+    "area_km2": 0.9096022187448354
+  },
+  "PAGANO": {
+    "id": 68,
+    "label": "PAGANO",
+    "area_km2": 1.2896855619241334
+  },
+  "SARPI": {
+    "id": 69,
+    "label": "SARPI",
+    "area_km2": 1.811846049764577
+  },
+  "GHISOLFA": {
+    "id": 70,
+    "label": "GHISOLFA",
+    "area_km2": 1.0514124707131969
+  },
+  "VILLAPIZZONE - CAGNOLA - BOLDINASCO": {
+    "id": 71,
+    "label": "VILLAPIZZONE - CAGNOLA - BOLDINASCO",
+    "area_km2": 3.4269409637873207
+  },
+  "MAGGIORE - MUSOCCO - CERTOSA": {
+    "id": 72,
+    "label": "MAGGIORE - MUSOCCO - CERTOSA",
+    "area_km2": 3.030310822753791
+  },
+  "CASCINA MERLATA": {
+    "id": 73,
+    "label": "CASCINA MERLATA",
+    "area_km2": 1.730639610659607
+  },
+  "ROSERIO": {
+    "id": 74,
+    "label": "ROSERIO",
+    "area_km2": 0.7076300751857857
+  },
+  "STEPHENSON": {
+    "id": 75,
+    "label": "STEPHENSON",
+    "area_km2": 0.5600844325808508
+  },
+  "QUARTO OGGIARO - VIALBA - MUSOCCO": {
+    "id": 76,
+    "label": "QUARTO OGGIARO - VIALBA - MUSOCCO",
+    "area_km2": 2.7768721958965803
+  },
+  "BOVISA": {
+    "id": 77,
+    "label": "BOVISA",
+    "area_km2": 1.9130603800404018
+  },
+  "FARINI": {
+    "id": 78,
+    "label": "FARINI",
+    "area_km2": 1.0101927439478322
+  },
+  "DERGANO": {
+    "id": 79,
+    "label": "DERGANO",
+    "area_km2": 1.3585636697590537
+  },
+  "AFFORI": {
+    "id": 80,
+    "label": "AFFORI",
+    "area_km2": 2.070815526504378
+  },
+  "BOVISASCA": {
+    "id": 81,
+    "label": "BOVISASCA",
+    "area_km2": 1.5780276494128618
+  },
+  "COMASINA": {
+    "id": 82,
+    "label": "COMASINA",
+    "area_km2": 0.9266815710625061
+  },
+  "BRUZZANO": {
+    "id": 83,
+    "label": "BRUZZANO",
+    "area_km2": 1.6704401319855355
+  },
+  "PARCO NORD": {
+    "id": 84,
+    "label": "PARCO NORD",
+    "area_km2": 1.5323310035750333
+  },
+  "PARCO DELLE ABBAZIE": {
+    "id": 85,
+    "label": "PARCO DELLE ABBAZIE",
+    "area_km2": 13.733840504780185
+  },
+  "PARCO DEI NAVIGLI": {
+    "id": 86,
+    "label": "PARCO DEI NAVIGLI",
+    "area_km2": 3.623149413644675
+  },
+  "ASSIANO": {
+    "id": 87,
+    "label": "ASSIANO",
+    "area_km2": 5.840941710885698
+  },
+  "PARCO BOSCO IN CITTA'": {
+    "id": 88,
+    "label": "PARCO BOSCO IN CITTA'",
+    "area_km2": 7.834006115166797
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "last_update": "2026-01-31T12:02:34.226183",
+  "sources": {
+    "milano_open_data": {
+      "last_sync": "2026-01-30T18:16:06.004294",
+      "count": 58,
+      "status": "success"
+    },
+    "star_schema": {
+      "last_sync": "2026-01-31T12:02:34.225604",
+      "count": 0,
+      "status": "OK"
+    },
+    "dim_nil": {
+      "last_sync": "2026-01-31T12:02:34.225604",
+      "count": 88,
+      "status": "OK"
+    },
+    "fact_demografia": {
+      "last_sync": "2026-01-31T12:02:34.225604",
+      "count": 968,
+      "status": "OK"
+    },
+    "fact_immobiliare": {
+      "last_sync": "2026-01-31T12:02:34.225604",
+      "count": 371,
+      "status": "OK"
+    },
+    "fact_servizi": {
+      "last_sync": "2026-01-31T12:02:34.225604",
+      "count": 153,
+      "status": "OK"
+    }
+  }
+}

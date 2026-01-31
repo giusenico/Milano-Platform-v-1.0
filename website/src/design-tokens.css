@@ -1,0 +1,203 @@
+/* ========================================
+   Milano Urban Dashboard - Design Tokens
+   Apple-inspired Design System
+   ======================================== */
+
+:root {
+  /* ----------------------------------------
+     Color Palette - Neutral Foundation
+     ---------------------------------------- */
+  
+  /* Background Colors */
+  --color-bg-base: #000000;
+  --color-bg-primary: #0a0a0b;
+  --color-bg-secondary: #141416;
+  --color-bg-elevated: #1c1c1e;
+  --color-bg-card: #1f1f21;
+  
+  /* Surface & Overlay */
+  --color-surface-hover: rgba(255, 255, 255, 0.04);
+  --color-surface-active: rgba(255, 255, 255, 0.06);
+  --color-surface-selected: rgba(255, 255, 255, 0.08);
+  --color-overlay: rgba(0, 0, 0, 0.5);
+  --color-overlay-light: rgba(0, 0, 0, 0.3);
+  
+  /* ----------------------------------------
+     Accent Color - Single Refined Blue
+     ---------------------------------------- */
+  --color-accent: #5e7ce2;
+  --color-accent-hover: #7090eb;
+  --color-accent-subtle: rgba(94, 124, 226, 0.12);
+  --color-accent-muted: rgba(94, 124, 226, 0.08);
+  
+  /* ----------------------------------------
+     Semantic Colors - Status & Feedback
+     ---------------------------------------- */
+  --color-positive: #34c759;
+  --color-positive-subtle: rgba(52, 199, 89, 0.12);
+  --color-negative: #ff3b30;
+  --color-negative-subtle: rgba(255, 59, 48, 0.12);
+  --color-warning: #ff9500;
+  --color-warning-subtle: rgba(255, 149, 0, 0.12);
+  --color-info: #5ac8fa;
+  --color-info-subtle: rgba(90, 200, 250, 0.12);
+  
+  /* ----------------------------------------
+     Text Colors - Hierarchy
+     ---------------------------------------- */
+  --color-text-primary: #f5f5f7;
+  --color-text-secondary: #86868b;
+  --color-text-tertiary: #6e6e73;
+  --color-text-quaternary: #48484a;
+  --color-text-on-accent: #ffffff;
+  
+  /* ----------------------------------------
+     Border Colors
+     ---------------------------------------- */
+  --color-border-subtle: rgba(255, 255, 255, 0.06);
+  --color-border-default: rgba(255, 255, 255, 0.10);
+  --color-border-strong: rgba(255, 255, 255, 0.15);
+  --color-border-focus: var(--color-accent);
+  
+  /* ----------------------------------------
+     Typography Scale (SF Pro / Inter)
+     ---------------------------------------- */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif;
+  
+  /* Font Sizes */
+  --text-2xs: 0.625rem;   /* 10px - captions, metadata */
+  --text-xs: 0.6875rem;   /* 11px - labels */
+  --text-sm: 0.8125rem;   /* 13px - body small */
+  --text-base: 0.9375rem; /* 15px - body */
+  --text-lg: 1.0625rem;   /* 17px - emphasized */
+  --text-xl: 1.3125rem;   /* 21px - subheadings */
+  --text-2xl: 1.75rem;    /* 28px - headings */
+  --text-3xl: 2.125rem;   /* 34px - large headings */
+  
+  /* Font Weights */
+  --font-regular: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700;
+  
+  /* Line Heights */
+  --leading-tight: 1.2;
+  --leading-snug: 1.35;
+  --leading-normal: 1.5;
+  
+  /* Letter Spacing */
+  --tracking-tight: -0.02em;
+  --tracking-normal: 0;
+  --tracking-wide: 0.02em;
+  --tracking-wider: 0.04em;
+  
+  /* ----------------------------------------
+     Spacing Scale (4px base)
+     ---------------------------------------- */
+  --space-0: 0;
+  --space-1: 0.25rem;  /* 4px */
+  --space-2: 0.5rem;   /* 8px */
+  --space-3: 0.75rem;  /* 12px */
+  --space-4: 1rem;     /* 16px */
+  --space-5: 1.25rem;  /* 20px */
+  --space-6: 1.5rem;   /* 24px */
+  --space-8: 2rem;     /* 32px */
+  --space-10: 2.5rem;  /* 40px */
+  --space-12: 3rem;    /* 48px */
+  
+  /* ----------------------------------------
+     Border Radius
+     ---------------------------------------- */
+  --radius-xs: 0.25rem;   /* 4px */
+  --radius-sm: 0.5rem;    /* 8px */
+  --radius-md: 0.75rem;   /* 12px */
+  --radius-lg: 1rem;      /* 16px */
+  --radius-xl: 1.25rem;   /* 20px */
+  --radius-2xl: 1.5rem;   /* 24px */
+  --radius-full: 9999px;
+  
+  /* ----------------------------------------
+     Shadows - Light & Refined
+     ---------------------------------------- */
+  --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.12);
+  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.15);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.18);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.22);
+  --shadow-xl: 0 16px 48px rgba(0, 0, 0, 0.28);
+  
+  /* Elevated shadow for cards/panels */
+  --shadow-elevated: 
+    0 4px 16px rgba(0, 0, 0, 0.2),
+    0 0 0 1px var(--color-border-subtle);
+  
+  /* Focus ring */
+  --shadow-focus: 0 0 0 3px var(--color-accent-subtle);
+  
+  /* ----------------------------------------
+     Transitions
+     ---------------------------------------- */
+  --ease-default: cubic-bezier(0.25, 0.1, 0.25, 1);
+  --ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-bounce: cubic-bezier(0.34, 1.56, 0.64, 1);
+  
+  --duration-fast: 100ms;
+  --duration-normal: 150ms;
+  --duration-slow: 250ms;
+  --duration-slower: 350ms;
+  
+  /* ----------------------------------------
+     Z-Index Scale
+     ---------------------------------------- */
+  --z-base: 1;
+  --z-dropdown: 10;
+  --z-sticky: 20;
+  --z-fixed: 30;
+  --z-overlay: 40;
+  --z-modal: 50;
+  --z-popover: 60;
+  --z-tooltip: 70;
+  
+  /* ----------------------------------------
+     Backdrop Blur
+     ---------------------------------------- */
+  --blur-sm: 8px;
+  --blur-md: 16px;
+  --blur-lg: 24px;
+  --blur-xl: 40px;
+}
+
+/* ========================================
+   Utility Classes
+   ======================================== */
+
+/* Surface backgrounds */
+.surface-base { background: var(--color-bg-primary); }
+.surface-elevated { background: var(--color-bg-elevated); }
+.surface-card { background: var(--color-bg-card); }
+
+/* Text utilities */
+.text-primary { color: var(--color-text-primary); }
+.text-secondary { color: var(--color-text-secondary); }
+.text-tertiary { color: var(--color-text-tertiary); }
+
+/* Focus visible state */
+.focus-ring:focus-visible {
+  outline: none;
+  box-shadow: var(--shadow-focus);
+}
+
+/* Transition presets */
+.transition-colors {
+  transition: color var(--duration-normal) var(--ease-default),
+              background-color var(--duration-normal) var(--ease-default),
+              border-color var(--duration-normal) var(--ease-default);
+}
+
+.transition-transform {
+  transition: transform var(--duration-normal) var(--ease-out);
+}
+
+.transition-all {
+  transition: all var(--duration-normal) var(--ease-default);
+}

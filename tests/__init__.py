@@ -1,0 +1,3 @@
+"""
+Milano Platform - Test Suite
+"""

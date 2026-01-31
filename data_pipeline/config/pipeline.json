@@ -1,0 +1,10 @@
+{
+  "project_name": "Api_Milano_Core",
+  "data_raw_dir": "data_raw",
+  "data_clean_dir": "data_clean",
+  "db_path": "db/nil_core.db",
+  "metadata_filename": "metadata_download.json",
+  "core_config": "config/datasets_core.json",
+  "log_dir": "logs",
+  "reports_dir": "reports"
+}

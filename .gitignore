@@ -1,0 +1,89 @@
+# Dependencies
+node_modules/
+website/node_modules/
+.pnp
+.pnp.js
+
+# Build output
+dist/
+dist-ssr/
+build/
+website/dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Database files (non committare il database locale)
+*.db
+*.sqlite
+*.sqlite3
+db/*.db
+db/*.sqlite
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+data_pipeline/logs/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*
+!.env.example
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Testing
+coverage/
+.nyc_output/
+.pytest_cache/
+
+# Deploy
+.vercel
+.netlify
+
+# Cache
+*.local
+.cache/
+.parcel-cache/
+
+# Data files (opzionale - valuta se committare alcuni dataset)
+data_pipeline/data_raw/
+data_pipeline/data_clean/*.csv
+data_pipeline/data_clean/*.geojson
+data_pipeline/db/
+data_pipeline/reports/*.html
+
+# Temporary files
+*.tmp
+*.temp
+.temp/

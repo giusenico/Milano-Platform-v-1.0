@@ -1,0 +1,526 @@
+{
+  "version": "2026-01-30",
+  "description": "Dataset completo Milano Open Data - Aggiornamento automatico",
+  "datasets": [
+    {
+      "category": "00_base_geografica",
+      "id": "e8e765fc-d882-40b8-95d8-16ff3d39eb7c",
+      "resource_id": "9c4e0776-56fc-4f3d-8a90-f4992a3be426",
+      "filename": "nil_confini_pgt_2030.geojson",
+      "format": "geojson",
+      "description": "Nuclei Identita Locale (NIL) VIGENTI - PGT 2030",
+      "url": "https://dati.comune.milano.it/dataset/e8e765fc-d882-40b8-95d8-16ff3d39eb7c/resource/9c4e0776-56fc-4f3d-8a90-f4992a3be426/download/ds964_nil_wm.geojson",
+      "as_of_year": 2030
+    },
+    {
+      "category": "00_base_geografica",
+      "id": "fc445f33-c94a-4332-9555-5b7568a44192",
+      "resource_id": "d75587b9-2d4d-4a32-b297-d08635a88b79",
+      "filename": "sezioni_censimento_2011.geojson",
+      "format": "geojson",
+      "description": "Localizzazione sezioni di Censimento 2011",
+      "url": "https://dati.comune.milano.it/dataset/fc445f33-c94a-4332-9555-5b7568a44192/resource/d75587b9-2d4d-4a32-b297-d08635a88b79/download/sezioni_censimento_2011.geojson",
+      "as_of_year": 2011
+    },
+    {
+      "category": "01_struttura_demografica",
+      "id": "fcddb7d2-b106-48f5-9a2a-64d3136621dc",
+      "resource_id": "084457a7-ec4b-4a6b-b463-d8ab53c64fbb",
+      "filename": "caratteristiche_demografiche_quartieri_2011_2021.csv",
+      "format": "csv",
+      "description": "Caratteristiche demografiche e territoriali dei quartieri 2011-2021",
+      "url": "https://dati.comune.milano.it/dataset/fcddb7d2-b106-48f5-9a2a-64d3136621dc/resource/084457a7-ec4b-4a6b-b463-d8ab53c64fbb/download/ds205_dati_quartieri_2011_2021_.csv",
+      "as_of_year": 2021
+    },
+    {
+      "category": "01_struttura_demografica",
+      "id": "48c27953-20cb-46c7-ae3e-379f840a4862",
+      "resource_id": "99ba549c-e936-4aaf-9542-11051597cdd3",
+      "filename": "popolazione_cancellazioni_quartiere_2004_2019.csv",
+      "format": "csv",
+      "description": "Cancellazioni anagrafiche per quartiere 2004-2019",
+      "url": "https://dati.comune.milano.it/dataset/48c27953-20cb-46c7-ae3e-379f840a4862/resource/99ba549c-e936-4aaf-9542-11051597cdd3/download/ds1600-popolazione-cancellazioni-evento-quartiere.csv",
+      "as_of_year": 2019
+    },
+    {
+      "category": "01_struttura_demografica",
+      "id": "c5bc3f57-28e4-446c-bc3b-622952a60074",
+      "resource_id": "ce157ed9-e22f-4755-822e-7418c1303313",
+      "filename": "popolazione_iscrizioni_quartiere_2004_2019.csv",
+      "format": "csv",
+      "description": "Iscrizioni anagrafiche per quartiere 2004-2019",
+      "url": "https://dati.comune.milano.it/dataset/c5bc3f57-28e4-446c-bc3b-622952a60074/resource/ce157ed9-e22f-4755-822e-7418c1303313/download/ds1596-popolazione-iscrizioni-evento-quartiere.csv",
+      "as_of_year": 2019
+    },
+    {
+      "category": "01_struttura_demografica",
+      "id": "0ff433bc-720a-4e61-8020-7b6ee5af2229",
+      "resource_id": "7e2f31a5-07c4-40e9-aacc-a38831bc1622",
+      "filename": "popolazione_cancellazioni_quartiere_2020_2023.csv",
+      "format": "csv",
+      "description": "Cancellazioni anagrafiche per quartiere 2020-2023",
+      "url": "https://dati.comune.milano.it/dataset/0ff433bc-720a-4e61-8020-7b6ee5af2229/resource/7e2f31a5-07c4-40e9-aacc-a38831bc1622/download/ds1956_popolazione_cancellazioni_evento_quartiere.csv",
+      "as_of_year": 2023
+    },
+    {
+      "category": "01_struttura_demografica",
+      "id": "d9e9c600-1c35-4abc-b9ef-c967e0da040c",
+      "resource_id": "29853c42-6edb-473c-a433-c9b71380bb61",
+      "filename": "popolazione_iscrizioni_quartiere_2020_2023.csv",
+      "format": "csv",
+      "description": "Iscrizioni anagrafiche per quartiere 2020-2023",
+      "url": "https://dati.comune.milano.it/dataset/d9e9c600-1c35-4abc-b9ef-c967e0da040c/resource/29853c42-6edb-473c-a433-c9b71380bb61/download/ds1954_popolazione_iscrizioni_evento_quartiere.csv",
+      "as_of_year": 2023
+    },
+    {
+      "category": "01_struttura_demografica",
+      "id": "e2f3d14b-c4eb-40cd-926c-61c07bd30a3f",
+      "resource_id": "ef2a810e-2702-4083-8d94-c54f04552fc0",
+      "filename": "famiglie_residenti_nil_1999_2024.csv",
+      "format": "csv",
+      "description": "Famiglie anagrafiche residenti per NIL (1999-2024)",
+      "url": "https://dati.comune.milano.it/dataset/e2f3d14b-c4eb-40cd-926c-61c07bd30a3f/resource/ef2a810e-2702-4083-8d94-c54f04552fc0/download/ds1440_popolazione_residenti_famiglie_quartiere.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "03_stock_abitativo",
+      "id": "c7f2f543-00bb-4d9e-8a07-d26c7b874765",
+      "resource_id": "bbc22774-4545-47bd-bf43-34cf6bf7b43c",
+      "filename": "nuovi_fabbricati_residenziali_2010_2023.csv",
+      "format": "csv",
+      "description": "Nuovi fabbricati con destinazione residenziale 2010-2023",
+      "url": "https://dati.comune.milano.it/dataset/c7f2f543-00bb-4d9e-8a07-d26c7b874765/resource/bbc22774-4545-47bd-bf43-34cf6bf7b43c/download/ds270_economia_nuovi_fabbricati_uso_residenziale_.csv",
+      "as_of_year": 2023
+    },
+    {
+      "category": "03_stock_abitativo",
+      "id": "f3ce7d68-9ac4-49fe-8e88-4ef57f5dab12",
+      "resource_id": "9a04042a-a37d-420b-9a06-ea12cedc1f2c",
+      "filename": "abitazioni_occupate_nil_2011.csv",
+      "format": "csv",
+      "description": "Censimento 2011: Abitazioni occupate per NIL",
+      "url": "https://dati.comune.milano.it/dataset/f3ce7d68-9ac4-49fe-8e88-4ef57f5dab12/resource/9a04042a-a37d-420b-9a06-ea12cedc1f2c/download/DS1457_cens2011_caratteristiche_degli_occupanti.csv",
+      "as_of_year": 2011
+    },
+    {
+      "category": "04_qualita_ambientale",
+      "id": "49d2896c-abba-44e5-9a53-c19332a275b3",
+      "resource_id": "bbc7d511-f52d-4fe0-a7c7-aa7e5f5dceb5",
+      "filename": "indice_verde_urbano_nil_2024.geojson",
+      "format": "geojson",
+      "description": "Indice di verde urbano NIL - Luglio 2024",
+      "url": "https://dati.comune.milano.it/dataset/49d2896c-abba-44e5-9a53-c19332a275b3/resource/bbc7d511-f52d-4fe0-a7c7-aa7e5f5dceb5/download/ds2813_spotted-milan-urbangreenindex-nil-01072024_31072024.geojson",
+      "as_of_year": 2024
+    },
+    {
+      "category": "04_qualita_ambientale",
+      "id": "e74f6267-a6b5-4e61-8de6-c11f50f7990f",
+      "resource_id": "d57873db-49e5-41d9-b044-65e12960bd02",
+      "filename": "esposizione_calore_urbano_nil_2024.geojson",
+      "format": "geojson",
+      "description": "Esposizione al calore urbano NIL - Luglio 2024",
+      "url": "https://dati.comune.milano.it/dataset/e74f6267-a6b5-4e61-8de6-c11f50f7990f/resource/d57873db-49e5-41d9-b044-65e12960bd02/download/ds2811_spotted-milan-urbanheatexposure-nil-01072024_31072024.geojson",
+      "as_of_year": 2024
+    },
+    {
+      "category": "04_qualita_ambientale",
+      "id": "dc7944cf-339d-418a-921b-ffadf075bef9",
+      "resource_id": "41396b21-2029-4fa5-b91c-1259d3edee3d",
+      "filename": "rischio_ondata_calore_nil_2024.geojson",
+      "format": "geojson",
+      "description": "Rischio ondata di calore urbano NIL - Luglio 2024",
+      "url": "https://dati.comune.milano.it/dataset/dc7944cf-339d-418a-921b-ffadf075bef9/resource/41396b21-2029-4fa5-b91c-1259d3edee3d/download/ds2812_Spotted-Milan-UrbanHeatWaveRisk-NIL-01072024_31072024.geojson",
+      "as_of_year": 2024
+    },
+    {
+      "category": "04_qualita_ambientale",
+      "id": "4e405e99-895e-486c-be70-f8c759e47b31",
+      "resource_id": "48942903-a6ca-4eaa-ab72-2039f4255fd7",
+      "filename": "alberi_monumentali.csv",
+      "format": "csv",
+      "description": "Alberi monumentali con georeferenziazione",
+      "url": "https://dati.comune.milano.it/dataset/4e405e99-895e-486c-be70-f8c759e47b31/resource/48942903-a6ca-4eaa-ab72-2039f4255fd7/download/alberi_monumentali_031123_final.csv",
+      "as_of_year": 2023
+    },
+    {
+      "category": "04_qualita_ambientale",
+      "id": "46ea3a0b-74cb-488d-9eef-d0d350594bb4",
+      "resource_id": "af050ac8-09ee-4855-9195-c32b70bef5f0",
+      "filename": "cascine_storiche.csv",
+      "format": "csv",
+      "description": "Cascine agricole e storiche di Milano",
+      "url": "https://dati.comune.milano.it/dataset/46ea3a0b-74cb-488d-9eef-d0d350594bb4/resource/af050ac8-09ee-4855-9195-c32b70bef5f0/download/ds1448_cascine_milano_031023.csv",
+      "as_of_year": 2023
+    },
+    {
+      "category": "04_qualita_ambientale",
+      "id": "79612b25-ce89-4ecd-af8f-5a2ca296e999",
+      "resource_id": "29494c9a-9bc4-4246-843a-da236b8d46d9",
+      "filename": "ecoisole.csv",
+      "format": "csv",
+      "description": "Ecoisole - cassonetti per rifiuti elettronici",
+      "url": "https://dati.comune.milano.it/dataset/79612b25-ce89-4ecd-af8f-5a2ca296e999/resource/29494c9a-9bc4-4246-843a-da236b8d46d9/download/ds680_ecoisole_final.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "04_qualita_ambientale",
+      "id": "d3dade36-1be0-4fe3-8728-8229fa4aa10b",
+      "resource_id": "fb0c3aa0-58dc-4ad4-816c-52b6e93b9d97",
+      "filename": "riciclerie.csv",
+      "format": "csv",
+      "description": "Riciclerie - punti conferimento rifiuti",
+      "url": "https://dati.comune.milano.it/dataset/d3dade36-1be0-4fe3-8728-8229fa4aa10b/resource/fb0c3aa0-58dc-4ad4-816c-52b6e93b9d97/download/riciclerie_v2a_coord.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "05_servizi_essenziali",
+      "id": "264c3bd9-9c37-4f64-b282-4c3723f422c4",
+      "resource_id": "eecd0291-cd99-433e-afa7-9748a7ebca58",
+      "filename": "mercati_comunali_coperti.csv",
+      "format": "csv",
+      "description": "Mercati comunali coperti",
+      "url": "https://dati.comune.milano.it/dataset/264c3bd9-9c37-4f64-b282-4c3723f422c4/resource/eecd0291-cd99-433e-afa7-9748a7ebca58/download/mcc-mag24_final.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "05_servizi_essenziali",
+      "id": "f758d24c-8805-40b0-9a72-a8aac06d1e98",
+      "resource_id": "5d4a83c3-6ac5-4430-b5a9-d669a933b036",
+      "filename": "mercati_settimanali_scoperti.csv",
+      "format": "csv",
+      "description": "Mercati settimanali scoperti",
+      "url": "https://dati.comune.milano.it/dataset/f758d24c-8805-40b0-9a72-a8aac06d1e98/resource/5d4a83c3-6ac5-4430-b5a9-d669a933b036/download/mss-mag24_final.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "05_servizi_essenziali",
+      "id": "c4133582-5a13-44fb-854e-975d33f7aa51",
+      "resource_id": "7449668e-a23a-4986-acd6-e5ba9b790ebc",
+      "filename": "mercati_agricoltori.csv",
+      "format": "csv",
+      "description": "Mercati degli agricoltori (farmers market)",
+      "url": "https://dati.comune.milano.it/dataset/c4133582-5a13-44fb-854e-975d33f7aa51/resource/7449668e-a23a-4986-acd6-e5ba9b790ebc/download/mercati_agricoli.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "05_servizi_essenziali",
+      "id": "f471dff0-d7a6-4616-9d66-b0348064da04",
+      "resource_id": "75b28669-3572-436b-a9b2-18ffa304f87e",
+      "filename": "case_acqua.csv",
+      "format": "csv",
+      "description": "Case dell'acqua - fontane pubbliche",
+      "url": "https://dati.comune.milano.it/dataset/f471dff0-d7a6-4616-9d66-b0348064da04/resource/75b28669-3572-436b-a9b2-18ffa304f87e/download/caseacqua_20260118-233003_final.csv",
+      "as_of_year": 2026
+    },
+    {
+      "category": "05_servizi_essenziali",
+      "id": "96e339de-d545-4c0a-8ba4-1f0e0f744082",
+      "resource_id": "3a818c30-8a1f-407b-9f41-6703909805bb",
+      "filename": "vedovelle.csv",
+      "format": "csv",
+      "description": "Vedovelle - fontanelle tipiche milanesi",
+      "url": "https://dati.comune.milano.it/dataset/96e339de-d545-4c0a-8ba4-1f0e0f744082/resource/3a818c30-8a1f-407b-9f41-6703909805bb/download/vedovelle_20260118-233003_final.csv",
+      "as_of_year": 2026
+    },
+    {
+      "category": "06_istruzione_famiglie",
+      "id": "3808b466-1082-419c-9815-ea14b6dbebe0",
+      "resource_id": "b9088e14-1037-4a3f-b57f-8eeb9158bb11",
+      "filename": "edifici_scolastici_2020_2021.csv",
+      "format": "csv",
+      "description": "Elenco e localizzazione edifici scolastici - Scuole Statali 2020/2021",
+      "url": "https://dati.comune.milano.it/dataset/3808b466-1082-419c-9815-ea14b6dbebe0/resource/b9088e14-1037-4a3f-b57f-8eeb9158bb11/download/ds1863_elenco_e_localizzazioni_edifici_scolastici_as2020-2021.csv",
+      "as_of_year": 2021
+    },
+    {
+      "category": "06_istruzione_famiglie",
+      "id": "3aace6ca-8930-4140-89fc-60f822b43993",
+      "resource_id": "df895707-82e5-4839-8082-dd7a0edf5a66",
+      "filename": "titolo_studio_residenti_nil_2011.csv",
+      "format": "csv",
+      "description": "Censimento: Titolo di studio e avviamento professionale per NIL",
+      "url": "https://dati.comune.milano.it/dataset/3aace6ca-8930-4140-89fc-60f822b43993/resource/df895707-82e5-4839-8082-dd7a0edf5a66/download/ds1489_istruzione-e-lavoro-nil-2011.csv",
+      "as_of_year": 2011
+    },
+    {
+      "category": "07_mobilita_trasporti",
+      "id": "d4007bfc-c310-424f-ae92-6446d8fb2d63",
+      "resource_id": "ab30907e-47b8-45e2-a305-00fe6d4b3e90",
+      "filename": "mezzi_trasporto_prevalente_nil_2011.csv",
+      "format": "csv",
+      "description": "Censimento: Mezzi di trasporto di utilizzo prevalente per NIL",
+      "url": "https://dati.comune.milano.it/dataset/d4007bfc-c310-424f-ae92-6446d8fb2d63/resource/ab30907e-47b8-45e2-a305-00fe6d4b3e90/download/ds1490_mezzo-di-trasporto-prevalente.csv",
+      "as_of_year": 2011
+    },
+    {
+      "category": "07_mobilita_trasporti",
+      "id": "06fafc33-c6b2-4a6b-8c21-b19149a1e992",
+      "resource_id": "0233f674-f2d5-40b7-ad76-fad6e51c67b7",
+      "filename": "spostamenti_studio_lavoro_nil_2011.csv",
+      "format": "csv",
+      "description": "Censimento: Spostamenti per studio e lavoro per NIL",
+      "url": "https://dati.comune.milano.it/dataset/06fafc33-c6b2-4a6b-8c21-b19149a1e992/resource/0233f674-f2d5-40b7-ad76-fad6e51c67b7/download/ds1486_motivo-di-spostamento-per-studio.csv",
+      "as_of_year": 2011
+    },
+    {
+      "category": "07_mobilita_trasporti",
+      "id": "802a1d1f-4203-44c9-b9f5-dd8aa1f6bc3c",
+      "resource_id": "8f3fd2c6-004b-4e23-8d51-852714ce8230",
+      "filename": "stazioni_ferroviarie.csv",
+      "format": "csv",
+      "description": "Stazioni rete ferroviaria urbana",
+      "url": "https://dati.comune.milano.it/dataset/802a1d1f-4203-44c9-b9f5-dd8aa1f6bc3c/resource/8f3fd2c6-004b-4e23-8d51-852714ce8230/download/sistema_ferroviario_urbano_layer_0_stazioni__final.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "07_mobilita_trasporti",
+      "id": "0c7a321d-6055-4eed-bfb0-9bd2a8dabf88",
+      "resource_id": "d9509257-9f88-4729-8905-c92f5bbda35f",
+      "filename": "colonnine_ricarica_elettrica.csv",
+      "format": "csv",
+      "description": "Colonnine di ricarica veicoli elettrici",
+      "url": "https://dati.comune.milano.it/dataset/0c7a321d-6055-4eed-bfb0-9bd2a8dabf88/resource/d9509257-9f88-4729-8905-c92f5bbda35f/download/ricarica_colonnine.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "08_servizi_sanitari",
+      "id": "7d504606-c770-4f95-a003-d166dcbcce44",
+      "resource_id": "e3b7309a-f84a-422d-a964-bae5d4efa9de",
+      "filename": "medici_medicina_generale.csv",
+      "format": "csv",
+      "description": "Sanità: Medici di medicina generale",
+      "url": "https://dati.comune.milano.it/dataset/7d504606-c770-4f95-a003-d166dcbcce44/resource/e3b7309a-f84a-422d-a964-bae5d4efa9de/download/DS234_20260122_MMG_final.csv",
+      "as_of_year": 2026
+    },
+    {
+      "category": "08_servizi_sanitari",
+      "id": "7e18f0d3-b7f1-49b7-969d-da2c04131dd6",
+      "resource_id": "0c9f45b3-373e-4528-ac40-c8e474aad605",
+      "filename": "farmacie_milano.csv",
+      "format": "csv",
+      "description": "Farmacie nel Comune di Milano",
+      "url": "https://dati.comune.milano.it/dataset/7e18f0d3-b7f1-49b7-969d-da2c04131dd6/resource/0c9f45b3-373e-4528-ac40-c8e474aad605/download/ds501_farmacie-nel-comune-di-m_dr8f-cz2h_final.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "09_servizi_sociali",
+      "id": "749f1c88-2219-47fd-82b6-e2f3a64de156",
+      "resource_id": "d8cb7647-ea02-4f8f-a7b5-2c1b04d48f37",
+      "filename": "servizi_sociali_2014.csv",
+      "format": "csv",
+      "description": "Organizzazioni eroganti servizi sociali",
+      "url": "https://dati.comune.milano.it/dataset/749f1c88-2219-47fd-82b6-e2f3a64de156/resource/d8cb7647-ea02-4f8f-a7b5-2c1b04d48f37/download/ds313_sociale_servizi-sociali_2014__loc.csv",
+      "as_of_year": 2014
+    },
+    {
+      "category": "10_cultura_musei",
+      "id": "d180bc15-50b2-40ec-bb20-b92b5bbd6ee6",
+      "resource_id": "e0f4a8fd-45f8-415e-9e8c-9ccf087d0284",
+      "filename": "beni_patrimonio_musei.csv",
+      "format": "csv",
+      "description": "Numero beni del Patrimonio Scientifico Tecnologico nei Musei",
+      "url": "https://dati.comune.milano.it/dataset/d180bc15-50b2-40ec-bb20-b92b5bbd6ee6/resource/e0f4a8fd-45f8-415e-9e8c-9ccf087d0284/download/ds611_numero_beni_del_patrimon_p7bu-8rsj_final.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "10_cultura_musei",
+      "id": "d251acbc-8292-45cf-b131-68f001348ebd",
+      "resource_id": "be1c4b05-0fed-4c65-8dc6-64ec7b88c00d",
+      "filename": "architetture_storiche.csv",
+      "format": "csv",
+      "description": "Patrimonio architettonico - beni culturali",
+      "url": "https://dati.comune.milano.it/dataset/d251acbc-8292-45cf-b131-68f001348ebd/resource/be1c4b05-0fed-4c65-8dc6-64ec7b88c00d/download/ds585_architetture_nel_comune__2zdd-j7wz_final.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "10_cultura_musei",
+      "id": "364a67d3-0734-49d3-b4b7-2c704eeadd24",
+      "resource_id": "2c87c7c1-b007-4d9c-8d15-f252fd7328db",
+      "filename": "beni_culturali_siti.csv",
+      "format": "csv",
+      "description": "Schede catalografiche beni culturali (musei, chiese, dimore storiche)",
+      "url": "https://dati.comune.milano.it/dataset/364a67d3-0734-49d3-b4b7-2c704eeadd24/resource/2c87c7c1-b007-4d9c-8d15-f252fd7328db/download/ds599_beni_culturali_siti_nel__c23i-gtvh_final.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "10_cultura_musei",
+      "id": "ba04d4b3-9a1e-48f8-8016-a0d6a649869b",
+      "resource_id": "478da04b-f87e-45d6-bb39-6c29c65a3c19",
+      "filename": "associazioni_culturali.csv",
+      "format": "csv",
+      "description": "Localizzazione associazioni culturali",
+      "url": "https://dati.comune.milano.it/dataset/ba04d4b3-9a1e-48f8-8016-a0d6a649869b/resource/478da04b-f87e-45d6-bb39-6c29c65a3c19/download/ds76_associazioniculturaliearte_final.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "10_cultura_musei",
+      "id": "ebc5b815-42d1-474f-9619-0aee5386b538",
+      "resource_id": "ce2a954b-c8b9-4de0-9ea2-c18887931470",
+      "filename": "centri_congressi.csv",
+      "format": "csv",
+      "description": "Centri congressi - localizzazione e caratteristiche",
+      "url": "https://dati.comune.milano.it/dataset/ebc5b815-42d1-474f-9619-0aee5386b538/resource/ce2a954b-c8b9-4de0-9ea2-c18887931470/download/ds42_centricongressi2009_00_00_final.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "11_biblioteche",
+      "id": "55f979e6-c678-4ec8-8747-8bf90ec1ff1f",
+      "resource_id": "7c7b4590-65cf-4a4e-8013-bba35c84b364",
+      "filename": "biblioteche_rionali.csv",
+      "format": "csv",
+      "description": "Biblioteche Rionali: caratteristiche e localizzazione",
+      "url": "https://dati.comune.milano.it/dataset/55f979e6-c678-4ec8-8747-8bf90ec1ff1f/resource/7c7b4590-65cf-4a4e-8013-bba35c84b364/download/ds287_cultura_biblioteche-rionali-caratteristiche-localizzazione_2013-2015.csv",
+      "as_of_year": 2015
+    },
+    {
+      "category": "11_biblioteche",
+      "id": "ee08abe0-aba1-44ab-b6ad-21fcd8a45100",
+      "resource_id": "d49c549f-0f70-4a0a-8316-93012a9a6c77",
+      "filename": "sistema_bibliotecario.csv",
+      "format": "csv",
+      "description": "Sistema Bibliotecario di Milano (Sormani, rionali, Bibliobus)",
+      "url": "https://dati.comune.milano.it/dataset/ee08abe0-aba1-44ab-b6ad-21fcd8a45100/resource/d49c549f-0f70-4a0a-8316-93012a9a6c77/download/ds1306_biblioteche.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "11_biblioteche",
+      "id": "c80c32da-5870-460f-8b35-380748097090",
+      "resource_id": "d664ca0e-8553-4066-ab2e-177c865edf5e",
+      "filename": "biblioteche_archivi.csv",
+      "format": "csv",
+      "description": "Biblioteche ed archivi - localizzazione",
+      "url": "https://dati.comune.milano.it/dataset/c80c32da-5870-460f-8b35-380748097090/resource/d664ca0e-8553-4066-ab2e-177c865edf5e/download/ds41_bibliotechearchivi2007_00_00_final.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "12_turismo",
+      "id": "52e651cf-00c5-460c-a37c-65e7586b01bd",
+      "resource_id": "cf1efe87-5b7d-491f-bbbb-bbf5a822468e",
+      "filename": "case_ferie_strutture.csv",
+      "format": "csv",
+      "description": "Turismo: Case per ferie e altre strutture ricettive",
+      "url": "https://dati.comune.milano.it/dataset/52e651cf-00c5-460c-a37c-65e7586b01bd/resource/cf1efe87-5b7d-491f-bbbb-bbf5a822468e/download/ds317_turismotempolibero_case-ferie-altre-strutture_2015_.csv",
+      "as_of_year": 2015
+    },
+    {
+      "category": "12_turismo",
+      "id": "6c7abeea-ec32-400c-86fe-55f60e6afd5e",
+      "resource_id": "8276a370-c04c-4a08-9c09-aa5a8f27970f",
+      "filename": "agriturismi.csv",
+      "format": "csv",
+      "description": "Agriturismi nel Comune di Milano",
+      "url": "https://dati.comune.milano.it/dataset/6c7abeea-ec32-400c-86fe-55f60e6afd5e/resource/82764370-c04c-4a08-9c09-aa5a8f27970f/download/ds601_agriturismi-nel-comune-di-milano_dwkh-kfdx_final.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "13_economia_commercio",
+      "id": "aa53c90a-45ca-44e1-a2a5-ea615bd19745",
+      "resource_id": "a4f717e9-7422-456e-b10e-c49d0f7a63af",
+      "filename": "imprese_settore_quartiere.csv",
+      "format": "csv",
+      "description": "Imprese: unità locali per settore e quartiere",
+      "url": "https://dati.comune.milano.it/dataset/aa53c90a-45ca-44e1-a2a5-ea615bd19745/resource/a4f717e9-7422-456e-b10e-c49d0f7a63af/download/ds201_economia_numero_unita_locali_settore_attivita_quartiere_2010.csv",
+      "as_of_year": 2010
+    },
+    {
+      "category": "13_economia_commercio",
+      "id": "3da4455f-20f8-46ba-9573-fc7cfbc9d5d2",
+      "resource_id": "8d53e8ac-219a-4a7b-a1d9-b6b6a8adce35",
+      "filename": "botteghe_storiche.csv",
+      "format": "csv",
+      "description": "Botteghe storiche 2024",
+      "url": "https://dati.comune.milano.it/dataset/3da4455f-20f8-46ba-9573-fc7cfbc9d5d2/resource/8d53e8ac-219a-4a7b-a1d9-b6b6a8adce35/download/ds290_economia_botteghe_storiche_2024.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "13_economia_commercio",
+      "id": "7c968658-539a-448b-a903-76d5aaa21f3d",
+      "resource_id": "a902a081-b350-4671-8ae7-745073f00855",
+      "filename": "grandi_strutture_vendita.csv",
+      "format": "csv",
+      "description": "Grandi Strutture di Vendita (centri commerciali)",
+      "url": "https://dati.comune.milano.it/dataset/7c968658-539a-448b-a903-76d5aaa21f3d/resource/a902a081-b350-4671-8ae7-745073f00855/download/ds589_grandi_strutture_di_vend_5pzf-etyy_final.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "13_economia_commercio",
+      "id": "f0671ce0-8c11-4ee8-95e5-c09913d00f83",
+      "resource_id": "8fa8b389-2aa5-4c3b-953a-f25872410546",
+      "filename": "pubblici_esercizi.csv",
+      "format": "csv",
+      "description": "Pubblici esercizi (bar, ristoranti, pub)",
+      "url": "https://dati.comune.milano.it/dataset/f0671ce0-8c11-4ee8-95e5-c09913d00f83/resource/8fa8b389-2aa5-4c3b-953a-f25872410546/download/geocoded_batch_pe-dic-23_final_.csv",
+      "as_of_year": 2023
+    },
+    {
+      "category": "13_economia_commercio",
+      "id": "e7aa5e37-b83d-4d80-b379-fb5845f7276b",
+      "resource_id": "cbce9044-f7e6-45c9-a53d-e753adbcd63c",
+      "filename": "media_grande_distribuzione.csv",
+      "format": "csv",
+      "description": "Media e grande distribuzione (supermercati)",
+      "url": "https://dati.comune.milano.it/dataset/e7aa5e37-b83d-4d80-b379-fb5845f7276b/resource/cbce9044-f7e6-45c9-a53d-e753adbcd63c/download/economia_media_grande_distribuzione_coord.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "13_economia_commercio",
+      "id": "f6764e63-4a8c-46f0-9dc8-7a671e0a3950",
+      "resource_id": "e74073ea-6f6c-43c6-a559-26d7889e59eb",
+      "filename": "esercizi_vicinato.csv",
+      "format": "csv",
+      "description": "Esercizi di vicinato (negozi sotto 250mq)",
+      "url": "https://dati.comune.milano.it/dataset/f6764e63-4a8c-46f0-9dc8-7a671e0a3950/resource/e74073ea-6f6c-43c6-a559-26d7889e59eb/download/geocoded_batch_ev-dic-23_final_.csv",
+      "as_of_year": 2023
+    },
+    {
+      "category": "13_economia_commercio",
+      "id": "19eb95bf-6b06-43b8-b28a-e774eb5a7391",
+      "resource_id": "30211213-5291-4ae4-ade3-38f8008159dc",
+      "filename": "edicole.csv",
+      "format": "csv",
+      "description": "Edicole - rivendite quotidiani e riviste",
+      "url": "https://dati.comune.milano.it/dataset/19eb95bf-6b06-43b8-b28a-e774eb5a7391/resource/30211213-5291-4ae4-ade3-38f8008159dc/download/ed-mag24_final.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "13_economia_commercio",
+      "id": "b56c4ffd-4144-404a-b06f-1ecf3479eec3",
+      "resource_id": "db9b3ccb-69d0-44d0-a82f-78eb11b3c744",
+      "filename": "locali_pubblico_spettacolo.csv",
+      "format": "csv",
+      "description": "Locali di pubblico spettacolo (discoteche, sale da ballo)",
+      "url": "https://dati.comune.milano.it/dataset/b56c4ffd-4144-404a-b06f-1ecf3479eec3/resource/db9b3ccb-69d0-44d0-a82f-78eb11b3c744/download/geocoded_batch_sp-dic-23_final.csv",
+      "as_of_year": 2023
+    },
+    {
+      "category": "13_economia_commercio",
+      "id": "34b330d2-e34a-4d98-a327-447342001ee3",
+      "resource_id": "5cd30461-69de-496b-9c18-f1ad1cef6975",
+      "filename": "coworking.csv",
+      "format": "csv",
+      "description": "Coworking - spazi di lavoro condiviso",
+      "url": "https://dati.comune.milano.it/dataset/34b330d2-e34a-4d98-a327-447342001ee3/resource/5cd30461-69de-496b-9c18-f1ad1cef6975/download/coworking__joined__f.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "13_economia_commercio",
+      "id": "6f5bc062-00a3-4911-9002-fe38511239da",
+      "resource_id": "9398b574-2f61-45af-84ee-6b1a42ef1fc1",
+      "filename": "fablab.csv",
+      "format": "csv",
+      "description": "FabLab Milano - laboratori fabbricazione digitale",
+      "url": "https://dati.comune.milano.it/dataset/6f5bc062-00a3-4911-9002-fe38511239da/resource/9398b574-2f61-45af-84ee-6b1a42ef1fc1/download/ds744_fablab_milano.csv",
+      "as_of_year": 2024
+    },
+    {
+      "category": "14_sicurezza",
+      "id": "2c48e7c0-6e86-4a0a-95de-b9ea0564efcd",
+      "resource_id": "f0db7ac6-d29a-4cc7-ae97-c05b7908c99e",
+      "filename": "beni_immobili_confiscati.csv",
+      "format": "csv",
+      "description": "Elenco beni immobili confiscati alla criminalità",
+      "url": "https://dati.comune.milano.it/dataset/2c48e7c0-6e86-4a0a-95de-b9ea0564efcd/resource/f0db7ac6-d29a-4cc7-ae97-c05b7908c99e/download/ds147_elenco-beni-immobili-confiscati-01_2026.csv",
+      "as_of_year": 2026
+    }
+  ]
+}

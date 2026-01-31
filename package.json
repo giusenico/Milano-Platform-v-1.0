@@ -1,0 +1,21 @@
+{
+  "name": "milano-platform",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Milano Urban Data Platform - Dashboard + Data Pipeline",
+  "scripts": {
+    "dev": "cd website && npm run dev:full",
+    "dev:frontend": "cd website && npm run dev",
+    "dev:server": "node server/index.js",
+    "build": "cd website && npm run build",
+    "install:all": "npm install && cd website && npm install",
+    "sync": "python3 data_pipeline/scripts/sync_to_website.py --verbose",
+    "pipeline": "python3 data_pipeline/scripts/run_pipeline.py"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.6.2",
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
