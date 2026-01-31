@@ -86,13 +86,21 @@ const requireDatabase = (req, res, next) => {
 
 // Enable CORS with proper configuration for production
 const corsOptions = {
-  origin: process.env.NODE_ENV === 'production' 
-    ? [
-        'https://milano-platform-v-1-0.vercel.app',
-        'https://milano-platform-v-1-0-git-main-giuseppe-nicolos-projects.vercel.app',
-        /^https:\/\/milano-platform-v-1-0.*\.vercel\.app$/
-      ]
-    : '*',
+  origin: function (origin, callback) {
+    // Allow requests with no origin (like mobile apps or curl requests)
+    if (!origin) return callback(null, true)
+    
+    // Allow all Vercel deployments and localhost
+    if (
+      origin.includes('.vercel.app') || 
+      origin.includes('localhost') ||
+      origin.includes('127.0.0.1')
+    ) {
+      return callback(null, true)
+    }
+    
+    callback(new Error('Not allowed by CORS'))
+  },
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization']
