@@ -85,12 +85,33 @@ const requireDatabase = (req, res, next) => {
 }
 
 // Enable CORS - allow all origins for demo (da restringere in produzione finale)
-app.use(cors({
-  origin: '*',
+const corsOptions = {
+  origin: function (origin, callback) {
+    // Allow requests with no origin (like mobile apps or curl requests)
+    if (!origin) return callback(null, true)
+    // Allow all origins for now
+    return callback(null, true)
+  },
   credentials: false,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-  allowedHeaders: ['Content-Type', 'Authorization']
-}))
+  allowedHeaders: ['Content-Type', 'Authorization', 'Accept', 'Origin', 'X-Requested-With'],
+  optionsSuccessStatus: 200 // some legacy browsers choke on 204
+}
+
+// Apply CORS middleware
+app.use(cors(corsOptions))
+
+// Handle preflight requests explicitly
+app.options('*', cors(corsOptions))
+
+// Fallback CORS headers middleware (in case cors package doesn't work properly)
+app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*')
+  res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS')
+  res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Accept, Origin, X-Requested-With')
+  next()
+})
+
 app.use(express.json())
 
 // Health check endpoint
