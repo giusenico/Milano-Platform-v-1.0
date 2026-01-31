@@ -84,29 +84,13 @@ const requireDatabase = (req, res, next) => {
   next()
 }
 
-// Enable CORS with proper configuration for production
-const corsOptions = {
-  origin: function (origin, callback) {
-    // Allow requests with no origin (like mobile apps or curl requests)
-    if (!origin) return callback(null, true)
-    
-    // Allow all Vercel deployments and localhost
-    if (
-      origin.includes('.vercel.app') || 
-      origin.includes('localhost') ||
-      origin.includes('127.0.0.1')
-    ) {
-      return callback(null, true)
-    }
-    
-    callback(new Error('Not allowed by CORS'))
-  },
-  credentials: true,
+// Enable CORS - allow all origins for demo (da restringere in produzione finale)
+app.use(cors({
+  origin: '*',
+  credentials: false,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization']
-}
-
-app.use(cors(corsOptions))
+}))
 app.use(express.json())
 
 // Health check endpoint
