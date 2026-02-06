@@ -4,6 +4,9 @@
   "type": "module",
   "private": true,
   "description": "Milano Urban Data Platform - Dashboard + Data Pipeline",
+  "engines": {
+    "node": "22.x"
+  },
   "scripts": {
     "dev": "cd website && npm run dev:full",
     "dev:frontend": "cd website && npm run dev",
