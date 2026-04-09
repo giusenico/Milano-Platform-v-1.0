@@ -52,13 +52,6 @@ export const useMilanoStats = () => {
   const [error, setError] = useState(null)
 
   const fetchData = useCallback(async () => {
-    if (!nil && isStaticApiMode) {
-      setData(null)
-      setError(null)
-      setIsLoading(false)
-      return
-    }
-
     setIsLoading(true)
     setError(null)
 
@@ -416,6 +409,13 @@ export const usePopolazioneQuartiere = (nil = null) => {
   const [error, setError] = useState(null)
 
   const fetchData = useCallback(async () => {
+    if (!nil && isStaticApiMode) {
+      setData(null)
+      setError(null)
+      setIsLoading(false)
+      return
+    }
+
     setIsLoading(true)
     setError(null)
 
