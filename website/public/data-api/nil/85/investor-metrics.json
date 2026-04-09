@@ -1,0 +1,41 @@
+{
+  "nilId": 85,
+  "nil": "PARCO DELLE ABBAZIE",
+  "investorScore": 36.7,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 28,
+    "verde": 35,
+    "popolazione": 81,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 434,
+      "media": 15753,
+      "delta": -15319.238636363636
+    },
+    "densita": {
+      "nil": 31.600774732234765,
+      "media": 8881.290415418553,
+      "deltaPercent": -99.6
+    },
+    "stranieri": {
+      "nil": 37.55760368663594,
+      "media": 21.360484986780587,
+      "delta": 16.2
+    },
+    "verde": {
+      "nil": 8.073774442544629,
+      "media": 8.1171861884842,
+      "deltaPercent": -0.5
+    },
+    "qualitaVita": {
+      "nil": 44.13612994782986,
+      "media": 39.6877862711082,
+      "deltaPercent": 11.2
+    }
+  }
+}

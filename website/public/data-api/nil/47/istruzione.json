@@ -1,0 +1,33 @@
+{
+  "nilId": 47,
+  "nilName": "CANTALUPA",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 46,
+      "percentuale": 10.8
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 105,
+      "percentuale": 24.7
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 157,
+      "percentuale": 36.9
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 81,
+      "percentuale": 19.1
+    }
+  ],
+  "totale": 425,
+  "pctLaureati": 19.1,
+  "anno": 2011
+}

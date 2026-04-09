@@ -1,0 +1,41 @@
+{
+  "nilId": 66,
+  "nil": "QT 8",
+  "investorScore": 51.5,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 2,
+    "verde": 2,
+    "popolazione": 67,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 4051,
+      "media": 15753,
+      "delta": -11702.238636363636
+    },
+    "densita": {
+      "nil": 3954.515155530425,
+      "media": 8881.290415418553,
+      "deltaPercent": -55.5
+    },
+    "stranieri": {
+      "nil": 11.404591458899036,
+      "media": 21.360484986780587,
+      "delta": -10
+    },
+    "verde": {
+      "nil": 25.73134176912976,
+      "media": 8.1171861884842,
+      "deltaPercent": 217
+    },
+    "qualitaVita": {
+      "nil": 65.18930573367395,
+      "media": 39.6877862711082,
+      "deltaPercent": 64.3
+    }
+  }
+}

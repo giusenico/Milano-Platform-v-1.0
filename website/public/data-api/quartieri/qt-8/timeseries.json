@@ -1,0 +1,110 @@
+{
+  "quartiere": "IPPODROMO, CAPRILLI, MONTE STELLA",
+  "quartiereId": "ippodromo-monte-stella",
+  "data": [
+    {
+      "semestre": "2019_1",
+      "anno": 2019,
+      "periodo": "H1",
+      "label": "2019 H1",
+      "prezzoAcquisto": 2038,
+      "prezzoLocazione": 8.16
+    },
+    {
+      "semestre": "2019_2",
+      "anno": 2019,
+      "periodo": "H2",
+      "label": "2019 H2",
+      "prezzoAcquisto": 2052,
+      "prezzoLocazione": 8.27
+    },
+    {
+      "semestre": "2020_1",
+      "anno": 2020,
+      "periodo": "H1",
+      "label": "2020 H1",
+      "prezzoAcquisto": 2052,
+      "prezzoLocazione": 8.27
+    },
+    {
+      "semestre": "2020_2",
+      "anno": 2020,
+      "periodo": "H2",
+      "label": "2020 H2",
+      "prezzoAcquisto": 2048,
+      "prezzoLocazione": 8.3
+    },
+    {
+      "semestre": "2021_1",
+      "anno": 2021,
+      "periodo": "H1",
+      "label": "2021 H1",
+      "prezzoAcquisto": 2055,
+      "prezzoLocazione": 8.31
+    },
+    {
+      "semestre": "2021_2",
+      "anno": 2021,
+      "periodo": "H2",
+      "label": "2021 H2",
+      "prezzoAcquisto": 2095,
+      "prezzoLocazione": 8.37
+    },
+    {
+      "semestre": "2022_1",
+      "anno": 2022,
+      "periodo": "H1",
+      "label": "2022 H1",
+      "prezzoAcquisto": 2170,
+      "prezzoLocazione": 8.59
+    },
+    {
+      "semestre": "2022_2",
+      "anno": 2022,
+      "periodo": "H2",
+      "label": "2022 H2",
+      "prezzoAcquisto": 2168,
+      "prezzoLocazione": 8.59
+    },
+    {
+      "semestre": "2023_1",
+      "anno": 2023,
+      "periodo": "H1",
+      "label": "2023 H1",
+      "prezzoAcquisto": 2213,
+      "prezzoLocazione": 8.68
+    },
+    {
+      "semestre": "2023_2",
+      "anno": 2023,
+      "periodo": "H2",
+      "label": "2023 H2",
+      "prezzoAcquisto": 2295,
+      "prezzoLocazione": 8.94
+    },
+    {
+      "semestre": "2024_1",
+      "anno": 2024,
+      "periodo": "H1",
+      "label": "2024 H1",
+      "prezzoAcquisto": 2316,
+      "prezzoLocazione": 9.07
+    },
+    {
+      "semestre": "2024_2",
+      "anno": 2024,
+      "periodo": "H2",
+      "label": "2024 H2",
+      "prezzoAcquisto": 2498,
+      "prezzoLocazione": 9.5
+    },
+    {
+      "semestre": "2025_1",
+      "anno": 2025,
+      "periodo": "H1",
+      "label": "2025 H1",
+      "prezzoAcquisto": 2556,
+      "prezzoLocazione": 9.73
+    }
+  ]
+}

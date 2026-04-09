@@ -1,0 +1,33 @@
+{
+  "nilId": 55,
+  "nilName": "BAGGIO - Q.RE DEGLI OLMI - Q.RE VALSESIA",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 7479,
+      "percentuale": 26.7
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 8666,
+      "percentuale": 30.9
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 7916,
+      "percentuale": 28.2
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 2571,
+      "percentuale": 9.2
+    }
+  ],
+  "totale": 28028,
+  "pctLaureati": 9.2,
+  "anno": 2011
+}

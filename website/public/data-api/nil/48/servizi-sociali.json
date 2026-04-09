@@ -1,0 +1,24 @@
+{
+  "nilId": 48,
+  "nilName": "RONCHETTO SUL NAVIGLIO - Q.RE LODOVICO IL MORO",
+  "totaleServizi": 4,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 4
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 3
+    },
+    {
+      "fascia_utenza": "Adolescenti (11-18),Bambini (0-10)",
+      "count": 1
+    }
+  ],
+  "popolazione": 14516,
+  "serviziPer1000Abitanti": 0.28,
+  "qualitaCopertura": "Bassa"
+}

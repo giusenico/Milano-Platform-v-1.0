@@ -1,0 +1,33 @@
+{
+  "nilId": 32,
+  "nilName": "TRIULZO SUPERIORE",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 243,
+      "percentuale": 18.5
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 375,
+      "percentuale": 28.6
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 428,
+      "percentuale": 32.6
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 165,
+      "percentuale": 12.6
+    }
+  ],
+  "totale": 1312,
+  "pctLaureati": 12.6,
+  "anno": 2011
+}

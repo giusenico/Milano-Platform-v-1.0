@@ -1,0 +1,110 @@
+{
+  "quartiere": "BOVISA, BAUSAN, IMBONATI",
+  "quartiereId": "bovisa-imbonati",
+  "data": [
+    {
+      "semestre": "2019_1",
+      "anno": 2019,
+      "periodo": "H1",
+      "label": "2019 H1",
+      "prezzoAcquisto": 1654,
+      "prezzoLocazione": 6.68
+    },
+    {
+      "semestre": "2019_2",
+      "anno": 2019,
+      "periodo": "H2",
+      "label": "2019 H2",
+      "prezzoAcquisto": 1692,
+      "prezzoLocazione": 6.9
+    },
+    {
+      "semestre": "2020_1",
+      "anno": 2020,
+      "periodo": "H1",
+      "label": "2020 H1",
+      "prezzoAcquisto": 1696,
+      "prezzoLocazione": 7.04
+    },
+    {
+      "semestre": "2020_2",
+      "anno": 2020,
+      "periodo": "H2",
+      "label": "2020 H2",
+      "prezzoAcquisto": 1683,
+      "prezzoLocazione": 7.04
+    },
+    {
+      "semestre": "2021_1",
+      "anno": 2021,
+      "periodo": "H1",
+      "label": "2021 H1",
+      "prezzoAcquisto": 1677,
+      "prezzoLocazione": 7.08
+    },
+    {
+      "semestre": "2021_2",
+      "anno": 2021,
+      "periodo": "H2",
+      "label": "2021 H2",
+      "prezzoAcquisto": 1696,
+      "prezzoLocazione": 7.18
+    },
+    {
+      "semestre": "2022_1",
+      "anno": 2022,
+      "periodo": "H1",
+      "label": "2022 H1",
+      "prezzoAcquisto": 1696,
+      "prezzoLocazione": 7.18
+    },
+    {
+      "semestre": "2022_2",
+      "anno": 2022,
+      "periodo": "H2",
+      "label": "2022 H2",
+      "prezzoAcquisto": 1729,
+      "prezzoLocazione": 7.38
+    },
+    {
+      "semestre": "2023_1",
+      "anno": 2023,
+      "periodo": "H1",
+      "label": "2023 H1",
+      "prezzoAcquisto": 1904,
+      "prezzoLocazione": 8.3
+    },
+    {
+      "semestre": "2023_2",
+      "anno": 2023,
+      "periodo": "H2",
+      "label": "2023 H2",
+      "prezzoAcquisto": 2027,
+      "prezzoLocazione": 8.79
+    },
+    {
+      "semestre": "2024_1",
+      "anno": 2024,
+      "periodo": "H1",
+      "label": "2024 H1",
+      "prezzoAcquisto": 2104,
+      "prezzoLocazione": 9.14
+    },
+    {
+      "semestre": "2024_2",
+      "anno": 2024,
+      "periodo": "H2",
+      "label": "2024 H2",
+      "prezzoAcquisto": 2302,
+      "prezzoLocazione": 10.01
+    },
+    {
+      "semestre": "2025_1",
+      "anno": 2025,
+      "periodo": "H1",
+      "label": "2025 H1",
+      "prezzoAcquisto": 2305,
+      "prezzoLocazione": 10.55
+    }
+  ]
+}

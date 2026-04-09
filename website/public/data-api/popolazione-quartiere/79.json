@@ -1,0 +1,206 @@
+{
+  "nil": "DERGANO",
+  "nilLabel": "DERGANO",
+  "idNil": 79,
+  "match": {
+    "matchType": "id",
+    "confidence": 1
+  },
+  "latestYear": 2021,
+  "timeSeries": [
+    {
+      "anno": 2007,
+      "nil": "Dergano",
+      "nil_label": "Dergano (79)",
+      "totale_famiglie": 9258
+    },
+    {
+      "anno": 2008,
+      "nil": "Dergano",
+      "nil_label": "Dergano (79)",
+      "totale_famiglie": 9349
+    },
+    {
+      "anno": 2009,
+      "nil": "Dergano",
+      "nil_label": "Dergano (79)",
+      "totale_famiglie": 9679
+    },
+    {
+      "anno": 2010,
+      "nil": "Dergano",
+      "nil_label": "Dergano (79)",
+      "totale_famiglie": 10054
+    },
+    {
+      "anno": 2011,
+      "nil": "Dergano",
+      "nil_label": "Dergano (79)",
+      "totale_famiglie": 10452
+    },
+    {
+      "anno": 2012,
+      "nil": "Dergano",
+      "nil_label": "Dergano (79)",
+      "totale_famiglie": 10812
+    },
+    {
+      "anno": 2013,
+      "nil": "Dergano",
+      "nil_label": "Dergano (79)",
+      "totale_famiglie": 10829
+    },
+    {
+      "anno": 2014,
+      "nil": "Dergano",
+      "nil_label": "Dergano (79)",
+      "totale_famiglie": 10861
+    },
+    {
+      "anno": 2015,
+      "nil": "Dergano",
+      "nil_label": "Dergano (79)",
+      "totale_famiglie": 11048
+    },
+    {
+      "anno": 2016,
+      "nil": "Dergano",
+      "nil_label": "Dergano (79)",
+      "totale_famiglie": 11107
+    },
+    {
+      "anno": 2017,
+      "nil": "Dergano",
+      "nil_label": "Dergano (79)",
+      "totale_famiglie": 11274
+    },
+    {
+      "anno": 2018,
+      "nil": "Dergano",
+      "nil_label": "Dergano (79)",
+      "totale_famiglie": 11410
+    },
+    {
+      "anno": 2019,
+      "nil": "Dergano",
+      "nil_label": "Dergano (79)",
+      "totale_famiglie": 11655
+    },
+    {
+      "anno": 2020,
+      "nil": "Dergano",
+      "nil_label": "Dergano (79)",
+      "totale_famiglie": 11717
+    },
+    {
+      "anno": 2021,
+      "nil": "Dergano",
+      "nil_label": "Dergano (79)",
+      "totale_famiglie": 11771
+    }
+  ],
+  "crescitaFamiglieYoY": 0.46,
+  "amenities": {
+    "pubblici_esercizi": 102,
+    "mercati": 0,
+    "farmacie": 5,
+    "scuole": 6,
+    "biblioteche": 0
+  },
+  "breakdown": {
+    "tipologie": [
+      {
+        "tipologia_familiare": "Single",
+        "totale": 5826
+      },
+      {
+        "tipologia_familiare": "Coppia sposata senza figli",
+        "totale": 1463
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con almeno un figlio minorenne",
+        "totale": 1239
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con figli tutti maggiorenni",
+        "totale": 806
+      },
+      {
+        "tipologia_familiare": "Monogenitore con figli tutti maggiorenni",
+        "totale": 643
+      },
+      {
+        "tipologia_familiare": "Monogenitore con almeno un figlio minorenne",
+        "totale": 538
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con almeno un figlio minorenne",
+        "totale": 501
+      },
+      {
+        "tipologia_familiare": "Coppia convivente senza figli",
+        "totale": 355
+      },
+      {
+        "tipologia_familiare": "Altre tipologie",
+        "totale": 326
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con figli tutti maggiorenni",
+        "totale": 74
+      }
+    ],
+    "classiEta": [
+      {
+        "classe_eta_capofamiglia": "Da 35 a 64 anni",
+        "totale": 6827
+      },
+      {
+        "classe_eta_capofamiglia": "Da 65 a 79 anni",
+        "totale": 1755
+      },
+      {
+        "classe_eta_capofamiglia": "Da 18 a 34 anni",
+        "totale": 1618
+      },
+      {
+        "classe_eta_capofamiglia": "80 anni e più",
+        "totale": 1571
+      }
+    ],
+    "cittadinanza": [
+      {
+        "cittadinanza": "Italia",
+        "totale": 8116
+      },
+      {
+        "cittadinanza": "Altri paesi",
+        "totale": 1314
+      },
+      {
+        "cittadinanza": "Cina",
+        "totale": 730
+      },
+      {
+        "cittadinanza": "Egitto",
+        "totale": 725
+      },
+      {
+        "cittadinanza": "Filippine",
+        "totale": 406
+      },
+      {
+        "cittadinanza": "Sri Lanka",
+        "totale": 173
+      },
+      {
+        "cittadinanza": "Ecuador",
+        "totale": 159
+      },
+      {
+        "cittadinanza": "Perù",
+        "totale": 148
+      }
+    ]
+  }
+}

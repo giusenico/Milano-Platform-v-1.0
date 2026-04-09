@@ -1,0 +1,41 @@
+{
+  "nilId": 86,
+  "nil": "PARCO DEI NAVIGLI",
+  "investorScore": 37.4,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 24,
+    "verde": 31,
+    "popolazione": 82,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 339,
+      "media": 15753,
+      "delta": -15414.238636363636
+    },
+    "densita": {
+      "nil": 93.56500693107932,
+      "media": 8881.290415418553,
+      "deltaPercent": -98.9
+    },
+    "stranieri": {
+      "nil": 23.59882005899705,
+      "media": 21.360484986780587,
+      "delta": 2.2
+    },
+    "verde": {
+      "nil": 8.530365983474985,
+      "media": 8.1171861884842,
+      "deltaPercent": 5.1
+    },
+    "qualitaVita": {
+      "nil": 44.85676656367103,
+      "media": 39.6877862711082,
+      "deltaPercent": 13
+    }
+  }
+}

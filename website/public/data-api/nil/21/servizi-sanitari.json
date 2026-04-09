@@ -1,0 +1,71 @@
+{
+  "nilId": 21,
+  "nilName": "BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE",
+  "farmacie": {
+    "totale": 28,
+    "lista": [
+      {
+        "descrizione_farmacia": "AMBROSIANA SNC DEL DR. SLAVIERO GIOVANNI & C.",
+        "indirizzo": "VIALE REGINA GIOVANNA, 42",
+        "cap": "20129"
+      },
+      {
+        "descrizione_farmacia": "COOP.FARM.PLINIO",
+        "indirizzo": "VIA PLINIO, 1",
+        "cap": "20129"
+      },
+      {
+        "descrizione_farmacia": "AMBRECK SRL",
+        "indirizzo": "VIA ANTONIO STRADIVARI, 1",
+        "cap": "20131"
+      },
+      {
+        "descrizione_farmacia": "ANTICA FARMACIA DIANA",
+        "indirizzo": "PIAZZA GUGLIELMO OBERDAN, 4",
+        "cap": "20129"
+      },
+      {
+        "descrizione_farmacia": "INTERNAZIONALE",
+        "indirizzo": "VIA CARLO MATTEUCCI, 4",
+        "cap": "20129"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 48",
+        "indirizzo": "VIALE ABRUZZI, 4",
+        "cap": "20131"
+      },
+      {
+        "descrizione_farmacia": "SANSOVINO SNC DELLA DOTT.SSA SANSONE FEDERICA & C.",
+        "indirizzo": "VIA SANSOVINO, 1",
+        "cap": "20133"
+      },
+      {
+        "descrizione_farmacia": "CALO'",
+        "indirizzo": "PIAZZALE GABRIO PIOLA, 1",
+        "cap": "20131"
+      },
+      {
+        "descrizione_farmacia": "DEL LAZZARETTO DR. MOIA FABIO",
+        "indirizzo": "VIA PANFILO CASTALDI, 29",
+        "cap": "20124"
+      },
+      {
+        "descrizione_farmacia": "PLEBISCITI SAS DEL DOTTOR DANESI PIETRO & C.",
+        "indirizzo": "CORSO PLEBISCITI, 7",
+        "cap": "20129"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 35,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 62093,
+  "rapporti": {
+    "abitantiPerFarmacia": 2218,
+    "abitantiPerMedico": 1774
+  },
+  "scoreHealthcare": 70,
+  "qualitaServizio": "Buono"
+}

@@ -1,0 +1,45 @@
+{
+  "nilId": 84,
+  "nilName": "PARCO NORD",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 30,
+      "percentuale": 40,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 25,
+      "percentuale": 33.3,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 12,
+      "percentuale": 16,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 4,
+      "percentuale": 5.3,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 4,
+      "percentuale": 5.3,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 75,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 49.3,
+  "anno": 2011
+}

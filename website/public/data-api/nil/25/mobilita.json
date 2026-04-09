@@ -1,0 +1,45 @@
+{
+  "nilId": 25,
+  "nilName": "CORSICA",
+  "data": [
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 3362,
+      "percentuale": 33.8,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 2664,
+      "percentuale": 26.8,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 2579,
+      "percentuale": 25.9,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 831,
+      "percentuale": 8.4,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 516,
+      "percentuale": 5.2,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 9952,
+  "mezzo_prevalente": "Mezzi pubblici",
+  "pctSostenibile": 59.7,
+  "anno": 2011
+}

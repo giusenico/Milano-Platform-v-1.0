@@ -1,0 +1,41 @@
+{
+  "nilId": 45,
+  "nil": "MONCUCCO - SAN CRISTOFORO",
+  "investorScore": 34.9,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 49,
+    "verde": 62,
+    "popolazione": 48,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 13744,
+      "media": 15753,
+      "delta": -2009.238636363636
+    },
+    "densita": {
+      "nil": 8610.914928429393,
+      "media": 8881.290415418553,
+      "deltaPercent": -3
+    },
+    "stranieri": {
+      "nil": 21.42025611175786,
+      "media": 21.360484986780587,
+      "delta": 0.1
+    },
+    "verde": {
+      "nil": 4.590713316363302,
+      "media": 8.1171861884842,
+      "deltaPercent": -43.4
+    },
+    "qualitaVita": {
+      "nil": 39.66475880909179,
+      "media": 39.6877862711082,
+      "deltaPercent": -0.1
+    }
+  }
+}

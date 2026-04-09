@@ -1,0 +1,110 @@
+{
+  "quartiere": "PARCO LAMBRO, FELTRE, UDINE",
+  "quartiereId": "parco-lambro",
+  "data": [
+    {
+      "semestre": "2019_1",
+      "anno": 2019,
+      "periodo": "H1",
+      "label": "2019 H1",
+      "prezzoAcquisto": 1615,
+      "prezzoLocazione": 6.92
+    },
+    {
+      "semestre": "2019_2",
+      "anno": 2019,
+      "periodo": "H2",
+      "label": "2019 H2",
+      "prezzoAcquisto": 1644,
+      "prezzoLocazione": 6.98
+    },
+    {
+      "semestre": "2020_1",
+      "anno": 2020,
+      "periodo": "H1",
+      "label": "2020 H1",
+      "prezzoAcquisto": 1646,
+      "prezzoLocazione": 6.95
+    },
+    {
+      "semestre": "2020_2",
+      "anno": 2020,
+      "periodo": "H2",
+      "label": "2020 H2",
+      "prezzoAcquisto": 1640,
+      "prezzoLocazione": 6.81
+    },
+    {
+      "semestre": "2021_1",
+      "anno": 2021,
+      "periodo": "H1",
+      "label": "2021 H1",
+      "prezzoAcquisto": 1667,
+      "prezzoLocazione": 6.89
+    },
+    {
+      "semestre": "2021_2",
+      "anno": 2021,
+      "periodo": "H2",
+      "label": "2021 H2",
+      "prezzoAcquisto": 1669,
+      "prezzoLocazione": 6.98
+    },
+    {
+      "semestre": "2022_1",
+      "anno": 2022,
+      "periodo": "H1",
+      "label": "2022 H1",
+      "prezzoAcquisto": 1767,
+      "prezzoLocazione": 7.33
+    },
+    {
+      "semestre": "2022_2",
+      "anno": 2022,
+      "periodo": "H2",
+      "label": "2022 H2",
+      "prezzoAcquisto": 1821,
+      "prezzoLocazione": 7.77
+    },
+    {
+      "semestre": "2023_1",
+      "anno": 2023,
+      "periodo": "H1",
+      "label": "2023 H1",
+      "prezzoAcquisto": 1890,
+      "prezzoLocazione": 8.33
+    },
+    {
+      "semestre": "2023_2",
+      "anno": 2023,
+      "periodo": "H2",
+      "label": "2023 H2",
+      "prezzoAcquisto": 1998,
+      "prezzoLocazione": 8.78
+    },
+    {
+      "semestre": "2024_1",
+      "anno": 2024,
+      "periodo": "H1",
+      "label": "2024 H1",
+      "prezzoAcquisto": 2010,
+      "prezzoLocazione": 8.92
+    },
+    {
+      "semestre": "2024_2",
+      "anno": 2024,
+      "periodo": "H2",
+      "label": "2024 H2",
+      "prezzoAcquisto": 2248,
+      "prezzoLocazione": 9.77
+    },
+    {
+      "semestre": "2025_1",
+      "anno": 2025,
+      "periodo": "H1",
+      "label": "2025 H1",
+      "prezzoAcquisto": 2255,
+      "prezzoLocazione": 10.13
+    }
+  ]
+}

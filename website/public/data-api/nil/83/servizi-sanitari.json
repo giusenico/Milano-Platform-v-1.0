@@ -1,0 +1,31 @@
+{
+  "nilId": 83,
+  "nilName": "BRUZZANO",
+  "farmacie": {
+    "totale": 2,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 33",
+        "indirizzo": "VIA LUIGI ANGELONI, 20",
+        "cap": "20161"
+      },
+      {
+        "descrizione_farmacia": "CASARSA SRL",
+        "indirizzo": "VIA CASARSA, 13",
+        "cap": "20161"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 3,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 12635,
+  "rapporti": {
+    "abitantiPerFarmacia": 6318,
+    "abitantiPerMedico": 4212
+  },
+  "scoreHealthcare": 40,
+  "qualitaServizio": "Migliorabile"
+}

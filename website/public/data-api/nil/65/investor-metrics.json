@@ -1,0 +1,41 @@
+{
+  "nilId": 65,
+  "nil": "Q.RE GALLARATESE - Q.RE SAN LEONARDO - LAMPUGNANO",
+  "investorScore": 38.9,
+  "riskLevel": "Alto",
+  "riskColor": "#ef4444",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 10,
+    "verde": 17,
+    "popolazione": 9,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 32425,
+      "media": 15753,
+      "delta": 16671.761363636364
+    },
+    "densita": {
+      "nil": 8323.323711093084,
+      "media": 8881.290415418553,
+      "deltaPercent": -6.3
+    },
+    "stranieri": {
+      "nil": 14.084811102544334,
+      "media": 21.360484986780587,
+      "delta": -7.3
+    },
+    "verde": {
+      "nil": 11.495506219260719,
+      "media": 8.1171861884842,
+      "deltaPercent": 41.6
+    },
+    "qualitaVita": {
+      "nil": 50.72783593426974,
+      "media": 39.6877862711082,
+      "deltaPercent": 27.8
+    }
+  }
+}

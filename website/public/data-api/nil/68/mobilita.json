@@ -1,0 +1,45 @@
+{
+  "nilId": 68,
+  "nilName": "PAGANO",
+  "data": [
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 3023,
+      "percentuale": 33.2,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 2546,
+      "percentuale": 27.9,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 1966,
+      "percentuale": 21.6,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 1053,
+      "percentuale": 11.5,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 530,
+      "percentuale": 5.8,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 9118,
+  "mezzo_prevalente": "A piedi o in bicicletta",
+  "pctSostenibile": 54.8,
+  "anno": 2011
+}

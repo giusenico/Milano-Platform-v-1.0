@@ -1,0 +1,47 @@
+{
+  "nilId": 47,
+  "nilName": "CANTALUPA",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 60,
+      "colore": "#3b82f6",
+      "percentuale": 32.8
+    },
+    {
+      "residenti": "2",
+      "valore": 51,
+      "colore": "#8b5cf6",
+      "percentuale": 27.9
+    },
+    {
+      "residenti": "3",
+      "valore": 36,
+      "colore": "#ec4899",
+      "percentuale": 19.7
+    },
+    {
+      "residenti": "4",
+      "valore": 29,
+      "colore": "#f59e0b",
+      "percentuale": 15.8
+    },
+    {
+      "residenti": "5+",
+      "valore": 7,
+      "colore": "#22c55e",
+      "percentuale": 3.8
+    }
+  ],
+  "totaleAbitazioni": 183,
+  "famiglieSingole": 178,
+  "famiglieCoabitanti": 4,
+  "nuoviEdifici": {
+    "fabbricati": 0,
+    "abitazioni": 0,
+    "superficieMq": 0,
+    "volumeMc": 0,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

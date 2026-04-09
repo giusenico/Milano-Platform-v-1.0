@@ -1,0 +1,45 @@
+{
+  "nilId": 12,
+  "nilName": "MACIACHINI - MAGGIOLINA",
+  "data": [
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 4722,
+      "percentuale": 35.2,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 3839,
+      "percentuale": 28.6,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 3222,
+      "percentuale": 24,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 944,
+      "percentuale": 7,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 698,
+      "percentuale": 5.2,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 13425,
+  "mezzo_prevalente": "Mezzi pubblici",
+  "pctSostenibile": 59.2,
+  "anno": 2011
+}

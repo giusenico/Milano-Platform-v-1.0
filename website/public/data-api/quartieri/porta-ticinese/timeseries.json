@@ -1,0 +1,110 @@
+{
+  "quartiere": "PORTA TICINESE, PORTA GENOVA, VIA SAN VITTORE",
+  "quartiereId": "porta-ticinese",
+  "data": [
+    {
+      "semestre": "2019_1",
+      "anno": 2019,
+      "periodo": "H1",
+      "label": "2019 H1",
+      "prezzoAcquisto": 3623,
+      "prezzoLocazione": 13.88
+    },
+    {
+      "semestre": "2019_2",
+      "anno": 2019,
+      "periodo": "H2",
+      "label": "2019 H2",
+      "prezzoAcquisto": 3680,
+      "prezzoLocazione": 14.25
+    },
+    {
+      "semestre": "2020_1",
+      "anno": 2020,
+      "periodo": "H1",
+      "label": "2020 H1",
+      "prezzoAcquisto": 3659,
+      "prezzoLocazione": 14.53
+    },
+    {
+      "semestre": "2020_2",
+      "anno": 2020,
+      "periodo": "H2",
+      "label": "2020 H2",
+      "prezzoAcquisto": 3641,
+      "prezzoLocazione": 14.5
+    },
+    {
+      "semestre": "2021_1",
+      "anno": 2021,
+      "periodo": "H1",
+      "label": "2021 H1",
+      "prezzoAcquisto": 3652,
+      "prezzoLocazione": 14.5
+    },
+    {
+      "semestre": "2021_2",
+      "anno": 2021,
+      "periodo": "H2",
+      "label": "2021 H2",
+      "prezzoAcquisto": 3670,
+      "prezzoLocazione": 14.59
+    },
+    {
+      "semestre": "2022_1",
+      "anno": 2022,
+      "periodo": "H1",
+      "label": "2022 H1",
+      "prezzoAcquisto": 3784,
+      "prezzoLocazione": 14.96
+    },
+    {
+      "semestre": "2022_2",
+      "anno": 2022,
+      "periodo": "H2",
+      "label": "2022 H2",
+      "prezzoAcquisto": 3880,
+      "prezzoLocazione": 15.29
+    },
+    {
+      "semestre": "2023_1",
+      "anno": 2023,
+      "periodo": "H1",
+      "label": "2023 H1",
+      "prezzoAcquisto": 3936,
+      "prezzoLocazione": 15.86
+    },
+    {
+      "semestre": "2023_2",
+      "anno": 2023,
+      "periodo": "H2",
+      "label": "2023 H2",
+      "prezzoAcquisto": 4050,
+      "prezzoLocazione": 16.45
+    },
+    {
+      "semestre": "2024_1",
+      "anno": 2024,
+      "periodo": "H1",
+      "label": "2024 H1",
+      "prezzoAcquisto": 4136,
+      "prezzoLocazione": 16.85
+    },
+    {
+      "semestre": "2024_2",
+      "anno": 2024,
+      "periodo": "H2",
+      "label": "2024 H2",
+      "prezzoAcquisto": 4178,
+      "prezzoLocazione": 18.52
+    },
+    {
+      "semestre": "2025_1",
+      "anno": 2025,
+      "periodo": "H1",
+      "label": "2025 H1",
+      "prezzoAcquisto": 4247,
+      "prezzoLocazione": 19.43
+    }
+  ]
+}

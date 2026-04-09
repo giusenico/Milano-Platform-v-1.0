@@ -1,0 +1,45 @@
+{
+  "nilId": 73,
+  "nilName": "CASCINA MERLATA",
+  "data": [
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 37,
+      "percentuale": 45.7,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 18,
+      "percentuale": 22.2,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 14,
+      "percentuale": 17.3,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 11,
+      "percentuale": 13.6,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 1,
+      "percentuale": 1.2,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 81,
+  "mezzo_prevalente": "Non disponibile",
+  "pctSostenibile": 30.9,
+  "anno": 2011
+}

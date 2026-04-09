@@ -1,0 +1,26 @@
+{
+  "nilId": 36,
+  "nilName": "SCALO ROMANA",
+  "farmacie": {
+    "totale": 1,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 60",
+        "indirizzo": "VIA MARCO D'AGRATE, 8",
+        "cap": "20139"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 0,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 12191,
+  "rapporti": {
+    "abitantiPerFarmacia": 12191,
+    "abitantiPerMedico": null
+  },
+  "scoreHealthcare": 20,
+  "qualitaServizio": "Migliorabile"
+}

@@ -1,0 +1,47 @@
+{
+  "nilId": 77,
+  "nilName": "BOVISA",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 2695,
+      "colore": "#3b82f6",
+      "percentuale": 47.4
+    },
+    {
+      "residenti": "2",
+      "valore": 1405,
+      "colore": "#8b5cf6",
+      "percentuale": 24.7
+    },
+    {
+      "residenti": "3",
+      "valore": 873,
+      "colore": "#ec4899",
+      "percentuale": 15.4
+    },
+    {
+      "residenti": "4",
+      "valore": 547,
+      "colore": "#f59e0b",
+      "percentuale": 9.6
+    },
+    {
+      "residenti": "5+",
+      "valore": 164,
+      "colore": "#22c55e",
+      "percentuale": 2.9
+    }
+  ],
+  "totaleAbitazioni": 5684,
+  "famiglieSingole": 5567,
+  "famiglieCoabitanti": 117,
+  "nuoviEdifici": {
+    "fabbricati": 9,
+    "abitazioni": 1213,
+    "superficieMq": 57568,
+    "volumeMc": 373295,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

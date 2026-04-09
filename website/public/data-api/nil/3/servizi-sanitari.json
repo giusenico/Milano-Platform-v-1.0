@@ -1,0 +1,20 @@
+{
+  "nilId": 3,
+  "nilName": "GIARDINI P.TA VENEZIA",
+  "farmacie": {
+    "totale": 0,
+    "lista": []
+  },
+  "medici": {
+    "totale": 0,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 42,
+  "rapporti": {
+    "abitantiPerFarmacia": null,
+    "abitantiPerMedico": null
+  },
+  "scoreHealthcare": 0,
+  "qualitaServizio": "Migliorabile"
+}

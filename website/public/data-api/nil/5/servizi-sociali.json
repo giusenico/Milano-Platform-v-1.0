@@ -1,0 +1,36 @@
+{
+  "nilId": 5,
+  "nilName": "PORTA VIGENTINA - PORTA LODOVICA",
+  "totaleServizi": 5,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 3
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 1
+    },
+    {
+      "area_attivita": "Attività ludiche e ricreative",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Anziani",
+      "count": 3
+    },
+    {
+      "fascia_utenza": "Giovani,Adulti,Migranti,Anziani,Persone con disabilità",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Adulti",
+      "count": 1
+    }
+  ],
+  "popolazione": 13519,
+  "serviziPer1000Abitanti": 0.37,
+  "qualitaCopertura": "Bassa"
+}

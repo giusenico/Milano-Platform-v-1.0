@@ -1,0 +1,47 @@
+{
+  "nilId": 31,
+  "nilName": "MONLUE' - PONTE LAMBRO",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 615,
+      "colore": "#3b82f6",
+      "percentuale": 35.4
+    },
+    {
+      "residenti": "2",
+      "valore": 471,
+      "colore": "#8b5cf6",
+      "percentuale": 27.1
+    },
+    {
+      "residenti": "3",
+      "valore": 276,
+      "colore": "#ec4899",
+      "percentuale": 15.9
+    },
+    {
+      "residenti": "4",
+      "valore": 239,
+      "colore": "#f59e0b",
+      "percentuale": 13.8
+    },
+    {
+      "residenti": "5+",
+      "valore": 136,
+      "colore": "#22c55e",
+      "percentuale": 7.8
+    }
+  ],
+  "totaleAbitazioni": 1737,
+  "famiglieSingole": 1695,
+  "famiglieCoabitanti": 42,
+  "nuoviEdifici": {
+    "fabbricati": 2,
+    "abitazioni": 42,
+    "superficieMq": 1684,
+    "volumeMc": 7926,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

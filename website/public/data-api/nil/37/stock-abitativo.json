@@ -1,0 +1,47 @@
+{
+  "nilId": 37,
+  "nilName": "MORIVIONE",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 1308,
+      "colore": "#3b82f6",
+      "percentuale": 40.8
+    },
+    {
+      "residenti": "2",
+      "valore": 912,
+      "colore": "#8b5cf6",
+      "percentuale": 28.4
+    },
+    {
+      "residenti": "3",
+      "valore": 577,
+      "colore": "#ec4899",
+      "percentuale": 18
+    },
+    {
+      "residenti": "4",
+      "valore": 328,
+      "colore": "#f59e0b",
+      "percentuale": 10.2
+    },
+    {
+      "residenti": "5+",
+      "valore": 83,
+      "colore": "#22c55e",
+      "percentuale": 2.6
+    }
+  ],
+  "totaleAbitazioni": 3208,
+  "famiglieSingole": 3167,
+  "famiglieCoabitanti": 42,
+  "nuoviEdifici": {
+    "fabbricati": 3,
+    "abitazioni": 147,
+    "superficieMq": 7825,
+    "volumeMc": 53696,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

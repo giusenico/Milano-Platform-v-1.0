@@ -1,0 +1,33 @@
+{
+  "nilId": 43,
+  "nilName": "TIBALDI",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 1868,
+      "percentuale": 17.5
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 2583,
+      "percentuale": 24.2
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 3298,
+      "percentuale": 30.9
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 2426,
+      "percentuale": 22.7
+    }
+  ],
+  "totale": 10681,
+  "pctLaureati": 22.7,
+  "anno": 2011
+}

@@ -1,0 +1,32 @@
+{
+  "nilId": 13,
+  "nilName": "GRECO - SEGNANO",
+  "totaleServizi": 4,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 4
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Migranti",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Anziani",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Adulti",
+      "count": 1
+    }
+  ],
+  "popolazione": 16058,
+  "serviziPer1000Abitanti": 0.25,
+  "qualitaCopertura": "Bassa"
+}

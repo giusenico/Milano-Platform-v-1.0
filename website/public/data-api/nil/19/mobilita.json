@@ -1,0 +1,45 @@
+{
+  "nilId": 19,
+  "nilName": "PADOVA - TURRO - CRESCENZAGO",
+  "data": [
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 7904,
+      "percentuale": 45.8,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 4326,
+      "percentuale": 25.1,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 3432,
+      "percentuale": 19.9,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 839,
+      "percentuale": 4.9,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 767,
+      "percentuale": 4.4,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 17268,
+  "mezzo_prevalente": "Mezzi pubblici",
+  "pctSostenibile": 65.7,
+  "anno": 2011
+}

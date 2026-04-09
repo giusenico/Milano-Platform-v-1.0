@@ -1,0 +1,110 @@
+{
+  "quartiere": "CENTRO STORICO -UNIVERSITA STATALE, SAN LORENZO",
+  "quartiereId": "centro-universita",
+  "data": [
+    {
+      "semestre": "2019_1",
+      "anno": 2019,
+      "periodo": "H1",
+      "label": "2019 H1",
+      "prezzoAcquisto": 5150,
+      "prezzoLocazione": 20.08
+    },
+    {
+      "semestre": "2019_2",
+      "anno": 2019,
+      "periodo": "H2",
+      "label": "2019 H2",
+      "prezzoAcquisto": 5154,
+      "prezzoLocazione": 20.14
+    },
+    {
+      "semestre": "2020_1",
+      "anno": 2020,
+      "periodo": "H1",
+      "label": "2020 H1",
+      "prezzoAcquisto": 5213,
+      "prezzoLocazione": 20.45
+    },
+    {
+      "semestre": "2020_2",
+      "anno": 2020,
+      "periodo": "H2",
+      "label": "2020 H2",
+      "prezzoAcquisto": 5204,
+      "prezzoLocazione": 20.34
+    },
+    {
+      "semestre": "2021_1",
+      "anno": 2021,
+      "periodo": "H1",
+      "label": "2021 H1",
+      "prezzoAcquisto": 5192,
+      "prezzoLocazione": 20.23
+    },
+    {
+      "semestre": "2021_2",
+      "anno": 2021,
+      "periodo": "H2",
+      "label": "2021 H2",
+      "prezzoAcquisto": 5175,
+      "prezzoLocazione": 20.45
+    },
+    {
+      "semestre": "2022_1",
+      "anno": 2022,
+      "periodo": "H1",
+      "label": "2022 H1",
+      "prezzoAcquisto": 5342,
+      "prezzoLocazione": 21.01
+    },
+    {
+      "semestre": "2022_2",
+      "anno": 2022,
+      "periodo": "H2",
+      "label": "2022 H2",
+      "prezzoAcquisto": 5413,
+      "prezzoLocazione": 21.1
+    },
+    {
+      "semestre": "2023_1",
+      "anno": 2023,
+      "periodo": "H1",
+      "label": "2023 H1",
+      "prezzoAcquisto": 5388,
+      "prezzoLocazione": 21.29
+    },
+    {
+      "semestre": "2023_2",
+      "anno": 2023,
+      "periodo": "H2",
+      "label": "2023 H2",
+      "prezzoAcquisto": 5488,
+      "prezzoLocazione": 21.6
+    },
+    {
+      "semestre": "2024_1",
+      "anno": 2024,
+      "periodo": "H1",
+      "label": "2024 H1",
+      "prezzoAcquisto": 5513,
+      "prezzoLocazione": 22.17
+    },
+    {
+      "semestre": "2024_2",
+      "anno": 2024,
+      "periodo": "H2",
+      "label": "2024 H2",
+      "prezzoAcquisto": 6209,
+      "prezzoLocazione": 24.7
+    },
+    {
+      "semestre": "2025_1",
+      "anno": 2025,
+      "periodo": "H1",
+      "label": "2025 H1",
+      "prezzoAcquisto": 6395,
+      "prezzoLocazione": 26.02
+    }
+  ]
+}

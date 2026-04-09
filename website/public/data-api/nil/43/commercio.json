@@ -1,0 +1,15 @@
+{
+  "nilId": 43,
+  "nilName": "TIBALDI",
+  "pubbliciEsercizi": 53,
+  "eserciziVicinato": 168,
+  "bottegheStoriche": 1,
+  "coworking": 2,
+  "grandeDistribuzione": 5,
+  "edicole": 4,
+  "totaleCommercio": 226,
+  "densitaCommerciale": 287.5,
+  "commercioPer1000Ab": 19.7,
+  "scoreVitalita": 100,
+  "livelloVitalita": "Alto"
+}

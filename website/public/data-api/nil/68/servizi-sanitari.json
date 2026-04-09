@@ -1,0 +1,51 @@
+{
+  "nilId": 68,
+  "nilName": "PAGANO",
+  "farmacie": {
+    "totale": 6,
+    "lista": [
+      {
+        "descrizione_farmacia": "SEMPIONE DI GHEZA & C. SNC",
+        "indirizzo": "CORSO SEMPIONE, 5",
+        "cap": "20145"
+      },
+      {
+        "descrizione_farmacia": "CASSIODORO SRL",
+        "indirizzo": "VIALE CASSIODORO, 12",
+        "cap": "20145"
+      },
+      {
+        "descrizione_farmacia": "TOMMASEO SRL",
+        "indirizzo": "VIA LORENZO MASCHERONI, 16",
+        "cap": "20145"
+      },
+      {
+        "descrizione_farmacia": "ORIO SNC",
+        "indirizzo": "PIAZZA 6 FEBBRAIO, 16",
+        "cap": "20145"
+      },
+      {
+        "descrizione_farmacia": "LEGNANI SRL",
+        "indirizzo": "VIA GIOVANNI RASORI, 2",
+        "cap": "20145"
+      },
+      {
+        "descrizione_farmacia": "CORSO VERCELLI",
+        "indirizzo": "VIA FRANCESCO CHERUBINI, 2",
+        "cap": "20145"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 4,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 17745,
+  "rapporti": {
+    "abitantiPerFarmacia": 2958,
+    "abitantiPerMedico": 4436
+  },
+  "scoreHealthcare": 70,
+  "qualitaServizio": "Buono"
+}

@@ -1,0 +1,41 @@
+{
+  "nilId": 36,
+  "nil": "SCALO ROMANA",
+  "investorScore": 30.1,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 65,
+    "verde": 64,
+    "popolazione": 52,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 12191,
+      "media": 15753,
+      "delta": -3562.238636363636
+    },
+    "densita": {
+      "nil": 7019.680080991214,
+      "media": 8881.290415418553,
+      "deltaPercent": -21
+    },
+    "stranieri": {
+      "nil": 33.237634320400296,
+      "media": 21.360484986780587,
+      "delta": 11.9
+    },
+    "verde": {
+      "nil": 4.460338029260867,
+      "media": 8.1171861884842,
+      "deltaPercent": -45.1
+    },
+    "qualitaVita": {
+      "nil": 35.19835029317818,
+      "media": 39.6877862711082,
+      "deltaPercent": -11.3
+    }
+  }
+}

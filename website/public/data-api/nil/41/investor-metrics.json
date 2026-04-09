@@ -1,0 +1,41 @@
+{
+  "nilId": 41,
+  "nil": "GRATOSOGLIO - Q.RE MISSAGLIA - Q.RE TERRAZZE",
+  "investorScore": 27.2,
+  "riskLevel": "Alto",
+  "riskColor": "#ef4444",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 38,
+    "verde": 27,
+    "popolazione": 31,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 18398,
+      "media": 15753,
+      "delta": 2644.761363636364
+    },
+    "densita": {
+      "nil": 5547.501990704596,
+      "media": 8881.290415418553,
+      "deltaPercent": -37.5
+    },
+    "stranieri": {
+      "nil": 17.59430372866616,
+      "media": 21.360484986780587,
+      "delta": -3.8
+    },
+    "verde": {
+      "nil": 9.52975854135044,
+      "media": 8.1171861884842,
+      "deltaPercent": 17.4
+    },
+    "qualitaVita": {
+      "nil": 41.2785454564334,
+      "media": 39.6877862711082,
+      "deltaPercent": 4
+    }
+  }
+}

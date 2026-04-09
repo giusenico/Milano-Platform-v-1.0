@@ -1,0 +1,33 @@
+{
+  "nilId": 88,
+  "nilName": "PARCO BOSCO IN CITTA'",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 158,
+      "percentuale": 28.3
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 170,
+      "percentuale": 30.5
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 128,
+      "percentuale": 22.9
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 51,
+      "percentuale": 9.1
+    }
+  ],
+  "totale": 558,
+  "pctLaureati": 9.1,
+  "anno": 2011
+}

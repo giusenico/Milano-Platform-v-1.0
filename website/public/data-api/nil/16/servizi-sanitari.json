@@ -1,0 +1,46 @@
+{
+  "nilId": 16,
+  "nilName": "GORLA - PRECOTTO",
+  "farmacie": {
+    "totale": 5,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 83",
+        "indirizzo": "VIALE MONZA, 226",
+        "cap": "20128"
+      },
+      {
+        "descrizione_farmacia": "FARAM SNC DI ALBERO DUE SRL (EX MONZA)",
+        "indirizzo": "PIAZZALE MARTESANA, 4",
+        "cap": "20127"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 12",
+        "indirizzo": "VIA PRIVATA IGLESIAS, 48",
+        "cap": "20128"
+      },
+      {
+        "descrizione_farmacia": "EUROPA SNC DEL DR.MARIO DE CONCA & C",
+        "indirizzo": "VIALE MONZA, 177",
+        "cap": "20126"
+      },
+      {
+        "descrizione_farmacia": "SANTO SPIRITO SNC & C.",
+        "indirizzo": "VIALE MONZA, 325",
+        "cap": "20126"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 12,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 29488,
+  "rapporti": {
+    "abitantiPerFarmacia": 5898,
+    "abitantiPerMedico": 2457
+  },
+  "scoreHealthcare": 40,
+  "qualitaServizio": "Migliorabile"
+}

@@ -1,0 +1,44 @@
+{
+  "nilId": 49,
+  "nilName": "GIAMBELLINO",
+  "totaleServizi": 18,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 12
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 6
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Anziani",
+      "count": 7
+    },
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 5
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18),Giovani",
+      "count": 3
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Anziani,Famiglie,Adulti,Persone con disabilità,Persone con disagio mentale",
+      "count": 1
+    },
+    {
+      "fascia_utenza": null,
+      "count": 1
+    }
+  ],
+  "popolazione": 30905,
+  "serviziPer1000Abitanti": 0.58,
+  "qualitaCopertura": "Bassa"
+}

@@ -1,0 +1,15 @@
+{
+  "nilId": 85,
+  "nilName": "PARCO DELLE ABBAZIE",
+  "pubbliciEsercizi": 2,
+  "eserciziVicinato": 23,
+  "bottegheStoriche": 0,
+  "coworking": 0,
+  "grandeDistribuzione": 0,
+  "edicole": 1,
+  "totaleCommercio": 25,
+  "densitaCommerciale": 1.8,
+  "commercioPer1000Ab": 57.6,
+  "scoreVitalita": 7.9,
+  "livelloVitalita": "Basso"
+}

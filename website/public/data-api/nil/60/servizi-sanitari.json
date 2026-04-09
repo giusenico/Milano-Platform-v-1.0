@@ -1,0 +1,41 @@
+{
+  "nilId": 60,
+  "nilName": "STADIO - IPPODROMI",
+  "farmacie": {
+    "totale": 4,
+    "lista": [
+      {
+        "descrizione_farmacia": "SANT'ANNA SNC  DELLA  DOTT.SSA CRISTINA BRAVI & DEL DOTT. MARIO UBEZIO",
+        "indirizzo": "VIA PIER ALESSANDRO PARAVIA, 73",
+        "cap": "20148"
+      },
+      {
+        "descrizione_farmacia": "SAN MATTEO SAS DELLA DR.SSA CASTAGNOLA LAURA ENRICA",
+        "indirizzo": "VIA MATTEO CIVITALI, 41",
+        "cap": "20148"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 20",
+        "indirizzo": "PIAZZA AXUM, 5",
+        "cap": "20151"
+      },
+      {
+        "descrizione_farmacia": "NOVARA SRL",
+        "indirizzo": "VIA NOVARA,90",
+        "cap": "20153"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 9,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 13031,
+  "rapporti": {
+    "abitantiPerFarmacia": 3258,
+    "abitantiPerMedico": 1448
+  },
+  "scoreHealthcare": 70,
+  "qualitaServizio": "Buono"
+}

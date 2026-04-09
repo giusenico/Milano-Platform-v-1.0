@@ -1,0 +1,41 @@
+{
+  "nilId": 31,
+  "nil": "MONLUE' - PONTE LAMBRO",
+  "investorScore": 39,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 13,
+    "verde": 38,
+    "popolazione": 64,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 5205,
+      "media": 15753,
+      "delta": -10548.238636363636
+    },
+    "densita": {
+      "nil": 1979.8269844473923,
+      "media": 8881.290415418553,
+      "deltaPercent": -77.7
+    },
+    "stranieri": {
+      "nil": 42.68972142170989,
+      "media": 21.360484986780587,
+      "delta": 21.3
+    },
+    "verde": {
+      "nil": 7.759154545962455,
+      "media": 8.1171861884842,
+      "deltaPercent": -4.4
+    },
+    "qualitaVita": {
+      "nil": 48.682336974019805,
+      "media": 39.6877862711082,
+      "deltaPercent": 22.7
+    }
+  }
+}

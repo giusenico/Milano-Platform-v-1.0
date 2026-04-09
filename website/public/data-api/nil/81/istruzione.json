@@ -1,0 +1,33 @@
+{
+  "nilId": 81,
+  "nilName": "BOVISASCA",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 1558,
+      "percentuale": 23.3
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 1956,
+      "percentuale": 29.3
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 2153,
+      "percentuale": 32.2
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 723,
+      "percentuale": 10.8
+    }
+  ],
+  "totale": 6687,
+  "pctLaureati": 10.8,
+  "anno": 2011
+}

@@ -1,0 +1,33 @@
+{
+  "nilId": 35,
+  "nilName": "LODI - CORVETTO",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 6901,
+      "percentuale": 21.2
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 8930,
+      "percentuale": 27.5
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 10103,
+      "percentuale": 31.1
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 4991,
+      "percentuale": 15.4
+    }
+  ],
+  "totale": 32482,
+  "pctLaureati": 15.4,
+  "anno": 2011
+}

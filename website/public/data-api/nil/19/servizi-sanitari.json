@@ -1,0 +1,61 @@
+{
+  "nilId": 19,
+  "nilName": "PADOVA - TURRO - CRESCENZAGO",
+  "farmacie": {
+    "totale": 8,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 82",
+        "indirizzo": "VIA PIETRO TOSELLI, 2",
+        "cap": "20127"
+      },
+      {
+        "descrizione_farmacia": "FOGLIA FASOLIS SRL",
+        "indirizzo": "VIA BERNARDO CELENTANO, 1",
+        "cap": "20132"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 51",
+        "indirizzo": "VIA MARIO PIERI, 2",
+        "cap": "20127"
+      },
+      {
+        "descrizione_farmacia": "SOCIALE",
+        "indirizzo": "VIALE MONZA,126",
+        "cap": "20127"
+      },
+      {
+        "descrizione_farmacia": "TURRO",
+        "indirizzo": "VIA PADOVA, 109",
+        "cap": "20127"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 35",
+        "indirizzo": "VIA POLICARPO PETROCCHI, 21",
+        "cap": "20127"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 58",
+        "indirizzo": "VIA PALMANOVA, 65",
+        "cap": "20132"
+      },
+      {
+        "descrizione_farmacia": "PADOVA",
+        "indirizzo": "VIA PRIVATA ATENE, 2",
+        "cap": "20132"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 21,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 37409,
+  "rapporti": {
+    "abitantiPerFarmacia": 4676,
+    "abitantiPerMedico": 1781
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

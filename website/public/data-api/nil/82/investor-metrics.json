@@ -1,0 +1,41 @@
+{
+  "nilId": 82,
+  "nil": "COMASINA",
+  "investorScore": 35.5,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 52,
+    "verde": 14,
+    "popolazione": 57,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 9547,
+      "media": 15753,
+      "delta": -6206.238636363636
+    },
+    "densita": {
+      "nil": 10302.352283809516,
+      "media": 8881.290415418553,
+      "deltaPercent": 16
+    },
+    "stranieri": {
+      "nil": 39.02796690059704,
+      "media": 21.360484986780587,
+      "delta": 17.7
+    },
+    "verde": {
+      "nil": 12.471797392520651,
+      "media": 8.1171861884842,
+      "deltaPercent": 53.6
+    },
+    "qualitaVita": {
+      "nil": 38.67391313944372,
+      "media": 39.6877862711082,
+      "deltaPercent": -2.6
+    }
+  }
+}

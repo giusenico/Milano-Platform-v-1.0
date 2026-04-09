@@ -1,0 +1,80 @@
+{
+  "nilId": 48,
+  "nilName": "RONCHETTO SUL NAVIGLIO - Q.RE LODOVICO IL MORO",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 2694,
+      "percentuale": 33.9,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 2667,
+      "percentuale": 33.6,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 1271,
+      "percentuale": 16,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 518,
+      "percentuale": 6.5,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 300,
+      "percentuale": 3.8,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 257,
+      "percentuale": 3.2,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 168,
+      "percentuale": 2.1,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 33,
+      "percentuale": 0.4,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 26,
+      "percentuale": 0.3,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 13,
+      "percentuale": 0.2,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 7947,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 49.6,
+  "anno": 2011
+}

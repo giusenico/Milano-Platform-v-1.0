@@ -1,0 +1,41 @@
+{
+  "nilId": 17,
+  "nil": "ADRIANO",
+  "investorScore": 38.6,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Alto",
+  "ranking": {
+    "qualitaVita": 34,
+    "verde": 36,
+    "popolazione": 36,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 17741,
+      "media": 15753,
+      "delta": 1987.761363636364
+    },
+    "densita": {
+      "nil": 7290.749483071292,
+      "media": 8881.290415418553,
+      "deltaPercent": -17.9
+    },
+    "stranieri": {
+      "nil": 24.93658756552618,
+      "media": 21.360484986780587,
+      "delta": 3.6
+    },
+    "verde": {
+      "nil": 7.870840474239965,
+      "media": 8.1171861884842,
+      "deltaPercent": -3
+    },
+    "qualitaVita": {
+      "nil": 42.62016947778238,
+      "media": 39.6877862711082,
+      "deltaPercent": 7.4
+    }
+  }
+}

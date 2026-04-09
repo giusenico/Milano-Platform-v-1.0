@@ -1,0 +1,45 @@
+{
+  "nilId": 15,
+  "nilName": "BICOCCA",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 1471,
+      "percentuale": 37.2,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 1324,
+      "percentuale": 33.5,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 765,
+      "percentuale": 19.4,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 238,
+      "percentuale": 6,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 152,
+      "percentuale": 3.8,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 3950,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 52.9,
+  "anno": 2011
+}

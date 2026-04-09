@@ -1,0 +1,33 @@
+{
+  "nilId": 67,
+  "nilName": "PORTELLO",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 873,
+      "percentuale": 12.2
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 1259,
+      "percentuale": 17.7
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 2308,
+      "percentuale": 32.4
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 2360,
+      "percentuale": 33.1
+    }
+  ],
+  "totale": 7130,
+  "pctLaureati": 33.1,
+  "anno": 2011
+}

@@ -1,0 +1,33 @@
+{
+  "nilId": 62,
+  "nilName": "QUINTO ROMANO",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 1086,
+      "percentuale": 23.5
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 1419,
+      "percentuale": 30.7
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 1513,
+      "percentuale": 32.7
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 447,
+      "percentuale": 9.7
+    }
+  ],
+  "totale": 4623,
+  "pctLaureati": 9.7,
+  "anno": 2011
+}

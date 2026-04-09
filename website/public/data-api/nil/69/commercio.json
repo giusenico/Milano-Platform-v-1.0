@@ -1,0 +1,15 @@
+{
+  "nilId": 69,
+  "nilName": "SARPI",
+  "pubbliciEsercizi": 442,
+  "eserciziVicinato": 1208,
+  "bottegheStoriche": 44,
+  "coworking": 5,
+  "grandeDistribuzione": 20,
+  "edicole": 13,
+  "totaleCommercio": 1670,
+  "densitaCommerciale": 921.7,
+  "commercioPer1000Ab": 54.2,
+  "scoreVitalita": 100,
+  "livelloVitalita": "Alto"
+}

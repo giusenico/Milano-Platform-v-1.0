@@ -1,0 +1,33 @@
+{
+  "nilId": 26,
+  "nilName": "XXII MARZO",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 4529,
+      "percentuale": 15.4
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 5318,
+      "percentuale": 18.1
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 8656,
+      "percentuale": 29.5
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 9202,
+      "percentuale": 31.4
+    }
+  ],
+  "totale": 29342,
+  "pctLaureati": 31.4,
+  "anno": 2011
+}

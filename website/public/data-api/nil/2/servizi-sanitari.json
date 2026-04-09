@@ -1,0 +1,71 @@
+{
+  "nilId": 2,
+  "nilName": "BRERA",
+  "farmacie": {
+    "totale": 14,
+    "lista": [
+      {
+        "descrizione_farmacia": "GABBIANI",
+        "indirizzo": "VIA DELLA MOSCOVA, 22",
+        "cap": "20121"
+      },
+      {
+        "descrizione_farmacia": "SANITAS SAS DI ZAMPRONI MONICA",
+        "indirizzo": "CORSO GIUSEPPE GARIBALDI,49",
+        "cap": "20121"
+      },
+      {
+        "descrizione_farmacia": "ANTICA FARMACIA DI BRERA SRL",
+        "indirizzo": "VIA FIORI OSCURI, 3",
+        "cap": "20121"
+      },
+      {
+        "descrizione_farmacia": "EREDI DR. BRUNI CLAUDIO",
+        "indirizzo": "VIA SAN MARCO, 18",
+        "cap": "20121"
+      },
+      {
+        "descrizione_farmacia": "BROLETTO",
+        "indirizzo": "VIA BROLETTO, 30",
+        "cap": "20121"
+      },
+      {
+        "descrizione_farmacia": "DEL GARIBALDI SAS DEL DR. CANTONI REMO FABRIZIO",
+        "indirizzo": "CORSO GIUSEPPE GARIBALDI, 83",
+        "cap": "20121"
+      },
+      {
+        "descrizione_farmacia": "CENTRO MILANO SRL",
+        "indirizzo": "VIA BROLETTO, 1",
+        "cap": "20123"
+      },
+      {
+        "descrizione_farmacia": "COMOTTI DR.SSA CATERINA GRAFFI SRL",
+        "indirizzo": "PIAZZA CAVOUR, 5",
+        "cap": "20121"
+      },
+      {
+        "descrizione_farmacia": "DEL CARMINE",
+        "indirizzo": "VIA MERCATO, 1",
+        "cap": "20121"
+      },
+      {
+        "descrizione_farmacia": "MILANO SOLFERINO",
+        "indirizzo": "VIA SOLFERINO, 25",
+        "cap": "20121"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 17,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 18156,
+  "rapporti": {
+    "abitantiPerFarmacia": 1297,
+    "abitantiPerMedico": 1068
+  },
+  "scoreHealthcare": 85,
+  "qualitaServizio": "Ottimo"
+}

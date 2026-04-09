@@ -1,0 +1,45 @@
+{
+  "nilId": 86,
+  "nilName": "PARCO DEI NAVIGLI",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 93,
+      "percentuale": 44.9,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 48,
+      "percentuale": 23.2,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 32,
+      "percentuale": 15.5,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 29,
+      "percentuale": 14,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 5,
+      "percentuale": 2.4,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 207,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 38.7,
+  "anno": 2011
+}

@@ -1,0 +1,45 @@
+{
+  "nilId": 41,
+  "nilName": "GRATOSOGLIO - Q.RE MISSAGLIA - Q.RE TERRAZZE",
+  "data": [
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 3149,
+      "percentuale": 37.6,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 3010,
+      "percentuale": 35.9,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 1381,
+      "percentuale": 16.5,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 530,
+      "percentuale": 6.3,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 314,
+      "percentuale": 3.7,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 8384,
+  "mezzo_prevalente": "Mezzi pubblici",
+  "pctSostenibile": 54.1,
+  "anno": 2011
+}

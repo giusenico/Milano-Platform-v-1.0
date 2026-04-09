@@ -1,0 +1,31 @@
+{
+  "nilId": 61,
+  "nilName": "QUARTO CAGNINO",
+  "farmacie": {
+    "totale": 2,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 22",
+        "indirizzo": "VIA FRATELLI ZOIA, 43",
+        "cap": "20153"
+      },
+      {
+        "descrizione_farmacia": "SANT'ELENA SRL",
+        "indirizzo": "VIA FRATELLI ZOIA, 84",
+        "cap": "20153"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 1,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 9801,
+  "rapporti": {
+    "abitantiPerFarmacia": 4901,
+    "abitantiPerMedico": 9801
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

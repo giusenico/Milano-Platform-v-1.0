@@ -1,0 +1,16 @@
+{
+  "nilId": 30,
+  "nilName": "TALIEDO - MORSENCHIO - Q.RE FORLANINI",
+  "composizioneFamiglie": [],
+  "totaleAbitazioni": 0,
+  "famiglieSingole": 0,
+  "famiglieCoabitanti": 0,
+  "nuoviEdifici": {
+    "fabbricati": 3,
+    "abitazioni": 180,
+    "superficieMq": 10349,
+    "volumeMc": 39469,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

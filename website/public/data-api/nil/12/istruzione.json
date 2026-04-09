@@ -1,0 +1,33 @@
+{
+  "nilId": 12,
+  "nilName": "MACIACHINI - MAGGIOLINA",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 3717,
+      "percentuale": 15.5
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 5508,
+      "percentuale": 23
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 7745,
+      "percentuale": 32.4
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 5719,
+      "percentuale": 23.9
+    }
+  ],
+  "totale": 23927,
+  "pctLaureati": 23.9,
+  "anno": 2011
+}

@@ -1,0 +1,33 @@
+{
+  "nilId": 46,
+  "nilName": "BARONA",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 4478,
+      "percentuale": 27.2
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 5322,
+      "percentuale": 32.3
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 4726,
+      "percentuale": 28.7
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 1426,
+      "percentuale": 8.7
+    }
+  ],
+  "totale": 16467,
+  "pctLaureati": 8.7,
+  "anno": 2011
+}

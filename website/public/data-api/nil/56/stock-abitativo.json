@@ -1,0 +1,47 @@
+{
+  "nilId": 56,
+  "nilName": "FORZE ARMATE",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 3612,
+      "colore": "#3b82f6",
+      "percentuale": 35.5
+    },
+    {
+      "residenti": "2",
+      "valore": 3294,
+      "colore": "#8b5cf6",
+      "percentuale": 32.3
+    },
+    {
+      "residenti": "3",
+      "valore": 1822,
+      "colore": "#ec4899",
+      "percentuale": 17.9
+    },
+    {
+      "residenti": "4",
+      "valore": 1068,
+      "colore": "#f59e0b",
+      "percentuale": 10.5
+    },
+    {
+      "residenti": "5+",
+      "valore": 391,
+      "colore": "#22c55e",
+      "percentuale": 3.8
+    }
+  ],
+  "totaleAbitazioni": 10187,
+  "famiglieSingole": 10027,
+  "famiglieCoabitanti": 161,
+  "nuoviEdifici": {
+    "fabbricati": 3,
+    "abitazioni": 929,
+    "superficieMq": 60295,
+    "volumeMc": 308305,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

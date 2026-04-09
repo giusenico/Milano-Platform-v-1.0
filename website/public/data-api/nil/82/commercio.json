@@ -1,0 +1,15 @@
+{
+  "nilId": 82,
+  "nilName": "COMASINA",
+  "pubbliciEsercizi": 10,
+  "eserciziVicinato": 48,
+  "bottegheStoriche": 0,
+  "coworking": 0,
+  "grandeDistribuzione": 2,
+  "edicole": 1,
+  "totaleCommercio": 60,
+  "densitaCommerciale": 64.7,
+  "commercioPer1000Ab": 6.3,
+  "scoreVitalita": 19.4,
+  "livelloVitalita": "Basso"
+}

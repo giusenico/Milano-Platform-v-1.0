@@ -1,0 +1,41 @@
+{
+  "nilId": 78,
+  "nil": "FARINI",
+  "investorScore": 33.7,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 58,
+    "verde": 78,
+    "popolazione": 69,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 3784,
+      "media": 15753,
+      "delta": -11969.238636363636
+    },
+    "densita": {
+      "nil": 3745.8198177232316,
+      "media": 8881.290415418553,
+      "deltaPercent": -57.8
+    },
+    "stranieri": {
+      "nil": 33.37737843551797,
+      "media": 21.360484986780587,
+      "delta": 12
+    },
+    "verde": {
+      "nil": 3.454287443267776,
+      "media": 8.1171861884842,
+      "deltaPercent": -57.4
+    },
+    "qualitaVita": {
+      "nil": 37.149058171767905,
+      "media": 39.6877862711082,
+      "deltaPercent": -6.4
+    }
+  }
+}

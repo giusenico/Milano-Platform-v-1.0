@@ -1,0 +1,33 @@
+{
+  "nilId": 28,
+  "nilName": "UMBRIA - MOLISE - CALVAIRATE",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 3803,
+      "percentuale": 18.4
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 4865,
+      "percentuale": 23.5
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 6405,
+      "percentuale": 31
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 4503,
+      "percentuale": 21.8
+    }
+  ],
+  "totale": 20673,
+  "pctLaureati": 21.8,
+  "anno": 2011
+}

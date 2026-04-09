@@ -1,0 +1,47 @@
+{
+  "nilId": 14,
+  "nilName": "NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q.RE FULVIO TESTI",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 6711,
+      "colore": "#3b82f6",
+      "percentuale": 40.3
+    },
+    {
+      "residenti": "2",
+      "valore": 5238,
+      "colore": "#8b5cf6",
+      "percentuale": 31.5
+    },
+    {
+      "residenti": "3",
+      "valore": 2573,
+      "colore": "#ec4899",
+      "percentuale": 15.4
+    },
+    {
+      "residenti": "4",
+      "valore": 1658,
+      "colore": "#f59e0b",
+      "percentuale": 10
+    },
+    {
+      "residenti": "5+",
+      "valore": 474,
+      "colore": "#22c55e",
+      "percentuale": 2.8
+    }
+  ],
+  "totaleAbitazioni": 16654,
+  "famiglieSingole": 16454,
+  "famiglieCoabitanti": 201,
+  "nuoviEdifici": {
+    "fabbricati": 6,
+    "abitazioni": 224,
+    "superficieMq": 14709,
+    "volumeMc": 65636,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

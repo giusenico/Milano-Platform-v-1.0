@@ -1,0 +1,20 @@
+{
+  "nilId": 34,
+  "nilName": "CHIARAVALLE",
+  "totaleServizi": 1,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Adulti",
+      "count": 1
+    }
+  ],
+  "popolazione": 1015,
+  "serviziPer1000Abitanti": 0.99,
+  "qualitaCopertura": "Bassa"
+}

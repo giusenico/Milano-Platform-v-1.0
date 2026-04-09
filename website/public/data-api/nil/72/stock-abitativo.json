@@ -1,0 +1,47 @@
+{
+  "nilId": 72,
+  "nilName": "MAGGIORE - MUSOCCO - CERTOSA",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 832,
+      "colore": "#3b82f6",
+      "percentuale": 37.6
+    },
+    {
+      "residenti": "2",
+      "valore": 747,
+      "colore": "#8b5cf6",
+      "percentuale": 33.8
+    },
+    {
+      "residenti": "3",
+      "valore": 376,
+      "colore": "#ec4899",
+      "percentuale": 17
+    },
+    {
+      "residenti": "4",
+      "valore": 214,
+      "colore": "#f59e0b",
+      "percentuale": 9.7
+    },
+    {
+      "residenti": "5+",
+      "valore": 44,
+      "colore": "#22c55e",
+      "percentuale": 2
+    }
+  ],
+  "totaleAbitazioni": 2213,
+  "famiglieSingole": 2184,
+  "famiglieCoabitanti": 28,
+  "nuoviEdifici": {
+    "fabbricati": 8,
+    "abitazioni": 2338,
+    "superficieMq": 145394,
+    "volumeMc": 998585,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

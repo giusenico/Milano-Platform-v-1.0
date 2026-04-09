@@ -1,0 +1,41 @@
+{
+  "nilId": 1,
+  "nil": "DUOMO",
+  "investorScore": 38.7,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Alto",
+  "ranking": {
+    "qualitaVita": 56,
+    "verde": 87,
+    "popolazione": 38,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 16706,
+      "media": 15753,
+      "delta": 952.761363636364
+    },
+    "densita": {
+      "nil": 7134.390564949169,
+      "media": 8881.290415418553,
+      "deltaPercent": -19.7
+    },
+    "stranieri": {
+      "nil": 13.402370405842213,
+      "media": 21.360484986780587,
+      "delta": -8
+    },
+    "verde": {
+      "nil": 2.4870057797805645,
+      "media": 8.1171861884842,
+      "deltaPercent": -69.4
+    },
+    "qualitaVita": {
+      "nil": 37.777070490980705,
+      "media": 39.6877862711082,
+      "deltaPercent": -4.8
+    }
+  }
+}

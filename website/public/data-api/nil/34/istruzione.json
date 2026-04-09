@@ -1,0 +1,33 @@
+{
+  "nilId": 34,
+  "nilName": "CHIARAVALLE",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 203,
+      "percentuale": 19.7
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 299,
+      "percentuale": 29
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 353,
+      "percentuale": 34.2
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 140,
+      "percentuale": 13.6
+    }
+  ],
+  "totale": 1031,
+  "pctLaureati": 13.6,
+  "anno": 2011
+}

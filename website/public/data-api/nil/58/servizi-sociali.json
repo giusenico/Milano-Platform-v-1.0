@@ -1,0 +1,80 @@
+{
+  "nilId": 58,
+  "nilName": "DE ANGELI - MONTE ROSA",
+  "totaleServizi": 61,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 41
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 17
+    },
+    {
+      "area_attivita": "Attività ludiche e ricreative",
+      "count": 2
+    },
+    {
+      "area_attivita": "Attività sportive",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Anziani",
+      "count": 22
+    },
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 9
+    },
+    {
+      "fascia_utenza": "Adolescenti (11-18),Bambini (0-10)",
+      "count": 7
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 5
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18)",
+      "count": 4
+    },
+    {
+      "fascia_utenza": null,
+      "count": 3
+    },
+    {
+      "fascia_utenza": "Giovani,Adulti,Migranti,Anziani,Persone con disabilità",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Famiglie,Giovani,Adulti",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18),Giovani",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18),Famiglie",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Famiglie,Persone con disagio mentale,Persone con disabilità,Migranti,Adulti,Anziani,Giovani,Adolescenti (11-18),Bambini (0-10)",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18),Giovani,Adulti,Migranti,Anziani,Persone con disabilità,Persone con disagio mentale",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Anziani,Famiglie,Adulti,Persone con disabilità,Persone con disagio mentale",
+      "count": 1
+    }
+  ],
+  "popolazione": 21405,
+  "serviziPer1000Abitanti": 2.85,
+  "qualitaCopertura": "Media"
+}

@@ -1,0 +1,31 @@
+{
+  "nilId": 13,
+  "nilName": "GRECO - SEGNANO",
+  "farmacie": {
+    "totale": 2,
+    "lista": [
+      {
+        "descrizione_farmacia": "GRECO",
+        "indirizzo": "VIALE DELLE RIMEMBRANZE DI GRECO, 40",
+        "cap": "20125"
+      },
+      {
+        "descrizione_farmacia": "DE MARCHI SRL",
+        "indirizzo": "VIA EMILIO DE MARCHI, 10",
+        "cap": "20125"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 4,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 16058,
+  "rapporti": {
+    "abitantiPerFarmacia": 8029,
+    "abitantiPerMedico": 4015
+  },
+  "scoreHealthcare": 40,
+  "qualitaServizio": "Migliorabile"
+}

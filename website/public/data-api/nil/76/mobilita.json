@@ -1,0 +1,80 @@
+{
+  "nilId": 76,
+  "nilName": "QUARTO OGGIARO - VIALBA - MUSOCCO",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 5853,
+      "percentuale": 28.5,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 5355,
+      "percentuale": 26,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 2707,
+      "percentuale": 13.2,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 2199,
+      "percentuale": 10.7,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 1827,
+      "percentuale": 8.9,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 907,
+      "percentuale": 4.4,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 628,
+      "percentuale": 3.1,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 627,
+      "percentuale": 3,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 311,
+      "percentuale": 1.5,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 157,
+      "percentuale": 0.8,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 20571,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 39.2,
+  "anno": 2011
+}

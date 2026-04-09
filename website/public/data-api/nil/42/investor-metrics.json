@@ -1,0 +1,41 @@
+{
+  "nilId": 42,
+  "nil": "STADERA - CHIESA ROSSA - Q.RE TORRETTA - CONCA FALLATA",
+  "investorScore": 31.2,
+  "riskLevel": "Alto",
+  "riskColor": "#ef4444",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 37,
+    "verde": 29,
+    "popolazione": 16,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 29307,
+      "media": 15753,
+      "delta": 13553.761363636364
+    },
+    "densita": {
+      "nil": 9067.43678120498,
+      "media": 8881.290415418553,
+      "deltaPercent": 2.1
+    },
+    "stranieri": {
+      "nil": 19.804142355068755,
+      "media": 21.360484986780587,
+      "delta": -1.6
+    },
+    "verde": {
+      "nil": 9.014925472073335,
+      "media": 8.1171861884842,
+      "deltaPercent": 11.1
+    },
+    "qualitaVita": {
+      "nil": 41.38860305813063,
+      "media": 39.6877862711082,
+      "deltaPercent": 4.3
+    }
+  }
+}

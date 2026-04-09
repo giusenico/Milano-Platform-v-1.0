@@ -1,0 +1,51 @@
+{
+  "nilId": 57,
+  "nilName": "SAN SIRO",
+  "farmacie": {
+    "totale": 6,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 74",
+        "indirizzo": "PIAZZA MONTE FALTERONA, 3",
+        "cap": "20148"
+      },
+      {
+        "descrizione_farmacia": "SELINUNTE SAS",
+        "indirizzo": "PIAZZALE SELINUNTE, 4",
+        "cap": "20148"
+      },
+      {
+        "descrizione_farmacia": "DR.MAX MILANO ALTAMURA",
+        "indirizzo": "VIA SAVERIO ALTAMURA, 20",
+        "cap": "20148"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 24",
+        "indirizzo": "VIA MARIO MORGANTINI, 25",
+        "cap": "20148"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 52",
+        "indirizzo": "PIAZZALE DIEGO VELASQUEZ, 7",
+        "cap": "20148"
+      },
+      {
+        "descrizione_farmacia": "GRILLI SAS DELLA DR.SSA LUISA GRILLI",
+        "indirizzo": "VIA CARLO DOLCI, 6",
+        "cap": "20148"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 12,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 26354,
+  "rapporti": {
+    "abitantiPerFarmacia": 4392,
+    "abitantiPerMedico": 2196
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

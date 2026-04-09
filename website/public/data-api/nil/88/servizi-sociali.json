@@ -1,0 +1,52 @@
+{
+  "nilId": 88,
+  "nilName": "PARCO BOSCO IN CITTA'",
+  "totaleServizi": 25,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 23
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 1
+    },
+    {
+      "area_attivita": "Attività ludiche e ricreative",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 12
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 7
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18),Giovani",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Migranti",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Giovani,Adulti,Migranti,Anziani,Persone con disabilità",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18)",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Anziani",
+      "count": 1
+    }
+  ],
+  "popolazione": 672,
+  "serviziPer1000Abitanti": 37.2,
+  "qualitaCopertura": "Alta"
+}

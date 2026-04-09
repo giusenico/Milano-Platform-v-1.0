@@ -1,0 +1,41 @@
+{
+  "nilId": 33,
+  "nil": "ROGOREDO - SANTA GIULIA",
+  "investorScore": 37,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Alto",
+  "ranking": {
+    "qualitaVita": 62,
+    "verde": 70,
+    "popolazione": 55,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 11290,
+      "media": 15753,
+      "delta": -4463.238636363636
+    },
+    "densita": {
+      "nil": 9407.4209607344,
+      "media": 8881.290415418553,
+      "deltaPercent": 5.9
+    },
+    "stranieri": {
+      "nil": 19.805137289636846,
+      "media": 21.360484986780587,
+      "delta": -1.6
+    },
+    "verde": {
+      "nil": 4.080800907746443,
+      "media": 8.1171861884842,
+      "deltaPercent": -49.7
+    },
+    "qualitaVita": {
+      "nil": 35.893058658899136,
+      "media": 39.6877862711082,
+      "deltaPercent": -9.6
+    }
+  }
+}

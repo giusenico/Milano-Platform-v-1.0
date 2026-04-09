@@ -1,0 +1,41 @@
+{
+  "nilId": 55,
+  "nil": "BAGGIO - Q.RE DEGLI OLMI - Q.RE VALSESIA",
+  "investorScore": 31.8,
+  "riskLevel": "Alto",
+  "riskColor": "#ef4444",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 43,
+    "verde": 26,
+    "popolazione": 14,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 29873,
+      "media": 15753,
+      "delta": 14119.761363636364
+    },
+    "densita": {
+      "nil": 8604.594043188232,
+      "media": 8881.290415418553,
+      "deltaPercent": -3.1
+    },
+    "stranieri": {
+      "nil": 22.230776955779465,
+      "media": 21.360484986780587,
+      "delta": 0.9
+    },
+    "verde": {
+      "nil": 9.80238823396615,
+      "media": 8.1171861884842,
+      "deltaPercent": 20.8
+    },
+    "qualitaVita": {
+      "nil": 40.309755729158724,
+      "media": 39.6877862711082,
+      "deltaPercent": 1.6
+    }
+  }
+}

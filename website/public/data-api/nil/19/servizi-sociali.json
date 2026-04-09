@@ -1,0 +1,40 @@
+{
+  "nilId": 19,
+  "nilName": "PADOVA - TURRO - CRESCENZAGO",
+  "totaleServizi": 5,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 3
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 1
+    },
+    {
+      "area_attivita": "Attività ludiche e ricreative",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Anziani",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Giovani,Adulti,Migranti,Anziani,Persone con disabilità",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Adolescenti (11-18),Bambini (0-10)",
+      "count": 1
+    }
+  ],
+  "popolazione": 37409,
+  "serviziPer1000Abitanti": 0.13,
+  "qualitaCopertura": "Bassa"
+}

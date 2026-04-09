@@ -1,0 +1,15 @@
+{
+  "nilId": 32,
+  "nilName": "TRIULZO SUPERIORE",
+  "pubbliciEsercizi": 13,
+  "eserciziVicinato": 22,
+  "bottegheStoriche": 0,
+  "coworking": 0,
+  "grandeDistribuzione": 0,
+  "edicole": 2,
+  "totaleCommercio": 35,
+  "densitaCommerciale": 25.2,
+  "commercioPer1000Ab": 21.6,
+  "scoreVitalita": 13.1,
+  "livelloVitalita": "Basso"
+}

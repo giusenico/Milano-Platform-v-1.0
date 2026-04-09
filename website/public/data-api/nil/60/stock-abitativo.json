@@ -1,0 +1,16 @@
+{
+  "nilId": 60,
+  "nilName": "STADIO - IPPODROMI",
+  "composizioneFamiglie": [],
+  "totaleAbitazioni": 0,
+  "famiglieSingole": 0,
+  "famiglieCoabitanti": 0,
+  "nuoviEdifici": {
+    "fabbricati": 3,
+    "abitazioni": 77,
+    "superficieMq": 6248,
+    "volumeMc": 59089,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

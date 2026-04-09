@@ -1,0 +1,56 @@
+{
+  "nilId": 11,
+  "nilName": "ISOLA",
+  "farmacie": {
+    "totale": 7,
+    "lista": [
+      {
+        "descrizione_farmacia": "MADIA SAS DEL DR. MADIA DARIO",
+        "indirizzo": "VIALE ZARA, 38",
+        "cap": "20124"
+      },
+      {
+        "descrizione_farmacia": "CASTOLDI DEI DOTTORI NATALE E SANTILLI SRL",
+        "indirizzo": "VIA LUIGI PORRO LAMBERTENGHI, 25",
+        "cap": "20159"
+      },
+      {
+        "descrizione_farmacia": "MACCIONI SNC",
+        "indirizzo": "VIA LEPONTINA, 13",
+        "cap": "20159"
+      },
+      {
+        "descrizione_farmacia": "ARCHINTO",
+        "indirizzo": "PIAZZALE CARLO ARCHINTO, 1",
+        "cap": "20159"
+      },
+      {
+        "descrizione_farmacia": "SANTA MARIA ALLA FONTANA DI MANNO MATILDE SAS",
+        "indirizzo": "VIA GENOVA THAON DI REVEL,12",
+        "cap": "20159"
+      },
+      {
+        "descrizione_farmacia": "FARINI SNC DELLA DOTT.SSA ANTONIETTA TRAVIERSO E C",
+        "indirizzo": "VIA ARNALDO DA BRESCIA, 1",
+        "cap": "20159"
+      },
+      {
+        "descrizione_farmacia": "SAN GIOVANNI SAS DR.SSA COSTA ANTONELLA",
+        "indirizzo": "VIA POLA, 13",
+        "cap": "20124"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 12,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 22690,
+  "rapporti": {
+    "abitantiPerFarmacia": 3241,
+    "abitantiPerMedico": 1891
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

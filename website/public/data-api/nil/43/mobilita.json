@@ -1,0 +1,45 @@
+{
+  "nilId": 43,
+  "nilName": "TIBALDI",
+  "data": [
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 2179,
+      "percentuale": 37.9,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 1508,
+      "percentuale": 26.2,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 1279,
+      "percentuale": 22.2,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 458,
+      "percentuale": 8,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 331,
+      "percentuale": 5.8,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 5755,
+  "mezzo_prevalente": "Mezzi pubblici",
+  "pctSostenibile": 60.1,
+  "anno": 2011
+}

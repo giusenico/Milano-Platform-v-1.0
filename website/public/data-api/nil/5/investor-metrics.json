@@ -1,0 +1,41 @@
+{
+  "nilId": 5,
+  "nil": "PORTA VIGENTINA - PORTA LODOVICA",
+  "investorScore": 30.3,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 75,
+    "verde": 51,
+    "popolazione": 49,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 13519,
+      "media": 15753,
+      "delta": -2234.238636363636
+    },
+    "densita": {
+      "nil": 11908.952380068558,
+      "media": 8881.290415418553,
+      "deltaPercent": 34.1
+    },
+    "stranieri": {
+      "nil": 10.333604556550041,
+      "media": 21.360484986780587,
+      "delta": -11
+    },
+    "verde": {
+      "nil": 5.704233047330581,
+      "media": 8.1171861884842,
+      "deltaPercent": -29.7
+    },
+    "qualitaVita": {
+      "nil": 30.467552369623387,
+      "media": 39.6877862711082,
+      "deltaPercent": -23.2
+    }
+  }
+}

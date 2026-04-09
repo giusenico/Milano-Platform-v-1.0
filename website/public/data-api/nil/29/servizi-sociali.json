@@ -1,0 +1,20 @@
+{
+  "nilId": 29,
+  "nilName": "ORTOMERCATO",
+  "totaleServizi": 1,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 1
+    }
+  ],
+  "popolazione": 4107,
+  "serviziPer1000Abitanti": 0.24,
+  "qualitaCopertura": "Bassa"
+}

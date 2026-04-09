@@ -1,0 +1,47 @@
+{
+  "nilId": 32,
+  "nilName": "TRIULZO SUPERIORE",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 361,
+      "colore": "#3b82f6",
+      "percentuale": 53.1
+    },
+    {
+      "residenti": "2",
+      "valore": 116,
+      "colore": "#8b5cf6",
+      "percentuale": 17.1
+    },
+    {
+      "residenti": "3",
+      "valore": 108,
+      "colore": "#ec4899",
+      "percentuale": 15.9
+    },
+    {
+      "residenti": "4",
+      "valore": 63,
+      "colore": "#f59e0b",
+      "percentuale": 9.3
+    },
+    {
+      "residenti": "5+",
+      "valore": 32,
+      "colore": "#22c55e",
+      "percentuale": 4.7
+    }
+  ],
+  "totaleAbitazioni": 680,
+  "famiglieSingole": 660,
+  "famiglieCoabitanti": 20,
+  "nuoviEdifici": {
+    "fabbricati": 2,
+    "abitazioni": 44,
+    "superficieMq": 2058,
+    "volumeMc": 12019,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

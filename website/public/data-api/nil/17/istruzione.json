@@ -1,0 +1,33 @@
+{
+  "nilId": 17,
+  "nilName": "ADRIANO",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 2631,
+      "percentuale": 20.2
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 3426,
+      "percentuale": 26.3
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 4232,
+      "percentuale": 32.5
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 1755,
+      "percentuale": 13.5
+    }
+  ],
+  "totale": 13021,
+  "pctLaureati": 13.5,
+  "anno": 2011
+}

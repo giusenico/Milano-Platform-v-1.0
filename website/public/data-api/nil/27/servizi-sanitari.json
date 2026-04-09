@@ -1,0 +1,51 @@
+{
+  "nilId": 27,
+  "nilName": "PTA ROMANA",
+  "farmacie": {
+    "totale": 6,
+    "lista": [
+      {
+        "descrizione_farmacia": "ROMA SNC",
+        "indirizzo": "VIA PIACENZA, 24",
+        "cap": "20135"
+      },
+      {
+        "descrizione_farmacia": "MINERVA DR. MARCEAU SRL",
+        "indirizzo": "VIA CREMA, 17",
+        "cap": "20135"
+      },
+      {
+        "descrizione_farmacia": "METALLA SRL",
+        "indirizzo": "VIALE UMBRIA, 19",
+        "cap": "20135"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 15",
+        "indirizzo": "VIA PIER LOMBARDO, 19",
+        "cap": "20135"
+      },
+      {
+        "descrizione_farmacia": "CORSICO",
+        "indirizzo": "CORSO LODI, 19",
+        "cap": "20135"
+      },
+      {
+        "descrizione_farmacia": "LODI SNC DEI DR.CRISTINA E LUCA DEMARTINI",
+        "indirizzo": "CORSO LODI, 5",
+        "cap": "20135"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 11,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 16469,
+  "rapporti": {
+    "abitantiPerFarmacia": 2745,
+    "abitantiPerMedico": 1497
+  },
+  "scoreHealthcare": 85,
+  "qualitaServizio": "Ottimo"
+}

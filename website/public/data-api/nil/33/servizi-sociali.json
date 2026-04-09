@@ -1,0 +1,20 @@
+{
+  "nilId": 33,
+  "nilName": "ROGOREDO - SANTA GIULIA",
+  "totaleServizi": 1,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Adulti,Migranti",
+      "count": 1
+    }
+  ],
+  "popolazione": 11290,
+  "serviziPer1000Abitanti": 0.09,
+  "qualitaCopertura": "Bassa"
+}

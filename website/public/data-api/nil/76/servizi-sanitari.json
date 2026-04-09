@@ -1,0 +1,66 @@
+{
+  "nilId": 76,
+  "nilName": "QUARTO OGGIARO - VIALBA - MUSOCCO",
+  "farmacie": {
+    "totale": 9,
+    "lista": [
+      {
+        "descrizione_farmacia": "PIMPINELLI",
+        "indirizzo": "VIA ANTONIO ALDINI, 108",
+        "cap": "20157"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 29",
+        "indirizzo": "VIA MICHELE LESSONA, 55",
+        "cap": "20157"
+      },
+      {
+        "descrizione_farmacia": "OGGIARO SRL",
+        "indirizzo": "VIA GIUSEPPE UNGARETTI, 12",
+        "cap": "20157"
+      },
+      {
+        "descrizione_farmacia": "LESSONA",
+        "indirizzo": "VIA PRIVATA ANTONIO GAZZOLETTI, 3",
+        "cap": "20157"
+      },
+      {
+        "descrizione_farmacia": "VIALBA SNC DEL DR. GHIRELLI PARIDE E C.",
+        "indirizzo": "VIA ARSIA, 14",
+        "cap": "20157"
+      },
+      {
+        "descrizione_farmacia": "LA PIAZZETTA SRL",
+        "indirizzo": "VIA SABATINO LOPEZ, 3",
+        "cap": "20157"
+      },
+      {
+        "descrizione_farmacia": "VERCESI  SAS & C.",
+        "indirizzo": "VIA 5 MAGGIO, 1",
+        "cap": "20157"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 26",
+        "indirizzo": "VIA CESARE PASCARELLA, 22",
+        "cap": "20157"
+      },
+      {
+        "descrizione_farmacia": "LANZANI SRL",
+        "indirizzo": "VIA MICHELE LESSONA, 2",
+        "cap": "20157"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 8,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 30914,
+  "rapporti": {
+    "abitantiPerFarmacia": 3435,
+    "abitantiPerMedico": 3864
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

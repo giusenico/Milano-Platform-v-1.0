@@ -1,0 +1,32 @@
+{
+  "nilId": 26,
+  "nilName": "XXII MARZO",
+  "totaleServizi": 9,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 8
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 4
+    },
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 3
+    },
+    {
+      "fascia_utenza": "Anziani",
+      "count": 2
+    }
+  ],
+  "popolazione": 31493,
+  "serviziPer1000Abitanti": 0.29,
+  "qualitaCopertura": "Bassa"
+}

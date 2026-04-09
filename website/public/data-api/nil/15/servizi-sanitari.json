@@ -1,0 +1,31 @@
+{
+  "nilId": 15,
+  "nilName": "BICOCCA",
+  "farmacie": {
+    "totale": 2,
+    "lista": [
+      {
+        "descrizione_farmacia": "ZANOTTA SAS",
+        "indirizzo": "VIA LUIGI PULCI, 19",
+        "cap": "20126"
+      },
+      {
+        "descrizione_farmacia": "FULVIO TESTI FARMA ACQUISITION SRL",
+        "indirizzo": "VIALE FULVIO TESTI, 90",
+        "cap": "20126"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 9,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 8516,
+  "rapporti": {
+    "abitantiPerFarmacia": 4258,
+    "abitantiPerMedico": 946
+  },
+  "scoreHealthcare": 85,
+  "qualitaServizio": "Ottimo"
+}

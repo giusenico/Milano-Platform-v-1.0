@@ -1,0 +1,15 @@
+{
+  "nilId": 25,
+  "nilName": "CORSICA",
+  "pubbliciEsercizi": 96,
+  "eserciziVicinato": 378,
+  "bottegheStoriche": 4,
+  "coworking": 0,
+  "grandeDistribuzione": 6,
+  "edicole": 5,
+  "totaleCommercio": 480,
+  "densitaCommerciale": 443.9,
+  "commercioPer1000Ab": 24.6,
+  "scoreVitalita": 100,
+  "livelloVitalita": "Alto"
+}

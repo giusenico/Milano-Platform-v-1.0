@@ -1,0 +1,15 @@
+{
+  "nilId": 53,
+  "nilName": "LORENTEGGIO",
+  "pubbliciEsercizi": 38,
+  "eserciziVicinato": 123,
+  "bottegheStoriche": 0,
+  "coworking": 1,
+  "grandeDistribuzione": 10,
+  "edicole": 4,
+  "totaleCommercio": 171,
+  "densitaCommerciale": 64.7,
+  "commercioPer1000Ab": 12,
+  "scoreVitalita": 65.9,
+  "livelloVitalita": "Alto"
+}

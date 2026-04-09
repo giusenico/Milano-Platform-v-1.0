@@ -1,0 +1,41 @@
+{
+  "nilId": 41,
+  "nilName": "GRATOSOGLIO - Q.RE MISSAGLIA - Q.RE TERRAZZE",
+  "farmacie": {
+    "totale": 4,
+    "lista": [
+      {
+        "descrizione_farmacia": "QUAI",
+        "indirizzo": "VIA FRATELLI FRASCHINI, 8",
+        "cap": "20142"
+      },
+      {
+        "descrizione_farmacia": "BERTOLINI SAS DELLA DR.SSA BERTOLINI ISABELLA",
+        "indirizzo": "VIA MICHELE SAPONARO, 34",
+        "cap": "20142"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 38",
+        "indirizzo": "VIA MICHELE SAPONARO 2C",
+        "cap": "20142"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 79",
+        "indirizzo": "VIA GUIDO DE RUGGIERO, 8",
+        "cap": "20142"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 4,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 18398,
+  "rapporti": {
+    "abitantiPerFarmacia": 4600,
+    "abitantiPerMedico": 4600
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

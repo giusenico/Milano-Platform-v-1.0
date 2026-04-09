@@ -1,0 +1,20 @@
+{
+  "nilId": 66,
+  "nilName": "QT 8",
+  "totaleServizi": 3,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 3
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 3
+    }
+  ],
+  "popolazione": 4051,
+  "serviziPer1000Abitanti": 0.74,
+  "qualitaCopertura": "Bassa"
+}

@@ -1,0 +1,20 @@
+{
+  "nilId": 54,
+  "nilName": "MUGGIANO",
+  "farmacie": {
+    "totale": 0,
+    "lista": []
+  },
+  "medici": {
+    "totale": 0,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 3081,
+  "rapporti": {
+    "abitantiPerFarmacia": null,
+    "abitantiPerMedico": null
+  },
+  "scoreHealthcare": 0,
+  "qualitaServizio": "Migliorabile"
+}

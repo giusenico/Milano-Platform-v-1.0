@@ -1,0 +1,15 @@
+{
+  "nilId": 22,
+  "nilName": "CITTA' STUDI",
+  "pubbliciEsercizi": 220,
+  "eserciziVicinato": 727,
+  "bottegheStoriche": 10,
+  "coworking": 4,
+  "grandeDistribuzione": 7,
+  "edicole": 26,
+  "totaleCommercio": 954,
+  "densitaCommerciale": 432.2,
+  "commercioPer1000Ab": 26.5,
+  "scoreVitalita": 100,
+  "livelloVitalita": "Alto"
+}

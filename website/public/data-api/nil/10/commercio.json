@@ -1,0 +1,15 @@
+{
+  "nilId": 10,
+  "nilName": "STAZIONE CENTRALE - PONTE SEVESO",
+  "pubbliciEsercizi": 292,
+  "eserciziVicinato": 663,
+  "bottegheStoriche": 15,
+  "coworking": 6,
+  "grandeDistribuzione": 11,
+  "edicole": 16,
+  "totaleCommercio": 966,
+  "densitaCommerciale": 620.8,
+  "commercioPer1000Ab": 52,
+  "scoreVitalita": 100,
+  "livelloVitalita": "Alto"
+}

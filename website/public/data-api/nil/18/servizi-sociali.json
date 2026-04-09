@@ -1,0 +1,40 @@
+{
+  "nilId": 18,
+  "nilName": "CIMIANO - ROTTOLE - Q.RE FELTRE",
+  "totaleServizi": 22,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 21
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 11
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 7
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18),Giovani",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18)",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Anziani",
+      "count": 1
+    }
+  ],
+  "popolazione": 19447,
+  "serviziPer1000Abitanti": 1.13,
+  "qualitaCopertura": "Media"
+}

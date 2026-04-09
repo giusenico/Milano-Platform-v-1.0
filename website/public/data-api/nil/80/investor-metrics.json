@@ -1,0 +1,41 @@
+{
+  "nilId": 80,
+  "nil": "AFFORI",
+  "investorScore": 37.9,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 48,
+    "verde": 25,
+    "popolazione": 20,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 25414,
+      "media": 15753,
+      "delta": 9660.761363636364
+    },
+    "densita": {
+      "nil": 12272.459654047447,
+      "media": 8881.290415418553,
+      "deltaPercent": 38.2
+    },
+    "stranieri": {
+      "nil": 29.826080113323368,
+      "media": 21.360484986780587,
+      "delta": 8.5
+    },
+    "verde": {
+      "nil": 10.012575920340455,
+      "media": 8.1171861884842,
+      "deltaPercent": 23.4
+    },
+    "qualitaVita": {
+      "nil": 39.89230969966649,
+      "media": 39.6877862711082,
+      "deltaPercent": 0.5
+    }
+  }
+}

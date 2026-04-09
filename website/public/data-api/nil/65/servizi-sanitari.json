@@ -1,0 +1,71 @@
+{
+  "nilId": 65,
+  "nilName": "Q.RE GALLARATESE - Q.RE SAN LEONARDO - LAMPUGNANO",
+  "farmacie": {
+    "totale": 10,
+    "lista": [
+      {
+        "descrizione_farmacia": "MILANO QUARENGHI",
+        "indirizzo": "VIA GIACOMO QUARENGHI, 23",
+        "cap": "20151"
+      },
+      {
+        "descrizione_farmacia": "VENTO",
+        "indirizzo": "VIA GIACOMO QUARENGHI, 40",
+        "cap": "20151"
+      },
+      {
+        "descrizione_farmacia": "PROCACCINI SRL (EX MADONNINA)",
+        "indirizzo": "VIA UGO BETTI 42B",
+        "cap": "20151"
+      },
+      {
+        "descrizione_farmacia": "URUGUAY SRL",
+        "indirizzo": "VIA SEM BENELLI, 11",
+        "cap": "20151"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 81",
+        "indirizzo": "VIA LUIGI CHIARELLI, 10",
+        "cap": "20151"
+      },
+      {
+        "descrizione_farmacia": "G. DUE",
+        "indirizzo": "VIA ENRICO FALCK 19A",
+        "cap": "20151"
+      },
+      {
+        "descrizione_farmacia": "LAFARMACIA.BONOLA SRL",
+        "indirizzo": "VIA UGO BETTI 159B",
+        "cap": "20151"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 18",
+        "indirizzo": "VIA ALEX VISCONTI,22A",
+        "cap": "20151"
+      },
+      {
+        "descrizione_farmacia": "LAMPUGNANO",
+        "indirizzo": "VIA GIULIO NATTA, 20",
+        "cap": "20151"
+      },
+      {
+        "descrizione_farmacia": "COMINA SRL",
+        "indirizzo": "VIA DELLE ANDE, 5",
+        "cap": "20151"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 16,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 32425,
+  "rapporti": {
+    "abitantiPerFarmacia": 3243,
+    "abitantiPerMedico": 2027
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

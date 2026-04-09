@@ -1,0 +1,206 @@
+{
+  "nil": "CORSICA",
+  "nilLabel": "CORSICA",
+  "idNil": 25,
+  "match": {
+    "matchType": "id",
+    "confidence": 1
+  },
+  "latestYear": 2021,
+  "timeSeries": [
+    {
+      "anno": 2007,
+      "nil": "Corsica",
+      "nil_label": "Corsica (25)",
+      "totale_famiglie": 8629
+    },
+    {
+      "anno": 2008,
+      "nil": "Corsica",
+      "nil_label": "Corsica (25)",
+      "totale_famiglie": 8750
+    },
+    {
+      "anno": 2009,
+      "nil": "Corsica",
+      "nil_label": "Corsica (25)",
+      "totale_famiglie": 8930
+    },
+    {
+      "anno": 2010,
+      "nil": "Corsica",
+      "nil_label": "Corsica (25)",
+      "totale_famiglie": 9087
+    },
+    {
+      "anno": 2011,
+      "nil": "Corsica",
+      "nil_label": "Corsica (25)",
+      "totale_famiglie": 9323
+    },
+    {
+      "anno": 2012,
+      "nil": "Corsica",
+      "nil_label": "Corsica (25)",
+      "totale_famiglie": 9468
+    },
+    {
+      "anno": 2013,
+      "nil": "Corsica",
+      "nil_label": "Corsica (25)",
+      "totale_famiglie": 9378
+    },
+    {
+      "anno": 2014,
+      "nil": "Corsica",
+      "nil_label": "Corsica (25)",
+      "totale_famiglie": 9390
+    },
+    {
+      "anno": 2015,
+      "nil": "Corsica",
+      "nil_label": "Corsica (25)",
+      "totale_famiglie": 9465
+    },
+    {
+      "anno": 2016,
+      "nil": "Corsica",
+      "nil_label": "Corsica (25)",
+      "totale_famiglie": 9604
+    },
+    {
+      "anno": 2017,
+      "nil": "Corsica",
+      "nil_label": "Corsica (25)",
+      "totale_famiglie": 9717
+    },
+    {
+      "anno": 2018,
+      "nil": "Corsica",
+      "nil_label": "Corsica (25)",
+      "totale_famiglie": 9789
+    },
+    {
+      "anno": 2019,
+      "nil": "Corsica",
+      "nil_label": "Corsica (25)",
+      "totale_famiglie": 9936
+    },
+    {
+      "anno": 2020,
+      "nil": "Corsica",
+      "nil_label": "Corsica (25)",
+      "totale_famiglie": 9945
+    },
+    {
+      "anno": 2021,
+      "nil": "Corsica",
+      "nil_label": "Corsica (25)",
+      "totale_famiglie": 9911
+    }
+  ],
+  "crescitaFamiglieYoY": -0.34,
+  "amenities": {
+    "pubblici_esercizi": 96,
+    "mercati": 0,
+    "farmacie": 5,
+    "scuole": 7,
+    "biblioteche": 0
+  },
+  "breakdown": {
+    "tipologie": [
+      {
+        "tipologia_familiare": "Single",
+        "totale": 4570
+      },
+      {
+        "tipologia_familiare": "Coppia sposata senza figli",
+        "totale": 1625
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con almeno un figlio minorenne",
+        "totale": 1185
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con figli tutti maggiorenni",
+        "totale": 725
+      },
+      {
+        "tipologia_familiare": "Monogenitore con figli tutti maggiorenni",
+        "totale": 602
+      },
+      {
+        "tipologia_familiare": "Monogenitore con almeno un figlio minorenne",
+        "totale": 363
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con almeno un figlio minorenne",
+        "totale": 317
+      },
+      {
+        "tipologia_familiare": "Coppia convivente senza figli",
+        "totale": 253
+      },
+      {
+        "tipologia_familiare": "Altre tipologie",
+        "totale": 236
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con figli tutti maggiorenni",
+        "totale": 35
+      }
+    ],
+    "classiEta": [
+      {
+        "classe_eta_capofamiglia": "Da 35 a 64 anni",
+        "totale": 5088
+      },
+      {
+        "classe_eta_capofamiglia": "80 anni e più",
+        "totale": 1978
+      },
+      {
+        "classe_eta_capofamiglia": "Da 65 a 79 anni",
+        "totale": 1873
+      },
+      {
+        "classe_eta_capofamiglia": "Da 18 a 34 anni",
+        "totale": 972
+      }
+    ],
+    "cittadinanza": [
+      {
+        "cittadinanza": "Italia",
+        "totale": 8651
+      },
+      {
+        "cittadinanza": "Altri paesi",
+        "totale": 670
+      },
+      {
+        "cittadinanza": "Filippine",
+        "totale": 233
+      },
+      {
+        "cittadinanza": "Cina",
+        "totale": 99
+      },
+      {
+        "cittadinanza": "Perù",
+        "totale": 91
+      },
+      {
+        "cittadinanza": "Egitto",
+        "totale": 77
+      },
+      {
+        "cittadinanza": "Sri Lanka",
+        "totale": 55
+      },
+      {
+        "cittadinanza": "Ecuador",
+        "totale": 35
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "nilId": 33,
+  "nilName": "ROGOREDO - SANTA GIULIA",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 1688,
+      "colore": "#3b82f6",
+      "percentuale": 42.4
+    },
+    {
+      "residenti": "2",
+      "valore": 1014,
+      "colore": "#8b5cf6",
+      "percentuale": 25.4
+    },
+    {
+      "residenti": "3",
+      "valore": 723,
+      "colore": "#ec4899",
+      "percentuale": 18.1
+    },
+    {
+      "residenti": "4",
+      "valore": 469,
+      "colore": "#f59e0b",
+      "percentuale": 11.8
+    },
+    {
+      "residenti": "5+",
+      "valore": 91,
+      "colore": "#22c55e",
+      "percentuale": 2.3
+    }
+  ],
+  "totaleAbitazioni": 3985,
+  "famiglieSingole": 3935,
+  "famiglieCoabitanti": 50,
+  "nuoviEdifici": {
+    "fabbricati": 2,
+    "abitazioni": 738,
+    "superficieMq": 43470,
+    "volumeMc": 204610,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

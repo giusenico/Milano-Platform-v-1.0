@@ -1,0 +1,33 @@
+{
+  "nilId": 33,
+  "nilName": "ROGOREDO - SANTA GIULIA",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 1438,
+      "percentuale": 17.4
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 1840,
+      "percentuale": 22.2
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 2653,
+      "percentuale": 32.1
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 1731,
+      "percentuale": 20.9
+    }
+  ],
+  "totale": 8277,
+  "pctLaureati": 20.9,
+  "anno": 2011
+}

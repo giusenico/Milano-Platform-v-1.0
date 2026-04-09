@@ -1,0 +1,47 @@
+{
+  "nilId": 71,
+  "nilName": "VILLAPIZZONE - CAGNOLA - BOLDINASCO",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 7534,
+      "colore": "#3b82f6",
+      "percentuale": 43.8
+    },
+    {
+      "residenti": "2",
+      "valore": 4530,
+      "colore": "#8b5cf6",
+      "percentuale": 26.3
+    },
+    {
+      "residenti": "3",
+      "valore": 2808,
+      "colore": "#ec4899",
+      "percentuale": 16.3
+    },
+    {
+      "residenti": "4",
+      "valore": 1660,
+      "colore": "#f59e0b",
+      "percentuale": 9.6
+    },
+    {
+      "residenti": "5+",
+      "valore": 673,
+      "colore": "#22c55e",
+      "percentuale": 3.9
+    }
+  ],
+  "totaleAbitazioni": 17205,
+  "famiglieSingole": 16908,
+  "famiglieCoabitanti": 297,
+  "nuoviEdifici": {
+    "fabbricati": 8,
+    "abitazioni": 522,
+    "superficieMq": 35379,
+    "volumeMc": 250607,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

@@ -1,0 +1,206 @@
+{
+  "nil": "PORTELLO",
+  "nilLabel": "PORTELLO",
+  "idNil": 67,
+  "match": {
+    "matchType": "id",
+    "confidence": 1
+  },
+  "latestYear": 2021,
+  "timeSeries": [
+    {
+      "anno": 2007,
+      "nil": "Portello",
+      "nil_label": "Portello (67)",
+      "totale_famiglie": 3778
+    },
+    {
+      "anno": 2008,
+      "nil": "Portello",
+      "nil_label": "Portello (67)",
+      "totale_famiglie": 3774
+    },
+    {
+      "anno": 2009,
+      "nil": "Portello",
+      "nil_label": "Portello (67)",
+      "totale_famiglie": 3783
+    },
+    {
+      "anno": 2010,
+      "nil": "Portello",
+      "nil_label": "Portello (67)",
+      "totale_famiglie": 3866
+    },
+    {
+      "anno": 2011,
+      "nil": "Portello",
+      "nil_label": "Portello (67)",
+      "totale_famiglie": 3895
+    },
+    {
+      "anno": 2012,
+      "nil": "Portello",
+      "nil_label": "Portello (67)",
+      "totale_famiglie": 3913
+    },
+    {
+      "anno": 2013,
+      "nil": "Portello",
+      "nil_label": "Portello (67)",
+      "totale_famiglie": 3890
+    },
+    {
+      "anno": 2014,
+      "nil": "Portello",
+      "nil_label": "Portello (67)",
+      "totale_famiglie": 3923
+    },
+    {
+      "anno": 2015,
+      "nil": "Portello",
+      "nil_label": "Portello (67)",
+      "totale_famiglie": 3978
+    },
+    {
+      "anno": 2016,
+      "nil": "Portello",
+      "nil_label": "Portello (67)",
+      "totale_famiglie": 4089
+    },
+    {
+      "anno": 2017,
+      "nil": "Portello",
+      "nil_label": "Portello (67)",
+      "totale_famiglie": 4192
+    },
+    {
+      "anno": 2018,
+      "nil": "Portello",
+      "nil_label": "Portello (67)",
+      "totale_famiglie": 4289
+    },
+    {
+      "anno": 2019,
+      "nil": "Portello",
+      "nil_label": "Portello (67)",
+      "totale_famiglie": 4495
+    },
+    {
+      "anno": 2020,
+      "nil": "Portello",
+      "nil_label": "Portello (67)",
+      "totale_famiglie": 4629
+    },
+    {
+      "anno": 2021,
+      "nil": "Portello",
+      "nil_label": "Portello (67)",
+      "totale_famiglie": 4630
+    }
+  ],
+  "crescitaFamiglieYoY": 0.02,
+  "amenities": {
+    "pubblici_esercizi": 58,
+    "mercati": 0,
+    "farmacie": 4,
+    "scuole": 6,
+    "biblioteche": 0
+  },
+  "breakdown": {
+    "tipologie": [
+      {
+        "tipologia_familiare": "Single",
+        "totale": 2194
+      },
+      {
+        "tipologia_familiare": "Coppia sposata senza figli",
+        "totale": 791
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con almeno un figlio minorenne",
+        "totale": 518
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con figli tutti maggiorenni",
+        "totale": 310
+      },
+      {
+        "tipologia_familiare": "Monogenitore con figli tutti maggiorenni",
+        "totale": 267
+      },
+      {
+        "tipologia_familiare": "Monogenitore con almeno un figlio minorenne",
+        "totale": 194
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con almeno un figlio minorenne",
+        "totale": 142
+      },
+      {
+        "tipologia_familiare": "Coppia convivente senza figli",
+        "totale": 112
+      },
+      {
+        "tipologia_familiare": "Altre tipologie",
+        "totale": 92
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con figli tutti maggiorenni",
+        "totale": 10
+      }
+    ],
+    "classiEta": [
+      {
+        "classe_eta_capofamiglia": "Da 35 a 64 anni",
+        "totale": 2316
+      },
+      {
+        "classe_eta_capofamiglia": "80 anni e più",
+        "totale": 969
+      },
+      {
+        "classe_eta_capofamiglia": "Da 65 a 79 anni",
+        "totale": 897
+      },
+      {
+        "classe_eta_capofamiglia": "Da 18 a 34 anni",
+        "totale": 448
+      }
+    ],
+    "cittadinanza": [
+      {
+        "cittadinanza": "Italia",
+        "totale": 4131
+      },
+      {
+        "cittadinanza": "Altri paesi",
+        "totale": 302
+      },
+      {
+        "cittadinanza": "Cina",
+        "totale": 64
+      },
+      {
+        "cittadinanza": "Filippine",
+        "totale": 51
+      },
+      {
+        "cittadinanza": "Perù",
+        "totale": 35
+      },
+      {
+        "cittadinanza": "Sri Lanka",
+        "totale": 27
+      },
+      {
+        "cittadinanza": "Ecuador",
+        "totale": 11
+      },
+      {
+        "cittadinanza": "Egitto",
+        "totale": 9
+      }
+    ]
+  }
+}

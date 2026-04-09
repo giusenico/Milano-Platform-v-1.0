@@ -1,0 +1,46 @@
+{
+  "nilId": 45,
+  "nilName": "MONCUCCO - SAN CRISTOFORO",
+  "farmacie": {
+    "totale": 5,
+    "lista": [
+      {
+        "descrizione_farmacia": "MONCUCCO SAS",
+        "indirizzo": "VIA RIMINI, 29",
+        "cap": "20142"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 53",
+        "indirizzo": "VIA ETTORE PONTI, 31",
+        "cap": "20143"
+      },
+      {
+        "descrizione_farmacia": "DINAMICA SRL",
+        "indirizzo": "VIA LODOVICO IL MORO, 3",
+        "cap": "20143"
+      },
+      {
+        "descrizione_farmacia": "IMPERIA SNC",
+        "indirizzo": "VIA SPEZIA, 20",
+        "cap": "20142"
+      },
+      {
+        "descrizione_farmacia": "BARONA SAS",
+        "indirizzo": "PIAZZA GUGLIELMO MIANI, 3",
+        "cap": "20143"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 12,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 13744,
+  "rapporti": {
+    "abitantiPerFarmacia": 2749,
+    "abitantiPerMedico": 1145
+  },
+  "scoreHealthcare": 85,
+  "qualitaServizio": "Ottimo"
+}

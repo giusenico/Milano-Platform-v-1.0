@@ -1,0 +1,56 @@
+{
+  "nilId": 49,
+  "nilName": "GIAMBELLINO",
+  "farmacie": {
+    "totale": 7,
+    "lista": [
+      {
+        "descrizione_farmacia": "GIAMBELLINO",
+        "indirizzo": "VIA GIAMBELLINO, 64",
+        "cap": "20146"
+      },
+      {
+        "descrizione_farmacia": "SAN CRISTOFORO SAS",
+        "indirizzo": "PIAZZA TIRANA,2",
+        "cap": "20147"
+      },
+      {
+        "descrizione_farmacia": "BIAZZI DELLA DR.SSA BIAZZI VALERIA SAS",
+        "indirizzo": "VIA GIAMBELLINO,131/5",
+        "cap": "20147"
+      },
+      {
+        "descrizione_farmacia": "TOLSTOJ",
+        "indirizzo": "VIA LEONE TOLSTOI, 17",
+        "cap": "20146"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 31",
+        "indirizzo": "VIA TITO VIGNOLI, 42",
+        "cap": "20146"
+      },
+      {
+        "descrizione_farmacia": "SCALABRINI SRL SOCIETA' A SOCIO UNICO",
+        "indirizzo": "LARGO GIOVANNI BATTISTA SCALABRINI, 6",
+        "cap": "20146"
+      },
+      {
+        "descrizione_farmacia": "INTERNAZIONALE BOLIVAR",
+        "indirizzo": "PIAZZA SIMONE BOLIVAR, 11",
+        "cap": "20146"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 7,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 30905,
+  "rapporti": {
+    "abitantiPerFarmacia": 4415,
+    "abitantiPerMedico": 4415
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

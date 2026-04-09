@@ -1,0 +1,41 @@
+{
+  "nilId": 51,
+  "nil": "PORTA MAGENTA",
+  "investorScore": 26.4,
+  "riskLevel": "Alto",
+  "riskColor": "#ef4444",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 85,
+    "verde": 63,
+    "popolazione": 17,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 26758,
+      "media": 15753,
+      "delta": 11004.761363636364
+    },
+    "densita": {
+      "nil": 20482.219375694687,
+      "media": 8881.290415418553,
+      "deltaPercent": 130.6
+    },
+    "stranieri": {
+      "nil": 9.417744226025862,
+      "media": 21.360484986780587,
+      "delta": -11.9
+    },
+    "verde": {
+      "nil": 4.482612156972933,
+      "media": 8.1171861884842,
+      "deltaPercent": -44.8
+    },
+    "qualitaVita": {
+      "nil": 21.298408605224417,
+      "media": 39.6877862711082,
+      "deltaPercent": -46.3
+    }
+  }
+}

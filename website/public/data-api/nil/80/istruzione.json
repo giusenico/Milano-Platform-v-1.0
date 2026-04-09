@@ -1,0 +1,33 @@
+{
+  "nilId": 80,
+  "nilName": "AFFORI",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 4457,
+      "percentuale": 21
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 5730,
+      "percentuale": 27
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 6737,
+      "percentuale": 31.7
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 2895,
+      "percentuale": 13.6
+    }
+  ],
+  "totale": 21223,
+  "pctLaureati": 13.6,
+  "anno": 2011
+}

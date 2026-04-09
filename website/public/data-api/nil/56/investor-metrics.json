@@ -1,0 +1,41 @@
+{
+  "nilId": 56,
+  "nil": "FORZE ARMATE",
+  "investorScore": 44.7,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 6,
+    "verde": 13,
+    "popolazione": 21,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 25022,
+      "media": 15753,
+      "delta": 9268.761363636364
+    },
+    "densita": {
+      "nil": 7802.835860982437,
+      "media": 8881.290415418553,
+      "deltaPercent": -12.1
+    },
+    "stranieri": {
+      "nil": 21.33722324354568,
+      "media": 21.360484986780587,
+      "delta": 0
+    },
+    "verde": {
+      "nil": 12.550493296809785,
+      "media": 8.1171861884842,
+      "deltaPercent": 54.6
+    },
+    "qualitaVita": {
+      "nil": 55.56471874574834,
+      "media": 39.6877862711082,
+      "deltaPercent": 40
+    }
+  }
+}

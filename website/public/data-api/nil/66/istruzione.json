@@ -1,0 +1,33 @@
+{
+  "nilId": 66,
+  "nilName": "QT 8",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 592,
+      "percentuale": 15.3
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 655,
+      "percentuale": 16.9
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 1309,
+      "percentuale": 33.7
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 1180,
+      "percentuale": 30.4
+    }
+  ],
+  "totale": 3880,
+  "pctLaureati": 30.4,
+  "anno": 2011
+}

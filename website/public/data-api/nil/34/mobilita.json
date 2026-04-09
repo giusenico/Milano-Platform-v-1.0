@@ -1,0 +1,45 @@
+{
+  "nilId": 34,
+  "nilName": "CHIARAVALLE",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 253,
+      "percentuale": 44.3,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 219,
+      "percentuale": 38.4,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 42,
+      "percentuale": 7.4,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 38,
+      "percentuale": 6.7,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 19,
+      "percentuale": 3.3,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 571,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 45.8,
+  "anno": 2011
+}

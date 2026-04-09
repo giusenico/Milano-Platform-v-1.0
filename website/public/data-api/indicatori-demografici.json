@@ -1,0 +1,2287 @@
+{
+  "indicatori": [
+    {
+      "indicatore": "'Saldo migratorio con l\"'estero (per mille abitanti)'",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 4.5
+        },
+        {
+          "anno": 2003,
+          "valore": 8.3
+        },
+        {
+          "anno": 2004,
+          "valore": 16.9
+        },
+        {
+          "anno": 2005,
+          "valore": 8.2
+        },
+        {
+          "anno": 2006,
+          "valore": 6
+        },
+        {
+          "anno": 2007,
+          "valore": 6.3
+        },
+        {
+          "anno": 2008,
+          "valore": 5.6
+        },
+        {
+          "anno": 2009,
+          "valore": 8
+        },
+        {
+          "anno": 2010,
+          "valore": 8.7
+        },
+        {
+          "anno": 2011,
+          "valore": 9.3
+        },
+        {
+          "anno": 2012,
+          "valore": 7.6
+        },
+        {
+          "anno": 2013,
+          "valore": 7.6
+        },
+        {
+          "anno": 2014,
+          "valore": 4.2
+        },
+        {
+          "anno": 2015,
+          "valore": 2.4
+        },
+        {
+          "anno": 2016,
+          "valore": 1.7
+        },
+        {
+          "anno": 2017,
+          "valore": 3.4
+        },
+        {
+          "anno": 2018,
+          "valore": 3.2
+        },
+        {
+          "anno": 2019,
+          "valore": 5.1
+        },
+        {
+          "anno": 2020,
+          "valore": 3.1
+        },
+        {
+          "anno": 2021,
+          "valore": 4.2
+        },
+        {
+          "anno": 2022,
+          "valore": 7.1
+        },
+        {
+          "anno": 2023,
+          "valore": 9
+        },
+        {
+          "anno": 2024,
+          "valore": 6.8
+        }
+      ]
+    },
+    {
+      "indicatore": "Crescita naturale (per mille abitanti)",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 0.2
+        },
+        {
+          "anno": 2003,
+          "valore": 0
+        },
+        {
+          "anno": 2004,
+          "valore": 1.2
+        },
+        {
+          "anno": 2005,
+          "valore": 0.8
+        },
+        {
+          "anno": 2006,
+          "valore": 1
+        },
+        {
+          "anno": 2007,
+          "valore": 1.3
+        },
+        {
+          "anno": 2008,
+          "valore": 0.7
+        },
+        {
+          "anno": 2009,
+          "valore": 0.8
+        },
+        {
+          "anno": 2010,
+          "valore": 0.7
+        },
+        {
+          "anno": 2011,
+          "valore": 0.5
+        },
+        {
+          "anno": 2012,
+          "valore": -0.2
+        },
+        {
+          "anno": 2013,
+          "valore": -0.1
+        },
+        {
+          "anno": 2014,
+          "valore": 0
+        },
+        {
+          "anno": 2015,
+          "valore": -1.2
+        },
+        {
+          "anno": 2016,
+          "valore": -0.8
+        },
+        {
+          "anno": 2017,
+          "valore": -1.5
+        },
+        {
+          "anno": 2018,
+          "valore": -1.7
+        },
+        {
+          "anno": 2019,
+          "valore": -2.2
+        },
+        {
+          "anno": 2020,
+          "valore": -5.5
+        },
+        {
+          "anno": 2021,
+          "valore": -3.2
+        },
+        {
+          "anno": 2022,
+          "valore": -3.9
+        },
+        {
+          "anno": 2023,
+          "valore": -3.4
+        },
+        {
+          "anno": 2024,
+          "valore": -3.2
+        }
+      ]
+    },
+    {
+      "indicatore": "Età media della madre al parto",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 31.4
+        },
+        {
+          "anno": 2003,
+          "valore": 31.6
+        },
+        {
+          "anno": 2004,
+          "valore": 31.4
+        },
+        {
+          "anno": 2005,
+          "valore": 31.4
+        },
+        {
+          "anno": 2006,
+          "valore": 31.4
+        },
+        {
+          "anno": 2007,
+          "valore": 31.5
+        },
+        {
+          "anno": 2008,
+          "valore": 31.6
+        },
+        {
+          "anno": 2009,
+          "valore": 31.6
+        },
+        {
+          "anno": 2010,
+          "valore": 31.8
+        },
+        {
+          "anno": 2011,
+          "valore": 31.8
+        },
+        {
+          "anno": 2012,
+          "valore": 31.9
+        },
+        {
+          "anno": 2013,
+          "valore": 31.9
+        },
+        {
+          "anno": 2014,
+          "valore": 32
+        },
+        {
+          "anno": 2015,
+          "valore": 32.2
+        },
+        {
+          "anno": 2016,
+          "valore": 32.3
+        },
+        {
+          "anno": 2017,
+          "valore": 32.4
+        },
+        {
+          "anno": 2018,
+          "valore": 32.5
+        },
+        {
+          "anno": 2019,
+          "valore": 32.7
+        },
+        {
+          "anno": 2020,
+          "valore": 32.8
+        },
+        {
+          "anno": 2021,
+          "valore": 33.2
+        },
+        {
+          "anno": 2022,
+          "valore": 33.2
+        },
+        {
+          "anno": 2023,
+          "valore": 33.3
+        },
+        {
+          "anno": 2024,
+          "valore": 33.4
+        }
+      ]
+    },
+    {
+      "indicatore": "Età media della popolazione - al 1° gennaio",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 43.1
+        },
+        {
+          "anno": 2003,
+          "valore": 43.4
+        },
+        {
+          "anno": 2004,
+          "valore": 43.5
+        },
+        {
+          "anno": 2005,
+          "valore": 43.6
+        },
+        {
+          "anno": 2006,
+          "valore": 43.7
+        },
+        {
+          "anno": 2007,
+          "valore": 43.9
+        },
+        {
+          "anno": 2008,
+          "valore": 44
+        },
+        {
+          "anno": 2009,
+          "valore": 44.2
+        },
+        {
+          "anno": 2010,
+          "valore": 44.3
+        },
+        {
+          "anno": 2011,
+          "valore": 44.4
+        },
+        {
+          "anno": 2012,
+          "valore": 44.5
+        },
+        {
+          "anno": 2013,
+          "valore": 44.5
+        },
+        {
+          "anno": 2014,
+          "valore": 44.6
+        },
+        {
+          "anno": 2015,
+          "valore": 44.7
+        },
+        {
+          "anno": 2016,
+          "valore": 44.9
+        },
+        {
+          "anno": 2017,
+          "valore": 45.1
+        },
+        {
+          "anno": 2018,
+          "valore": 45.2
+        },
+        {
+          "anno": 2019,
+          "valore": 45.3
+        },
+        {
+          "anno": 2020,
+          "valore": 45.5
+        },
+        {
+          "anno": 2021,
+          "valore": 45.5
+        },
+        {
+          "anno": 2022,
+          "valore": 45.7
+        },
+        {
+          "anno": 2023,
+          "valore": 45.8
+        },
+        {
+          "anno": 2024,
+          "valore": 45.9
+        },
+        {
+          "anno": 2025,
+          "valore": 46.1
+        }
+      ]
+    },
+    {
+      "indicatore": "Indice di dipendenza degli anziani (valori percentuali) - al 1° gennaio",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 27.3
+        },
+        {
+          "anno": 2003,
+          "valore": 28.2
+        },
+        {
+          "anno": 2004,
+          "valore": 29.1
+        },
+        {
+          "anno": 2005,
+          "valore": 29.7
+        },
+        {
+          "anno": 2006,
+          "valore": 30.8
+        },
+        {
+          "anno": 2007,
+          "valore": 31.6
+        },
+        {
+          "anno": 2008,
+          "valore": 32.4
+        },
+        {
+          "anno": 2009,
+          "valore": 32.9
+        },
+        {
+          "anno": 2010,
+          "valore": 33.3
+        },
+        {
+          "anno": 2011,
+          "valore": 33.3
+        },
+        {
+          "anno": 2012,
+          "valore": 34.1
+        },
+        {
+          "anno": 2013,
+          "valore": 34.5
+        },
+        {
+          "anno": 2014,
+          "valore": 34.9
+        },
+        {
+          "anno": 2015,
+          "valore": 35.3
+        },
+        {
+          "anno": 2016,
+          "valore": 35.5
+        },
+        {
+          "anno": 2017,
+          "valore": 35.6
+        },
+        {
+          "anno": 2018,
+          "valore": 35.7
+        },
+        {
+          "anno": 2019,
+          "valore": 35.7
+        },
+        {
+          "anno": 2020,
+          "valore": 35.7
+        },
+        {
+          "anno": 2021,
+          "valore": 35.3
+        },
+        {
+          "anno": 2022,
+          "valore": 35.7
+        },
+        {
+          "anno": 2023,
+          "valore": 35.6
+        },
+        {
+          "anno": 2024,
+          "valore": 35.5
+        },
+        {
+          "anno": 2025,
+          "valore": 35.8
+        }
+      ]
+    },
+    {
+      "indicatore": "Indice di dipendenza strutturale (valori percentuali) - al 1° gennaio",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 45.3
+        },
+        {
+          "anno": 2003,
+          "valore": 46.7
+        },
+        {
+          "anno": 2004,
+          "valore": 48
+        },
+        {
+          "anno": 2005,
+          "valore": 49
+        },
+        {
+          "anno": 2006,
+          "valore": 50.5
+        },
+        {
+          "anno": 2007,
+          "valore": 51.9
+        },
+        {
+          "anno": 2008,
+          "valore": 53
+        },
+        {
+          "anno": 2009,
+          "valore": 53.9
+        },
+        {
+          "anno": 2010,
+          "valore": 54.6
+        },
+        {
+          "anno": 2011,
+          "valore": 54.8
+        },
+        {
+          "anno": 2012,
+          "valore": 55.6
+        },
+        {
+          "anno": 2013,
+          "valore": 56.2
+        },
+        {
+          "anno": 2014,
+          "valore": 56.7
+        },
+        {
+          "anno": 2015,
+          "valore": 57.1
+        },
+        {
+          "anno": 2016,
+          "valore": 57.2
+        },
+        {
+          "anno": 2017,
+          "valore": 57.3
+        },
+        {
+          "anno": 2018,
+          "valore": 57.1
+        },
+        {
+          "anno": 2019,
+          "valore": 56.9
+        },
+        {
+          "anno": 2020,
+          "valore": 56.5
+        },
+        {
+          "anno": 2021,
+          "valore": 55.9
+        },
+        {
+          "anno": 2022,
+          "valore": 56.1
+        },
+        {
+          "anno": 2023,
+          "valore": 55.5
+        },
+        {
+          "anno": 2024,
+          "valore": 54.8
+        },
+        {
+          "anno": 2025,
+          "valore": 54.6
+        }
+      ]
+    },
+    {
+      "indicatore": "Indice di vecchiaia (valori percentuali) - al 1° gennaio",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 150.9
+        },
+        {
+          "anno": 2003,
+          "valore": 151.9
+        },
+        {
+          "anno": 2004,
+          "valore": 153.9
+        },
+        {
+          "anno": 2005,
+          "valore": 154.3
+        },
+        {
+          "anno": 2006,
+          "valore": 155.5
+        },
+        {
+          "anno": 2007,
+          "valore": 156
+        },
+        {
+          "anno": 2008,
+          "valore": 156.9
+        },
+        {
+          "anno": 2009,
+          "valore": 156.8
+        },
+        {
+          "anno": 2010,
+          "valore": 156.2
+        },
+        {
+          "anno": 2011,
+          "valore": 155.6
+        },
+        {
+          "anno": 2012,
+          "valore": 158.2
+        },
+        {
+          "anno": 2013,
+          "valore": 158.8
+        },
+        {
+          "anno": 2014,
+          "valore": 159.9
+        },
+        {
+          "anno": 2015,
+          "valore": 161.5
+        },
+        {
+          "anno": 2016,
+          "valore": 163.1
+        },
+        {
+          "anno": 2017,
+          "valore": 164.9
+        },
+        {
+          "anno": 2018,
+          "valore": 166.4
+        },
+        {
+          "anno": 2019,
+          "valore": 168.8
+        },
+        {
+          "anno": 2020,
+          "valore": 172
+        },
+        {
+          "anno": 2021,
+          "valore": 171.9
+        },
+        {
+          "anno": 2022,
+          "valore": 175.6
+        },
+        {
+          "anno": 2023,
+          "valore": 179.6
+        },
+        {
+          "anno": 2024,
+          "valore": 184.8
+        },
+        {
+          "anno": 2025,
+          "valore": 191.2
+        }
+      ]
+    },
+    {
+      "indicatore": "Numero medio di figli per donna",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 1.24
+        },
+        {
+          "anno": 2003,
+          "valore": 1.26
+        },
+        {
+          "anno": 2004,
+          "valore": 1.35
+        },
+        {
+          "anno": 2005,
+          "valore": 1.35
+        },
+        {
+          "anno": 2006,
+          "valore": 1.4
+        },
+        {
+          "anno": 2007,
+          "valore": 1.45
+        },
+        {
+          "anno": 2008,
+          "valore": 1.5
+        },
+        {
+          "anno": 2009,
+          "valore": 1.52
+        },
+        {
+          "anno": 2010,
+          "valore": 1.53
+        },
+        {
+          "anno": 2011,
+          "valore": 1.49
+        },
+        {
+          "anno": 2012,
+          "valore": 1.49
+        },
+        {
+          "anno": 2013,
+          "valore": 1.47
+        },
+        {
+          "anno": 2014,
+          "valore": 1.46
+        },
+        {
+          "anno": 2015,
+          "valore": 1.44
+        },
+        {
+          "anno": 2016,
+          "valore": 1.44
+        },
+        {
+          "anno": 2017,
+          "valore": 1.4
+        },
+        {
+          "anno": 2018,
+          "valore": 1.34
+        },
+        {
+          "anno": 2019,
+          "valore": 1.29
+        },
+        {
+          "anno": 2020,
+          "valore": 1.24
+        },
+        {
+          "anno": 2021,
+          "valore": 1.24
+        },
+        {
+          "anno": 2022,
+          "valore": 1.22
+        },
+        {
+          "anno": 2023,
+          "valore": 1.17
+        },
+        {
+          "anno": 2024,
+          "valore": 1.13
+        }
+      ]
+    },
+    {
+      "indicatore": "Popolazione 0-14 anni (valori percentuali) - al 1° gennaio",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 12.4
+        },
+        {
+          "anno": 2003,
+          "valore": 12.6
+        },
+        {
+          "anno": 2004,
+          "valore": 12.8
+        },
+        {
+          "anno": 2005,
+          "valore": 12.9
+        },
+        {
+          "anno": 2006,
+          "valore": 13.1
+        },
+        {
+          "anno": 2007,
+          "valore": 13.3
+        },
+        {
+          "anno": 2008,
+          "valore": 13.5
+        },
+        {
+          "anno": 2009,
+          "valore": 13.6
+        },
+        {
+          "anno": 2010,
+          "valore": 13.8
+        },
+        {
+          "anno": 2011,
+          "valore": 13.8
+        },
+        {
+          "anno": 2012,
+          "valore": 13.8
+        },
+        {
+          "anno": 2013,
+          "valore": 13.9
+        },
+        {
+          "anno": 2014,
+          "valore": 13.9
+        },
+        {
+          "anno": 2015,
+          "valore": 13.9
+        },
+        {
+          "anno": 2016,
+          "valore": 13.8
+        },
+        {
+          "anno": 2017,
+          "valore": 13.7
+        },
+        {
+          "anno": 2018,
+          "valore": 13.6
+        },
+        {
+          "anno": 2019,
+          "valore": 13.5
+        },
+        {
+          "anno": 2020,
+          "valore": 13.3
+        },
+        {
+          "anno": 2021,
+          "valore": 13.2
+        },
+        {
+          "anno": 2022,
+          "valore": 13
+        },
+        {
+          "anno": 2023,
+          "valore": 12.8
+        },
+        {
+          "anno": 2024,
+          "valore": 12.4
+        },
+        {
+          "anno": 2025,
+          "valore": 12.1
+        }
+      ]
+    },
+    {
+      "indicatore": "Popolazione 15-64 anni (valori percentuali) - al 1° gennaio",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 68.8
+        },
+        {
+          "anno": 2003,
+          "valore": 68.2
+        },
+        {
+          "anno": 2004,
+          "valore": 67.6
+        },
+        {
+          "anno": 2005,
+          "valore": 67.1
+        },
+        {
+          "anno": 2006,
+          "valore": 66.4
+        },
+        {
+          "anno": 2007,
+          "valore": 65.8
+        },
+        {
+          "anno": 2008,
+          "valore": 65.4
+        },
+        {
+          "anno": 2009,
+          "valore": 65
+        },
+        {
+          "anno": 2010,
+          "valore": 64.7
+        },
+        {
+          "anno": 2011,
+          "valore": 64.6
+        },
+        {
+          "anno": 2012,
+          "valore": 64.3
+        },
+        {
+          "anno": 2013,
+          "valore": 64
+        },
+        {
+          "anno": 2014,
+          "valore": 63.8
+        },
+        {
+          "anno": 2015,
+          "valore": 63.7
+        },
+        {
+          "anno": 2016,
+          "valore": 63.6
+        },
+        {
+          "anno": 2017,
+          "valore": 63.6
+        },
+        {
+          "anno": 2018,
+          "valore": 63.6
+        },
+        {
+          "anno": 2019,
+          "valore": 63.8
+        },
+        {
+          "anno": 2020,
+          "valore": 63.9
+        },
+        {
+          "anno": 2021,
+          "valore": 64.1
+        },
+        {
+          "anno": 2022,
+          "valore": 64.1
+        },
+        {
+          "anno": 2023,
+          "valore": 64.3
+        },
+        {
+          "anno": 2024,
+          "valore": 64.6
+        },
+        {
+          "anno": 2025,
+          "valore": 64.7
+        }
+      ]
+    },
+    {
+      "indicatore": "Popolazione 65 anni e più (valori percentuali) - al 1° gennaio",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 18.8
+        },
+        {
+          "anno": 2003,
+          "valore": 19.2
+        },
+        {
+          "anno": 2004,
+          "valore": 19.7
+        },
+        {
+          "anno": 2005,
+          "valore": 20
+        },
+        {
+          "anno": 2006,
+          "valore": 20.4
+        },
+        {
+          "anno": 2007,
+          "valore": 20.8
+        },
+        {
+          "anno": 2008,
+          "valore": 21.2
+        },
+        {
+          "anno": 2009,
+          "valore": 21.4
+        },
+        {
+          "anno": 2010,
+          "valore": 21.5
+        },
+        {
+          "anno": 2011,
+          "valore": 21.5
+        },
+        {
+          "anno": 2012,
+          "valore": 21.9
+        },
+        {
+          "anno": 2013,
+          "valore": 22.1
+        },
+        {
+          "anno": 2014,
+          "valore": 22.3
+        },
+        {
+          "anno": 2015,
+          "valore": 22.4
+        },
+        {
+          "anno": 2016,
+          "valore": 22.6
+        },
+        {
+          "anno": 2017,
+          "valore": 22.7
+        },
+        {
+          "anno": 2018,
+          "valore": 22.7
+        },
+        {
+          "anno": 2019,
+          "valore": 22.8
+        },
+        {
+          "anno": 2020,
+          "valore": 22.8
+        },
+        {
+          "anno": 2021,
+          "valore": 22.7
+        },
+        {
+          "anno": 2022,
+          "valore": 22.9
+        },
+        {
+          "anno": 2023,
+          "valore": 22.9
+        },
+        {
+          "anno": 2024,
+          "valore": 23
+        },
+        {
+          "anno": 2025,
+          "valore": 23.2
+        }
+      ]
+    },
+    {
+      "indicatore": "Saldo migratorio interno (per mille abitanti)",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": -5.6
+        },
+        {
+          "anno": 2003,
+          "valore": -6.5
+        },
+        {
+          "anno": 2004,
+          "valore": -3.9
+        },
+        {
+          "anno": 2005,
+          "valore": -4.8
+        },
+        {
+          "anno": 2006,
+          "valore": -6
+        },
+        {
+          "anno": 2007,
+          "valore": -5.3
+        },
+        {
+          "anno": 2008,
+          "valore": -3.9
+        },
+        {
+          "anno": 2009,
+          "valore": -1.7
+        },
+        {
+          "anno": 2010,
+          "valore": -0.1
+        },
+        {
+          "anno": 2011,
+          "valore": 0.5
+        },
+        {
+          "anno": 2012,
+          "valore": 2.4
+        },
+        {
+          "anno": 2013,
+          "valore": 4.7
+        },
+        {
+          "anno": 2014,
+          "valore": 3.1
+        },
+        {
+          "anno": 2015,
+          "valore": 3.2
+        },
+        {
+          "anno": 2016,
+          "valore": 3.6
+        },
+        {
+          "anno": 2017,
+          "valore": 3.7
+        },
+        {
+          "anno": 2018,
+          "valore": 3.9
+        },
+        {
+          "anno": 2019,
+          "valore": 3
+        },
+        {
+          "anno": 2020,
+          "valore": 0.3
+        },
+        {
+          "anno": 2021,
+          "valore": -0.6
+        },
+        {
+          "anno": 2022,
+          "valore": -0.1
+        },
+        {
+          "anno": 2023,
+          "valore": 0.5
+        },
+        {
+          "anno": 2024,
+          "valore": -1.9
+        }
+      ]
+    },
+    {
+      "indicatore": "Saldo migratorio totale (per mille abitanti)",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": -1.1
+        },
+        {
+          "anno": 2003,
+          "valore": 1.8
+        },
+        {
+          "anno": 2004,
+          "valore": 13
+        },
+        {
+          "anno": 2005,
+          "valore": 3.4
+        },
+        {
+          "anno": 2006,
+          "valore": 0
+        },
+        {
+          "anno": 2007,
+          "valore": 1.1
+        },
+        {
+          "anno": 2008,
+          "valore": 1.7
+        },
+        {
+          "anno": 2009,
+          "valore": 6.3
+        },
+        {
+          "anno": 2010,
+          "valore": 8.6
+        },
+        {
+          "anno": 2011,
+          "valore": 9.9
+        },
+        {
+          "anno": 2012,
+          "valore": 9.9
+        },
+        {
+          "anno": 2013,
+          "valore": 12.2
+        },
+        {
+          "anno": 2014,
+          "valore": 7.2
+        },
+        {
+          "anno": 2015,
+          "valore": 5.6
+        },
+        {
+          "anno": 2016,
+          "valore": 5.3
+        },
+        {
+          "anno": 2017,
+          "valore": 7.1
+        },
+        {
+          "anno": 2018,
+          "valore": 7.1
+        },
+        {
+          "anno": 2019,
+          "valore": 8.1
+        },
+        {
+          "anno": 2020,
+          "valore": 3.4
+        },
+        {
+          "anno": 2021,
+          "valore": 3.6
+        },
+        {
+          "anno": 2022,
+          "valore": 7
+        },
+        {
+          "anno": 2023,
+          "valore": 9.5
+        },
+        {
+          "anno": 2024,
+          "valore": 4.9
+        }
+      ]
+    },
+    {
+      "indicatore": "Speranza di vita a 65 anni - femmine",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 21.1
+        },
+        {
+          "anno": 2003,
+          "valore": 20.9
+        },
+        {
+          "anno": 2004,
+          "valore": 21.8
+        },
+        {
+          "anno": 2005,
+          "valore": 21.6
+        },
+        {
+          "anno": 2006,
+          "valore": 22
+        },
+        {
+          "anno": 2007,
+          "valore": 22.2
+        },
+        {
+          "anno": 2008,
+          "valore": 21.8
+        },
+        {
+          "anno": 2009,
+          "valore": 22.2
+        },
+        {
+          "anno": 2010,
+          "valore": 22.3
+        },
+        {
+          "anno": 2011,
+          "valore": 22.6
+        },
+        {
+          "anno": 2012,
+          "valore": 22.4
+        },
+        {
+          "anno": 2013,
+          "valore": 22.9
+        },
+        {
+          "anno": 2014,
+          "valore": 23.2
+        },
+        {
+          "anno": 2015,
+          "valore": 22.6
+        },
+        {
+          "anno": 2016,
+          "valore": 23.2
+        },
+        {
+          "anno": 2017,
+          "valore": 23
+        },
+        {
+          "anno": 2018,
+          "valore": 23.4
+        },
+        {
+          "anno": 2019,
+          "valore": 23.3
+        },
+        {
+          "anno": 2020,
+          "valore": 21.7
+        },
+        {
+          "anno": 2021,
+          "valore": 22.9
+        },
+        {
+          "anno": 2022,
+          "valore": 22.6
+        },
+        {
+          "anno": 2023,
+          "valore": 23.2
+        },
+        {
+          "anno": 2024,
+          "valore": 23.5
+        }
+      ]
+    },
+    {
+      "indicatore": "Speranza di vita a 65 anni - maschi",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 16.8
+        },
+        {
+          "anno": 2003,
+          "valore": 16.9
+        },
+        {
+          "anno": 2004,
+          "valore": 17.4
+        },
+        {
+          "anno": 2005,
+          "valore": 17.6
+        },
+        {
+          "anno": 2006,
+          "valore": 18
+        },
+        {
+          "anno": 2007,
+          "valore": 18.3
+        },
+        {
+          "anno": 2008,
+          "valore": 18
+        },
+        {
+          "anno": 2009,
+          "valore": 18.5
+        },
+        {
+          "anno": 2010,
+          "valore": 18.6
+        },
+        {
+          "anno": 2011,
+          "valore": 19
+        },
+        {
+          "anno": 2012,
+          "valore": 18.8
+        },
+        {
+          "anno": 2013,
+          "valore": 19.2
+        },
+        {
+          "anno": 2014,
+          "valore": 19.7
+        },
+        {
+          "anno": 2015,
+          "valore": 19.3
+        },
+        {
+          "anno": 2016,
+          "valore": 19.7
+        },
+        {
+          "anno": 2017,
+          "valore": 19.6
+        },
+        {
+          "anno": 2018,
+          "valore": 19.9
+        },
+        {
+          "anno": 2019,
+          "valore": 20.1
+        },
+        {
+          "anno": 2020,
+          "valore": 17.9
+        },
+        {
+          "anno": 2021,
+          "valore": 19.3
+        },
+        {
+          "anno": 2022,
+          "valore": 19.4
+        },
+        {
+          "anno": 2023,
+          "valore": 20.2
+        },
+        {
+          "anno": 2024,
+          "valore": 20.5
+        }
+      ]
+    },
+    {
+      "indicatore": "Speranza di vita a 65 anni - totale",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 19
+        },
+        {
+          "anno": 2003,
+          "valore": 19
+        },
+        {
+          "anno": 2004,
+          "valore": 19.6
+        },
+        {
+          "anno": 2005,
+          "valore": 19.6
+        },
+        {
+          "anno": 2006,
+          "valore": 20
+        },
+        {
+          "anno": 2007,
+          "valore": 20.3
+        },
+        {
+          "anno": 2008,
+          "valore": 19.9
+        },
+        {
+          "anno": 2009,
+          "valore": 20.3
+        },
+        {
+          "anno": 2010,
+          "valore": 20.5
+        },
+        {
+          "anno": 2011,
+          "valore": 20.8
+        },
+        {
+          "anno": 2012,
+          "valore": 20.6
+        },
+        {
+          "anno": 2013,
+          "valore": 21
+        },
+        {
+          "anno": 2014,
+          "valore": 21.4
+        },
+        {
+          "anno": 2015,
+          "valore": 20.9
+        },
+        {
+          "anno": 2016,
+          "valore": 21.5
+        },
+        {
+          "anno": 2017,
+          "valore": 21.3
+        },
+        {
+          "anno": 2018,
+          "valore": 21.6
+        },
+        {
+          "anno": 2019,
+          "valore": 21.7
+        },
+        {
+          "anno": 2020,
+          "valore": 19.8
+        },
+        {
+          "anno": 2021,
+          "valore": 21.1
+        },
+        {
+          "anno": 2022,
+          "valore": 21
+        },
+        {
+          "anno": 2023,
+          "valore": 21.7
+        },
+        {
+          "anno": 2024,
+          "valore": 22
+        }
+      ]
+    },
+    {
+      "indicatore": "Speranza di vita alla nascita - femmine",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 83.4
+        },
+        {
+          "anno": 2003,
+          "valore": 83.3
+        },
+        {
+          "anno": 2004,
+          "valore": 84.2
+        },
+        {
+          "anno": 2005,
+          "valore": 84.1
+        },
+        {
+          "anno": 2006,
+          "valore": 84.5
+        },
+        {
+          "anno": 2007,
+          "valore": 84.9
+        },
+        {
+          "anno": 2008,
+          "valore": 84.5
+        },
+        {
+          "anno": 2009,
+          "valore": 84.8
+        },
+        {
+          "anno": 2010,
+          "valore": 85.1
+        },
+        {
+          "anno": 2011,
+          "valore": 85.5
+        },
+        {
+          "anno": 2012,
+          "valore": 85.2
+        },
+        {
+          "anno": 2013,
+          "valore": 85.8
+        },
+        {
+          "anno": 2014,
+          "valore": 86.1
+        },
+        {
+          "anno": 2015,
+          "valore": 85.5
+        },
+        {
+          "anno": 2016,
+          "valore": 86.1
+        },
+        {
+          "anno": 2017,
+          "valore": 85.9
+        },
+        {
+          "anno": 2018,
+          "valore": 86.3
+        },
+        {
+          "anno": 2019,
+          "valore": 86.3
+        },
+        {
+          "anno": 2020,
+          "valore": 84.6
+        },
+        {
+          "anno": 2021,
+          "valore": 86
+        },
+        {
+          "anno": 2022,
+          "valore": 85.7
+        },
+        {
+          "anno": 2023,
+          "valore": 86.2
+        },
+        {
+          "anno": 2024,
+          "valore": 86.7
+        }
+      ]
+    },
+    {
+      "indicatore": "Speranza di vita alla nascita - maschi",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 77.6
+        },
+        {
+          "anno": 2003,
+          "valore": 77.8
+        },
+        {
+          "anno": 2004,
+          "valore": 78.2
+        },
+        {
+          "anno": 2005,
+          "valore": 78.5
+        },
+        {
+          "anno": 2006,
+          "valore": 78.9
+        },
+        {
+          "anno": 2007,
+          "valore": 79.5
+        },
+        {
+          "anno": 2008,
+          "valore": 79.3
+        },
+        {
+          "anno": 2009,
+          "valore": 79.8
+        },
+        {
+          "anno": 2010,
+          "valore": 80.1
+        },
+        {
+          "anno": 2011,
+          "valore": 80.5
+        },
+        {
+          "anno": 2012,
+          "valore": 80.5
+        },
+        {
+          "anno": 2013,
+          "valore": 81.1
+        },
+        {
+          "anno": 2014,
+          "valore": 81.5
+        },
+        {
+          "anno": 2015,
+          "valore": 81.2
+        },
+        {
+          "anno": 2016,
+          "valore": 81.7
+        },
+        {
+          "anno": 2017,
+          "valore": 81.7
+        },
+        {
+          "anno": 2018,
+          "valore": 82
+        },
+        {
+          "anno": 2019,
+          "valore": 82.2
+        },
+        {
+          "anno": 2020,
+          "valore": 79.8
+        },
+        {
+          "anno": 2021,
+          "valore": 81.5
+        },
+        {
+          "anno": 2022,
+          "valore": 81.6
+        },
+        {
+          "anno": 2023,
+          "valore": 82.4
+        },
+        {
+          "anno": 2024,
+          "valore": 82.8
+        }
+      ]
+    },
+    {
+      "indicatore": "Speranza di vita alla nascita - totale",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 80.4
+        },
+        {
+          "anno": 2003,
+          "valore": 80.5
+        },
+        {
+          "anno": 2004,
+          "valore": 81.1
+        },
+        {
+          "anno": 2005,
+          "valore": 81.2
+        },
+        {
+          "anno": 2006,
+          "valore": 81.6
+        },
+        {
+          "anno": 2007,
+          "valore": 82.1
+        },
+        {
+          "anno": 2008,
+          "valore": 81.8
+        },
+        {
+          "anno": 2009,
+          "valore": 82.2
+        },
+        {
+          "anno": 2010,
+          "valore": 82.5
+        },
+        {
+          "anno": 2011,
+          "valore": 83
+        },
+        {
+          "anno": 2012,
+          "valore": 82.8
+        },
+        {
+          "anno": 2013,
+          "valore": 83.4
+        },
+        {
+          "anno": 2014,
+          "valore": 83.8
+        },
+        {
+          "anno": 2015,
+          "valore": 83.3
+        },
+        {
+          "anno": 2016,
+          "valore": 83.9
+        },
+        {
+          "anno": 2017,
+          "valore": 83.8
+        },
+        {
+          "anno": 2018,
+          "valore": 84.1
+        },
+        {
+          "anno": 2019,
+          "valore": 84.2
+        },
+        {
+          "anno": 2020,
+          "valore": 82.2
+        },
+        {
+          "anno": 2021,
+          "valore": 83.7
+        },
+        {
+          "anno": 2022,
+          "valore": 83.6
+        },
+        {
+          "anno": 2023,
+          "valore": 84.2
+        },
+        {
+          "anno": 2024,
+          "valore": 84.7
+        }
+      ]
+    },
+    {
+      "indicatore": "Tasso di crescita totale (per mille abitanti)",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": -0.9
+        },
+        {
+          "anno": 2003,
+          "valore": 1.8
+        },
+        {
+          "anno": 2004,
+          "valore": 14.2
+        },
+        {
+          "anno": 2005,
+          "valore": 4.2
+        },
+        {
+          "anno": 2006,
+          "valore": 1
+        },
+        {
+          "anno": 2007,
+          "valore": 2.3
+        },
+        {
+          "anno": 2008,
+          "valore": 2.4
+        },
+        {
+          "anno": 2009,
+          "valore": 7.1
+        },
+        {
+          "anno": 2010,
+          "valore": 9.3
+        },
+        {
+          "anno": 2011,
+          "valore": 10.3
+        },
+        {
+          "anno": 2012,
+          "valore": 9.7
+        },
+        {
+          "anno": 2013,
+          "valore": 12.2
+        },
+        {
+          "anno": 2014,
+          "valore": 7.2
+        },
+        {
+          "anno": 2015,
+          "valore": 4.4
+        },
+        {
+          "anno": 2016,
+          "valore": 4.4
+        },
+        {
+          "anno": 2017,
+          "valore": 5.6
+        },
+        {
+          "anno": 2018,
+          "valore": 5.4
+        },
+        {
+          "anno": 2019,
+          "valore": 4.7
+        },
+        {
+          "anno": 2020,
+          "valore": -7.2
+        },
+        {
+          "anno": 2021,
+          "valore": -8.4
+        },
+        {
+          "anno": 2022,
+          "valore": 4.2
+        },
+        {
+          "anno": 2023,
+          "valore": 5.3
+        },
+        {
+          "anno": 2024,
+          "valore": 0.3
+        }
+      ]
+    },
+    {
+      "indicatore": "Tasso di mortalità (per mille abitanti)",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 9.5
+        },
+        {
+          "anno": 2003,
+          "valore": 9.7
+        },
+        {
+          "anno": 2004,
+          "valore": 9
+        },
+        {
+          "anno": 2005,
+          "valore": 9.2
+        },
+        {
+          "anno": 2006,
+          "valore": 9.1
+        },
+        {
+          "anno": 2007,
+          "valore": 8.9
+        },
+        {
+          "anno": 2008,
+          "valore": 9.5
+        },
+        {
+          "anno": 2009,
+          "valore": 9.2
+        },
+        {
+          "anno": 2010,
+          "valore": 9.3
+        },
+        {
+          "anno": 2011,
+          "valore": 9
+        },
+        {
+          "anno": 2012,
+          "valore": 9.5
+        },
+        {
+          "anno": 2013,
+          "valore": 9.1
+        },
+        {
+          "anno": 2014,
+          "valore": 8.8
+        },
+        {
+          "anno": 2015,
+          "valore": 9.7
+        },
+        {
+          "anno": 2016,
+          "valore": 9.2
+        },
+        {
+          "anno": 2017,
+          "valore": 9.7
+        },
+        {
+          "anno": 2018,
+          "valore": 9.5
+        },
+        {
+          "anno": 2019,
+          "valore": 9.6
+        },
+        {
+          "anno": 2020,
+          "valore": 12.7
+        },
+        {
+          "anno": 2021,
+          "valore": 10.4
+        },
+        {
+          "anno": 2022,
+          "valore": 11
+        },
+        {
+          "anno": 2023,
+          "valore": 10.1
+        },
+        {
+          "anno": 2024,
+          "valore": 9.8
+        }
+      ]
+    },
+    {
+      "indicatore": "Tasso di natalità (per mille abitanti)",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 9.6
+        },
+        {
+          "anno": 2003,
+          "valore": 9.7
+        },
+        {
+          "anno": 2004,
+          "valore": 10.2
+        },
+        {
+          "anno": 2005,
+          "valore": 10
+        },
+        {
+          "anno": 2006,
+          "valore": 10.1
+        },
+        {
+          "anno": 2007,
+          "valore": 10.2
+        },
+        {
+          "anno": 2008,
+          "valore": 10.2
+        },
+        {
+          "anno": 2009,
+          "valore": 10
+        },
+        {
+          "anno": 2010,
+          "valore": 10
+        },
+        {
+          "anno": 2011,
+          "valore": 9.5
+        },
+        {
+          "anno": 2012,
+          "valore": 9.3
+        },
+        {
+          "anno": 2013,
+          "valore": 9
+        },
+        {
+          "anno": 2014,
+          "valore": 8.8
+        },
+        {
+          "anno": 2015,
+          "valore": 8.5
+        },
+        {
+          "anno": 2016,
+          "valore": 8.4
+        },
+        {
+          "anno": 2017,
+          "valore": 8.1
+        },
+        {
+          "anno": 2018,
+          "valore": 7.8
+        },
+        {
+          "anno": 2019,
+          "valore": 7.4
+        },
+        {
+          "anno": 2020,
+          "valore": 7.1
+        },
+        {
+          "anno": 2021,
+          "valore": 7.2
+        },
+        {
+          "anno": 2022,
+          "valore": 7
+        },
+        {
+          "anno": 2023,
+          "valore": 6.8
+        },
+        {
+          "anno": 2024,
+          "valore": 6.6
+        }
+      ]
+    },
+    {
+      "indicatore": "Tasso di nuzialità (per mille abitanti)",
+      "territorio": "Milano",
+      "data": [
+        {
+          "anno": 2002,
+          "valore": 4.4
+        },
+        {
+          "anno": 2003,
+          "valore": 3.7
+        },
+        {
+          "anno": 2004,
+          "valore": 3.5
+        },
+        {
+          "anno": 2005,
+          "valore": 3.5
+        },
+        {
+          "anno": 2006,
+          "valore": 3.5
+        },
+        {
+          "anno": 2007,
+          "valore": 3.6
+        },
+        {
+          "anno": 2008,
+          "valore": 3.4
+        },
+        {
+          "anno": 2009,
+          "valore": 3
+        },
+        {
+          "anno": 2010,
+          "valore": 3
+        },
+        {
+          "anno": 2011,
+          "valore": 2.6
+        },
+        {
+          "anno": 2012,
+          "valore": 2.5
+        },
+        {
+          "anno": 2013,
+          "valore": 2.4
+        },
+        {
+          "anno": 2014,
+          "valore": 2.3
+        },
+        {
+          "anno": 2015,
+          "valore": 2.3
+        },
+        {
+          "anno": 2016,
+          "valore": 2.4
+        },
+        {
+          "anno": 2017,
+          "valore": 2.3
+        },
+        {
+          "anno": 2018,
+          "valore": 2.3
+        },
+        {
+          "anno": 2019,
+          "valore": 2.2
+        },
+        {
+          "anno": 2020,
+          "valore": 1.2
+        },
+        {
+          "anno": 2021,
+          "valore": 2
+        },
+        {
+          "anno": 2022,
+          "valore": 2.2
+        },
+        {
+          "anno": 2023,
+          "valore": 2.3
+        },
+        {
+          "anno": 2024,
+          "valore": 2.1
+        }
+      ]
+    }
+  ],
+  "latestYear": 2025
+}

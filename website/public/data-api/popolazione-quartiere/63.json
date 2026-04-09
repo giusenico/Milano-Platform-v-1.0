@@ -1,0 +1,206 @@
+{
+  "nil": "FIGINO",
+  "nilLabel": "FIGINO",
+  "idNil": 63,
+  "match": {
+    "matchType": "id",
+    "confidence": 1
+  },
+  "latestYear": 2021,
+  "timeSeries": [
+    {
+      "anno": 2007,
+      "nil": "Figino",
+      "nil_label": "Figino (63)",
+      "totale_famiglie": 776
+    },
+    {
+      "anno": 2008,
+      "nil": "Figino",
+      "nil_label": "Figino (63)",
+      "totale_famiglie": 806
+    },
+    {
+      "anno": 2009,
+      "nil": "Figino",
+      "nil_label": "Figino (63)",
+      "totale_famiglie": 844
+    },
+    {
+      "anno": 2010,
+      "nil": "Figino",
+      "nil_label": "Figino (63)",
+      "totale_famiglie": 884
+    },
+    {
+      "anno": 2011,
+      "nil": "Figino",
+      "nil_label": "Figino (63)",
+      "totale_famiglie": 882
+    },
+    {
+      "anno": 2012,
+      "nil": "Figino",
+      "nil_label": "Figino (63)",
+      "totale_famiglie": 886
+    },
+    {
+      "anno": 2013,
+      "nil": "Figino",
+      "nil_label": "Figino (63)",
+      "totale_famiglie": 862
+    },
+    {
+      "anno": 2014,
+      "nil": "Figino",
+      "nil_label": "Figino (63)",
+      "totale_famiglie": 837
+    },
+    {
+      "anno": 2015,
+      "nil": "Figino",
+      "nil_label": "Figino (63)",
+      "totale_famiglie": 952
+    },
+    {
+      "anno": 2016,
+      "nil": "Figino",
+      "nil_label": "Figino (63)",
+      "totale_famiglie": 1015
+    },
+    {
+      "anno": 2017,
+      "nil": "Figino",
+      "nil_label": "Figino (63)",
+      "totale_famiglie": 1061
+    },
+    {
+      "anno": 2018,
+      "nil": "Figino",
+      "nil_label": "Figino (63)",
+      "totale_famiglie": 1130
+    },
+    {
+      "anno": 2019,
+      "nil": "Figino",
+      "nil_label": "Figino (63)",
+      "totale_famiglie": 1170
+    },
+    {
+      "anno": 2020,
+      "nil": "Figino",
+      "nil_label": "Figino (63)",
+      "totale_famiglie": 1132
+    },
+    {
+      "anno": 2021,
+      "nil": "Figino",
+      "nil_label": "Figino (63)",
+      "totale_famiglie": 1141
+    }
+  ],
+  "crescitaFamiglieYoY": 0.8,
+  "amenities": {
+    "pubblici_esercizi": 6,
+    "mercati": 0,
+    "farmacie": 1,
+    "scuole": 0,
+    "biblioteche": 0
+  },
+  "breakdown": {
+    "tipologie": [
+      {
+        "tipologia_familiare": "Single",
+        "totale": 498
+      },
+      {
+        "tipologia_familiare": "Coppia sposata senza figli",
+        "totale": 157
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con almeno un figlio minorenne",
+        "totale": 111
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con figli tutti maggiorenni",
+        "totale": 94
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con almeno un figlio minorenne",
+        "totale": 72
+      },
+      {
+        "tipologia_familiare": "Monogenitore con figli tutti maggiorenni",
+        "totale": 63
+      },
+      {
+        "tipologia_familiare": "Monogenitore con almeno un figlio minorenne",
+        "totale": 61
+      },
+      {
+        "tipologia_familiare": "Coppia convivente senza figli",
+        "totale": 45
+      },
+      {
+        "tipologia_familiare": "Altre tipologie",
+        "totale": 36
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con figli tutti maggiorenni",
+        "totale": 4
+      }
+    ],
+    "classiEta": [
+      {
+        "classe_eta_capofamiglia": "Da 35 a 64 anni",
+        "totale": 626
+      },
+      {
+        "classe_eta_capofamiglia": "Da 65 a 79 anni",
+        "totale": 235
+      },
+      {
+        "classe_eta_capofamiglia": "Da 18 a 34 anni",
+        "totale": 144
+      },
+      {
+        "classe_eta_capofamiglia": "80 anni e più",
+        "totale": 136
+      }
+    ],
+    "cittadinanza": [
+      {
+        "cittadinanza": "Italia",
+        "totale": 908
+      },
+      {
+        "cittadinanza": "Altri paesi",
+        "totale": 111
+      },
+      {
+        "cittadinanza": "Filippine",
+        "totale": 34
+      },
+      {
+        "cittadinanza": "Egitto",
+        "totale": 30
+      },
+      {
+        "cittadinanza": "Perù",
+        "totale": 24
+      },
+      {
+        "cittadinanza": "Sri Lanka",
+        "totale": 22
+      },
+      {
+        "cittadinanza": "Ecuador",
+        "totale": 6
+      },
+      {
+        "cittadinanza": "Cina",
+        "totale": 6
+      }
+    ]
+  }
+}

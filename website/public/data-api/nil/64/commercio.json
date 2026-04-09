@@ -1,0 +1,15 @@
+{
+  "nilId": 64,
+  "nilName": "TRENNO",
+  "pubbliciEsercizi": 10,
+  "eserciziVicinato": 27,
+  "bottegheStoriche": 0,
+  "coworking": 0,
+  "grandeDistribuzione": 0,
+  "edicole": 1,
+  "totaleCommercio": 37,
+  "densitaCommerciale": 75.6,
+  "commercioPer1000Ab": 9.3,
+  "scoreVitalita": 13.1,
+  "livelloVitalita": "Basso"
+}

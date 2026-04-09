@@ -1,0 +1,47 @@
+{
+  "nilId": 67,
+  "nilName": "PORTELLO",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 1513,
+      "colore": "#3b82f6",
+      "percentuale": 42.7
+    },
+    {
+      "residenti": "2",
+      "valore": 1068,
+      "colore": "#8b5cf6",
+      "percentuale": 30.2
+    },
+    {
+      "residenti": "3",
+      "valore": 566,
+      "colore": "#ec4899",
+      "percentuale": 16
+    },
+    {
+      "residenti": "4",
+      "valore": 310,
+      "colore": "#f59e0b",
+      "percentuale": 8.8
+    },
+    {
+      "residenti": "5+",
+      "valore": 84,
+      "colore": "#22c55e",
+      "percentuale": 2.4
+    }
+  ],
+  "totaleAbitazioni": 3541,
+  "famiglieSingole": 3495,
+  "famiglieCoabitanti": 47,
+  "nuoviEdifici": {
+    "fabbricati": 2,
+    "abitazioni": 128,
+    "superficieMq": 9340,
+    "volumeMc": 54205,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

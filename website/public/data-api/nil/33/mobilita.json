@@ -1,0 +1,45 @@
+{
+  "nilId": 33,
+  "nilName": "ROGOREDO - SANTA GIULIA",
+  "data": [
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 2183,
+      "percentuale": 39.8,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 2002,
+      "percentuale": 36.5,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 815,
+      "percentuale": 14.9,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 253,
+      "percentuale": 4.6,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 231,
+      "percentuale": 4.2,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 5484,
+  "mezzo_prevalente": "Mezzi pubblici",
+  "pctSostenibile": 54.7,
+  "anno": 2011
+}

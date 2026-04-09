@@ -1,0 +1,33 @@
+{
+  "nilId": 49,
+  "nilName": "GIAMBELLINO",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 5737,
+      "percentuale": 20
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 7437,
+      "percentuale": 25.9
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 8983,
+      "percentuale": 31.3
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 4892,
+      "percentuale": 17
+    }
+  ],
+  "totale": 28703,
+  "pctLaureati": 17,
+  "anno": 2011
+}

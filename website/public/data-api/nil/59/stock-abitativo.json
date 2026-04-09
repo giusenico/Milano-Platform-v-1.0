@@ -1,0 +1,47 @@
+{
+  "nilId": 59,
+  "nilName": "TRE TORRI",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 199,
+      "colore": "#3b82f6",
+      "percentuale": 32.7
+    },
+    {
+      "residenti": "2",
+      "valore": 191,
+      "colore": "#8b5cf6",
+      "percentuale": 31.4
+    },
+    {
+      "residenti": "3",
+      "valore": 129,
+      "colore": "#ec4899",
+      "percentuale": 21.2
+    },
+    {
+      "residenti": "4",
+      "valore": 71,
+      "colore": "#f59e0b",
+      "percentuale": 11.7
+    },
+    {
+      "residenti": "5+",
+      "valore": 18,
+      "colore": "#22c55e",
+      "percentuale": 3
+    }
+  ],
+  "totaleAbitazioni": 608,
+  "famiglieSingole": 594,
+  "famiglieCoabitanti": 15,
+  "nuoviEdifici": {
+    "fabbricati": 9,
+    "abitazioni": 1056,
+    "superficieMq": 86008,
+    "volumeMc": 558468,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

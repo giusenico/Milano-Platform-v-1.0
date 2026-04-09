@@ -1,0 +1,51 @@
+{
+  "nilId": 30,
+  "nilName": "TALIEDO - MORSENCHIO - Q.RE FORLANINI",
+  "farmacie": {
+    "totale": 6,
+    "lista": [
+      {
+        "descrizione_farmacia": "FORLANINI",
+        "indirizzo": "VIALE ENRICO FORLANINI,50",
+        "cap": "20138"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 01",
+        "indirizzo": "VIA DEL LIRI, 1",
+        "cap": "20138"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 09",
+        "indirizzo": "VIA MECENATE, 8",
+        "cap": "20138"
+      },
+      {
+        "descrizione_farmacia": "OVIDIO SNC",
+        "indirizzo": "VIA TOSCOLANO, 1",
+        "cap": "20138"
+      },
+      {
+        "descrizione_farmacia": "SANTA GIULIA SAS",
+        "indirizzo": "VIA ROMUALDO BONFADINI, 87",
+        "cap": "20138"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 17",
+        "indirizzo": "VIALE UNGHERIA, 4",
+        "cap": "20138"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 8,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 19273,
+  "rapporti": {
+    "abitantiPerFarmacia": 3212,
+    "abitantiPerMedico": 2409
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

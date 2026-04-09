@@ -1,0 +1,41 @@
+{
+  "nilId": 34,
+  "nil": "CHIARAVALLE",
+  "investorScore": 47.2,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 7,
+    "verde": 5,
+    "popolazione": 75,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 1015,
+      "media": 15753,
+      "delta": -14738.238636363636
+    },
+    "densita": {
+      "nil": 3279.544602101544,
+      "media": 8881.290415418553,
+      "deltaPercent": -63.1
+    },
+    "stranieri": {
+      "nil": 13.596059113300493,
+      "media": 21.360484986780587,
+      "delta": -7.8
+    },
+    "verde": {
+      "nil": 19.914241454682124,
+      "media": 8.1171861884842,
+      "deltaPercent": 145.3
+    },
+    "qualitaVita": {
+      "nil": 55.46231637441705,
+      "media": 39.6877862711082,
+      "deltaPercent": 39.7
+    }
+  }
+}

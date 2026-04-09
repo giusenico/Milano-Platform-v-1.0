@@ -1,0 +1,206 @@
+{
+  "nil": "ISOLA",
+  "nilLabel": "ISOLA",
+  "idNil": 11,
+  "match": {
+    "matchType": "id",
+    "confidence": 1
+  },
+  "latestYear": 2021,
+  "timeSeries": [
+    {
+      "anno": 2007,
+      "nil": "Isola",
+      "nil_label": "Isola (11)",
+      "totale_famiglie": 10441
+    },
+    {
+      "anno": 2008,
+      "nil": "Isola",
+      "nil_label": "Isola (11)",
+      "totale_famiglie": 10380
+    },
+    {
+      "anno": 2009,
+      "nil": "Isola",
+      "nil_label": "Isola (11)",
+      "totale_famiglie": 10560
+    },
+    {
+      "anno": 2010,
+      "nil": "Isola",
+      "nil_label": "Isola (11)",
+      "totale_famiglie": 10742
+    },
+    {
+      "anno": 2011,
+      "nil": "Isola",
+      "nil_label": "Isola (11)",
+      "totale_famiglie": 10941
+    },
+    {
+      "anno": 2012,
+      "nil": "Isola",
+      "nil_label": "Isola (11)",
+      "totale_famiglie": 11133
+    },
+    {
+      "anno": 2013,
+      "nil": "Isola",
+      "nil_label": "Isola (11)",
+      "totale_famiglie": 10982
+    },
+    {
+      "anno": 2014,
+      "nil": "Isola",
+      "nil_label": "Isola (11)",
+      "totale_famiglie": 11060
+    },
+    {
+      "anno": 2015,
+      "nil": "Isola",
+      "nil_label": "Isola (11)",
+      "totale_famiglie": 11163
+    },
+    {
+      "anno": 2016,
+      "nil": "Isola",
+      "nil_label": "Isola (11)",
+      "totale_famiglie": 11199
+    },
+    {
+      "anno": 2017,
+      "nil": "Isola",
+      "nil_label": "Isola (11)",
+      "totale_famiglie": 11375
+    },
+    {
+      "anno": 2018,
+      "nil": "Isola",
+      "nil_label": "Isola (11)",
+      "totale_famiglie": 11525
+    },
+    {
+      "anno": 2019,
+      "nil": "Isola",
+      "nil_label": "Isola (11)",
+      "totale_famiglie": 11639
+    },
+    {
+      "anno": 2020,
+      "nil": "Isola",
+      "nil_label": "Isola (11)",
+      "totale_famiglie": 11566
+    },
+    {
+      "anno": 2021,
+      "nil": "Isola",
+      "nil_label": "Isola (11)",
+      "totale_famiglie": 11527
+    }
+  ],
+  "crescitaFamiglieYoY": -0.34,
+  "amenities": {
+    "pubblici_esercizi": 320,
+    "mercati": 1,
+    "farmacie": 7,
+    "scuole": 7,
+    "biblioteche": 0
+  },
+  "breakdown": {
+    "tipologie": [
+      {
+        "tipologia_familiare": "Single",
+        "totale": 5407
+      },
+      {
+        "tipologia_familiare": "Coppia sposata senza figli",
+        "totale": 1487
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con almeno un figlio minorenne",
+        "totale": 1294
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con figli tutti maggiorenni",
+        "totale": 748
+      },
+      {
+        "tipologia_familiare": "Monogenitore con figli tutti maggiorenni",
+        "totale": 701
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con almeno un figlio minorenne",
+        "totale": 546
+      },
+      {
+        "tipologia_familiare": "Monogenitore con almeno un figlio minorenne",
+        "totale": 544
+      },
+      {
+        "tipologia_familiare": "Coppia convivente senza figli",
+        "totale": 425
+      },
+      {
+        "tipologia_familiare": "Altre tipologie",
+        "totale": 324
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con figli tutti maggiorenni",
+        "totale": 51
+      }
+    ],
+    "classiEta": [
+      {
+        "classe_eta_capofamiglia": "Da 35 a 64 anni",
+        "totale": 6423
+      },
+      {
+        "classe_eta_capofamiglia": "Da 65 a 79 anni",
+        "totale": 1960
+      },
+      {
+        "classe_eta_capofamiglia": "80 anni e più",
+        "totale": 1738
+      },
+      {
+        "classe_eta_capofamiglia": "Da 18 a 34 anni",
+        "totale": 1406
+      }
+    ],
+    "cittadinanza": [
+      {
+        "cittadinanza": "Italia",
+        "totale": 9462
+      },
+      {
+        "cittadinanza": "Altri paesi",
+        "totale": 909
+      },
+      {
+        "cittadinanza": "Cina",
+        "totale": 458
+      },
+      {
+        "cittadinanza": "Egitto",
+        "totale": 256
+      },
+      {
+        "cittadinanza": "Filippine",
+        "totale": 196
+      },
+      {
+        "cittadinanza": "Sri Lanka",
+        "totale": 150
+      },
+      {
+        "cittadinanza": "Perù",
+        "totale": 62
+      },
+      {
+        "cittadinanza": "Ecuador",
+        "totale": 34
+      }
+    ]
+  }
+}

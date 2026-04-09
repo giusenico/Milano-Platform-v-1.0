@@ -1,0 +1,40 @@
+{
+  "nilId": 51,
+  "nilName": "PORTA MAGENTA",
+  "totaleServizi": 8,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 7
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 3
+    },
+    {
+      "fascia_utenza": "Anziani",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Adulti",
+      "count": 1
+    },
+    {
+      "fascia_utenza": null,
+      "count": 1
+    }
+  ],
+  "popolazione": 26758,
+  "serviziPer1000Abitanti": 0.3,
+  "qualitaCopertura": "Bassa"
+}

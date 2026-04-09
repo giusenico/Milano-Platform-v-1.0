@@ -1,0 +1,71 @@
+{
+  "nilId": 10,
+  "nilName": "STAZIONE CENTRALE - PONTE SEVESO",
+  "farmacie": {
+    "totale": 10,
+    "lista": [
+      {
+        "descrizione_farmacia": "PONTESEVESO",
+        "indirizzo": "VIA GIOVANNI SCHIAPARELLI, 4",
+        "cap": "20125"
+      },
+      {
+        "descrizione_farmacia": "BRIANZA SRL",
+        "indirizzo": "VIALE BRIANZA, 23",
+        "cap": "20127"
+      },
+      {
+        "descrizione_farmacia": "STAZIONE CENTRALE FARMA ACQUISITION SRL",
+        "indirizzo": "PIAZZA DUCA D'AOSTA",
+        "cap": "20125"
+      },
+      {
+        "descrizione_farmacia": "MILANO SETTEMBRINI",
+        "indirizzo": "VIA LUIGI SETTEMBRINI, 39",
+        "cap": "20124"
+      },
+      {
+        "descrizione_farmacia": "HUMANITAS",
+        "indirizzo": "VIA FABIO FILZI, 10",
+        "cap": "20124"
+      },
+      {
+        "descrizione_farmacia": "REPUBBLICA SRL",
+        "indirizzo": "VIALE TUNISIA, 41",
+        "cap": "20124"
+      },
+      {
+        "descrizione_farmacia": "BRACCIO SRL",
+        "indirizzo": "VIA FELICE CASATI, 32",
+        "cap": "20124"
+      },
+      {
+        "descrizione_farmacia": "TONALE DOTT. RIBALDONE GIAMPIERO E CIATTINI ROBERTO SNC",
+        "indirizzo": "VIA TONALE, 26",
+        "cap": "20125"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 59",
+        "indirizzo": "VIA GIANFRANCO ZURETTI, 9",
+        "cap": "20125"
+      },
+      {
+        "descrizione_farmacia": "PISANI 26 SRL",
+        "indirizzo": "VIA VITTOR PISANI, 26",
+        "cap": "20124"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 14,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 18584,
+  "rapporti": {
+    "abitantiPerFarmacia": 1858,
+    "abitantiPerMedico": 1327
+  },
+  "scoreHealthcare": 85,
+  "qualitaServizio": "Ottimo"
+}

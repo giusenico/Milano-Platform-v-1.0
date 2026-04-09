@@ -1,0 +1,47 @@
+{
+  "nilId": 64,
+  "nilName": "TRENNO",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 498,
+      "colore": "#3b82f6",
+      "percentuale": 28.7
+    },
+    {
+      "residenti": "2",
+      "valore": 620,
+      "colore": "#8b5cf6",
+      "percentuale": 35.7
+    },
+    {
+      "residenti": "3",
+      "valore": 326,
+      "colore": "#ec4899",
+      "percentuale": 18.8
+    },
+    {
+      "residenti": "4",
+      "valore": 251,
+      "colore": "#f59e0b",
+      "percentuale": 14.5
+    },
+    {
+      "residenti": "5+",
+      "valore": 42,
+      "colore": "#22c55e",
+      "percentuale": 2.4
+    }
+  ],
+  "totaleAbitazioni": 1737,
+  "famiglieSingole": 1732,
+  "famiglieCoabitanti": 4,
+  "nuoviEdifici": {
+    "fabbricati": 4,
+    "abitazioni": 190,
+    "superficieMq": 13689,
+    "volumeMc": 85185,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

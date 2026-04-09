@@ -1,0 +1,33 @@
+{
+  "nilId": 11,
+  "nilName": "ISOLA",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 3670,
+      "percentuale": 18.1
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 4393,
+      "percentuale": 21.7
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 6061,
+      "percentuale": 30
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 5057,
+      "percentuale": 25
+    }
+  ],
+  "totale": 20236,
+  "pctLaureati": 25,
+  "anno": 2011
+}

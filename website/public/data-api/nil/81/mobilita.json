@@ -1,0 +1,45 @@
+{
+  "nilId": 81,
+  "nilName": "BOVISASCA",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 1435,
+      "percentuale": 40.2,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 1178,
+      "percentuale": 33,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 676,
+      "percentuale": 18.9,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 149,
+      "percentuale": 4.2,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 131,
+      "percentuale": 3.7,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 3569,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 51.9,
+  "anno": 2011
+}

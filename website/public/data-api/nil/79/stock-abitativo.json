@@ -1,0 +1,47 @@
+{
+  "nilId": 79,
+  "nilName": "DERGANO",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 4106,
+      "colore": "#3b82f6",
+      "percentuale": 44.2
+    },
+    {
+      "residenti": "2",
+      "valore": 2369,
+      "colore": "#8b5cf6",
+      "percentuale": 25.5
+    },
+    {
+      "residenti": "3",
+      "valore": 1468,
+      "colore": "#ec4899",
+      "percentuale": 15.8
+    },
+    {
+      "residenti": "4",
+      "valore": 947,
+      "colore": "#f59e0b",
+      "percentuale": 10.2
+    },
+    {
+      "residenti": "5+",
+      "valore": 390,
+      "colore": "#22c55e",
+      "percentuale": 4.2
+    }
+  ],
+  "totaleAbitazioni": 9280,
+  "famiglieSingole": 9064,
+  "famiglieCoabitanti": 216,
+  "nuoviEdifici": {
+    "fabbricati": 10,
+    "abitazioni": 541,
+    "superficieMq": 37981,
+    "volumeMc": 223450,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

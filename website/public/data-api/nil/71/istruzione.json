@@ -1,0 +1,33 @@
+{
+  "nilId": 71,
+  "nilName": "VILLAPIZZONE - CAGNOLA - BOLDINASCO",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 7632,
+      "percentuale": 21.3
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 10076,
+      "percentuale": 28.2
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 11056,
+      "percentuale": 30.9
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 4767,
+      "percentuale": 13.3
+    }
+  ],
+  "totale": 35751,
+  "pctLaureati": 13.3,
+  "anno": 2011
+}

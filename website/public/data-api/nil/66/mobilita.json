@@ -1,0 +1,45 @@
+{
+  "nilId": 66,
+  "nilName": "QT 8",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 666,
+      "percentuale": 32.4,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 630,
+      "percentuale": 30.7,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 522,
+      "percentuale": 25.4,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 175,
+      "percentuale": 8.5,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 60,
+      "percentuale": 2.9,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 2053,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 56.1,
+  "anno": 2011
+}

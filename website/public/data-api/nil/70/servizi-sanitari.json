@@ -1,0 +1,36 @@
+{
+  "nilId": 70,
+  "nilName": "GHISOLFA",
+  "farmacie": {
+    "totale": 3,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 14",
+        "indirizzo": "VIA GRIGNA, 9",
+        "cap": "20155"
+      },
+      {
+        "descrizione_farmacia": "MAC MAHON SRL",
+        "indirizzo": "VIA PRINCIPE EUGENIO, 19",
+        "cap": "20155"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 72",
+        "indirizzo": "VIA GRAN SAN BERNARDO, 6",
+        "cap": "20154"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 10,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 18017,
+  "rapporti": {
+    "abitantiPerFarmacia": 6006,
+    "abitantiPerMedico": 1802
+  },
+  "scoreHealthcare": 40,
+  "qualitaServizio": "Migliorabile"
+}

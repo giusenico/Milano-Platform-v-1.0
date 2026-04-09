@@ -1,0 +1,28 @@
+{
+  "nilId": 62,
+  "nilName": "QUINTO ROMANO",
+  "totaleServizi": 3,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 3
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Anziani",
+      "count": 1
+    }
+  ],
+  "popolazione": 4662,
+  "serviziPer1000Abitanti": 0.64,
+  "qualitaCopertura": "Bassa"
+}

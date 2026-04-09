@@ -1,0 +1,31 @@
+{
+  "nilId": 23,
+  "nilName": "LAMBRATE - ORTICA",
+  "farmacie": {
+    "totale": 2,
+    "lista": [
+      {
+        "descrizione_farmacia": "RUBATTINO SAS DOTT. GARELLO GIOVANNI & C",
+        "indirizzo": "VIA RICCARDO PITTERI, 93",
+        "cap": "20134"
+      },
+      {
+        "descrizione_farmacia": "SAN MARTINO SRL",
+        "indirizzo": "VIALE DELLE RIMEMBRANZE DI LAMBRATE, 18",
+        "cap": "20134"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 8,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 11923,
+  "rapporti": {
+    "abitantiPerFarmacia": 5962,
+    "abitantiPerMedico": 1490
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

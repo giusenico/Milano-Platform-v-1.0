@@ -1,0 +1,33 @@
+{
+  "nilId": 73,
+  "nilName": "CASCINA MERLATA",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 40,
+      "percentuale": 16.3
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 125,
+      "percentuale": 51
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 70,
+      "percentuale": 28.6
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 7,
+      "percentuale": 2.9
+    }
+  ],
+  "totale": 245,
+  "pctLaureati": 2.9,
+  "anno": 2011
+}

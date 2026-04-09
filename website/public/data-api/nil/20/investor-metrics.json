@@ -1,0 +1,41 @@
+{
+  "nilId": 20,
+  "nil": "LORETO - CASORETTO - NOLO",
+  "investorScore": 28.6,
+  "riskLevel": "Alto",
+  "riskColor": "#ef4444",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 83,
+    "verde": 75,
+    "popolazione": 2,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 44034,
+      "media": 15753,
+      "delta": 28280.761363636364
+    },
+    "densita": {
+      "nil": 25198.290900060114,
+      "media": 8881.290415418553,
+      "deltaPercent": 183.7
+    },
+    "stranieri": {
+      "nil": 32.90184857155834,
+      "media": 21.360484986780587,
+      "delta": 11.5
+    },
+    "verde": {
+      "nil": 3.6454807571220686,
+      "media": 8.1171861884842,
+      "deltaPercent": -55.1
+    },
+    "qualitaVita": {
+      "nil": 23.626418773575278,
+      "media": 39.6877862711082,
+      "deltaPercent": -40.5
+    }
+  }
+}

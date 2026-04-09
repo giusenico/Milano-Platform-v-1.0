@@ -1,0 +1,15 @@
+{
+  "nilId": 11,
+  "nilName": "ISOLA",
+  "pubbliciEsercizi": 320,
+  "eserciziVicinato": 695,
+  "bottegheStoriche": 9,
+  "coworking": 4,
+  "grandeDistribuzione": 15,
+  "edicole": 8,
+  "totaleCommercio": 1030,
+  "densitaCommerciale": 778.6,
+  "commercioPer1000Ab": 45.4,
+  "scoreVitalita": 100,
+  "livelloVitalita": "Alto"
+}

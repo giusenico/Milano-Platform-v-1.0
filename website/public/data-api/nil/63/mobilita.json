@@ -1,0 +1,45 @@
+{
+  "nilId": 63,
+  "nilName": "FIGINO",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 426,
+      "percentuale": 45.5,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 335,
+      "percentuale": 35.8,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 104,
+      "percentuale": 11.1,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 39,
+      "percentuale": 4.2,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 32,
+      "percentuale": 3.4,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 936,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 46.9,
+  "anno": 2011
+}

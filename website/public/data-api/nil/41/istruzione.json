@@ -1,0 +1,33 @@
+{
+  "nilId": 41,
+  "nilName": "GRATOSOGLIO - Q.RE MISSAGLIA - Q.RE TERRAZZE",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 5017,
+      "percentuale": 28.5
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 5447,
+      "percentuale": 31
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 4817,
+      "percentuale": 27.4
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 1577,
+      "percentuale": 9
+    }
+  ],
+  "totale": 17599,
+  "pctLaureati": 9,
+  "anno": 2011
+}

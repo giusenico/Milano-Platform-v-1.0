@@ -1,0 +1,71 @@
+{
+  "nilId": 7,
+  "nilName": "MAGENTA - S. VITTORE",
+  "farmacie": {
+    "totale": 10,
+    "lista": [
+      {
+        "descrizione_farmacia": "BOCCACCIO",
+        "indirizzo": "VIA GIOVANNI BOCCACCIO, 26",
+        "cap": "20123"
+      },
+      {
+        "descrizione_farmacia": "CERINI SNC",
+        "indirizzo": "VIA AURELIO SAFFI, 6",
+        "cap": "20123"
+      },
+      {
+        "descrizione_farmacia": "SANTA TERESA SRL",
+        "indirizzo": "CORSO MAGENTA, 96",
+        "cap": "20123"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 27",
+        "indirizzo": "PIAZZA TITO IMPERATORE 8",
+        "cap": "20123"
+      },
+      {
+        "descrizione_farmacia": "SANT'AGOSTINO",
+        "indirizzo": "VIA SAN VINCENZO, 1",
+        "cap": "20123"
+      },
+      {
+        "descrizione_farmacia": "V ALPINI SAS DI PERRECA DR.SSA PATRIZIA",
+        "indirizzo": "LARGO QUINTO ALPINI, 1",
+        "cap": "20145"
+      },
+      {
+        "descrizione_farmacia": "GESTIONI SAN GIUSEPPE SRL",
+        "indirizzo": "VIA SAN VITTORE, 12",
+        "cap": "20123"
+      },
+      {
+        "descrizione_farmacia": "CADORNA SNC",
+        "indirizzo": "PIAZZALE LUIGI CADORNA, 11",
+        "cap": "20123"
+      },
+      {
+        "descrizione_farmacia": "ARIBERTO SAS",
+        "indirizzo": "VIA EDMONDO DE AMICIS, 51",
+        "cap": "20123"
+      },
+      {
+        "descrizione_farmacia": "OLONA SNC",
+        "indirizzo": "VIALE CONI ZUGNA, 43",
+        "cap": "20144"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 13,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 17940,
+  "rapporti": {
+    "abitantiPerFarmacia": 1794,
+    "abitantiPerMedico": 1380
+  },
+  "scoreHealthcare": 85,
+  "qualitaServizio": "Ottimo"
+}

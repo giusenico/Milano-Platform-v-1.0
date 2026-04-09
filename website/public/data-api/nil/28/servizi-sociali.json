@@ -1,0 +1,56 @@
+{
+  "nilId": 28,
+  "nilName": "UMBRIA - MOLISE - CALVAIRATE",
+  "totaleServizi": 17,
+  "serviziPerArea": [
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 10
+    },
+    {
+      "area_attivita": null,
+      "count": 6
+    },
+    {
+      "area_attivita": "Attività socio sanitarie",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Anziani",
+      "count": 8
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18)",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Adolescenti (11-18),Bambini (0-10)",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Famiglie,Giovani,Adulti",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18),Giovani,Adulti,Migranti,Anziani,Persone con disabilità,Persone con disagio mentale",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18),Famiglie",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Anziani,Famiglie,Adulti,Persone con disabilità,Persone con disagio mentale",
+      "count": 1
+    }
+  ],
+  "popolazione": 22599,
+  "serviziPer1000Abitanti": 0.75,
+  "qualitaCopertura": "Bassa"
+}

@@ -1,0 +1,44 @@
+{
+  "nilId": 52,
+  "nilName": "BANDE NERE",
+  "totaleServizi": 16,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 16
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Anziani",
+      "count": 5
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 3
+    },
+    {
+      "fascia_utenza": null,
+      "count": 3
+    },
+    {
+      "fascia_utenza": "Adolescenti (11-18),Bambini (0-10)",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Famiglie,Persone con disagio mentale,Persone con disabilità,Migranti,Adulti,Anziani,Giovani,Adolescenti (11-18),Bambini (0-10)",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18),Giovani",
+      "count": 1
+    }
+  ],
+  "popolazione": 43808,
+  "serviziPer1000Abitanti": 0.37,
+  "qualitaCopertura": "Bassa"
+}

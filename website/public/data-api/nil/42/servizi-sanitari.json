@@ -1,0 +1,56 @@
+{
+  "nilId": 42,
+  "nilName": "STADERA - CHIESA ROSSA - Q.RE TORRETTA - CONCA FALLATA",
+  "farmacie": {
+    "totale": 7,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 04",
+        "indirizzo": "VIA VOLVINIO, 25",
+        "cap": "20141"
+      },
+      {
+        "descrizione_farmacia": "MONTEGANI SRL UNIPERSONALE",
+        "indirizzo": "VIA ANTON GIULIO BARRILI, 20",
+        "cap": "20141"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 40",
+        "indirizzo": "VIA DELLA CHIESA ROSSA, 95",
+        "cap": "20142"
+      },
+      {
+        "descrizione_farmacia": "SEMPIO SNC",
+        "indirizzo": "VIA LODOVICO MONTEGANI, 4",
+        "cap": "20141"
+      },
+      {
+        "descrizione_farmacia": "BOIFAVA SRL",
+        "indirizzo": "VIA PIETRO BOIFAVA,31/B",
+        "cap": "20142"
+      },
+      {
+        "descrizione_farmacia": "CHIESA ROSSA SAS DI NORBERTO LUMINI & C",
+        "indirizzo": "VIA MEDEGHINO, 27",
+        "cap": "20141"
+      },
+      {
+        "descrizione_farmacia": "DELLA TORRETTA MILANO SAS DI DR.SSA MONICA ROCCHI E C.",
+        "indirizzo": "LARGO PROMESSI SPOSI, 4",
+        "cap": "20142"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 9,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 29307,
+  "rapporti": {
+    "abitantiPerFarmacia": 4187,
+    "abitantiPerMedico": 3256
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

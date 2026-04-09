@@ -1,0 +1,15 @@
+{
+  "nilId": 77,
+  "nilName": "BOVISA",
+  "pubbliciEsercizi": 104,
+  "eserciziVicinato": 285,
+  "bottegheStoriche": 4,
+  "coworking": 4,
+  "grandeDistribuzione": 0,
+  "edicole": 5,
+  "totaleCommercio": 389,
+  "densitaCommerciale": 203.3,
+  "commercioPer1000Ab": 27.9,
+  "scoreVitalita": 100,
+  "livelloVitalita": "Alto"
+}

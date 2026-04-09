@@ -1,0 +1,33 @@
+{
+  "nilId": 36,
+  "nilName": "SCALO ROMANA",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 2125,
+      "percentuale": 22.3
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 2670,
+      "percentuale": 28
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 2823,
+      "percentuale": 29.6
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 1374,
+      "percentuale": 14.4
+    }
+  ],
+  "totale": 9532,
+  "pctLaureati": 14.4,
+  "anno": 2011
+}

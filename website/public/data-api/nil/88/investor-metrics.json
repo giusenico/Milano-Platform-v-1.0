@@ -1,0 +1,41 @@
+{
+  "nilId": 88,
+  "nil": "PARCO BOSCO IN CITTA'",
+  "investorScore": 45.7,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 9,
+    "verde": 6,
+    "popolazione": 79,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 672,
+      "media": 15753,
+      "delta": -15081.238636363636
+    },
+    "densita": {
+      "nil": 85.77986666349344,
+      "media": 8881.290415418553,
+      "deltaPercent": -99
+    },
+    "stranieri": {
+      "nil": 26.190476190476193,
+      "media": 21.360484986780587,
+      "delta": 4.8
+    },
+    "verde": {
+      "nil": 16.74331877524552,
+      "media": 8.1171861884842,
+      "deltaPercent": 106.3
+    },
+    "qualitaVita": {
+      "nil": 54.90832459819916,
+      "media": 39.6877862711082,
+      "deltaPercent": 38.4
+    }
+  }
+}

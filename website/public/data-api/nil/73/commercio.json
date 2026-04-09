@@ -1,0 +1,15 @@
+{
+  "nilId": 73,
+  "nilName": "CASCINA MERLATA",
+  "pubbliciEsercizi": 4,
+  "eserciziVicinato": 1,
+  "bottegheStoriche": 0,
+  "coworking": 0,
+  "grandeDistribuzione": 0,
+  "edicole": 1,
+  "totaleCommercio": 5,
+  "densitaCommerciale": 2.9,
+  "commercioPer1000Ab": 5.4,
+  "scoreVitalita": 2.3,
+  "livelloVitalita": "Basso"
+}

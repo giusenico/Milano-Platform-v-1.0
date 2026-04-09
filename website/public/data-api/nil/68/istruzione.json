@@ -1,0 +1,33 @@
+{
+  "nilId": 68,
+  "nilName": "PAGANO",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 1868,
+      "percentuale": 11.7
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 2097,
+      "percentuale": 13.1
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 4342,
+      "percentuale": 27.2
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 6715,
+      "percentuale": 42.1
+    }
+  ],
+  "totale": 15960,
+  "pctLaureati": 42.1,
+  "anno": 2011
+}

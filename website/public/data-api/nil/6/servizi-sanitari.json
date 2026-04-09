@@ -1,0 +1,71 @@
+{
+  "nilId": 6,
+  "nilName": "PORTA TICINESE - CONCA DEL NAVIGLIO",
+  "farmacie": {
+    "totale": 10,
+    "lista": [
+      {
+        "descrizione_farmacia": "TICINESE",
+        "indirizzo": "CORSO SAN GOTTARDO, 1",
+        "cap": "20136"
+      },
+      {
+        "descrizione_farmacia": "DEL CORSO SRL",
+        "indirizzo": "CORSO GENOVA, 23",
+        "cap": "20123"
+      },
+      {
+        "descrizione_farmacia": "CALATAFIMI SAS",
+        "indirizzo": "PIAZZALE DI PORTA LODOVICA, 2",
+        "cap": "20136"
+      },
+      {
+        "descrizione_farmacia": "GENOVA SRL (EX MONTAGNA SNC)",
+        "indirizzo": "VIALE TIBALDI, 50",
+        "cap": "20136"
+      },
+      {
+        "descrizione_farmacia": "FARAM SNC DI ALBERO DUE SRL (EX SANT' EUSTORGIO)",
+        "indirizzo": "CORSO DI PORTA TICINESE, 98",
+        "cap": "20123"
+      },
+      {
+        "descrizione_farmacia": "GENOVA SRL",
+        "indirizzo": "CORSO GENOVA, 27",
+        "cap": "20123"
+      },
+      {
+        "descrizione_farmacia": "TICINESE FARMA SRL - DEL GENTILINO",
+        "indirizzo": "VIA GIUSEPPE LAGRANGE, 2",
+        "cap": "20136"
+      },
+      {
+        "descrizione_farmacia": "TIBALDI SNC",
+        "indirizzo": "VIALE TIBALDI, 15",
+        "cap": "20136"
+      },
+      {
+        "descrizione_farmacia": "SAN GOTTARDO",
+        "indirizzo": "VIA PAVIA, 1",
+        "cap": "20136"
+      },
+      {
+        "descrizione_farmacia": "DELLA CITTADELLA SAS DELLA DR.SSA FILOMENI MARIACRISTINA",
+        "indirizzo": "CORSO DI PORTA TICINESE, 50",
+        "cap": "20123"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 13,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 19932,
+  "rapporti": {
+    "abitantiPerFarmacia": 1993,
+    "abitantiPerMedico": 1533
+  },
+  "scoreHealthcare": 70,
+  "qualitaServizio": "Buono"
+}

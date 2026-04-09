@@ -1,0 +1,31 @@
+{
+  "nilId": 66,
+  "nilName": "QT 8",
+  "farmacie": {
+    "totale": 2,
+    "lista": [
+      {
+        "descrizione_farmacia": "QT8 DI NEMO SAS DEL DOTT. IVAN MASTROTA & C.",
+        "indirizzo": "VIA COLLECCHIO, 4",
+        "cap": "20148"
+      },
+      {
+        "descrizione_farmacia": "SANTA MARIA NASCENTE SNC",
+        "indirizzo": "VIA PERGINE, 2",
+        "cap": "20148"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 0,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 4051,
+  "rapporti": {
+    "abitantiPerFarmacia": 2026,
+    "abitantiPerMedico": null
+  },
+  "scoreHealthcare": 50,
+  "qualitaServizio": "Buono"
+}

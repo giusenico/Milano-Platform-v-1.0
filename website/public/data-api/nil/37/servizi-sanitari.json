@@ -1,0 +1,26 @@
+{
+  "nilId": 37,
+  "nilName": "MORIVIONE",
+  "farmacie": {
+    "totale": 1,
+    "lista": [
+      {
+        "descrizione_farmacia": "VIGENTINO SRL",
+        "indirizzo": "VIA GIUSEPPE RIPAMONTI, 108",
+        "cap": "20141"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 8,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 7702,
+  "rapporti": {
+    "abitantiPerFarmacia": 7702,
+    "abitantiPerMedico": 963
+  },
+  "scoreHealthcare": 70,
+  "qualitaServizio": "Buono"
+}

@@ -1,0 +1,15 @@
+{
+  "nilId": 84,
+  "nilName": "PARCO NORD",
+  "pubbliciEsercizi": 1,
+  "eserciziVicinato": 12,
+  "bottegheStoriche": 0,
+  "coworking": 0,
+  "grandeDistribuzione": 2,
+  "edicole": 0,
+  "totaleCommercio": 15,
+  "densitaCommerciale": 9.8,
+  "commercioPer1000Ab": 144.2,
+  "scoreVitalita": 4.1,
+  "livelloVitalita": "Basso"
+}

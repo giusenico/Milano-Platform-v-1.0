@@ -1,0 +1,45 @@
+{
+  "nilId": 46,
+  "nilName": "BARONA",
+  "data": [
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 3228,
+      "percentuale": 41.6,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 2599,
+      "percentuale": 33.5,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 1219,
+      "percentuale": 15.7,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 433,
+      "percentuale": 5.6,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 280,
+      "percentuale": 3.6,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 7759,
+  "mezzo_prevalente": "Mezzi pubblici",
+  "pctSostenibile": 57.3,
+  "anno": 2011
+}

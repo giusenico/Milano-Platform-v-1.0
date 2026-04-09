@@ -1,0 +1,41 @@
+{
+  "nilId": 44,
+  "nil": "PORTA TICINESE - CONCHETTA",
+  "investorScore": 39.1,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Alto",
+  "ranking": {
+    "qualitaVita": 44,
+    "verde": 73,
+    "popolazione": 37,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 16962,
+      "media": 15753,
+      "delta": 1208.761363636364
+    },
+    "densita": {
+      "nil": 11430.906242870351,
+      "media": 8881.290415418553,
+      "deltaPercent": 28.7
+    },
+    "stranieri": {
+      "nil": 12.976064143379318,
+      "media": 21.360484986780587,
+      "delta": -8.4
+    },
+    "verde": {
+      "nil": 3.8069455611908296,
+      "media": 8.1171861884842,
+      "deltaPercent": -53.1
+    },
+    "qualitaVita": {
+      "nil": 40.21855501119493,
+      "media": 39.6877862711082,
+      "deltaPercent": 1.3
+    }
+  }
+}

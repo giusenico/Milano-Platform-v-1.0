@@ -1,0 +1,41 @@
+{
+  "nilId": 72,
+  "nil": "MAGGIORE - MUSOCCO - CERTOSA",
+  "investorScore": 50.6,
+  "riskLevel": "Basso",
+  "riskColor": "#22c55e",
+  "growthPotential": "Alto",
+  "ranking": {
+    "qualitaVita": 8,
+    "verde": 48,
+    "popolazione": 60,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 7710,
+      "media": 15753,
+      "delta": -8043.238636363636
+    },
+    "densita": {
+      "nil": 2544.2934573271095,
+      "media": 8881.290415418553,
+      "deltaPercent": -71.4
+    },
+    "stranieri": {
+      "nil": 17.250324254215304,
+      "media": 21.360484986780587,
+      "delta": -4.1
+    },
+    "verde": {
+      "nil": 6.058675455546636,
+      "media": 8.1171861884842,
+      "deltaPercent": -25.4
+    },
+    "qualitaVita": {
+      "nil": 55.36935875804548,
+      "media": 39.6877862711082,
+      "deltaPercent": 39.5
+    }
+  }
+}

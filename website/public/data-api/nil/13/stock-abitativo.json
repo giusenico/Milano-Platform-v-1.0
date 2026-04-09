@@ -1,0 +1,47 @@
+{
+  "nilId": 13,
+  "nilName": "GRECO - SEGNANO",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 2764,
+      "colore": "#3b82f6",
+      "percentuale": 41.7
+    },
+    {
+      "residenti": "2",
+      "valore": 1898,
+      "colore": "#8b5cf6",
+      "percentuale": 28.7
+    },
+    {
+      "residenti": "3",
+      "valore": 1056,
+      "colore": "#ec4899",
+      "percentuale": 15.9
+    },
+    {
+      "residenti": "4",
+      "valore": 716,
+      "colore": "#f59e0b",
+      "percentuale": 10.8
+    },
+    {
+      "residenti": "5+",
+      "valore": 188,
+      "colore": "#22c55e",
+      "percentuale": 2.8
+    }
+  ],
+  "totaleAbitazioni": 6622,
+  "famiglieSingole": 6510,
+  "famiglieCoabitanti": 113,
+  "nuoviEdifici": {
+    "fabbricati": 6,
+    "abitazioni": 439,
+    "superficieMq": 26674,
+    "volumeMc": 109744,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

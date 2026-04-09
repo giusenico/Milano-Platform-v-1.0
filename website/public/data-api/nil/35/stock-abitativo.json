@@ -1,0 +1,47 @@
+{
+  "nilId": 35,
+  "nilName": "LODI - CORVETTO",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 7196,
+      "colore": "#3b82f6",
+      "percentuale": 45.1
+    },
+    {
+      "residenti": "2",
+      "valore": 4549,
+      "colore": "#8b5cf6",
+      "percentuale": 28.5
+    },
+    {
+      "residenti": "3",
+      "valore": 2271,
+      "colore": "#ec4899",
+      "percentuale": 14.2
+    },
+    {
+      "residenti": "4",
+      "valore": 1446,
+      "colore": "#f59e0b",
+      "percentuale": 9.1
+    },
+    {
+      "residenti": "5+",
+      "valore": 478,
+      "colore": "#22c55e",
+      "percentuale": 3
+    }
+  ],
+  "totaleAbitazioni": 15940,
+  "famiglieSingole": 15665,
+  "famiglieCoabitanti": 275,
+  "nuoviEdifici": {
+    "fabbricati": 6,
+    "abitazioni": 273,
+    "superficieMq": 15696,
+    "volumeMc": 96223,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

@@ -13,6 +13,7 @@
     "dev:server": "node server/index.js",
     "start": "node server/index.js",
     "build": "echo 'No build needed for backend'",
+    "export:static-api": "node scripts/export-static-api.mjs",
     "install:all": "npm install && cd website && npm install",
     "sync": "python3 data_pipeline/scripts/sync_to_website.py --verbose",
     "pipeline": "python3 data_pipeline/scripts/run_pipeline.py"

@@ -1,0 +1,47 @@
+{
+  "nilId": 69,
+  "nilName": "SARPI",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 6417,
+      "colore": "#3b82f6",
+      "percentuale": 46.7
+    },
+    {
+      "residenti": "2",
+      "valore": 3709,
+      "colore": "#8b5cf6",
+      "percentuale": 27
+    },
+    {
+      "residenti": "3",
+      "valore": 1975,
+      "colore": "#ec4899",
+      "percentuale": 14.4
+    },
+    {
+      "residenti": "4",
+      "valore": 1266,
+      "colore": "#f59e0b",
+      "percentuale": 9.2
+    },
+    {
+      "residenti": "5+",
+      "valore": 372,
+      "colore": "#22c55e",
+      "percentuale": 2.7
+    }
+  ],
+  "totaleAbitazioni": 13739,
+  "famiglieSingole": 13549,
+  "famiglieCoabitanti": 189,
+  "nuoviEdifici": {
+    "fabbricati": 11,
+    "abitazioni": 655,
+    "superficieMq": 42893,
+    "volumeMc": 289678,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

@@ -1,0 +1,44 @@
+{
+  "nilId": 41,
+  "nilName": "GRATOSOGLIO - Q.RE MISSAGLIA - Q.RE TERRAZZE",
+  "totaleServizi": 14,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 13
+    },
+    {
+      "area_attivita": "Attività ludiche e ricreative",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 6
+    },
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Anziani",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Adolescenti (11-18),Bambini (0-10)",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Giovani,Adulti,Migranti,Anziani,Persone con disabilità",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Adulti",
+      "count": 1
+    }
+  ],
+  "popolazione": 18398,
+  "serviziPer1000Abitanti": 0.76,
+  "qualitaCopertura": "Bassa"
+}

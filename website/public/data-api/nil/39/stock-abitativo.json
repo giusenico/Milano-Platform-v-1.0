@@ -1,0 +1,47 @@
+{
+  "nilId": 39,
+  "nilName": "QUINTOSOLE",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 58,
+      "colore": "#3b82f6",
+      "percentuale": 45.7
+    },
+    {
+      "residenti": "2",
+      "valore": 32,
+      "colore": "#8b5cf6",
+      "percentuale": 25.2
+    },
+    {
+      "residenti": "3",
+      "valore": 18,
+      "colore": "#ec4899",
+      "percentuale": 14.2
+    },
+    {
+      "residenti": "4",
+      "valore": 10,
+      "colore": "#f59e0b",
+      "percentuale": 7.9
+    },
+    {
+      "residenti": "5+",
+      "valore": 9,
+      "colore": "#22c55e",
+      "percentuale": 7.1
+    }
+  ],
+  "totaleAbitazioni": 127,
+  "famiglieSingole": 126,
+  "famiglieCoabitanti": 1,
+  "nuoviEdifici": {
+    "fabbricati": 0,
+    "abitazioni": 0,
+    "superficieMq": 0,
+    "volumeMc": 0,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

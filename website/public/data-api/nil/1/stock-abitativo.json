@@ -1,0 +1,47 @@
+{
+  "nilId": 1,
+  "nilName": "DUOMO",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 3442,
+      "colore": "#3b82f6",
+      "percentuale": 46.4
+    },
+    {
+      "residenti": "2",
+      "valore": 1889,
+      "colore": "#8b5cf6",
+      "percentuale": 25.5
+    },
+    {
+      "residenti": "3",
+      "valore": 945,
+      "colore": "#ec4899",
+      "percentuale": 12.7
+    },
+    {
+      "residenti": "4",
+      "valore": 760,
+      "colore": "#f59e0b",
+      "percentuale": 10.3
+    },
+    {
+      "residenti": "5+",
+      "valore": 378,
+      "colore": "#22c55e",
+      "percentuale": 5.1
+    }
+  ],
+  "totaleAbitazioni": 7414,
+  "famiglieSingole": 7237,
+  "famiglieCoabitanti": 177,
+  "nuoviEdifici": {
+    "fabbricati": 8,
+    "abitazioni": 79,
+    "superficieMq": 11968,
+    "volumeMc": 69532,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

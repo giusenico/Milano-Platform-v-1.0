@@ -1,0 +1,33 @@
+{
+  "nilId": 58,
+  "nilName": "DE ANGELI - MONTE ROSA",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 2362,
+      "percentuale": 12.4
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 2943,
+      "percentuale": 15.4
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 5978,
+      "percentuale": 31.3
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 6897,
+      "percentuale": 36.1
+    }
+  ],
+  "totale": 19119,
+  "pctLaureati": 36.1,
+  "anno": 2011
+}

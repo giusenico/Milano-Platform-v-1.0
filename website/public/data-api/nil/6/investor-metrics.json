@@ -1,0 +1,41 @@
+{
+  "nilId": 6,
+  "nil": "PORTA TICINESE - CONCA DEL NAVIGLIO",
+  "investorScore": 42.2,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Alto",
+  "ranking": {
+    "qualitaVita": 36,
+    "verde": 77,
+    "popolazione": 26,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 19932,
+      "media": 15753,
+      "delta": 4178.761363636364
+    },
+    "densita": {
+      "nil": 15881.852602244453,
+      "media": 8881.290415418553,
+      "deltaPercent": 78.8
+    },
+    "stranieri": {
+      "nil": 12.532610876981737,
+      "media": 21.360484986780587,
+      "delta": -8.8
+    },
+    "verde": {
+      "nil": 3.4897586286744993,
+      "media": 8.1171861884842,
+      "deltaPercent": -57
+    },
+    "qualitaVita": {
+      "nil": 41.41656604753486,
+      "media": 39.6877862711082,
+      "deltaPercent": 4.4
+    }
+  }
+}

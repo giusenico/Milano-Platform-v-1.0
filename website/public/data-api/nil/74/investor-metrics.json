@@ -1,0 +1,41 @@
+{
+  "nilId": 74,
+  "nil": "ROSERIO",
+  "investorScore": 42.1,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 11,
+    "verde": 12,
+    "popolazione": 83,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 242,
+      "media": 15753,
+      "delta": -15511.238636363636
+    },
+    "densita": {
+      "nil": 341.9865950955572,
+      "media": 8881.290415418553,
+      "deltaPercent": -96.1
+    },
+    "stranieri": {
+      "nil": 28.09917355371901,
+      "media": 21.360484986780587,
+      "delta": 6.7
+    },
+    "verde": {
+      "nil": 13.743364446993795,
+      "media": 8.1171861884842,
+      "deltaPercent": 69.3
+    },
+    "qualitaVita": {
+      "nil": 50.6815480955654,
+      "media": 39.6877862711082,
+      "deltaPercent": 27.7
+    }
+  }
+}

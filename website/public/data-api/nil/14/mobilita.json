@@ -1,0 +1,45 @@
+{
+  "nilId": 14,
+  "nilName": "NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q.RE FULVIO TESTI",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 6211,
+      "percentuale": 34.7,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 6123,
+      "percentuale": 34.2,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 3895,
+      "percentuale": 21.7,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 948,
+      "percentuale": 5.3,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 733,
+      "percentuale": 4.1,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 17910,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 55.9,
+  "anno": 2011
+}

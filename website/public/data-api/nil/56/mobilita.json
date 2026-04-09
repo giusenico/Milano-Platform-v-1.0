@@ -1,0 +1,45 @@
+{
+  "nilId": 56,
+  "nilName": "FORZE ARMATE",
+  "data": [
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 4741,
+      "percentuale": 41.7,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 3724,
+      "percentuale": 32.8,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 2002,
+      "percentuale": 17.6,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 493,
+      "percentuale": 4.3,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 399,
+      "percentuale": 3.5,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 11359,
+  "mezzo_prevalente": "Mezzi pubblici",
+  "pctSostenibile": 59.3,
+  "anno": 2011
+}

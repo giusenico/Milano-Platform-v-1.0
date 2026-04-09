@@ -1,0 +1,47 @@
+{
+  "nilId": 66,
+  "nilName": "QT 8",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 791,
+      "colore": "#3b82f6",
+      "percentuale": 43
+    },
+    {
+      "residenti": "2",
+      "valore": 535,
+      "colore": "#8b5cf6",
+      "percentuale": 29.1
+    },
+    {
+      "residenti": "3",
+      "valore": 292,
+      "colore": "#ec4899",
+      "percentuale": 15.9
+    },
+    {
+      "residenti": "4",
+      "valore": 149,
+      "colore": "#f59e0b",
+      "percentuale": 8.1
+    },
+    {
+      "residenti": "5+",
+      "valore": 72,
+      "colore": "#22c55e",
+      "percentuale": 3.9
+    }
+  ],
+  "totaleAbitazioni": 1839,
+  "famiglieSingole": 1820,
+  "famiglieCoabitanti": 18,
+  "nuoviEdifici": {
+    "fabbricati": 0,
+    "abitazioni": 0,
+    "superficieMq": 0,
+    "volumeMc": 0,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

@@ -1,0 +1,20 @@
+{
+  "nilId": 31,
+  "nilName": "MONLUE' - PONTE LAMBRO",
+  "totaleServizi": 1,
+  "serviziPerArea": [
+    {
+      "area_attivita": "Attività ludiche e ricreative",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Giovani,Adulti,Migranti,Anziani,Persone con disabilità",
+      "count": 1
+    }
+  ],
+  "popolazione": 5205,
+  "serviziPer1000Abitanti": 0.19,
+  "qualitaCopertura": "Bassa"
+}

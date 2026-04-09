@@ -1,0 +1,41 @@
+{
+  "nilId": 76,
+  "nil": "QUARTO OGGIARO - VIALBA - MUSOCCO",
+  "investorScore": 25.7,
+  "riskLevel": "Alto",
+  "riskColor": "#ef4444",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 55,
+    "verde": 33,
+    "popolazione": 11,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 30914,
+      "media": 15753,
+      "delta": 15160.761363636364
+    },
+    "densita": {
+      "nil": 11132.669355716844,
+      "media": 8881.290415418553,
+      "deltaPercent": 25.3
+    },
+    "stranieri": {
+      "nil": 28.98686679174484,
+      "media": 21.360484986780587,
+      "delta": 7.6
+    },
+    "verde": {
+      "nil": 8.347250955156083,
+      "media": 8.1171861884842,
+      "deltaPercent": 2.8
+    },
+    "qualitaVita": {
+      "nil": 38.00759424331807,
+      "media": 39.6877862711082,
+      "deltaPercent": -4.2
+    }
+  }
+}

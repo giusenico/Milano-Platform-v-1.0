@@ -1,0 +1,41 @@
+{
+  "nilId": 47,
+  "nil": "CANTALUPA",
+  "investorScore": 39.6,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 15,
+    "verde": 22,
+    "popolazione": 80,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 582,
+      "media": 15753,
+      "delta": -15171.238636363636
+    },
+    "densita": {
+      "nil": 628.047375479196,
+      "media": 8881.290415418553,
+      "deltaPercent": -92.9
+    },
+    "stranieri": {
+      "nil": 24.570446735395187,
+      "media": 21.360484986780587,
+      "delta": 3.2
+    },
+    "verde": {
+      "nil": 10.506528803349934,
+      "media": 8.1171861884842,
+      "deltaPercent": 29.4
+    },
+    "qualitaVita": {
+      "nil": 47.053489636724116,
+      "media": 39.6877862711082,
+      "deltaPercent": 18.6
+    }
+  }
+}

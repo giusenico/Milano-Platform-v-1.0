@@ -1,0 +1,45 @@
+{
+  "nilId": 51,
+  "nilName": "PORTA MAGENTA",
+  "data": [
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 3044,
+      "percentuale": 32.3,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 2752,
+      "percentuale": 29.2,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 2161,
+      "percentuale": 23,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 886,
+      "percentuale": 9.4,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 573,
+      "percentuale": 6.1,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 9416,
+  "mezzo_prevalente": "Mezzi pubblici",
+  "pctSostenibile": 61.5,
+  "anno": 2011
+}

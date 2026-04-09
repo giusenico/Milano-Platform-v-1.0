@@ -1,0 +1,45 @@
+{
+  "nilId": 2,
+  "nilName": "BRERA",
+  "data": [
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 3468,
+      "percentuale": 37.9,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 2006,
+      "percentuale": 21.9,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 1895,
+      "percentuale": 20.7,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 948,
+      "percentuale": 10.4,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 837,
+      "percentuale": 9.1,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 9154,
+  "mezzo_prevalente": "A piedi o in bicicletta",
+  "pctSostenibile": 59.8,
+  "anno": 2011
+}

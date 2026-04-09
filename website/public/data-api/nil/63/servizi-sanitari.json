@@ -1,0 +1,26 @@
+{
+  "nilId": 63,
+  "nilName": "FIGINO",
+  "farmacie": {
+    "totale": 1,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 49",
+        "indirizzo": "VIA FRATELLI ZANZOTTERA, 12",
+        "cap": "20153"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 1,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 2445,
+  "rapporti": {
+    "abitantiPerFarmacia": 2445,
+    "abitantiPerMedico": 2445
+  },
+  "scoreHealthcare": 70,
+  "qualitaServizio": "Buono"
+}

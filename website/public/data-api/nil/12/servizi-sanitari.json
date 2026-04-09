@@ -1,0 +1,56 @@
+{
+  "nilId": 12,
+  "nilName": "MACIACHINI - MAGGIOLINA",
+  "farmacie": {
+    "totale": 7,
+    "lista": [
+      {
+        "descrizione_farmacia": "TADDEI SNC",
+        "indirizzo": "VIA AIROLO, 36",
+        "cap": "20159"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 32",
+        "indirizzo": "VIA EUGENIO PELLINI,1",
+        "cap": "20125"
+      },
+      {
+        "descrizione_farmacia": "NIZZA DI CLUB SALUTE SRL",
+        "indirizzo": "VIA GIOACCHINO MURAT, 85",
+        "cap": "20159"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 64",
+        "indirizzo": "VIA ABBAZIA, 4",
+        "cap": "20125"
+      },
+      {
+        "descrizione_farmacia": "MELCHIORRE GIOIA",
+        "indirizzo": "VIA MELCHIORRE GIOIA, 135",
+        "cap": "20125"
+      },
+      {
+        "descrizione_farmacia": "FALQUI MILANO SRL",
+        "indirizzo": "VIALE ZARA, 145",
+        "cap": "20159"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 63",
+        "indirizzo": "VIA GIOACCHINO MURAT, 5",
+        "cap": "20159"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 16,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 25926,
+  "rapporti": {
+    "abitantiPerFarmacia": 3704,
+    "abitantiPerMedico": 1620
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

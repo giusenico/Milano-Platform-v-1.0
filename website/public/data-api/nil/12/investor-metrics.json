@@ -1,0 +1,41 @@
+{
+  "nilId": 12,
+  "nil": "MACIACHINI - MAGGIOLINA",
+  "investorScore": 39.8,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Alto",
+  "ranking": {
+    "qualitaVita": 46,
+    "verde": 39,
+    "popolazione": 19,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 25926,
+      "media": 15753,
+      "delta": 10172.761363636364
+    },
+    "densita": {
+      "nil": 15478.97017194668,
+      "media": 8881.290415418553,
+      "deltaPercent": 74.3
+    },
+    "stranieri": {
+      "nil": 20.477512921391654,
+      "media": 21.360484986780587,
+      "delta": -0.9
+    },
+    "verde": {
+      "nil": 7.554185978613919,
+      "media": 8.1171861884842,
+      "deltaPercent": -6.9
+    },
+    "qualitaVita": {
+      "nil": 39.95655304263296,
+      "media": 39.6877862711082,
+      "deltaPercent": 0.7
+    }
+  }
+}

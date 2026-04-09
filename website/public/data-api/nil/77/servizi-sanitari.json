@@ -1,0 +1,36 @@
+{
+  "nilId": 77,
+  "nilName": "BOVISA",
+  "farmacie": {
+    "totale": 3,
+    "lista": [
+      {
+        "descrizione_farmacia": "DR.MAX MILANO BAUSAN",
+        "indirizzo": "PIAZZA GIOVANNI BAUSAN, 3",
+        "cap": "20158"
+      },
+      {
+        "descrizione_farmacia": "IMBRIANI SRL",
+        "indirizzo": "VIA DEGLI IMBRIANI, 35",
+        "cap": "20158"
+      },
+      {
+        "descrizione_farmacia": "CAVALLI DI COZZI DOTT. PAOLO",
+        "indirizzo": "VIA GIUSEPPE CANDIANI, 122",
+        "cap": "20158"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 10,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 13945,
+  "rapporti": {
+    "abitantiPerFarmacia": 4648,
+    "abitantiPerMedico": 1395
+  },
+  "scoreHealthcare": 70,
+  "qualitaServizio": "Buono"
+}

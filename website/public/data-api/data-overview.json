@@ -1,0 +1,94 @@
+{
+  "prezzi": {
+    "semestre": "2025_1",
+    "prezzoMedio": 3894,
+    "totaleQuartieri": 42
+  },
+  "demografia": {
+    "anno": 2025,
+    "indicatori": [
+      {
+        "indicatore": "Popolazione 0-14 anni (valori percentuali) - al 1° gennaio",
+        "valore": 12.1
+      },
+      {
+        "indicatore": "Popolazione 15-64 anni (valori percentuali) - al 1° gennaio",
+        "valore": 64.7
+      },
+      {
+        "indicatore": "Popolazione 65 anni e più (valori percentuali) - al 1° gennaio",
+        "valore": 23.2
+      },
+      {
+        "indicatore": "Indice di dipendenza strutturale (valori percentuali) - al 1° gennaio",
+        "valore": 54.6
+      },
+      {
+        "indicatore": "Indice di dipendenza degli anziani (valori percentuali) - al 1° gennaio",
+        "valore": 35.8
+      }
+    ],
+    "popolazioneTotale": 1386285,
+    "pctStranieriMedia": 21.4,
+    "densitaMedia": 8881
+  },
+  "popolazione": {
+    "anno": 2021,
+    "quartieriConDati": 88,
+    "totaleFamiglie": 751850,
+    "famiglieUnipersonali": 402908,
+    "popolazioneTotale": 1386285,
+    "indiceQualitaVitaMedia": 39.7
+  },
+  "contribuenti": {
+    "anno": 2023
+  },
+  "redditi": {
+    "anno": 2023,
+    "contribuentiTotali": 1047822,
+    "redditoImponibile": 38149599569,
+    "redditoMedio": 36408,
+    "contribuentiFabbricati": 488125,
+    "redditoFabbricati": 1217658634,
+    "redditoFabbricatiMedio": 2495
+  },
+  "indicePrezzi": {
+    "anno": 2025,
+    "trimestre": "Q2",
+    "indice": 171.7,
+    "variazionePercentuale": 4.7
+  },
+  "trasporto": {
+    "anno": 2024,
+    "lineeTotali": 163,
+    "lunghezzaTotale": 1473.01,
+    "lineeMetro": 5,
+    "lunghezzaMetro": 111.3
+  },
+  "servizi": {
+    "mercati": 111,
+    "mercatiCoperti": 26,
+    "mercatiScoperti": 85,
+    "farmacie": 422,
+    "mediciBase": 964,
+    "serviziSociali": 949,
+    "scuole": 0,
+    "indiceVerdeMedio": 8.12
+  },
+  "commercio": {
+    "eserciziVicinato": 29312,
+    "pubbliciEsercizi": 9417,
+    "grandeDistribuzione": 1027,
+    "bottegheStoriche": 626,
+    "coworking": 110
+  },
+  "cultura": {
+    "architetture": 841,
+    "beniCulturali": 322,
+    "biblioteche": 81
+  },
+  "mobilita": {
+    "colonneRicarica": 483,
+    "beniConfiscatiMafia": 267
+  }
+}

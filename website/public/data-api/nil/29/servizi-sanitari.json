@@ -1,0 +1,31 @@
+{
+  "nilId": 29,
+  "nilName": "ORTOMERCATO",
+  "farmacie": {
+    "totale": 2,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 43",
+        "indirizzo": "PIAZZALE VINCENZO CUOCO, 4",
+        "cap": "20137"
+      },
+      {
+        "descrizione_farmacia": "DEL MERCATO SRL",
+        "indirizzo": "VIA VARSAVIA, 4",
+        "cap": "20137"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 0,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 4107,
+  "rapporti": {
+    "abitantiPerFarmacia": 2054,
+    "abitantiPerMedico": null
+  },
+  "scoreHealthcare": 50,
+  "qualitaServizio": "Buono"
+}

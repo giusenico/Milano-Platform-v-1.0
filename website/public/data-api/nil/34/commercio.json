@@ -1,0 +1,15 @@
+{
+  "nilId": 34,
+  "nilName": "CHIARAVALLE",
+  "pubbliciEsercizi": 5,
+  "eserciziVicinato": 8,
+  "bottegheStoriche": 0,
+  "coworking": 0,
+  "grandeDistribuzione": 0,
+  "edicole": 0,
+  "totaleCommercio": 13,
+  "densitaCommerciale": 42,
+  "commercioPer1000Ab": 12.8,
+  "scoreVitalita": 4.9,
+  "livelloVitalita": "Basso"
+}

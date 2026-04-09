@@ -1,0 +1,41 @@
+{
+  "nilId": 67,
+  "nilName": "PORTELLO",
+  "farmacie": {
+    "totale": 4,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 66",
+        "indirizzo": "VIA ALCUINO, 18",
+        "cap": "20149"
+      },
+      {
+        "descrizione_farmacia": "SERRA SAS DELLA DR.SSA TAVEGGIA PAOLA",
+        "indirizzo": "VIALE RENATO SERRA, 52",
+        "cap": "20149"
+      },
+      {
+        "descrizione_farmacia": "FIRENZE SRL",
+        "indirizzo": "VIA RUGGERO DI LAURIA, 22",
+        "cap": "20149"
+      },
+      {
+        "descrizione_farmacia": "CANOSSA SRL",
+        "indirizzo": "CORSO SEMPIONE, 67",
+        "cap": "20149"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 4,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 8858,
+  "rapporti": {
+    "abitantiPerFarmacia": 2215,
+    "abitantiPerMedico": 2215
+  },
+  "scoreHealthcare": 70,
+  "qualitaServizio": "Buono"
+}

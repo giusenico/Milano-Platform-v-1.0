@@ -1,0 +1,41 @@
+{
+  "nilId": 2,
+  "nil": "BRERA",
+  "investorScore": 40.4,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Alto",
+  "ranking": {
+    "qualitaVita": 39,
+    "verde": 81,
+    "popolazione": 32,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 18156,
+      "media": 15753,
+      "delta": 2402.761363636364
+    },
+    "densita": {
+      "nil": 11088.765041839139,
+      "media": 8881.290415418553,
+      "deltaPercent": 24.9
+    },
+    "stranieri": {
+      "nil": 14.4965851509143,
+      "media": 21.360484986780587,
+      "delta": -6.9
+    },
+    "verde": {
+      "nil": 3.1109678109103402,
+      "media": 8.1171861884842,
+      "deltaPercent": -61.7
+    },
+    "qualitaVita": {
+      "nil": 41.01041248185012,
+      "media": 39.6877862711082,
+      "deltaPercent": 3.3
+    }
+  }
+}

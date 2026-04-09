@@ -1,0 +1,47 @@
+{
+  "nilId": 68,
+  "nilName": "PAGANO",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 2919,
+      "colore": "#3b82f6",
+      "percentuale": 39.8
+    },
+    {
+      "residenti": "2",
+      "valore": 1988,
+      "colore": "#8b5cf6",
+      "percentuale": 27.1
+    },
+    {
+      "residenti": "3",
+      "valore": 1114,
+      "colore": "#ec4899",
+      "percentuale": 15.2
+    },
+    {
+      "residenti": "4",
+      "valore": 1014,
+      "colore": "#f59e0b",
+      "percentuale": 13.8
+    },
+    {
+      "residenti": "5+",
+      "valore": 291,
+      "colore": "#22c55e",
+      "percentuale": 4
+    }
+  ],
+  "totaleAbitazioni": 7326,
+  "famiglieSingole": 7181,
+  "famiglieCoabitanti": 145,
+  "nuoviEdifici": {
+    "fabbricati": 6,
+    "abitazioni": 529,
+    "superficieMq": 39527,
+    "volumeMc": 207748,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

@@ -1,0 +1,15 @@
+{
+  "nilId": 1,
+  "nilName": "DUOMO",
+  "pubbliciEsercizi": 687,
+  "eserciziVicinato": 2943,
+  "bottegheStoriche": 184,
+  "coworking": 12,
+  "grandeDistribuzione": 207,
+  "edicole": 49,
+  "totaleCommercio": 3837,
+  "densitaCommerciale": 1638.6,
+  "commercioPer1000Ab": 229.7,
+  "scoreVitalita": 100,
+  "livelloVitalita": "Alto"
+}

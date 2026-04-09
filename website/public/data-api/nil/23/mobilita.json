@@ -1,0 +1,45 @@
+{
+  "nilId": 23,
+  "nilName": "LAMBRATE - ORTICA",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 2036,
+      "percentuale": 35.3,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 2022,
+      "percentuale": 35,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 1026,
+      "percentuale": 17.8,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 397,
+      "percentuale": 6.9,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 288,
+      "percentuale": 5,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 5769,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 52.8,
+  "anno": 2011
+}

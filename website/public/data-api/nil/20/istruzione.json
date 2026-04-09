@@ -1,0 +1,33 @@
+{
+  "nilId": 20,
+  "nilName": "LORETO - CASORETTO - NOLO",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 6475,
+      "percentuale": 17.4
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 9067,
+      "percentuale": 24.3
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 11646,
+      "percentuale": 31.3
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 7967,
+      "percentuale": 21.4
+    }
+  ],
+  "totale": 37253,
+  "pctLaureati": 21.4,
+  "anno": 2011
+}

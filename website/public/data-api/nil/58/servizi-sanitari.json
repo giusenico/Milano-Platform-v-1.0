@@ -1,0 +1,66 @@
+{
+  "nilId": 58,
+  "nilName": "DE ANGELI - MONTE ROSA",
+  "farmacie": {
+    "totale": 9,
+    "lista": [
+      {
+        "descrizione_farmacia": "RANZONI FARMA ACQUISITION SRL",
+        "indirizzo": "VIALE DANIELE RANZONI, 2",
+        "cap": "20149"
+      },
+      {
+        "descrizione_farmacia": "TRIPHARMA SAS DI MANELLI MARIA LUISA & C.",
+        "indirizzo": "VIA GUGLIELMO SILVA, 39",
+        "cap": "20149"
+      },
+      {
+        "descrizione_farmacia": "RAVIZZA SRL",
+        "indirizzo": "VIA MARGHERA, 18",
+        "cap": "20149"
+      },
+      {
+        "descrizione_farmacia": "CARNEVALE SNC DI CARNEVALE BONINO ANDREA",
+        "indirizzo": "VIA RAFFAELLO SANZIO 2A",
+        "cap": "20149"
+      },
+      {
+        "descrizione_farmacia": "MODIANO CLARA SAS DR. PAGLIANO MAURIZIO MARIA & C",
+        "indirizzo": "PIAZZA CARLO STUPARICH, 4",
+        "cap": "20148"
+      },
+      {
+        "descrizione_farmacia": "WAGNER SRL",
+        "indirizzo": "VIA MICHELANGELO BUONARROTI, 5",
+        "cap": "20149"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 80",
+        "indirizzo": "PIAZZALE FRATELLI ZAVATTARI, 4",
+        "cap": "20149"
+      },
+      {
+        "descrizione_farmacia": "GIULIO CESARE SNC DEI DR. ROBERTO,GABRIELE E FRANCESCA MARZANI",
+        "indirizzo": "VIA MONTE ROSA, 27",
+        "cap": "20149"
+      },
+      {
+        "descrizione_farmacia": "MONTE ROSA SAS DEI DOTTORI ANTONIOLI ANDREA MARIA E ANTONIOLI CARLO MARIA",
+        "indirizzo": "VIA ELEUTERIO PAGLIANO 1A",
+        "cap": "20149"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 16,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 21405,
+  "rapporti": {
+    "abitantiPerFarmacia": 2378,
+    "abitantiPerMedico": 1338
+  },
+  "scoreHealthcare": 85,
+  "qualitaServizio": "Ottimo"
+}

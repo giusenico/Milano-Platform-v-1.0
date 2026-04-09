@@ -1,0 +1,45 @@
+{
+  "nilId": 7,
+  "nilName": "MAGENTA - S. VITTORE",
+  "data": [
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 3582,
+      "percentuale": 37.9,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 2309,
+      "percentuale": 24.5,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 1883,
+      "percentuale": 19.9,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 994,
+      "percentuale": 10.5,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 672,
+      "percentuale": 7.1,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 9440,
+  "mezzo_prevalente": "A piedi o in bicicletta",
+  "pctSostenibile": 62.4,
+  "anno": 2011
+}

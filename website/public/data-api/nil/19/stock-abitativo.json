@@ -1,0 +1,47 @@
+{
+  "nilId": 19,
+  "nilName": "PADOVA - TURRO - CRESCENZAGO",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 7005,
+      "colore": "#3b82f6",
+      "percentuale": 44.3
+    },
+    {
+      "residenti": "2",
+      "valore": 4550,
+      "colore": "#8b5cf6",
+      "percentuale": 28.8
+    },
+    {
+      "residenti": "3",
+      "valore": 2309,
+      "colore": "#ec4899",
+      "percentuale": 14.6
+    },
+    {
+      "residenti": "4",
+      "valore": 1555,
+      "colore": "#f59e0b",
+      "percentuale": 9.8
+    },
+    {
+      "residenti": "5+",
+      "valore": 403,
+      "colore": "#22c55e",
+      "percentuale": 2.5
+    }
+  ],
+  "totaleAbitazioni": 15822,
+  "famiglieSingole": 15531,
+  "famiglieCoabitanti": 291,
+  "nuoviEdifici": {
+    "fabbricati": 7,
+    "abitazioni": 499,
+    "superficieMq": 29009,
+    "volumeMc": 149049,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

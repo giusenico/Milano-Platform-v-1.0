@@ -1,0 +1,51 @@
+{
+  "nilId": 56,
+  "nilName": "FORZE ARMATE",
+  "farmacie": {
+    "totale": 6,
+    "lista": [
+      {
+        "descrizione_farmacia": "SACCA SRL",
+        "indirizzo": "VIA DELLE FORZE ARMATE,212",
+        "cap": "20152"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 07",
+        "indirizzo": "VIA DELLE FORZE ARMATE, 328",
+        "cap": "20152"
+      },
+      {
+        "descrizione_farmacia": "DR.MAX MILANO SAINT BON",
+        "indirizzo": "VIA SIMONE SAINT BON, 2",
+        "cap": "20147"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 57",
+        "indirizzo": "VIA SIMONE SAINT BON, 38",
+        "cap": "20147"
+      },
+      {
+        "descrizione_farmacia": "SEGRE",
+        "indirizzo": "VIA FRANCESCO PRIMATICCIO, 217",
+        "cap": "20147"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 36",
+        "indirizzo": "VIA NIKOLAJEVKA,4",
+        "cap": "20152"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 7,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 25022,
+  "rapporti": {
+    "abitantiPerFarmacia": 4170,
+    "abitantiPerMedico": 3575
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

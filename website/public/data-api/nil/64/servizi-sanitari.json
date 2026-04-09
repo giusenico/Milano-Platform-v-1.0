@@ -1,0 +1,26 @@
+{
+  "nilId": 64,
+  "nilName": "TRENNO",
+  "farmacie": {
+    "totale": 1,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 44",
+        "indirizzo": "PIAZZA ROSA SCOLARI, 3",
+        "cap": "20151"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 2,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 3975,
+  "rapporti": {
+    "abitantiPerFarmacia": 3975,
+    "abitantiPerMedico": 1988
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

@@ -1,0 +1,41 @@
+{
+  "nilId": 10,
+  "nil": "STAZIONE CENTRALE - PONTE SEVESO",
+  "investorScore": 31.9,
+  "riskLevel": "Alto",
+  "riskColor": "#ef4444",
+  "growthPotential": "Alto",
+  "ranking": {
+    "qualitaVita": 77,
+    "verde": 88,
+    "popolazione": 30,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 18584,
+      "media": 15753,
+      "delta": 2830.761363636364
+    },
+    "densita": {
+      "nil": 11943.300813426267,
+      "media": 8881.290415418553,
+      "deltaPercent": 34.5
+    },
+    "stranieri": {
+      "nil": 25.430477830391734,
+      "media": 21.360484986780587,
+      "delta": 4.1
+    },
+    "verde": {
+      "nil": 2.2021422438522174,
+      "media": 8.1171861884842,
+      "deltaPercent": -72.9
+    },
+    "qualitaVita": {
+      "nil": 29.691012869890265,
+      "media": 39.6877862711082,
+      "deltaPercent": -25.2
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "nilId": 61,
+  "nilName": "QUARTO CAGNINO",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 1329,
+      "colore": "#3b82f6",
+      "percentuale": 32.4
+    },
+    {
+      "residenti": "2",
+      "valore": 1292,
+      "colore": "#8b5cf6",
+      "percentuale": 31.5
+    },
+    {
+      "residenti": "3",
+      "valore": 774,
+      "colore": "#ec4899",
+      "percentuale": 18.9
+    },
+    {
+      "residenti": "4",
+      "valore": 553,
+      "colore": "#f59e0b",
+      "percentuale": 13.5
+    },
+    {
+      "residenti": "5+",
+      "valore": 150,
+      "colore": "#22c55e",
+      "percentuale": 3.7
+    }
+  ],
+  "totaleAbitazioni": 4098,
+  "famiglieSingole": 4054,
+  "famiglieCoabitanti": 44,
+  "nuoviEdifici": {
+    "fabbricati": 10,
+    "abitazioni": 608,
+    "superficieMq": 41447,
+    "volumeMc": 321748,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

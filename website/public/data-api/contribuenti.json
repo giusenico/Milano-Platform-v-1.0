@@ -1,0 +1,1448 @@
+{
+  "categorie": [
+    {
+      "indicatore": "'Contribuenti con reddito di spettanza dell\"'imprenditore in contabilità ordinaria (comprensivo dei valori nulli)'",
+      "data": [
+        {
+          "anno": 2012,
+          "valore": 2047
+        },
+        {
+          "anno": 2013,
+          "valore": 1886
+        },
+        {
+          "anno": 2014,
+          "valore": 1790
+        },
+        {
+          "anno": 2015,
+          "valore": 1658
+        },
+        {
+          "anno": 2016,
+          "valore": 1561
+        },
+        {
+          "anno": 2017,
+          "valore": 1674
+        },
+        {
+          "anno": 2018,
+          "valore": 1589
+        },
+        {
+          "anno": 2019,
+          "valore": 1470
+        },
+        {
+          "anno": 2020,
+          "valore": 1327
+        },
+        {
+          "anno": 2021,
+          "valore": 1259
+        },
+        {
+          "anno": 2022,
+          "valore": 1271
+        },
+        {
+          "anno": 2023,
+          "valore": 1213
+        }
+      ]
+    },
+    {
+      "indicatore": "'Contribuenti con reddito di spettanza dell\"'imprenditore in contabilità semplificata (comprensivo dei valori nulli)'",
+      "data": [
+        {
+          "anno": 2012,
+          "valore": 30288
+        },
+        {
+          "anno": 2013,
+          "valore": 30012
+        },
+        {
+          "anno": 2014,
+          "valore": 30157
+        },
+        {
+          "anno": 2015,
+          "valore": 28211
+        },
+        {
+          "anno": 2016,
+          "valore": 26895
+        },
+        {
+          "anno": 2017,
+          "valore": 24522
+        },
+        {
+          "anno": 2018,
+          "valore": 27541
+        },
+        {
+          "anno": 2019,
+          "valore": 20577
+        },
+        {
+          "anno": 2020,
+          "valore": 19615
+        },
+        {
+          "anno": 2021,
+          "valore": 19016
+        },
+        {
+          "anno": 2022,
+          "valore": 18992
+        },
+        {
+          "anno": 2023,
+          "valore": 18499
+        }
+      ]
+    },
+    {
+      "indicatore": "'Reddito di spettanza dell\"'imprenditore in contabilità ordinaria (comprensivo dei valori nulli) (euro)'",
+      "data": [
+        {
+          "anno": 2012,
+          "valore": 92706098
+        },
+        {
+          "anno": 2013,
+          "valore": 89954168
+        },
+        {
+          "anno": 2014,
+          "valore": 96532535
+        },
+        {
+          "anno": 2015,
+          "valore": 105588554
+        },
+        {
+          "anno": 2016,
+          "valore": 108412357
+        },
+        {
+          "anno": 2017,
+          "valore": 133502268
+        },
+        {
+          "anno": 2018,
+          "valore": 139918935
+        },
+        {
+          "anno": 2019,
+          "valore": 136433259
+        },
+        {
+          "anno": 2020,
+          "valore": 124194248
+        },
+        {
+          "anno": 2021,
+          "valore": 153177592
+        },
+        {
+          "anno": 2022,
+          "valore": 171790764
+        },
+        {
+          "anno": 2023,
+          "valore": 157567729
+        }
+      ]
+    },
+    {
+      "indicatore": "'Reddito di spettanza dell\"'imprenditore in contabilità semplificata (comprensivo dei valori nulli) (euro)'",
+      "data": [
+        {
+          "anno": 2012,
+          "valore": 625092452
+        },
+        {
+          "anno": 2013,
+          "valore": 623322801
+        },
+        {
+          "anno": 2014,
+          "valore": 655817356
+        },
+        {
+          "anno": 2015,
+          "valore": 664152281
+        },
+        {
+          "anno": 2016,
+          "valore": 662650182
+        },
+        {
+          "anno": 2017,
+          "valore": 630786984
+        },
+        {
+          "anno": 2018,
+          "valore": 692273209
+        },
+        {
+          "anno": 2019,
+          "valore": 594541174
+        },
+        {
+          "anno": 2020,
+          "valore": 483964751
+        },
+        {
+          "anno": 2021,
+          "valore": 571783136
+        },
+        {
+          "anno": 2022,
+          "valore": 637584383
+        },
+        {
+          "anno": 2023,
+          "valore": 677496533
+        }
+      ]
+    },
+    {
+      "indicatore": "Contribuenti",
+      "data": [
+        {
+          "anno": 2012,
+          "valore": 979681
+        },
+        {
+          "anno": 2013,
+          "valore": 973312
+        },
+        {
+          "anno": 2014,
+          "valore": 978487
+        },
+        {
+          "anno": 2015,
+          "valore": 988056
+        },
+        {
+          "anno": 2016,
+          "valore": 993974
+        },
+        {
+          "anno": 2017,
+          "valore": 1003112
+        },
+        {
+          "anno": 2018,
+          "valore": 1017272
+        },
+        {
+          "anno": 2019,
+          "valore": 1020463
+        },
+        {
+          "anno": 2020,
+          "valore": 1003624
+        },
+        {
+          "anno": 2021,
+          "valore": 1008091
+        },
+        {
+          "anno": 2022,
+          "valore": 1034105
+        },
+        {
+          "anno": 2023,
+          "valore": 1047822
+        }
+      ]
+    },
+    {
+      "indicatore": "Contribuenti con reddito da fabbricati",
+      "data": [
+        {
+          "anno": 2012,
+          "valore": 116458
+        },
+        {
+          "anno": 2013,
+          "valore": 215625
+        },
+        {
+          "anno": 2014,
+          "valore": 458943
+        },
+        {
+          "anno": 2015,
+          "valore": 461959
+        },
+        {
+          "anno": 2016,
+          "valore": 464737
+        },
+        {
+          "anno": 2017,
+          "valore": 470436
+        },
+        {
+          "anno": 2018,
+          "valore": 474151
+        },
+        {
+          "anno": 2019,
+          "valore": 474701
+        },
+        {
+          "anno": 2020,
+          "valore": 475770
+        },
+        {
+          "anno": 2021,
+          "valore": 477792
+        },
+        {
+          "anno": 2022,
+          "valore": 484342
+        },
+        {
+          "anno": 2023,
+          "valore": 488125
+        }
+      ]
+    },
+    {
+      "indicatore": "Contribuenti con reddito da lavoro autonomo (comprensivo dei valori nulli)",
+      "data": [
+        {
+          "anno": 2012,
+          "valore": 48310
+        },
+        {
+          "anno": 2013,
+          "valore": 47835
+        },
+        {
+          "anno": 2014,
+          "valore": 47647
+        },
+        {
+          "anno": 2015,
+          "valore": 45592
+        },
+        {
+          "anno": 2016,
+          "valore": 43190
+        },
+        {
+          "anno": 2017,
+          "valore": 42752
+        },
+        {
+          "anno": 2018,
+          "valore": 42909
+        },
+        {
+          "anno": 2019,
+          "valore": 27585
+        },
+        {
+          "anno": 2020,
+          "valore": 29487
+        },
+        {
+          "anno": 2021,
+          "valore": 29709
+        },
+        {
+          "anno": 2022,
+          "valore": 30951
+        },
+        {
+          "anno": 2023,
+          "valore": 30526
+        }
+      ]
+    },
+    {
+      "indicatore": "Contribuenti con reddito da lavoro dipendente e assimilati",
+      "data": [
+        {
+          "anno": 2012,
+          "valore": 498321
+        },
+        {
+          "anno": 2013,
+          "valore": 494340
+        },
+        {
+          "anno": 2014,
+          "valore": 504533
+        },
+        {
+          "anno": 2015,
+          "valore": 522354
+        },
+        {
+          "anno": 2016,
+          "valore": 531619
+        },
+        {
+          "anno": 2017,
+          "valore": 548196
+        },
+        {
+          "anno": 2018,
+          "valore": 568098
+        },
+        {
+          "anno": 2019,
+          "valore": 574784
+        },
+        {
+          "anno": 2020,
+          "valore": 561784
+        },
+        {
+          "anno": 2021,
+          "valore": 576721
+        },
+        {
+          "anno": 2022,
+          "valore": 604861
+        },
+        {
+          "anno": 2023,
+          "valore": 619957
+        }
+      ]
+    },
+    {
+      "indicatore": "Contribuenti con reddito da partecipazione (comprensivo dei valori nulli)",
+      "data": [
+        {
+          "anno": 2012,
+          "valore": 47463
+        },
+        {
+          "anno": 2013,
+          "valore": 46292
+        },
+        {
+          "anno": 2014,
+          "valore": 45265
+        },
+        {
+          "anno": 2015,
+          "valore": 43782
+        },
+        {
+          "anno": 2016,
+          "valore": 43217
+        },
+        {
+          "anno": 2017,
+          "valore": 40860
+        },
+        {
+          "anno": 2018,
+          "valore": 42812
+        },
+        {
+          "anno": 2019,
+          "valore": 40685
+        },
+        {
+          "anno": 2020,
+          "valore": 38592
+        },
+        {
+          "anno": 2021,
+          "valore": 37365
+        },
+        {
+          "anno": 2022,
+          "valore": 36587
+        },
+        {
+          "anno": 2023,
+          "valore": 35754
+        }
+      ]
+    },
+    {
+      "indicatore": "Contribuenti con reddito da pensione",
+      "data": [
+        {
+          "anno": 2012,
+          "valore": 345224
+        },
+        {
+          "anno": 2013,
+          "valore": 338546
+        },
+        {
+          "anno": 2014,
+          "valore": 333982
+        },
+        {
+          "anno": 2015,
+          "valore": 330408
+        },
+        {
+          "anno": 2016,
+          "valore": 323260
+        },
+        {
+          "anno": 2017,
+          "valore": 317803
+        },
+        {
+          "anno": 2018,
+          "valore": 312491
+        },
+        {
+          "anno": 2019,
+          "valore": 308107
+        },
+        {
+          "anno": 2020,
+          "valore": 305624
+        },
+        {
+          "anno": 2021,
+          "valore": 299225
+        },
+        {
+          "anno": 2022,
+          "valore": 296866
+        },
+        {
+          "anno": 2023,
+          "valore": 292640
+        }
+      ]
+    },
+    {
+      "indicatore": "Contribuenti con reddito imponibile",
+      "data": [
+        {
+          "anno": 2012,
+          "valore": 948637
+        },
+        {
+          "anno": 2013,
+          "valore": 941894
+        },
+        {
+          "anno": 2014,
+          "valore": 944490
+        },
+        {
+          "anno": 2015,
+          "valore": 953978
+        },
+        {
+          "anno": 2016,
+          "valore": 953821
+        },
+        {
+          "anno": 2017,
+          "valore": 961113
+        },
+        {
+          "anno": 2018,
+          "valore": 976069
+        },
+        {
+          "anno": 2019,
+          "valore": 964982
+        },
+        {
+          "anno": 2020,
+          "valore": 939802
+        },
+        {
+          "anno": 2021,
+          "valore": 946613
+        },
+        {
+          "anno": 2022,
+          "valore": 970791
+        },
+        {
+          "anno": 2023,
+          "valore": 978478
+        }
+      ]
+    },
+    {
+      "indicatore": "Reddito da fabbricati (euro)",
+      "data": [
+        {
+          "anno": 2012,
+          "valore": 901813882
+        },
+        {
+          "anno": 2013,
+          "valore": 1017589765
+        },
+        {
+          "anno": 2014,
+          "valore": 1213940297
+        },
+        {
+          "anno": 2015,
+          "valore": 1180821857
+        },
+        {
+          "anno": 2016,
+          "valore": 1160650324
+        },
+        {
+          "anno": 2017,
+          "valore": 1164473769
+        },
+        {
+          "anno": 2018,
+          "valore": 1168236119
+        },
+        {
+          "anno": 2019,
+          "valore": 1155710932
+        },
+        {
+          "anno": 2020,
+          "valore": 1089302822
+        },
+        {
+          "anno": 2021,
+          "valore": 1085444673
+        },
+        {
+          "anno": 2022,
+          "valore": 1145312013
+        },
+        {
+          "anno": 2023,
+          "valore": 1217658634
+        }
+      ]
+    },
+    {
+      "indicatore": "Reddito da lavoro autonomo (comprensivo dei valori nulli) (euro)",
+      "data": [
+        {
+          "anno": 2012,
+          "valore": 2576248769
+        },
+        {
+          "anno": 2013,
+          "valore": 2529779695
+        },
+        {
+          "anno": 2014,
+          "valore": 2570946110
+        },
+        {
+          "anno": 2015,
+          "valore": 2620766918
+        },
+        {
+          "anno": 2016,
+          "valore": 2651597892
+        },
+        {
+          "anno": 2017,
+          "valore": 2700362524
+        },
+        {
+          "anno": 2018,
+          "valore": 2842859921
+        },
+        {
+          "anno": 2019,
+          "valore": 2372879616
+        },
+        {
+          "anno": 2020,
+          "valore": 2267616506
+        },
+        {
+          "anno": 2021,
+          "valore": 2598594927
+        },
+        {
+          "anno": 2022,
+          "valore": 2844386701
+        },
+        {
+          "anno": 2023,
+          "valore": 3100209333
+        }
+      ]
+    },
+    {
+      "indicatore": "Reddito da lavoro dipendente e assimilati (euro)",
+      "data": [
+        {
+          "anno": 2012,
+          "valore": 15786446352
+        },
+        {
+          "anno": 2013,
+          "valore": 15784892829
+        },
+        {
+          "anno": 2014,
+          "valore": 16064891541
+        },
+        {
+          "anno": 2015,
+          "valore": 16624462818
+        },
+        {
+          "anno": 2016,
+          "valore": 16923267466
+        },
+        {
+          "anno": 2017,
+          "valore": 17624955573
+        },
+        {
+          "anno": 2018,
+          "valore": 18747902740
+        },
+        {
+          "anno": 2019,
+          "valore": 19293232748
+        },
+        {
+          "anno": 2020,
+          "valore": 18798213759
+        },
+        {
+          "anno": 2021,
+          "valore": 20174292835
+        },
+        {
+          "anno": 2022,
+          "valore": 21762038152
+        },
+        {
+          "anno": 2023,
+          "valore": 23268475060
+        }
+      ]
+    },
+    {
+      "indicatore": "Reddito da partecipazione (comprensivo dei valori nulli) (euro)",
+      "data": [
+        {
+          "anno": 2012,
+          "valore": 1628498131
+        },
+        {
+          "anno": 2013,
+          "valore": 1577585813
+        },
+        {
+          "anno": 2014,
+          "valore": 1617060452
+        },
+        {
+          "anno": 2015,
+          "valore": 1684569807
+        },
+        {
+          "anno": 2016,
+          "valore": 1732139579
+        },
+        {
+          "anno": 2017,
+          "valore": 1721886685
+        },
+        {
+          "anno": 2018,
+          "valore": 1832497812
+        },
+        {
+          "anno": 2019,
+          "valore": 1799317807
+        },
+        {
+          "anno": 2020,
+          "valore": 1689044953
+        },
+        {
+          "anno": 2021,
+          "valore": 1897780779
+        },
+        {
+          "anno": 2022,
+          "valore": 2052886345
+        },
+        {
+          "anno": 2023,
+          "valore": 2102530909
+        }
+      ]
+    },
+    {
+      "indicatore": "Reddito da pensione (euro)",
+      "data": [
+        {
+          "anno": 2012,
+          "valore": 7283336703
+        },
+        {
+          "anno": 2013,
+          "valore": 7323003586
+        },
+        {
+          "anno": 2014,
+          "valore": 7419964996
+        },
+        {
+          "anno": 2015,
+          "valore": 7436107670
+        },
+        {
+          "anno": 2016,
+          "valore": 7411031884
+        },
+        {
+          "anno": 2017,
+          "valore": 7406140347
+        },
+        {
+          "anno": 2018,
+          "valore": 7476359054
+        },
+        {
+          "anno": 2019,
+          "valore": 7535753391
+        },
+        {
+          "anno": 2020,
+          "valore": 7582459052
+        },
+        {
+          "anno": 2021,
+          "valore": 7610927601
+        },
+        {
+          "anno": 2022,
+          "valore": 7869156055
+        },
+        {
+          "anno": 2023,
+          "valore": 8302509396
+        }
+      ]
+    },
+    {
+      "indicatore": "Reddito imponibile (euro)",
+      "data": [
+        {
+          "anno": 2012,
+          "valore": 28990940125
+        },
+        {
+          "anno": 2013,
+          "valore": 29008364532
+        },
+        {
+          "anno": 2014,
+          "valore": 29507044133
+        },
+        {
+          "anno": 2015,
+          "valore": 30245878861
+        },
+        {
+          "anno": 2016,
+          "valore": 30551388822
+        },
+        {
+          "anno": 2017,
+          "valore": 31376044693
+        },
+        {
+          "anno": 2018,
+          "valore": 32941463241
+        },
+        {
+          "anno": 2019,
+          "valore": 32991606244
+        },
+        {
+          "anno": 2020,
+          "valore": 31892867113
+        },
+        {
+          "anno": 2021,
+          "valore": 33976141450
+        },
+        {
+          "anno": 2022,
+          "valore": 36485789667
+        },
+        {
+          "anno": 2023,
+          "valore": 38149599569
+        }
+      ]
+    }
+  ],
+  "classiPerAnno": [
+    {
+      "anno": 2012,
+      "classi": [
+        {
+          "classe": "0 - 10.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 235896
+        },
+        {
+          "classe": "10.000 - 15.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 109037
+        },
+        {
+          "classe": "120.000 euro e più",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 27328
+        },
+        {
+          "classe": "15.000 - 26.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 259959
+        },
+        {
+          "classe": "26.000 - 55.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 239653
+        },
+        {
+          "classe": "55.000 - 75.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 44346
+        },
+        {
+          "classe": "75.000 - 120.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 36641
+        },
+        {
+          "classe": "Minore o uguale a 0 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 4211
+        }
+      ]
+    },
+    {
+      "anno": 2013,
+      "classi": [
+        {
+          "classe": "0 - 10.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 231565
+        },
+        {
+          "classe": "10.000 - 15.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 104271
+        },
+        {
+          "classe": "120.000 euro e più",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 27669
+        },
+        {
+          "classe": "15.000 - 26.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 257827
+        },
+        {
+          "classe": "26.000 - 55.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 245903
+        },
+        {
+          "classe": "55.000 - 75.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 44857
+        },
+        {
+          "classe": "75.000 - 120.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 36817
+        },
+        {
+          "classe": "Minore o uguale a 0 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 4231
+        }
+      ]
+    },
+    {
+      "anno": 2014,
+      "classi": [
+        {
+          "classe": "0 - 10.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 237201
+        },
+        {
+          "classe": "10.000 - 15.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 102525
+        },
+        {
+          "classe": "120.000 euro e più",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 28780
+        },
+        {
+          "classe": "15.000 - 26.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 253601
+        },
+        {
+          "classe": "26.000 - 55.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 250904
+        },
+        {
+          "classe": "55.000 - 75.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 46205
+        },
+        {
+          "classe": "75.000 - 120.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 38417
+        },
+        {
+          "classe": "Minore o uguale a 0 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 3979
+        }
+      ]
+    },
+    {
+      "anno": 2015,
+      "classi": [
+        {
+          "classe": "0 - 10.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 239146
+        },
+        {
+          "classe": "10.000 - 15.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 103708
+        },
+        {
+          "classe": "120.000 euro e più",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 30316
+        },
+        {
+          "classe": "15.000 - 26.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 248321
+        },
+        {
+          "classe": "26.000 - 55.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 258944
+        },
+        {
+          "classe": "55.000 - 75.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 47723
+        },
+        {
+          "classe": "75.000 - 120.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 39927
+        },
+        {
+          "classe": "Minore o uguale a 0 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 3284
+        }
+      ]
+    },
+    {
+      "anno": 2016,
+      "classi": [
+        {
+          "classe": "0 - 10.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 234867
+        },
+        {
+          "classe": "10.000 - 15.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 104603
+        },
+        {
+          "classe": "120.000 euro e più",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 31088
+        },
+        {
+          "classe": "15.000 - 26.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 249131
+        },
+        {
+          "classe": "26.000 - 55.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 260455
+        },
+        {
+          "classe": "55.000 - 75.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 48935
+        },
+        {
+          "classe": "75.000 - 120.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 40549
+        },
+        {
+          "classe": "Minore o uguale a 0 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 3308
+        }
+      ]
+    },
+    {
+      "anno": 2017,
+      "classi": [
+        {
+          "classe": "0 - 10.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 237544
+        },
+        {
+          "classe": "10.000 - 15.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 104034
+        },
+        {
+          "classe": "120.000 euro e più",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 32538
+        },
+        {
+          "classe": "15.000 - 26.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 246735
+        },
+        {
+          "classe": "26.000 - 55.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 265512
+        },
+        {
+          "classe": "55.000 - 75.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 50216
+        },
+        {
+          "classe": "75.000 - 120.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 41845
+        },
+        {
+          "classe": "Minore o uguale a 0 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 5161
+        }
+      ]
+    },
+    {
+      "anno": 2018,
+      "classi": [
+        {
+          "classe": "0 - 10.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 236486
+        },
+        {
+          "classe": "10.000 - 15.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 104043
+        },
+        {
+          "classe": "120.000 euro e più",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 35234
+        },
+        {
+          "classe": "15.000 - 26.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 245212
+        },
+        {
+          "classe": "26.000 - 55.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 275918
+        },
+        {
+          "classe": "55.000 - 75.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 53001
+        },
+        {
+          "classe": "75.000 - 120.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 44602
+        },
+        {
+          "classe": "Minore o uguale a 0 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 412
+        }
+      ]
+    },
+    {
+      "anno": 2019,
+      "classi": [
+        {
+          "classe": "0 - 10.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 238111
+        },
+        {
+          "classe": "10.000 - 15.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 101413
+        },
+        {
+          "classe": "120.000 euro e più",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 35423
+        },
+        {
+          "classe": "15.000 - 26.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 240092
+        },
+        {
+          "classe": "26.000 - 55.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 276262
+        },
+        {
+          "classe": "55.000 - 75.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 53238
+        },
+        {
+          "classe": "75.000 - 120.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 45369
+        },
+        {
+          "classe": "Minore o uguale a 0 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 316
+        }
+      ]
+    },
+    {
+      "anno": 2020,
+      "classi": [
+        {
+          "classe": "0 - 10.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 241948
+        },
+        {
+          "classe": "10.000 - 15.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 102265
+        },
+        {
+          "classe": "120.000 euro e più",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 34665
+        },
+        {
+          "classe": "15.000 - 26.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 225439
+        },
+        {
+          "classe": "26.000 - 55.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 267489
+        },
+        {
+          "classe": "55.000 - 75.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 52028
+        },
+        {
+          "classe": "75.000 - 120.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 45235
+        },
+        {
+          "classe": "Minore o uguale a 0 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 456
+        }
+      ]
+    },
+    {
+      "anno": 2021,
+      "classi": [
+        {
+          "classe": "0 - 10.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 231682
+        },
+        {
+          "classe": "10.000 - 15.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 98917
+        },
+        {
+          "classe": "120.000 euro e più",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 38323
+        },
+        {
+          "classe": "15.000 - 26.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 227611
+        },
+        {
+          "classe": "26.000 - 55.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 274761
+        },
+        {
+          "classe": "55.000 - 75.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 54909
+        },
+        {
+          "classe": "75.000 - 120.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 48060
+        },
+        {
+          "classe": "Minore o uguale a 0 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 329
+        }
+      ]
+    },
+    {
+      "anno": 2022,
+      "classi": [
+        {
+          "classe": "0 - 10.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 225577
+        },
+        {
+          "classe": "10.000 - 15.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 98103
+        },
+        {
+          "classe": "120.000 euro e più",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 43177
+        },
+        {
+          "classe": "15.000 - 26.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 230340
+        },
+        {
+          "classe": "26.000 - 55.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 290425
+        },
+        {
+          "classe": "55.000 - 75.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 59026
+        },
+        {
+          "classe": "75.000 - 120.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 52554
+        },
+        {
+          "classe": "Minore o uguale a 0 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 276
+        }
+      ]
+    },
+    {
+      "anno": 2023,
+      "classi": [
+        {
+          "classe": "0 - 10.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 216716
+        },
+        {
+          "classe": "10.000 - 15.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 93257
+        },
+        {
+          "classe": "120.000 euro e più",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 45925
+        },
+        {
+          "classe": "15.000 - 26.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 219707
+        },
+        {
+          "classe": "26.000 - 55.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 313650
+        },
+        {
+          "classe": "55.000 - 75.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 63306
+        },
+        {
+          "classe": "75.000 - 120.000 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 56227
+        },
+        {
+          "classe": "Minore o uguale a 0 euro",
+          "indicatore": "Contribuenti per classe di importo",
+          "valore": 309
+        }
+      ]
+    }
+  ],
+  "latestYear": 2023
+}

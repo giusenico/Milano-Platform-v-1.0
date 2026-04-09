@@ -1,0 +1,16 @@
+{
+  "nilId": 10,
+  "nilName": "STAZIONE CENTRALE - PONTE SEVESO",
+  "composizioneFamiglie": [],
+  "totaleAbitazioni": 0,
+  "famiglieSingole": 0,
+  "famiglieCoabitanti": 0,
+  "nuoviEdifici": {
+    "fabbricati": 3,
+    "abitazioni": 147,
+    "superficieMq": 11592,
+    "volumeMc": 69777,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

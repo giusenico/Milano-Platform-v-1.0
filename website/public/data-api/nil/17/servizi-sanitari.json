@@ -1,0 +1,36 @@
+{
+  "nilId": 17,
+  "nilName": "ADRIANO",
+  "farmacie": {
+    "totale": 3,
+    "lista": [
+      {
+        "descrizione_farmacia": "ITALO INGLESE SNC",
+        "indirizzo": "VIA EMILIO LUSSU, 1",
+        "cap": "20128"
+      },
+      {
+        "descrizione_farmacia": "LAFARMACIA.PONTENUOVO SRL",
+        "indirizzo": "VIA PONTE NUOVO, 40",
+        "cap": "20128"
+      },
+      {
+        "descrizione_farmacia": "AL PONTE SAS DEL DR. FRIGERIO GUIDO E C.",
+        "indirizzo": "PIAZZA COSTANTINO, 1",
+        "cap": "20128"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 5,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 17741,
+  "rapporti": {
+    "abitantiPerFarmacia": 5914,
+    "abitantiPerMedico": 3548
+  },
+  "scoreHealthcare": 40,
+  "qualitaServizio": "Migliorabile"
+}

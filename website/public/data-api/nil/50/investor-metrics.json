@@ -1,0 +1,41 @@
+{
+  "nilId": 50,
+  "nil": "PORTA GENOVA",
+  "investorScore": 28.4,
+  "riskLevel": "Alto",
+  "riskColor": "#ef4444",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 81,
+    "verde": 79,
+    "popolazione": 43,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 15119,
+      "media": 15753,
+      "delta": -634.238636363636
+    },
+    "densita": {
+      "nil": 15168.316951411372,
+      "media": 8881.290415418553,
+      "deltaPercent": 70.8
+    },
+    "stranieri": {
+      "nil": 8.605066472650307,
+      "media": 21.360484986780587,
+      "delta": -12.8
+    },
+    "verde": {
+      "nil": 3.4058303979085864,
+      "media": 8.1171861884842,
+      "deltaPercent": -58
+    },
+    "qualitaVita": {
+      "nil": 25.706086527213394,
+      "media": 39.6877862711082,
+      "deltaPercent": -35.2
+    }
+  }
+}

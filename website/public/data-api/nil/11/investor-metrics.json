@@ -1,0 +1,41 @@
+{
+  "nilId": 11,
+  "nil": "ISOLA",
+  "investorScore": 38.7,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Alto",
+  "ranking": {
+    "qualitaVita": 61,
+    "verde": 72,
+    "popolazione": 23,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 22690,
+      "media": 15753,
+      "delta": 6936.761363636364
+    },
+    "densita": {
+      "nil": 17151.87919634217,
+      "media": 8881.290415418553,
+      "deltaPercent": 93.1
+    },
+    "stranieri": {
+      "nil": 19.400617011899516,
+      "media": 21.360484986780587,
+      "delta": -2
+    },
+    "verde": {
+      "nil": 3.9342880796997624,
+      "media": 8.1171861884842,
+      "deltaPercent": -51.5
+    },
+    "qualitaVita": {
+      "nil": 36.13879485059498,
+      "media": 39.6877862711082,
+      "deltaPercent": -8.9
+    }
+  }
+}

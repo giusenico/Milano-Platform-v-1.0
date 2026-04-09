@@ -1,0 +1,33 @@
+{
+  "nilId": 15,
+  "nilName": "BICOCCA",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 1156,
+      "percentuale": 18.3
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 1299,
+      "percentuale": 20.6
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 2008,
+      "percentuale": 31.9
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 1402,
+      "percentuale": 22.3
+    }
+  ],
+  "totale": 6300,
+  "pctLaureati": 22.3,
+  "anno": 2011
+}

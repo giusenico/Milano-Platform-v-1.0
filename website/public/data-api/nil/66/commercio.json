@@ -1,0 +1,15 @@
+{
+  "nilId": 66,
+  "nilName": "QT 8",
+  "pubbliciEsercizi": 5,
+  "eserciziVicinato": 20,
+  "bottegheStoriche": 0,
+  "coworking": 0,
+  "grandeDistribuzione": 0,
+  "edicole": 1,
+  "totaleCommercio": 25,
+  "densitaCommerciale": 24.4,
+  "commercioPer1000Ab": 6.2,
+  "scoreVitalita": 8.5,
+  "livelloVitalita": "Basso"
+}

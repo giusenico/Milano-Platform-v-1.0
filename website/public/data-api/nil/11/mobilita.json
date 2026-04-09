@@ -1,0 +1,45 @@
+{
+  "nilId": 11,
+  "nilName": "ISOLA",
+  "data": [
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 4249,
+      "percentuale": 38.2,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 2973,
+      "percentuale": 26.7,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 2538,
+      "percentuale": 22.8,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 725,
+      "percentuale": 6.5,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 648,
+      "percentuale": 5.8,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 11133,
+  "mezzo_prevalente": "Mezzi pubblici",
+  "pctSostenibile": 64.9,
+  "anno": 2011
+}

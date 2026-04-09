@@ -1,0 +1,15 @@
+{
+  "nilId": 74,
+  "nilName": "ROSERIO",
+  "pubbliciEsercizi": 1,
+  "eserciziVicinato": 8,
+  "bottegheStoriche": 0,
+  "coworking": 0,
+  "grandeDistribuzione": 1,
+  "edicole": 2,
+  "totaleCommercio": 10,
+  "densitaCommerciale": 14.1,
+  "commercioPer1000Ab": 41.3,
+  "scoreVitalita": 2.9,
+  "livelloVitalita": "Basso"
+}

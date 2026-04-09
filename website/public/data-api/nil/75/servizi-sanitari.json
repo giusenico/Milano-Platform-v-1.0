@@ -1,0 +1,20 @@
+{
+  "nilId": 75,
+  "nilName": "STEPHENSON",
+  "farmacie": {
+    "totale": 0,
+    "lista": []
+  },
+  "medici": {
+    "totale": 0,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 134,
+  "rapporti": {
+    "abitantiPerFarmacia": null,
+    "abitantiPerMedico": null
+  },
+  "scoreHealthcare": 0,
+  "qualitaServizio": "Migliorabile"
+}

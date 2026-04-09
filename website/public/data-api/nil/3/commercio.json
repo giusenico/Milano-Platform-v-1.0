@@ -1,0 +1,15 @@
+{
+  "nilId": 3,
+  "nilName": "GIARDINI P.TA VENEZIA",
+  "pubbliciEsercizi": 0,
+  "eserciziVicinato": 3,
+  "bottegheStoriche": 0,
+  "coworking": 0,
+  "grandeDistribuzione": 0,
+  "edicole": 1,
+  "totaleCommercio": 3,
+  "densitaCommerciale": 12,
+  "commercioPer1000Ab": 71.4,
+  "scoreVitalita": 0.9,
+  "livelloVitalita": "Basso"
+}

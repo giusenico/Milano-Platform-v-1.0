@@ -1,0 +1,47 @@
+{
+  "nilId": 12,
+  "nilName": "MACIACHINI - MAGGIOLINA",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 5197,
+      "colore": "#3b82f6",
+      "percentuale": 43.7
+    },
+    {
+      "residenti": "2",
+      "valore": 3358,
+      "colore": "#8b5cf6",
+      "percentuale": 28.3
+    },
+    {
+      "residenti": "3",
+      "valore": 1765,
+      "colore": "#ec4899",
+      "percentuale": 14.9
+    },
+    {
+      "residenti": "4",
+      "valore": 1225,
+      "colore": "#f59e0b",
+      "percentuale": 10.3
+    },
+    {
+      "residenti": "5+",
+      "valore": 335,
+      "colore": "#22c55e",
+      "percentuale": 2.8
+    }
+  ],
+  "totaleAbitazioni": 11880,
+  "famiglieSingole": 11692,
+  "famiglieCoabitanti": 188,
+  "nuoviEdifici": {
+    "fabbricati": 4,
+    "abitazioni": 140,
+    "superficieMq": 9236,
+    "volumeMc": 51914,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

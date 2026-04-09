@@ -1,0 +1,41 @@
+{
+  "nilId": 27,
+  "nil": "PTA ROMANA",
+  "investorScore": 35.5,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Alto",
+  "ranking": {
+    "qualitaVita": 68,
+    "verde": 83,
+    "popolazione": 40,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 16469,
+      "media": 15753,
+      "delta": 715.761363636364
+    },
+    "densita": {
+      "nil": 16423.742729734433,
+      "media": 8881.290415418553,
+      "deltaPercent": 84.9
+    },
+    "stranieri": {
+      "nil": 10.698888821422067,
+      "media": 21.360484986780587,
+      "delta": -10.7
+    },
+    "verde": {
+      "nil": 2.8359360700296516,
+      "media": 8.1171861884842,
+      "deltaPercent": -65.1
+    },
+    "qualitaVita": {
+      "nil": 33.89853005683197,
+      "media": 39.6877862711082,
+      "deltaPercent": -14.6
+    }
+  }
+}

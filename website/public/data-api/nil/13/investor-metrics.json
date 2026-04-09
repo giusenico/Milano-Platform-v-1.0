@@ -1,0 +1,41 @@
+{
+  "nilId": 13,
+  "nil": "GRECO - SEGNANO",
+  "investorScore": 30.9,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 67,
+    "verde": 59,
+    "popolazione": 41,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 16058,
+      "media": 15753,
+      "delta": 304.76136363636397
+    },
+    "densita": {
+      "nil": 9079.484508608308,
+      "media": 8881.290415418553,
+      "deltaPercent": 2.2
+    },
+    "stranieri": {
+      "nil": 23.745173745173744,
+      "media": 21.360484986780587,
+      "delta": 2.4
+    },
+    "verde": {
+      "nil": 4.7624133360522025,
+      "media": 8.1171861884842,
+      "deltaPercent": -41.3
+    },
+    "qualitaVita": {
+      "nil": 34.493279340792796,
+      "media": 39.6877862711082,
+      "deltaPercent": -13.1
+    }
+  }
+}

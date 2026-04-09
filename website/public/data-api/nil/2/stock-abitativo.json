@@ -1,0 +1,47 @@
+{
+  "nilId": 2,
+  "nilName": "BRERA",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 3856,
+      "colore": "#3b82f6",
+      "percentuale": 46.7
+    },
+    {
+      "residenti": "2",
+      "valore": 2194,
+      "colore": "#8b5cf6",
+      "percentuale": 26.6
+    },
+    {
+      "residenti": "3",
+      "valore": 1202,
+      "colore": "#ec4899",
+      "percentuale": 14.6
+    },
+    {
+      "residenti": "4",
+      "valore": 747,
+      "colore": "#f59e0b",
+      "percentuale": 9
+    },
+    {
+      "residenti": "5+",
+      "valore": 259,
+      "colore": "#22c55e",
+      "percentuale": 3.1
+    }
+  ],
+  "totaleAbitazioni": 8258,
+  "famiglieSingole": 8039,
+  "famiglieCoabitanti": 218,
+  "nuoviEdifici": {
+    "fabbricati": 7,
+    "abitazioni": 284,
+    "superficieMq": 26614,
+    "volumeMc": 159424,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

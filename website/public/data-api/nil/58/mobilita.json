@@ -1,0 +1,45 @@
+{
+  "nilId": 58,
+  "nilName": "DE ANGELI - MONTE ROSA",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 3328,
+      "percentuale": 31.1,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 3141,
+      "percentuale": 29.3,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 2530,
+      "percentuale": 23.6,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 1082,
+      "percentuale": 10.1,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 624,
+      "percentuale": 5.8,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 10705,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 52.9,
+  "anno": 2011
+}

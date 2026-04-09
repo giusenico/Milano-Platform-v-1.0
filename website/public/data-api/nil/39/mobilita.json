@@ -1,0 +1,45 @@
+{
+  "nilId": 39,
+  "nilName": "QUINTOSOLE",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 67,
+      "percentuale": 35.8,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 44,
+      "percentuale": 23.5,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 34,
+      "percentuale": 18.2,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 28,
+      "percentuale": 15,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 14,
+      "percentuale": 7.5,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 187,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 41.7,
+  "anno": 2011
+}

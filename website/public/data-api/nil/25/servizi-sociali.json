@@ -1,0 +1,32 @@
+{
+  "nilId": 25,
+  "nilName": "CORSICA",
+  "totaleServizi": 12,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 7
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 5
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Anziani",
+      "count": 9
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Anziani,Famiglie,Adulti,Persone con disabilità,Persone con disagio mentale",
+      "count": 1
+    }
+  ],
+  "popolazione": 19482,
+  "serviziPer1000Abitanti": 0.62,
+  "qualitaCopertura": "Bassa"
+}

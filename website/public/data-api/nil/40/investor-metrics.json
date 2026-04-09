@@ -1,0 +1,41 @@
+{
+  "nilId": 40,
+  "nil": "RONCHETTO DELLE RANE",
+  "investorScore": 34.6,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 51,
+    "verde": 40,
+    "popolazione": 78,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 737,
+      "media": 15753,
+      "delta": -15016.238636363636
+    },
+    "densita": {
+      "nil": 3902.2903152723225,
+      "media": 8881.290415418553,
+      "deltaPercent": -56.1
+    },
+    "stranieri": {
+      "nil": 15.739484396200815,
+      "media": 21.360484986780587,
+      "delta": -5.6
+    },
+    "verde": {
+      "nil": 7.126781185174381,
+      "media": 8.1171861884842,
+      "deltaPercent": -12.2
+    },
+    "qualitaVita": {
+      "nil": 39.54911145882144,
+      "media": 39.6877862711082,
+      "deltaPercent": -0.3
+    }
+  }
+}

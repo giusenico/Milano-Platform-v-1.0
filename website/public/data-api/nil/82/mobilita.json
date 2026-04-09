@@ -1,0 +1,45 @@
+{
+  "nilId": 82,
+  "nilName": "COMASINA",
+  "data": [
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 1975,
+      "percentuale": 38,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 1581,
+      "percentuale": 30.4,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 1085,
+      "percentuale": 20.9,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 349,
+      "percentuale": 6.7,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 208,
+      "percentuale": 4,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 5198,
+  "mezzo_prevalente": "Mezzi pubblici",
+  "pctSostenibile": 58.9,
+  "anno": 2011
+}

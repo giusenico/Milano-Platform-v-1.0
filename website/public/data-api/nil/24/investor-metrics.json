@@ -1,0 +1,41 @@
+{
+  "nilId": 24,
+  "nil": "PARCO FORLANINI - CAVRIANO",
+  "investorScore": 35.1,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 29,
+    "verde": 21,
+    "popolazione": 73,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 2180,
+      "media": 15753,
+      "delta": -13573.238636363636
+    },
+    "densita": {
+      "nil": 745.0428716901363,
+      "media": 8881.290415418553,
+      "deltaPercent": -91.6
+    },
+    "stranieri": {
+      "nil": 65.91743119266054,
+      "media": 21.360484986780587,
+      "delta": 44.6
+    },
+    "verde": {
+      "nil": 10.762839796989995,
+      "media": 8.1171861884842,
+      "deltaPercent": 32.6
+    },
+    "qualitaVita": {
+      "nil": 44.00348260906059,
+      "media": 39.6877862711082,
+      "deltaPercent": 10.9
+    }
+  }
+}

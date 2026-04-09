@@ -1,0 +1,41 @@
+{
+  "nilId": 22,
+  "nil": "CITTA' STUDI",
+  "investorScore": 39,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 33,
+    "verde": 84,
+    "popolazione": 7,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 35964,
+      "media": 15753,
+      "delta": 20210.761363636364
+    },
+    "densita": {
+      "nil": 16292.440770308396,
+      "media": 8881.290415418553,
+      "deltaPercent": 83.4
+    },
+    "stranieri": {
+      "nil": 14.887109331553777,
+      "media": 21.360484986780587,
+      "delta": -6.5
+    },
+    "verde": {
+      "nil": 2.7221059498811577,
+      "media": 8.1171861884842,
+      "deltaPercent": -66.5
+    },
+    "qualitaVita": {
+      "nil": 42.919314980038,
+      "media": 39.6877862711082,
+      "deltaPercent": 8.1
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "nilId": 1,
+  "nilName": "DUOMO",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 1845,
+      "percentuale": 11.9
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 2282,
+      "percentuale": 14.7
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 3980,
+      "percentuale": 25.6
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 6657,
+      "percentuale": 42.8
+    }
+  ],
+  "totale": 15555,
+  "pctLaureati": 42.8,
+  "anno": 2011
+}

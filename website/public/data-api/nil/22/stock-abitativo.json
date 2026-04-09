@@ -1,0 +1,47 @@
+{
+  "nilId": 22,
+  "nilName": "CITTA' STUDI",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 8764,
+      "colore": "#3b82f6",
+      "percentuale": 49
+    },
+    {
+      "residenti": "2",
+      "valore": 4974,
+      "colore": "#8b5cf6",
+      "percentuale": 27.8
+    },
+    {
+      "residenti": "3",
+      "valore": 2284,
+      "colore": "#ec4899",
+      "percentuale": 12.8
+    },
+    {
+      "residenti": "4",
+      "valore": 1433,
+      "colore": "#f59e0b",
+      "percentuale": 8
+    },
+    {
+      "residenti": "5+",
+      "valore": 427,
+      "colore": "#22c55e",
+      "percentuale": 2.4
+    }
+  ],
+  "totaleAbitazioni": 17882,
+  "famiglieSingole": 17606,
+  "famiglieCoabitanti": 277,
+  "nuoviEdifici": {
+    "fabbricati": 6,
+    "abitazioni": 349,
+    "superficieMq": 25892,
+    "volumeMc": 100182,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

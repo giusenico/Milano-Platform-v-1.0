@@ -1,0 +1,1321 @@
+{
+  "categorie": [
+    {
+      "categoria": "H1 - tutte le voci",
+      "data": [
+        {
+          "anno": 2010,
+          "trimestre": "Q1",
+          "periodo": "2010-Q1",
+          "indice": 126.6,
+          "variazione": null
+        },
+        {
+          "anno": 2010,
+          "trimestre": "Q2",
+          "periodo": "2010-Q2",
+          "indice": 128.5,
+          "variazione": 1.5
+        },
+        {
+          "anno": 2010,
+          "trimestre": "Q3",
+          "periodo": "2010-Q3",
+          "indice": 128.9,
+          "variazione": 0.31
+        },
+        {
+          "anno": 2010,
+          "trimestre": "Q4",
+          "periodo": "2010-Q4",
+          "indice": 127.5,
+          "variazione": -1.09
+        },
+        {
+          "anno": 2011,
+          "trimestre": "Q1",
+          "periodo": "2011-Q1",
+          "indice": 124.4,
+          "variazione": -2.43
+        },
+        {
+          "anno": 2011,
+          "trimestre": "Q2",
+          "periodo": "2011-Q2",
+          "indice": 125.2,
+          "variazione": 0.64
+        },
+        {
+          "anno": 2011,
+          "trimestre": "Q3",
+          "periodo": "2011-Q3",
+          "indice": 127.7,
+          "variazione": 2
+        },
+        {
+          "anno": 2011,
+          "trimestre": "Q4",
+          "periodo": "2011-Q4",
+          "indice": 124.5,
+          "variazione": -2.51
+        },
+        {
+          "anno": 2012,
+          "trimestre": "Q1",
+          "periodo": "2012-Q1",
+          "indice": 123.6,
+          "variazione": -0.72
+        },
+        {
+          "anno": 2012,
+          "trimestre": "Q2",
+          "periodo": "2012-Q2",
+          "indice": 122.3,
+          "variazione": -1.05
+        },
+        {
+          "anno": 2012,
+          "trimestre": "Q3",
+          "periodo": "2012-Q3",
+          "indice": 117.1,
+          "variazione": -4.25
+        },
+        {
+          "anno": 2012,
+          "trimestre": "Q4",
+          "periodo": "2012-Q4",
+          "indice": 116.2,
+          "variazione": -0.77
+        },
+        {
+          "anno": 2013,
+          "trimestre": "Q1",
+          "periodo": "2013-Q1",
+          "indice": 113.8,
+          "variazione": -2.07
+        },
+        {
+          "anno": 2013,
+          "trimestre": "Q2",
+          "periodo": "2013-Q2",
+          "indice": 111,
+          "variazione": -2.46
+        },
+        {
+          "anno": 2013,
+          "trimestre": "Q3",
+          "periodo": "2013-Q3",
+          "indice": 109.4,
+          "variazione": -1.44
+        },
+        {
+          "anno": 2013,
+          "trimestre": "Q4",
+          "periodo": "2013-Q4",
+          "indice": 108.2,
+          "variazione": -1.1
+        },
+        {
+          "anno": 2014,
+          "trimestre": "Q1",
+          "periodo": "2014-Q1",
+          "indice": 108.4,
+          "variazione": 0.18
+        },
+        {
+          "anno": 2014,
+          "trimestre": "Q2",
+          "periodo": "2014-Q2",
+          "indice": 106.4,
+          "variazione": -1.85
+        },
+        {
+          "anno": 2014,
+          "trimestre": "Q3",
+          "periodo": "2014-Q3",
+          "indice": 103.6,
+          "variazione": -2.63
+        },
+        {
+          "anno": 2014,
+          "trimestre": "Q4",
+          "periodo": "2014-Q4",
+          "indice": 102,
+          "variazione": -1.54
+        },
+        {
+          "anno": 2015,
+          "trimestre": "Q1",
+          "periodo": "2015-Q1",
+          "indice": 98.7,
+          "variazione": -3.24
+        },
+        {
+          "anno": 2015,
+          "trimestre": "Q2",
+          "periodo": "2015-Q2",
+          "indice": 97.5,
+          "variazione": -1.22
+        },
+        {
+          "anno": 2015,
+          "trimestre": "Q3",
+          "periodo": "2015-Q3",
+          "indice": 101.3,
+          "variazione": 3.9
+        },
+        {
+          "anno": 2015,
+          "trimestre": "Q4",
+          "periodo": "2015-Q4",
+          "indice": 102.5,
+          "variazione": 1.18
+        },
+        {
+          "anno": 2016,
+          "trimestre": "Q1",
+          "periodo": "2016-Q1",
+          "indice": 102.2,
+          "variazione": -0.29
+        },
+        {
+          "anno": 2016,
+          "trimestre": "Q2",
+          "periodo": "2016-Q2",
+          "indice": 103,
+          "variazione": 0.78
+        },
+        {
+          "anno": 2016,
+          "trimestre": "Q3",
+          "periodo": "2016-Q3",
+          "indice": 104.8,
+          "variazione": 1.75
+        },
+        {
+          "anno": 2016,
+          "trimestre": "Q4",
+          "periodo": "2016-Q4",
+          "indice": 104.5,
+          "variazione": -0.29
+        },
+        {
+          "anno": 2017,
+          "trimestre": "Q1",
+          "periodo": "2017-Q1",
+          "indice": 107,
+          "variazione": 2.39
+        },
+        {
+          "anno": 2017,
+          "trimestre": "Q2",
+          "periodo": "2017-Q2",
+          "indice": 106.8,
+          "variazione": -0.19
+        },
+        {
+          "anno": 2017,
+          "trimestre": "Q3",
+          "periodo": "2017-Q3",
+          "indice": 108.6,
+          "variazione": 1.69
+        },
+        {
+          "anno": 2017,
+          "trimestre": "Q4",
+          "periodo": "2017-Q4",
+          "indice": 107.1,
+          "variazione": -1.38
+        },
+        {
+          "anno": 2018,
+          "trimestre": "Q1",
+          "periodo": "2018-Q1",
+          "indice": 108.4,
+          "variazione": 1.21
+        },
+        {
+          "anno": 2018,
+          "trimestre": "Q2",
+          "periodo": "2018-Q2",
+          "indice": 110.3,
+          "variazione": 1.75
+        },
+        {
+          "anno": 2018,
+          "trimestre": "Q3",
+          "periodo": "2018-Q3",
+          "indice": 111.7,
+          "variazione": 1.27
+        },
+        {
+          "anno": 2018,
+          "trimestre": "Q4",
+          "periodo": "2018-Q4",
+          "indice": 111.8,
+          "variazione": 0.09
+        },
+        {
+          "anno": 2019,
+          "trimestre": "Q1",
+          "periodo": "2019-Q1",
+          "indice": 115.9,
+          "variazione": 3.67
+        },
+        {
+          "anno": 2019,
+          "trimestre": "Q2",
+          "periodo": "2019-Q2",
+          "indice": 117.9,
+          "variazione": 1.73
+        },
+        {
+          "anno": 2019,
+          "trimestre": "Q3",
+          "periodo": "2019-Q3",
+          "indice": 122.2,
+          "variazione": 3.65
+        },
+        {
+          "anno": 2019,
+          "trimestre": "Q4",
+          "periodo": "2019-Q4",
+          "indice": 125.8,
+          "variazione": 2.95
+        },
+        {
+          "anno": 2020,
+          "trimestre": "Q1",
+          "periodo": "2020-Q1",
+          "indice": 131.6,
+          "variazione": 4.61
+        },
+        {
+          "anno": 2020,
+          "trimestre": "Q2",
+          "periodo": "2020-Q2",
+          "indice": 136.7,
+          "variazione": 3.88
+        },
+        {
+          "anno": 2020,
+          "trimestre": "Q3",
+          "periodo": "2020-Q3",
+          "indice": 136.9,
+          "variazione": 0.15
+        },
+        {
+          "anno": 2020,
+          "trimestre": "Q4",
+          "periodo": "2020-Q4",
+          "indice": 135.1,
+          "variazione": -1.31
+        },
+        {
+          "anno": 2021,
+          "trimestre": "Q1",
+          "periodo": "2021-Q1",
+          "indice": 138.5,
+          "variazione": 2.52
+        },
+        {
+          "anno": 2021,
+          "trimestre": "Q2",
+          "periodo": "2021-Q2",
+          "indice": 138.6,
+          "variazione": 0.07
+        },
+        {
+          "anno": 2021,
+          "trimestre": "Q3",
+          "periodo": "2021-Q3",
+          "indice": 142.1,
+          "variazione": 2.53
+        },
+        {
+          "anno": 2021,
+          "trimestre": "Q4",
+          "periodo": "2021-Q4",
+          "indice": 143.5,
+          "variazione": 0.99
+        },
+        {
+          "anno": 2022,
+          "trimestre": "Q1",
+          "periodo": "2022-Q1",
+          "indice": 147.4,
+          "variazione": 2.72
+        },
+        {
+          "anno": 2022,
+          "trimestre": "Q2",
+          "periodo": "2022-Q2",
+          "indice": 150.2,
+          "variazione": 1.9
+        },
+        {
+          "anno": 2022,
+          "trimestre": "Q3",
+          "periodo": "2022-Q3",
+          "indice": 150,
+          "variazione": -0.13
+        },
+        {
+          "anno": 2022,
+          "trimestre": "Q4",
+          "periodo": "2022-Q4",
+          "indice": 152.7,
+          "variazione": 1.8
+        },
+        {
+          "anno": 2023,
+          "trimestre": "Q1",
+          "periodo": "2023-Q1",
+          "indice": 156,
+          "variazione": 2.16
+        },
+        {
+          "anno": 2023,
+          "trimestre": "Q2",
+          "periodo": "2023-Q2",
+          "indice": 160.9,
+          "variazione": 3.14
+        },
+        {
+          "anno": 2023,
+          "trimestre": "Q3",
+          "periodo": "2023-Q3",
+          "indice": 156.6,
+          "variazione": -2.67
+        },
+        {
+          "anno": 2023,
+          "trimestre": "Q4",
+          "periodo": "2023-Q4",
+          "indice": 159,
+          "variazione": 1.53
+        },
+        {
+          "anno": 2024,
+          "trimestre": "Q1",
+          "periodo": "2024-Q1",
+          "indice": 164.2,
+          "variazione": 3.27
+        },
+        {
+          "anno": 2024,
+          "trimestre": "Q2",
+          "periodo": "2024-Q2",
+          "indice": 168.3,
+          "variazione": 2.5
+        },
+        {
+          "anno": 2024,
+          "trimestre": "Q3",
+          "periodo": "2024-Q3",
+          "indice": 167.6,
+          "variazione": -0.42
+        },
+        {
+          "anno": 2024,
+          "trimestre": "Q4",
+          "periodo": "2024-Q4",
+          "indice": 165.3,
+          "variazione": -1.37
+        },
+        {
+          "anno": 2025,
+          "trimestre": "Q1",
+          "periodo": "2025-Q1",
+          "indice": 164,
+          "variazione": -0.79
+        },
+        {
+          "anno": 2025,
+          "trimestre": "Q2",
+          "periodo": "2025-Q2",
+          "indice": 171.7,
+          "variazione": 4.7
+        }
+      ]
+    },
+    {
+      "categoria": "H11 - abitazioni nuove",
+      "data": [
+        {
+          "anno": 2010,
+          "trimestre": "Q1",
+          "periodo": "2010-Q1",
+          "indice": 107.1,
+          "variazione": null
+        },
+        {
+          "anno": 2010,
+          "trimestre": "Q2",
+          "periodo": "2010-Q2",
+          "indice": 110.8,
+          "variazione": 3.45
+        },
+        {
+          "anno": 2010,
+          "trimestre": "Q3",
+          "periodo": "2010-Q3",
+          "indice": 106.7,
+          "variazione": -3.7
+        },
+        {
+          "anno": 2010,
+          "trimestre": "Q4",
+          "periodo": "2010-Q4",
+          "indice": 112.6,
+          "variazione": 5.53
+        },
+        {
+          "anno": 2011,
+          "trimestre": "Q1",
+          "periodo": "2011-Q1",
+          "indice": 110.8,
+          "variazione": -1.6
+        },
+        {
+          "anno": 2011,
+          "trimestre": "Q2",
+          "periodo": "2011-Q2",
+          "indice": 111.9,
+          "variazione": 0.99
+        },
+        {
+          "anno": 2011,
+          "trimestre": "Q3",
+          "periodo": "2011-Q3",
+          "indice": 110.6,
+          "variazione": -1.16
+        },
+        {
+          "anno": 2011,
+          "trimestre": "Q4",
+          "periodo": "2011-Q4",
+          "indice": 111,
+          "variazione": 0.36
+        },
+        {
+          "anno": 2012,
+          "trimestre": "Q1",
+          "periodo": "2012-Q1",
+          "indice": 107.9,
+          "variazione": -2.79
+        },
+        {
+          "anno": 2012,
+          "trimestre": "Q2",
+          "periodo": "2012-Q2",
+          "indice": 111.5,
+          "variazione": 3.34
+        },
+        {
+          "anno": 2012,
+          "trimestre": "Q3",
+          "periodo": "2012-Q3",
+          "indice": 102.4,
+          "variazione": -8.16
+        },
+        {
+          "anno": 2012,
+          "trimestre": "Q4",
+          "periodo": "2012-Q4",
+          "indice": 109,
+          "variazione": 6.45
+        },
+        {
+          "anno": 2013,
+          "trimestre": "Q1",
+          "periodo": "2013-Q1",
+          "indice": 109.1,
+          "variazione": 0.09
+        },
+        {
+          "anno": 2013,
+          "trimestre": "Q2",
+          "periodo": "2013-Q2",
+          "indice": 110.7,
+          "variazione": 1.47
+        },
+        {
+          "anno": 2013,
+          "trimestre": "Q3",
+          "periodo": "2013-Q3",
+          "indice": 112.3,
+          "variazione": 1.45
+        },
+        {
+          "anno": 2013,
+          "trimestre": "Q4",
+          "periodo": "2013-Q4",
+          "indice": 106.4,
+          "variazione": -5.25
+        },
+        {
+          "anno": 2014,
+          "trimestre": "Q1",
+          "periodo": "2014-Q1",
+          "indice": 108.7,
+          "variazione": 2.16
+        },
+        {
+          "anno": 2014,
+          "trimestre": "Q2",
+          "periodo": "2014-Q2",
+          "indice": 116.4,
+          "variazione": 7.08
+        },
+        {
+          "anno": 2014,
+          "trimestre": "Q3",
+          "periodo": "2014-Q3",
+          "indice": 107.5,
+          "variazione": -7.65
+        },
+        {
+          "anno": 2014,
+          "trimestre": "Q4",
+          "periodo": "2014-Q4",
+          "indice": 105.9,
+          "variazione": -1.49
+        },
+        {
+          "anno": 2015,
+          "trimestre": "Q1",
+          "periodo": "2015-Q1",
+          "indice": 99.6,
+          "variazione": -5.95
+        },
+        {
+          "anno": 2015,
+          "trimestre": "Q2",
+          "periodo": "2015-Q2",
+          "indice": 100.6,
+          "variazione": 1
+        },
+        {
+          "anno": 2015,
+          "trimestre": "Q3",
+          "periodo": "2015-Q3",
+          "indice": 99.3,
+          "variazione": -1.29
+        },
+        {
+          "anno": 2015,
+          "trimestre": "Q4",
+          "periodo": "2015-Q4",
+          "indice": 100.6,
+          "variazione": 1.31
+        },
+        {
+          "anno": 2016,
+          "trimestre": "Q1",
+          "periodo": "2016-Q1",
+          "indice": 97.7,
+          "variazione": -2.88
+        },
+        {
+          "anno": 2016,
+          "trimestre": "Q2",
+          "periodo": "2016-Q2",
+          "indice": 102.6,
+          "variazione": 5.02
+        },
+        {
+          "anno": 2016,
+          "trimestre": "Q3",
+          "periodo": "2016-Q3",
+          "indice": 101.5,
+          "variazione": -1.07
+        },
+        {
+          "anno": 2016,
+          "trimestre": "Q4",
+          "periodo": "2016-Q4",
+          "indice": 101.9,
+          "variazione": 0.39
+        },
+        {
+          "anno": 2017,
+          "trimestre": "Q1",
+          "periodo": "2017-Q1",
+          "indice": 105.1,
+          "variazione": 3.14
+        },
+        {
+          "anno": 2017,
+          "trimestre": "Q2",
+          "periodo": "2017-Q2",
+          "indice": 98.6,
+          "variazione": -6.18
+        },
+        {
+          "anno": 2017,
+          "trimestre": "Q3",
+          "periodo": "2017-Q3",
+          "indice": 101.3,
+          "variazione": 2.74
+        },
+        {
+          "anno": 2017,
+          "trimestre": "Q4",
+          "periodo": "2017-Q4",
+          "indice": 99.7,
+          "variazione": -1.58
+        },
+        {
+          "anno": 2018,
+          "trimestre": "Q1",
+          "periodo": "2018-Q1",
+          "indice": 101.4,
+          "variazione": 1.71
+        },
+        {
+          "anno": 2018,
+          "trimestre": "Q2",
+          "periodo": "2018-Q2",
+          "indice": 100.2,
+          "variazione": -1.18
+        },
+        {
+          "anno": 2018,
+          "trimestre": "Q3",
+          "periodo": "2018-Q3",
+          "indice": 100.8,
+          "variazione": 0.6
+        },
+        {
+          "anno": 2018,
+          "trimestre": "Q4",
+          "periodo": "2018-Q4",
+          "indice": 98.9,
+          "variazione": -1.88
+        },
+        {
+          "anno": 2019,
+          "trimestre": "Q1",
+          "periodo": "2019-Q1",
+          "indice": 98.7,
+          "variazione": -0.2
+        },
+        {
+          "anno": 2019,
+          "trimestre": "Q2",
+          "periodo": "2019-Q2",
+          "indice": 101.2,
+          "variazione": 2.53
+        },
+        {
+          "anno": 2019,
+          "trimestre": "Q3",
+          "periodo": "2019-Q3",
+          "indice": 107.1,
+          "variazione": 5.83
+        },
+        {
+          "anno": 2019,
+          "trimestre": "Q4",
+          "periodo": "2019-Q4",
+          "indice": 114.7,
+          "variazione": 7.1
+        },
+        {
+          "anno": 2020,
+          "trimestre": "Q1",
+          "periodo": "2020-Q1",
+          "indice": 120.6,
+          "variazione": 5.14
+        },
+        {
+          "anno": 2020,
+          "trimestre": "Q2",
+          "periodo": "2020-Q2",
+          "indice": 119.7,
+          "variazione": -0.75
+        },
+        {
+          "anno": 2020,
+          "trimestre": "Q3",
+          "periodo": "2020-Q3",
+          "indice": 126.8,
+          "variazione": 5.93
+        },
+        {
+          "anno": 2020,
+          "trimestre": "Q4",
+          "periodo": "2020-Q4",
+          "indice": 118.3,
+          "variazione": -6.7
+        },
+        {
+          "anno": 2021,
+          "trimestre": "Q1",
+          "periodo": "2021-Q1",
+          "indice": 127.2,
+          "variazione": 7.52
+        },
+        {
+          "anno": 2021,
+          "trimestre": "Q2",
+          "periodo": "2021-Q2",
+          "indice": 109.2,
+          "variazione": -14.15
+        },
+        {
+          "anno": 2021,
+          "trimestre": "Q3",
+          "periodo": "2021-Q3",
+          "indice": 119.6,
+          "variazione": 9.52
+        },
+        {
+          "anno": 2021,
+          "trimestre": "Q4",
+          "periodo": "2021-Q4",
+          "indice": 122.6,
+          "variazione": 2.51
+        },
+        {
+          "anno": 2022,
+          "trimestre": "Q1",
+          "periodo": "2022-Q1",
+          "indice": 124.1,
+          "variazione": 1.22
+        },
+        {
+          "anno": 2022,
+          "trimestre": "Q2",
+          "periodo": "2022-Q2",
+          "indice": 127.7,
+          "variazione": 2.9
+        },
+        {
+          "anno": 2022,
+          "trimestre": "Q3",
+          "periodo": "2022-Q3",
+          "indice": 110.2,
+          "variazione": -13.7
+        },
+        {
+          "anno": 2022,
+          "trimestre": "Q4",
+          "periodo": "2022-Q4",
+          "indice": 130.2,
+          "variazione": 18.15
+        },
+        {
+          "anno": 2023,
+          "trimestre": "Q1",
+          "periodo": "2023-Q1",
+          "indice": 140.3,
+          "variazione": 7.76
+        },
+        {
+          "anno": 2023,
+          "trimestre": "Q2",
+          "periodo": "2023-Q2",
+          "indice": 143.4,
+          "variazione": 2.21
+        },
+        {
+          "anno": 2023,
+          "trimestre": "Q3",
+          "periodo": "2023-Q3",
+          "indice": 127.6,
+          "variazione": -11.02
+        },
+        {
+          "anno": 2023,
+          "trimestre": "Q4",
+          "periodo": "2023-Q4",
+          "indice": 133.3,
+          "variazione": 4.47
+        },
+        {
+          "anno": 2024,
+          "trimestre": "Q1",
+          "periodo": "2024-Q1",
+          "indice": 153.6,
+          "variazione": 15.23
+        },
+        {
+          "anno": 2024,
+          "trimestre": "Q2",
+          "periodo": "2024-Q2",
+          "indice": 160.2,
+          "variazione": 4.3
+        },
+        {
+          "anno": 2024,
+          "trimestre": "Q3",
+          "periodo": "2024-Q3",
+          "indice": 160.5,
+          "variazione": 0.19
+        },
+        {
+          "anno": 2024,
+          "trimestre": "Q4",
+          "periodo": "2024-Q4",
+          "indice": 142.4,
+          "variazione": -11.28
+        },
+        {
+          "anno": 2025,
+          "trimestre": "Q1",
+          "periodo": "2025-Q1",
+          "indice": 133.8,
+          "variazione": -6.04
+        },
+        {
+          "anno": 2025,
+          "trimestre": "Q2",
+          "periodo": "2025-Q2",
+          "indice": 157,
+          "variazione": 17.34
+        }
+      ]
+    },
+    {
+      "categoria": "H12 - abitazioni esistenti",
+      "data": [
+        {
+          "anno": 2010,
+          "trimestre": "Q1",
+          "periodo": "2010-Q1",
+          "indice": 131.9,
+          "variazione": null
+        },
+        {
+          "anno": 2010,
+          "trimestre": "Q2",
+          "periodo": "2010-Q2",
+          "indice": 133.1,
+          "variazione": 0.91
+        },
+        {
+          "anno": 2010,
+          "trimestre": "Q3",
+          "periodo": "2010-Q3",
+          "indice": 135.1,
+          "variazione": 1.5
+        },
+        {
+          "anno": 2010,
+          "trimestre": "Q4",
+          "periodo": "2010-Q4",
+          "indice": 131.3,
+          "variazione": -2.81
+        },
+        {
+          "anno": 2011,
+          "trimestre": "Q1",
+          "periodo": "2011-Q1",
+          "indice": 127.7,
+          "variazione": -2.74
+        },
+        {
+          "anno": 2011,
+          "trimestre": "Q2",
+          "periodo": "2011-Q2",
+          "indice": 128.5,
+          "variazione": 0.63
+        },
+        {
+          "anno": 2011,
+          "trimestre": "Q3",
+          "periodo": "2011-Q3",
+          "indice": 132.1,
+          "variazione": 2.8
+        },
+        {
+          "anno": 2011,
+          "trimestre": "Q4",
+          "periodo": "2011-Q4",
+          "indice": 127.8,
+          "variazione": -3.26
+        },
+        {
+          "anno": 2012,
+          "trimestre": "Q1",
+          "periodo": "2012-Q1",
+          "indice": 127.4,
+          "variazione": -0.31
+        },
+        {
+          "anno": 2012,
+          "trimestre": "Q2",
+          "periodo": "2012-Q2",
+          "indice": 125,
+          "variazione": -1.88
+        },
+        {
+          "anno": 2012,
+          "trimestre": "Q3",
+          "periodo": "2012-Q3",
+          "indice": 120.7,
+          "variazione": -3.44
+        },
+        {
+          "anno": 2012,
+          "trimestre": "Q4",
+          "periodo": "2012-Q4",
+          "indice": 118,
+          "variazione": -2.24
+        },
+        {
+          "anno": 2013,
+          "trimestre": "Q1",
+          "periodo": "2013-Q1",
+          "indice": 115,
+          "variazione": -2.54
+        },
+        {
+          "anno": 2013,
+          "trimestre": "Q2",
+          "periodo": "2013-Q2",
+          "indice": 111,
+          "variazione": -3.48
+        },
+        {
+          "anno": 2013,
+          "trimestre": "Q3",
+          "periodo": "2013-Q3",
+          "indice": 108.6,
+          "variazione": -2.16
+        },
+        {
+          "anno": 2013,
+          "trimestre": "Q4",
+          "periodo": "2013-Q4",
+          "indice": 108.6,
+          "variazione": 0
+        },
+        {
+          "anno": 2014,
+          "trimestre": "Q1",
+          "periodo": "2014-Q1",
+          "indice": 108.3,
+          "variazione": -0.28
+        },
+        {
+          "anno": 2014,
+          "trimestre": "Q2",
+          "periodo": "2014-Q2",
+          "indice": 103.8,
+          "variazione": -4.16
+        },
+        {
+          "anno": 2014,
+          "trimestre": "Q3",
+          "periodo": "2014-Q3",
+          "indice": 102.6,
+          "variazione": -1.16
+        },
+        {
+          "anno": 2014,
+          "trimestre": "Q4",
+          "periodo": "2014-Q4",
+          "indice": 101,
+          "variazione": -1.56
+        },
+        {
+          "anno": 2015,
+          "trimestre": "Q1",
+          "periodo": "2015-Q1",
+          "indice": 98.4,
+          "variazione": -2.57
+        },
+        {
+          "anno": 2015,
+          "trimestre": "Q2",
+          "periodo": "2015-Q2",
+          "indice": 96.7,
+          "variazione": -1.73
+        },
+        {
+          "anno": 2015,
+          "trimestre": "Q3",
+          "periodo": "2015-Q3",
+          "indice": 101.8,
+          "variazione": 5.27
+        },
+        {
+          "anno": 2015,
+          "trimestre": "Q4",
+          "periodo": "2015-Q4",
+          "indice": 103,
+          "variazione": 1.18
+        },
+        {
+          "anno": 2016,
+          "trimestre": "Q1",
+          "periodo": "2016-Q1",
+          "indice": 103.4,
+          "variazione": 0.39
+        },
+        {
+          "anno": 2016,
+          "trimestre": "Q2",
+          "periodo": "2016-Q2",
+          "indice": 103.1,
+          "variazione": -0.29
+        },
+        {
+          "anno": 2016,
+          "trimestre": "Q3",
+          "periodo": "2016-Q3",
+          "indice": 105.6,
+          "variazione": 2.42
+        },
+        {
+          "anno": 2016,
+          "trimestre": "Q4",
+          "periodo": "2016-Q4",
+          "indice": 105.1,
+          "variazione": -0.47
+        },
+        {
+          "anno": 2017,
+          "trimestre": "Q1",
+          "periodo": "2017-Q1",
+          "indice": 107.5,
+          "variazione": 2.28
+        },
+        {
+          "anno": 2017,
+          "trimestre": "Q2",
+          "periodo": "2017-Q2",
+          "indice": 108.9,
+          "variazione": 1.3
+        },
+        {
+          "anno": 2017,
+          "trimestre": "Q3",
+          "periodo": "2017-Q3",
+          "indice": 110.5,
+          "variazione": 1.47
+        },
+        {
+          "anno": 2017,
+          "trimestre": "Q4",
+          "periodo": "2017-Q4",
+          "indice": 109,
+          "variazione": -1.36
+        },
+        {
+          "anno": 2018,
+          "trimestre": "Q1",
+          "periodo": "2018-Q1",
+          "indice": 110.1,
+          "variazione": 1.01
+        },
+        {
+          "anno": 2018,
+          "trimestre": "Q2",
+          "periodo": "2018-Q2",
+          "indice": 112.9,
+          "variazione": 2.54
+        },
+        {
+          "anno": 2018,
+          "trimestre": "Q3",
+          "periodo": "2018-Q3",
+          "indice": 114.4,
+          "variazione": 1.33
+        },
+        {
+          "anno": 2018,
+          "trimestre": "Q4",
+          "periodo": "2018-Q4",
+          "indice": 115.1,
+          "variazione": 0.61
+        },
+        {
+          "anno": 2019,
+          "trimestre": "Q1",
+          "periodo": "2019-Q1",
+          "indice": 120.1,
+          "variazione": 4.34
+        },
+        {
+          "anno": 2019,
+          "trimestre": "Q2",
+          "periodo": "2019-Q2",
+          "indice": 122,
+          "variazione": 1.58
+        },
+        {
+          "anno": 2019,
+          "trimestre": "Q3",
+          "periodo": "2019-Q3",
+          "indice": 126,
+          "variazione": 3.28
+        },
+        {
+          "anno": 2019,
+          "trimestre": "Q4",
+          "periodo": "2019-Q4",
+          "indice": 128.8,
+          "variazione": 2.22
+        },
+        {
+          "anno": 2020,
+          "trimestre": "Q1",
+          "periodo": "2020-Q1",
+          "indice": 134.6,
+          "variazione": 4.5
+        },
+        {
+          "anno": 2020,
+          "trimestre": "Q2",
+          "periodo": "2020-Q2",
+          "indice": 141.2,
+          "variazione": 4.9
+        },
+        {
+          "anno": 2020,
+          "trimestre": "Q3",
+          "periodo": "2020-Q3",
+          "indice": 139.6,
+          "variazione": -1.13
+        },
+        {
+          "anno": 2020,
+          "trimestre": "Q4",
+          "periodo": "2020-Q4",
+          "indice": 139.6,
+          "variazione": 0
+        },
+        {
+          "anno": 2021,
+          "trimestre": "Q1",
+          "periodo": "2021-Q1",
+          "indice": 141.7,
+          "variazione": 1.5
+        },
+        {
+          "anno": 2021,
+          "trimestre": "Q2",
+          "periodo": "2021-Q2",
+          "indice": 146.4,
+          "variazione": 3.32
+        },
+        {
+          "anno": 2021,
+          "trimestre": "Q3",
+          "periodo": "2021-Q3",
+          "indice": 148,
+          "variazione": 1.09
+        },
+        {
+          "anno": 2021,
+          "trimestre": "Q4",
+          "periodo": "2021-Q4",
+          "indice": 149,
+          "variazione": 0.68
+        },
+        {
+          "anno": 2022,
+          "trimestre": "Q1",
+          "periodo": "2022-Q1",
+          "indice": 153.6,
+          "variazione": 3.09
+        },
+        {
+          "anno": 2022,
+          "trimestre": "Q2",
+          "periodo": "2022-Q2",
+          "indice": 156.2,
+          "variazione": 1.69
+        },
+        {
+          "anno": 2022,
+          "trimestre": "Q3",
+          "periodo": "2022-Q3",
+          "indice": 160.2,
+          "variazione": 2.56
+        },
+        {
+          "anno": 2022,
+          "trimestre": "Q4",
+          "periodo": "2022-Q4",
+          "indice": 158.7,
+          "variazione": -0.94
+        },
+        {
+          "anno": 2023,
+          "trimestre": "Q1",
+          "periodo": "2023-Q1",
+          "indice": 160.2,
+          "variazione": 0.95
+        },
+        {
+          "anno": 2023,
+          "trimestre": "Q2",
+          "periodo": "2023-Q2",
+          "indice": 165.5,
+          "variazione": 3.31
+        },
+        {
+          "anno": 2023,
+          "trimestre": "Q3",
+          "periodo": "2023-Q3",
+          "indice": 164.4,
+          "variazione": -0.66
+        },
+        {
+          "anno": 2023,
+          "trimestre": "Q4",
+          "periodo": "2023-Q4",
+          "indice": 165.9,
+          "variazione": 0.91
+        },
+        {
+          "anno": 2024,
+          "trimestre": "Q1",
+          "periodo": "2024-Q1",
+          "indice": 165.4,
+          "variazione": -0.3
+        },
+        {
+          "anno": 2024,
+          "trimestre": "Q2",
+          "periodo": "2024-Q2",
+          "indice": 168.6,
+          "variazione": 1.93
+        },
+        {
+          "anno": 2024,
+          "trimestre": "Q3",
+          "periodo": "2024-Q3",
+          "indice": 168.9,
+          "variazione": 0.18
+        },
+        {
+          "anno": 2024,
+          "trimestre": "Q4",
+          "periodo": "2024-Q4",
+          "indice": 171,
+          "variazione": 1.24
+        },
+        {
+          "anno": 2025,
+          "trimestre": "Q1",
+          "periodo": "2025-Q1",
+          "indice": 171.7,
+          "variazione": 0.41
+        },
+        {
+          "anno": 2025,
+          "trimestre": "Q2",
+          "periodo": "2025-Q2",
+          "indice": 175.2,
+          "variazione": 2.04
+        }
+      ]
+    }
+  ]
+}

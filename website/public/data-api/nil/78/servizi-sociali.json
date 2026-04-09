@@ -1,0 +1,28 @@
+{
+  "nilId": 78,
+  "nilName": "FARINI",
+  "totaleServizi": 2,
+  "serviziPerArea": [
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 1
+    },
+    {
+      "area_attivita": null,
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Anziani",
+      "count": 1
+    }
+  ],
+  "popolazione": 3784,
+  "serviziPer1000Abitanti": 0.53,
+  "qualitaCopertura": "Bassa"
+}

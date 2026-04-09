@@ -1,0 +1,41 @@
+{
+  "nilId": 68,
+  "nil": "PAGANO",
+  "investorScore": 40.1,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 27,
+    "verde": 30,
+    "popolazione": 35,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 17745,
+      "media": 15753,
+      "delta": 1991.761363636364
+    },
+    "densita": {
+      "nil": 13759.16775677129,
+      "media": 8881.290415418553,
+      "deltaPercent": 54.9
+    },
+    "stranieri": {
+      "nil": 10.177514792899409,
+      "media": 21.360484986780587,
+      "delta": -11.2
+    },
+    "verde": {
+      "nil": 8.840420827761497,
+      "media": 8.1171861884842,
+      "deltaPercent": 8.9
+    },
+    "qualitaVita": {
+      "nil": 44.20642163582153,
+      "media": 39.6877862711082,
+      "deltaPercent": 11.4
+    }
+  }
+}

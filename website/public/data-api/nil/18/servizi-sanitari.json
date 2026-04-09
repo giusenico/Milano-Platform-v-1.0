@@ -1,0 +1,51 @@
+{
+  "nilId": 18,
+  "nilName": "CIMIANO - ROTTOLE - Q.RE FELTRE",
+  "farmacie": {
+    "totale": 6,
+    "lista": [
+      {
+        "descrizione_farmacia": "SANTA CHIARA SNC DOTTORI COLOMBO LEONI ALFREDO ANDREA AMRIA E ANNA GIULIA MARIA",
+        "indirizzo": "VIA CRESCENZAGO, 36",
+        "cap": "20134"
+      },
+      {
+        "descrizione_farmacia": "PALMANOVA SAS DR.SSA BARBARA GALLO & C.",
+        "indirizzo": "PIAZZALE UDINE, 8",
+        "cap": "20132"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 69",
+        "indirizzo": "VIA RONCHI, 31",
+        "cap": "20134"
+      },
+      {
+        "descrizione_farmacia": "DEL PARCO SRL",
+        "indirizzo": "VIA ANGELO RIZZOLI, 47",
+        "cap": "20132"
+      },
+      {
+        "descrizione_farmacia": "ROMBON",
+        "indirizzo": "VIA ROMBON, 29",
+        "cap": "20134"
+      },
+      {
+        "descrizione_farmacia": "SAN PAOLO SAS",
+        "indirizzo": "VIA PORDENONE, 1",
+        "cap": "20132"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 6,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 19447,
+  "rapporti": {
+    "abitantiPerFarmacia": 3241,
+    "abitantiPerMedico": 3241
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

@@ -1,0 +1,15 @@
+{
+  "nilId": 62,
+  "nilName": "QUINTO ROMANO",
+  "pubbliciEsercizi": 11,
+  "eserciziVicinato": 40,
+  "bottegheStoriche": 0,
+  "coworking": 0,
+  "grandeDistribuzione": 1,
+  "edicole": 1,
+  "totaleCommercio": 52,
+  "densitaCommerciale": 31.6,
+  "commercioPer1000Ab": 11.2,
+  "scoreVitalita": 17.5,
+  "livelloVitalita": "Basso"
+}

@@ -1,0 +1,20 @@
+{
+  "nilId": 72,
+  "nilName": "MAGGIORE - MUSOCCO - CERTOSA",
+  "totaleServizi": 1,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Adulti",
+      "count": 1
+    }
+  ],
+  "popolazione": 7710,
+  "serviziPer1000Abitanti": 0.13,
+  "qualitaCopertura": "Bassa"
+}

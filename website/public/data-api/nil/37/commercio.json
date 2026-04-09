@@ -1,0 +1,15 @@
+{
+  "nilId": 37,
+  "nilName": "MORIVIONE",
+  "pubbliciEsercizi": 36,
+  "eserciziVicinato": 88,
+  "bottegheStoriche": 0,
+  "coworking": 2,
+  "grandeDistribuzione": 3,
+  "edicole": 2,
+  "totaleCommercio": 127,
+  "densitaCommerciale": 155.3,
+  "commercioPer1000Ab": 16.5,
+  "scoreVitalita": 64.4,
+  "livelloVitalita": "Alto"
+}

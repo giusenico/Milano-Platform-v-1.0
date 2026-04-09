@@ -1,0 +1,32 @@
+{
+  "nilId": 82,
+  "nilName": "COMASINA",
+  "totaleServizi": 3,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 2
+    },
+    {
+      "area_attivita": "Attività socio sanitarie",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Anziani",
+      "count": 1
+    }
+  ],
+  "popolazione": 9547,
+  "serviziPer1000Abitanti": 0.31,
+  "qualitaCopertura": "Bassa"
+}

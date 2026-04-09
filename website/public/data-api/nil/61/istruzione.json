@@ -1,0 +1,33 @@
+{
+  "nilId": 61,
+  "nilName": "QUARTO CAGNINO",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 1940,
+      "percentuale": 20.2
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 2459,
+      "percentuale": 25.6
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 3403,
+      "percentuale": 35.4
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 1342,
+      "percentuale": 14
+    }
+  ],
+  "totale": 9605,
+  "pctLaureati": 14,
+  "anno": 2011
+}

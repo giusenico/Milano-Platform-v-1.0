@@ -1,0 +1,45 @@
+{
+  "nilId": 26,
+  "nilName": "XXII MARZO",
+  "data": [
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 5629,
+      "percentuale": 34.1,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 4835,
+      "percentuale": 29.3,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 3889,
+      "percentuale": 23.6,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 1269,
+      "percentuale": 7.7,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 879,
+      "percentuale": 5.3,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 16501,
+  "mezzo_prevalente": "A piedi o in bicicletta",
+  "pctSostenibile": 63.4,
+  "anno": 2011
+}

@@ -1,0 +1,20 @@
+{
+  "nilId": 73,
+  "nilName": "CASCINA MERLATA",
+  "farmacie": {
+    "totale": 0,
+    "lista": []
+  },
+  "medici": {
+    "totale": 0,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 919,
+  "rapporti": {
+    "abitantiPerFarmacia": null,
+    "abitantiPerMedico": null
+  },
+  "scoreHealthcare": 0,
+  "qualitaServizio": "Migliorabile"
+}

@@ -1,0 +1,16 @@
+{
+  "nilId": 16,
+  "nilName": "GORLA - PRECOTTO",
+  "composizioneFamiglie": [],
+  "totaleAbitazioni": 0,
+  "famiglieSingole": 0,
+  "famiglieCoabitanti": 0,
+  "nuoviEdifici": {
+    "fabbricati": 7,
+    "abitazioni": 1335,
+    "superficieMq": 53894,
+    "volumeMc": 310305,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

@@ -1,0 +1,36 @@
+{
+  "nilId": 43,
+  "nilName": "TIBALDI",
+  "farmacie": {
+    "totale": 3,
+    "lista": [
+      {
+        "descrizione_farmacia": "MEDA SNC",
+        "indirizzo": "VIA GIUSEPPE MEDA, 37",
+        "cap": "20141"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 61",
+        "indirizzo": "VIA VINCENZO MAGLIOCCO, 3",
+        "cap": "20141"
+      },
+      {
+        "descrizione_farmacia": "BALBONI SRL",
+        "indirizzo": "VIA GIOVANNI PEZZOTTI, 59",
+        "cap": "20141"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 15,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 11463,
+  "rapporti": {
+    "abitantiPerFarmacia": 3821,
+    "abitantiPerMedico": 764
+  },
+  "scoreHealthcare": 85,
+  "qualitaServizio": "Ottimo"
+}

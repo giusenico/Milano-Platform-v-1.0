@@ -1,0 +1,41 @@
+{
+  "nilId": 87,
+  "nil": "ASSIANO",
+  "investorScore": 37.2,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 17,
+    "verde": 20,
+    "popolazione": 84,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 201,
+      "media": 15753,
+      "delta": -15552.238636363636
+    },
+    "densita": {
+      "nil": 34.412259178241506,
+      "media": 8881.290415418553,
+      "deltaPercent": -99.6
+    },
+    "stranieri": {
+      "nil": 10.945273631840797,
+      "media": 21.360484986780587,
+      "delta": -10.4
+    },
+    "verde": {
+      "nil": 10.801360574254428,
+      "media": 8.1171861884842,
+      "deltaPercent": 33.1
+    },
+    "qualitaVita": {
+      "nil": 45.911120816178,
+      "media": 39.6877862711082,
+      "deltaPercent": 15.7
+    }
+  }
+}

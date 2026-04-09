@@ -1,0 +1,41 @@
+{
+  "nilId": 29,
+  "nil": "ORTOMERCATO",
+  "investorScore": 30.9,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 60,
+    "verde": 60,
+    "popolazione": 66,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 4107,
+      "media": 15753,
+      "delta": -11646.238636363636
+    },
+    "densita": {
+      "nil": 2928.4118705797914,
+      "media": 8881.290415418553,
+      "deltaPercent": -67
+    },
+    "stranieri": {
+      "nil": 38.836133430728026,
+      "media": 21.360484986780587,
+      "delta": 17.5
+    },
+    "verde": {
+      "nil": 4.662948142428367,
+      "media": 8.1171861884842,
+      "deltaPercent": -42.6
+    },
+    "qualitaVita": {
+      "nil": 36.37678683177134,
+      "media": 39.6877862711082,
+      "deltaPercent": -8.3
+    }
+  }
+}

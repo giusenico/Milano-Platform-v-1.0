@@ -1,0 +1,15 @@
+{
+  "nilId": 54,
+  "nilName": "MUGGIANO",
+  "pubbliciEsercizi": 3,
+  "eserciziVicinato": 10,
+  "bottegheStoriche": 0,
+  "coworking": 0,
+  "grandeDistribuzione": 0,
+  "edicole": 0,
+  "totaleCommercio": 13,
+  "densitaCommerciale": 29.3,
+  "commercioPer1000Ab": 4.2,
+  "scoreVitalita": 4.5,
+  "livelloVitalita": "Basso"
+}

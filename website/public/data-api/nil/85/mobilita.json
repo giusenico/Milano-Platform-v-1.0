@@ -1,0 +1,45 @@
+{
+  "nilId": 85,
+  "nilName": "PARCO DELLE ABBAZIE",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 91,
+      "percentuale": 48.4,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 40,
+      "percentuale": 21.3,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 31,
+      "percentuale": 16.5,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 23,
+      "percentuale": 12.2,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 3,
+      "percentuale": 1.6,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 188,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 33.5,
+  "anno": 2011
+}

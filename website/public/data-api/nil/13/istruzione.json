@@ -1,0 +1,33 @@
+{
+  "nilId": 13,
+  "nilName": "GRECO - SEGNANO",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 2387,
+      "percentuale": 17.1
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 3239,
+      "percentuale": 23.2
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 4738,
+      "percentuale": 33.9
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 2771,
+      "percentuale": 19.8
+    }
+  ],
+  "totale": 13986,
+  "pctLaureati": 19.8,
+  "anno": 2011
+}

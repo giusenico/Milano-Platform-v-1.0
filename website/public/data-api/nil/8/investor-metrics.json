@@ -1,0 +1,41 @@
+{
+  "nilId": 8,
+  "nil": "PARCO SEMPIONE",
+  "investorScore": 50.7,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 3,
+    "verde": 3,
+    "popolazione": 88,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 0,
+      "media": 15753,
+      "delta": -15753.238636363636
+    },
+    "densita": {
+      "nil": 0,
+      "media": 8881.290415418553,
+      "deltaPercent": -100
+    },
+    "stranieri": {
+      "nil": null,
+      "media": 21.360484986780587,
+      "delta": -21.4
+    },
+    "verde": {
+      "nil": 24.766577387143748,
+      "media": 8.1171861884842,
+      "deltaPercent": 205.1
+    },
+    "qualitaVita": {
+      "nil": 64.29093890787453,
+      "media": 39.6877862711082,
+      "deltaPercent": 62
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "nilId": 71,
+  "nil": "VILLAPIZZONE - CAGNOLA - BOLDINASCO",
+  "investorScore": 35,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 45,
+    "verde": 53,
+    "popolazione": 4,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 41190,
+      "media": 15753,
+      "delta": 25436.761363636364
+    },
+    "densita": {
+      "nil": 12019.465883788796,
+      "media": 8881.290415418553,
+      "deltaPercent": 35.3
+    },
+    "stranieri": {
+      "nil": 32.43020150521971,
+      "media": 21.360484986780587,
+      "delta": 11.1
+    },
+    "verde": {
+      "nil": 5.41109113159012,
+      "media": 8.1171861884842,
+      "deltaPercent": -33.3
+    },
+    "qualitaVita": {
+      "nil": 40.07245490785583,
+      "media": 39.6877862711082,
+      "deltaPercent": 1
+    }
+  }
+}

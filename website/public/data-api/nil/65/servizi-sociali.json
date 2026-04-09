@@ -1,0 +1,48 @@
+{
+  "nilId": 65,
+  "nilName": "Q.RE GALLARATESE - Q.RE SAN LEONARDO - LAMPUGNANO",
+  "totaleServizi": 33,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 25
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 6
+    },
+    {
+      "area_attivita": "Attività socio sanitarie",
+      "count": 1
+    },
+    {
+      "area_attivita": "Attività ludiche e ricreative",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 17
+    },
+    {
+      "fascia_utenza": "Anziani",
+      "count": 11
+    },
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 3
+    },
+    {
+      "fascia_utenza": "Giovani,Adulti,Migranti,Anziani,Persone con disabilità",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Anziani,Famiglie,Adulti,Persone con disabilità,Persone con disagio mentale",
+      "count": 1
+    }
+  ],
+  "popolazione": 32425,
+  "serviziPer1000Abitanti": 1.02,
+  "qualitaCopertura": "Media"
+}

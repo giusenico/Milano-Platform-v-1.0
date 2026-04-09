@@ -1,0 +1,66 @@
+{
+  "nilId": 14,
+  "nilName": "NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q.RE FULVIO TESTI",
+  "farmacie": {
+    "totale": 9,
+    "lista": [
+      {
+        "descrizione_farmacia": "CA' GRANDA SRL",
+        "indirizzo": "VIA MICHELE DE ANGELIS, 15",
+        "cap": "20162"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 10",
+        "indirizzo": "VIA PALANZONE, 33",
+        "cap": "20162"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 16",
+        "indirizzo": "VIALE GIOVANNI SUZZANI, 155",
+        "cap": "20162"
+      },
+      {
+        "descrizione_farmacia": "ORNATO SRL",
+        "indirizzo": "VIA LUIGI ORNATO 13A",
+        "cap": "20162"
+      },
+      {
+        "descrizione_farmacia": "FARAM SNC DI ALBERO DUE SRL (EX SUZZANI)",
+        "indirizzo": "VIALE GIOVANNI SUZZANI, 18",
+        "cap": "20162"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 08",
+        "indirizzo": "VIA VAL MAIRA, 14",
+        "cap": "20162"
+      },
+      {
+        "descrizione_farmacia": "NIGUARDA SRL",
+        "indirizzo": "VIA MONTE ROTONDO, 1",
+        "cap": "20162"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 41",
+        "indirizzo": "VIALE GIOVANNI SUZZANI, 239",
+        "cap": "20162"
+      },
+      {
+        "descrizione_farmacia": "BICOCCA DR.GANDOLFI SNC DI ALESSANDRO E MATILDE GANDOLFI",
+        "indirizzo": "VIALE GIOVANNI SUZZANI, 273",
+        "cap": "20162"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 218,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 35852,
+  "rapporti": {
+    "abitantiPerFarmacia": 3984,
+    "abitantiPerMedico": 164
+  },
+  "scoreHealthcare": 85,
+  "qualitaServizio": "Ottimo"
+}

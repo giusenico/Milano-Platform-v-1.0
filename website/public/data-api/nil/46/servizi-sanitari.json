@@ -1,0 +1,36 @@
+{
+  "nilId": 46,
+  "nilName": "BARONA",
+  "farmacie": {
+    "totale": 3,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 70",
+        "indirizzo": "VIALE FAMAGOSTA, 36",
+        "cap": "20142"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 56",
+        "indirizzo": "VIA SAN PAOLINO, 18",
+        "cap": "20142"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 84",
+        "indirizzo": "VIA AGOSTINO DEPRETIS, 1",
+        "cap": "20142"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 3,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 16575,
+  "rapporti": {
+    "abitantiPerFarmacia": 5525,
+    "abitantiPerMedico": 5525
+  },
+  "scoreHealthcare": 40,
+  "qualitaServizio": "Migliorabile"
+}

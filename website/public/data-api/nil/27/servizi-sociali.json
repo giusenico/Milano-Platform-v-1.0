@@ -1,0 +1,28 @@
+{
+  "nilId": 27,
+  "nilName": "PTA ROMANA",
+  "totaleServizi": 3,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 2
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Anziani",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Adulti",
+      "count": 1
+    }
+  ],
+  "popolazione": 16469,
+  "serviziPer1000Abitanti": 0.18,
+  "qualitaCopertura": "Bassa"
+}

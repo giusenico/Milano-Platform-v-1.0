@@ -1,0 +1,32 @@
+{
+  "nilId": 7,
+  "nilName": "MAGENTA - S. VITTORE",
+  "totaleServizi": 11,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 10
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 7
+    },
+    {
+      "fascia_utenza": "Adolescenti (11-18),Bambini (0-10)",
+      "count": 3
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18)",
+      "count": 1
+    }
+  ],
+  "popolazione": 17940,
+  "serviziPer1000Abitanti": 0.61,
+  "qualitaCopertura": "Bassa"
+}

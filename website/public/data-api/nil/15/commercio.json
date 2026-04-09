@@ -1,0 +1,15 @@
+{
+  "nilId": 15,
+  "nilName": "BICOCCA",
+  "pubbliciEsercizi": 93,
+  "eserciziVicinato": 136,
+  "bottegheStoriche": 2,
+  "coworking": 2,
+  "grandeDistribuzione": 13,
+  "edicole": 3,
+  "totaleCommercio": 242,
+  "densitaCommerciale": 158.2,
+  "commercioPer1000Ab": 28.4,
+  "scoreVitalita": 100,
+  "livelloVitalita": "Alto"
+}

@@ -1,0 +1,33 @@
+{
+  "nilId": 82,
+  "nilName": "COMASINA",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 2338,
+      "percentuale": 25.6
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 2896,
+      "percentuale": 31.8
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 2602,
+      "percentuale": 28.5
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 681,
+      "percentuale": 7.5
+    }
+  ],
+  "totale": 9118,
+  "pctLaureati": 7.5,
+  "anno": 2011
+}

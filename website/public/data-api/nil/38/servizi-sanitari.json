@@ -1,0 +1,41 @@
+{
+  "nilId": 38,
+  "nilName": "VIGENTINO - Q.RE FATIMA",
+  "farmacie": {
+    "totale": 4,
+    "lista": [
+      {
+        "descrizione_farmacia": "VAL DI SOLE",
+        "indirizzo": "VIA VAL DI SOLE, 22",
+        "cap": "20141"
+      },
+      {
+        "descrizione_farmacia": "ROCCHI",
+        "indirizzo": "VIA LUIGI ALAMANNI, 2",
+        "cap": "20141"
+      },
+      {
+        "descrizione_farmacia": "LA SAPIENZA",
+        "indirizzo": "VIA GIACOMO ANTONINI, 56",
+        "cap": "20141"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 76",
+        "indirizzo": "VIA FEDERICO CHOPIN, 111",
+        "cap": "20141"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 8,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 15079,
+  "rapporti": {
+    "abitantiPerFarmacia": 3770,
+    "abitantiPerMedico": 1885
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

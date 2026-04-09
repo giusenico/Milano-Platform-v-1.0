@@ -1,0 +1,41 @@
+{
+  "nilId": 9,
+  "nil": "PORTA GARIBALDI - PORTA NUOVA",
+  "investorScore": 31.5,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Alto",
+  "ranking": {
+    "qualitaVita": 70,
+    "verde": 85,
+    "popolazione": 63,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 5864,
+      "media": 15753,
+      "delta": -9889.238636363636
+    },
+    "densita": {
+      "nil": 7463.993495975422,
+      "media": 8881.290415418553,
+      "deltaPercent": -16
+    },
+    "stranieri": {
+      "nil": 15.450204638472032,
+      "media": 21.360484986780587,
+      "delta": -5.9
+    },
+    "verde": {
+      "nil": 2.541638860569365,
+      "media": 8.1171861884842,
+      "deltaPercent": -68.7
+    },
+    "qualitaVita": {
+      "nil": 32.6319150754044,
+      "media": 39.6877862711082,
+      "deltaPercent": -17.8
+    }
+  }
+}

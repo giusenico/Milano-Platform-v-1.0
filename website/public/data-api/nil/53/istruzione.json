@@ -1,0 +1,33 @@
+{
+  "nilId": 53,
+  "nilName": "LORENTEGGIO",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 2629,
+      "percentuale": 21.3
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 3356,
+      "percentuale": 27.1
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 3821,
+      "percentuale": 30.9
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 1988,
+      "percentuale": 16.1
+    }
+  ],
+  "totale": 12371,
+  "pctLaureati": 16.1,
+  "anno": 2011
+}

@@ -1,0 +1,33 @@
+{
+  "nilId": 77,
+  "nilName": "BOVISA",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 2262,
+      "percentuale": 20.1
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 3018,
+      "percentuale": 26.9
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 3561,
+      "percentuale": 31.7
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 1721,
+      "percentuale": 15.3
+    }
+  ],
+  "totale": 11228,
+  "pctLaureati": 15.3,
+  "anno": 2011
+}

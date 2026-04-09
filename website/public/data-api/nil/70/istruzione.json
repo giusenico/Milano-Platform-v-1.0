@@ -1,0 +1,33 @@
+{
+  "nilId": 70,
+  "nilName": "GHISOLFA",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 2515,
+      "percentuale": 15.8
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 3315,
+      "percentuale": 20.8
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 5408,
+      "percentuale": 33.9
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 3728,
+      "percentuale": 23.4
+    }
+  ],
+  "totale": 15946,
+  "pctLaureati": 23.4,
+  "anno": 2011
+}

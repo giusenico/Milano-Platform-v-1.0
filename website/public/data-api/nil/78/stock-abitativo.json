@@ -1,0 +1,47 @@
+{
+  "nilId": 78,
+  "nilName": "FARINI",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 794,
+      "colore": "#3b82f6",
+      "percentuale": 48.7
+    },
+    {
+      "residenti": "2",
+      "valore": 398,
+      "colore": "#8b5cf6",
+      "percentuale": 24.4
+    },
+    {
+      "residenti": "3",
+      "valore": 293,
+      "colore": "#ec4899",
+      "percentuale": 18
+    },
+    {
+      "residenti": "4",
+      "valore": 96,
+      "colore": "#f59e0b",
+      "percentuale": 5.9
+    },
+    {
+      "residenti": "5+",
+      "valore": 49,
+      "colore": "#22c55e",
+      "percentuale": 3
+    }
+  ],
+  "totaleAbitazioni": 1630,
+  "famiglieSingole": 1587,
+  "famiglieCoabitanti": 43,
+  "nuoviEdifici": {
+    "fabbricati": 0,
+    "abitazioni": 0,
+    "superficieMq": 0,
+    "volumeMc": 0,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

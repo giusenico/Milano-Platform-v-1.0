@@ -1,0 +1,41 @@
+{
+  "nilId": 21,
+  "nil": "BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE",
+  "investorScore": 49.7,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Alto",
+  "ranking": {
+    "qualitaVita": 35,
+    "verde": 86,
+    "popolazione": 1,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 62093,
+      "media": 15753,
+      "delta": 46339.76136363637
+    },
+    "densita": {
+      "nil": 21579.299650058172,
+      "media": 8881.290415418553,
+      "deltaPercent": 143
+    },
+    "stranieri": {
+      "nil": 12.5215402702398,
+      "media": 21.360484986780587,
+      "delta": -8.8
+    },
+    "verde": {
+      "nil": 2.516158960385307,
+      "media": 8.1171861884842,
+      "deltaPercent": -69
+    },
+    "qualitaVita": {
+      "nil": 42.21732171015013,
+      "media": 39.6877862711082,
+      "deltaPercent": 6.4
+    }
+  }
+}

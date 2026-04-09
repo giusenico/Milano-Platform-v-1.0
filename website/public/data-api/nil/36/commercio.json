@@ -1,0 +1,15 @@
+{
+  "nilId": 36,
+  "nilName": "SCALO ROMANA",
+  "pubbliciEsercizi": 42,
+  "eserciziVicinato": 165,
+  "bottegheStoriche": 1,
+  "coworking": 2,
+  "grandeDistribuzione": 7,
+  "edicole": 3,
+  "totaleCommercio": 214,
+  "densitaCommerciale": 123.2,
+  "commercioPer1000Ab": 17.6,
+  "scoreVitalita": 95.5,
+  "livelloVitalita": "Alto"
+}

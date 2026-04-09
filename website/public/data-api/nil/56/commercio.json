@@ -1,0 +1,15 @@
+{
+  "nilId": 56,
+  "nilName": "FORZE ARMATE",
+  "pubbliciEsercizi": 42,
+  "eserciziVicinato": 161,
+  "bottegheStoriche": 1,
+  "coworking": 1,
+  "grandeDistribuzione": 2,
+  "edicole": 7,
+  "totaleCommercio": 205,
+  "densitaCommerciale": 63.9,
+  "commercioPer1000Ab": 8.2,
+  "scoreVitalita": 84.3,
+  "livelloVitalita": "Alto"
+}

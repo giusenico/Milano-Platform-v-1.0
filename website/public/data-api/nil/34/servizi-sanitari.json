@@ -1,0 +1,20 @@
+{
+  "nilId": 34,
+  "nilName": "CHIARAVALLE",
+  "farmacie": {
+    "totale": 0,
+    "lista": []
+  },
+  "medici": {
+    "totale": 0,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 1015,
+  "rapporti": {
+    "abitantiPerFarmacia": null,
+    "abitantiPerMedico": null
+  },
+  "scoreHealthcare": 0,
+  "qualitaServizio": "Migliorabile"
+}

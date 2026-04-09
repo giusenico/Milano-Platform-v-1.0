@@ -1,0 +1,31 @@
+{
+  "nilId": 33,
+  "nilName": "ROGOREDO - SANTA GIULIA",
+  "farmacie": {
+    "totale": 2,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 30",
+        "indirizzo": "VIA FRANCESCO PIZZOLPASSO, 5",
+        "cap": "20138"
+      },
+      {
+        "descrizione_farmacia": "PENNAGLIA SAS DELLA DOTT.SSA ANNA MARIA PENNAGLIA",
+        "indirizzo": "VIA MONTE PALOMBINO, 9",
+        "cap": "20138"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 6,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 11290,
+  "rapporti": {
+    "abitantiPerFarmacia": 5645,
+    "abitantiPerMedico": 1882
+  },
+  "scoreHealthcare": 40,
+  "qualitaServizio": "Migliorabile"
+}

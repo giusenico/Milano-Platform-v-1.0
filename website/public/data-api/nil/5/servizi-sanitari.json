@@ -1,0 +1,56 @@
+{
+  "nilId": 5,
+  "nilName": "PORTA VIGENTINA - PORTA LODOVICA",
+  "farmacie": {
+    "totale": 7,
+    "lista": [
+      {
+        "descrizione_farmacia": "FOGLIA FASOLIS SRL",
+        "indirizzo": "VIA SAN CALIMERO, 1",
+        "cap": "20122"
+      },
+      {
+        "descrizione_farmacia": "DELLA ROGGIA",
+        "indirizzo": "VIALE TOSCANA, 17",
+        "cap": "20136"
+      },
+      {
+        "descrizione_farmacia": "ALLA PORTA SRL",
+        "indirizzo": "CORSO DI PORTA ROMANA, 126",
+        "cap": "20122"
+      },
+      {
+        "descrizione_farmacia": "BLIGNY SAS DEL DR. GIOVANNI BRAMBILLA",
+        "indirizzo": "VIALE BLIGNY 23A",
+        "cap": "20136"
+      },
+      {
+        "descrizione_farmacia": "NUOVA FARMACIA BERETTA SNC",
+        "indirizzo": "VIALE BLIGNY, 47",
+        "cap": "20136"
+      },
+      {
+        "descrizione_farmacia": "RIPAMONTI SAS DI FARAM SNC DI ALBERO DUE SRL",
+        "indirizzo": "VIA GIOVANNI BELLEZZA, 2",
+        "cap": "20136"
+      },
+      {
+        "descrizione_farmacia": "MILANO PORTA ROMANA",
+        "indirizzo": "CORSO DI PORTA ROMANA, 68",
+        "cap": "20122"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 14,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 13519,
+  "rapporti": {
+    "abitantiPerFarmacia": 1931,
+    "abitantiPerMedico": 966
+  },
+  "scoreHealthcare": 100,
+  "qualitaServizio": "Ottimo"
+}

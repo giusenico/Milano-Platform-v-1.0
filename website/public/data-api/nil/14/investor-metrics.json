@@ -1,0 +1,41 @@
+{
+  "nilId": 14,
+  "nil": "NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q.RE FULVIO TESTI",
+  "investorScore": 12.5,
+  "riskLevel": "Alto",
+  "riskColor": "#ef4444",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 87,
+    "verde": 16,
+    "popolazione": 8,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 35852,
+      "media": 15753,
+      "delta": 20098.761363636364
+    },
+    "densita": {
+      "nil": 8442.111270349593,
+      "media": 8881.290415418553,
+      "deltaPercent": -4.9
+    },
+    "stranieri": {
+      "nil": 16.03536762244784,
+      "media": 21.360484986780587,
+      "delta": -5.3
+    },
+    "verde": {
+      "nil": 11.667361657260887,
+      "media": 8.1171861884842,
+      "deltaPercent": 43.7
+    },
+    "qualitaVita": {
+      "nil": 0,
+      "media": 39.6877862711082,
+      "deltaPercent": -100
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "nilId": 26,
+  "nilName": "XXII MARZO",
+  "farmacie": {
+    "totale": 14,
+    "lista": [
+      {
+        "descrizione_farmacia": "CADORE",
+        "indirizzo": "VIA CADORE, 29",
+        "cap": "20135"
+      },
+      {
+        "descrizione_farmacia": "XXII MARZO SAS DI VINCENZO BUCCARELLI E C",
+        "indirizzo": "CORSO XXII MARZO, 23",
+        "cap": "20129"
+      },
+      {
+        "descrizione_farmacia": "ANTICA FARMACIA DEL VERZIERE SNC",
+        "indirizzo": "CORSO XXII MARZO, 52",
+        "cap": "20137"
+      },
+      {
+        "descrizione_farmacia": "PREMUDA SAS DEL DR. DEL GENOVESE EDOARDO MARIO VINCENZO & C.",
+        "indirizzo": "VIA PASQUALE SOTTOCORNO, 1",
+        "cap": "20129"
+      },
+      {
+        "descrizione_farmacia": "ITALIA SNC",
+        "indirizzo": "CORSO INDIPENDENZA, 14",
+        "cap": "20129"
+      },
+      {
+        "descrizione_farmacia": "CONCORDIA DR.PAPA SRL",
+        "indirizzo": "CORSO CONCORDIA, 16",
+        "cap": "20129"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 65",
+        "indirizzo": "VIA MARCONA, 72",
+        "cap": "20129"
+      },
+      {
+        "descrizione_farmacia": "MOIZIO & C. SNC",
+        "indirizzo": "CORSO XXII MARZO, 37",
+        "cap": "20129"
+      },
+      {
+        "descrizione_farmacia": "UMBRIA SAS DI U.POZZI & C.",
+        "indirizzo": "VIALE UMBRIA, 109",
+        "cap": "20135"
+      },
+      {
+        "descrizione_farmacia": "SACCHI SNC",
+        "indirizzo": "VIA AUGUSTO ANFOSSI, 9",
+        "cap": "20135"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 13,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 31493,
+  "rapporti": {
+    "abitantiPerFarmacia": 2250,
+    "abitantiPerMedico": 2423
+  },
+  "scoreHealthcare": 70,
+  "qualitaServizio": "Buono"
+}

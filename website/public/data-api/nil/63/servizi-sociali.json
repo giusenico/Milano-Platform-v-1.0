@@ -1,0 +1,20 @@
+{
+  "nilId": 63,
+  "nilName": "FIGINO",
+  "totaleServizi": 1,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 1
+    }
+  ],
+  "popolazione": 2445,
+  "serviziPer1000Abitanti": 0.41,
+  "qualitaCopertura": "Bassa"
+}

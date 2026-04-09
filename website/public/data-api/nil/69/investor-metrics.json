@@ -1,0 +1,41 @@
+{
+  "nilId": 69,
+  "nil": "SARPI",
+  "investorScore": 40.4,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Alto",
+  "ranking": {
+    "qualitaVita": 54,
+    "verde": 56,
+    "popolazione": 13,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 30791,
+      "media": 15753,
+      "delta": 15037.761363636364
+    },
+    "densita": {
+      "nil": 16994.269465665056,
+      "media": 8881.290415418553,
+      "deltaPercent": 91.3
+    },
+    "stranieri": {
+      "nil": 17.030950602448765,
+      "media": 21.360484986780587,
+      "delta": -4.3
+    },
+    "verde": {
+      "nil": 5.262500675119158,
+      "media": 8.1171861884842,
+      "deltaPercent": -35.2
+    },
+    "qualitaVita": {
+      "nil": 38.14393229594816,
+      "media": 39.6877862711082,
+      "deltaPercent": -3.9
+    }
+  }
+}

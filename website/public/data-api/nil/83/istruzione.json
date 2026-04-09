@@ -1,0 +1,33 @@
+{
+  "nilId": 83,
+  "nilName": "BRUZZANO",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 2562,
+      "percentuale": 22.5
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 3164,
+      "percentuale": 27.7
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 3740,
+      "percentuale": 32.8
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 1278,
+      "percentuale": 11.2
+    }
+  ],
+  "totale": 11411,
+  "pctLaureati": 11.2,
+  "anno": 2011
+}

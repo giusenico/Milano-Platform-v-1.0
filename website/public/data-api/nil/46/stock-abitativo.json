@@ -1,0 +1,47 @@
+{
+  "nilId": 46,
+  "nilName": "BARONA",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 2467,
+      "colore": "#3b82f6",
+      "percentuale": 33.5
+    },
+    {
+      "residenti": "2",
+      "valore": 2528,
+      "colore": "#8b5cf6",
+      "percentuale": 34.4
+    },
+    {
+      "residenti": "3",
+      "valore": 1259,
+      "colore": "#ec4899",
+      "percentuale": 17.1
+    },
+    {
+      "residenti": "4",
+      "valore": 761,
+      "colore": "#f59e0b",
+      "percentuale": 10.3
+    },
+    {
+      "residenti": "5+",
+      "valore": 341,
+      "colore": "#22c55e",
+      "percentuale": 4.6
+    }
+  ],
+  "totaleAbitazioni": 7356,
+  "famiglieSingole": 7309,
+  "famiglieCoabitanti": 46,
+  "nuoviEdifici": {
+    "fabbricati": 5,
+    "abitazioni": 513,
+    "superficieMq": 30402,
+    "volumeMc": 132973,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

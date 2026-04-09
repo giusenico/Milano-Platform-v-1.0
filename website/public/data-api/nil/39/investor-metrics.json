@@ -1,0 +1,41 @@
+{
+  "nilId": 39,
+  "nil": "QUINTOSOLE",
+  "investorScore": 37.8,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 23,
+    "verde": 28,
+    "popolazione": 76,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 935,
+      "media": 15753,
+      "delta": -14818.238636363636
+    },
+    "densita": {
+      "nil": 883.3045111664538,
+      "media": 8881.290415418553,
+      "deltaPercent": -90.1
+    },
+    "stranieri": {
+      "nil": 16.149732620320854,
+      "media": 21.360484986780587,
+      "delta": -5.2
+    },
+    "verde": {
+      "nil": 9.269458107387837,
+      "media": 8.1171861884842,
+      "deltaPercent": 14.2
+    },
+    "qualitaVita": {
+      "nil": 44.92447319086909,
+      "media": 39.6877862711082,
+      "deltaPercent": 13.2
+    }
+  }
+}

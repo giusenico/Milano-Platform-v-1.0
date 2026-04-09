@@ -1,0 +1,32 @@
+{
+  "nilId": 44,
+  "nilName": "PORTA TICINESE - CONCHETTA",
+  "totaleServizi": 5,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 4
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Anziani",
+      "count": 3
+    },
+    {
+      "fascia_utenza": "Adulti",
+      "count": 1
+    },
+    {
+      "fascia_utenza": null,
+      "count": 1
+    }
+  ],
+  "popolazione": 16962,
+  "serviziPer1000Abitanti": 0.29,
+  "qualitaCopertura": "Bassa"
+}

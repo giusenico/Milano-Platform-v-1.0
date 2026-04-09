@@ -1,0 +1,33 @@
+{
+  "nilId": 21,
+  "nilName": "BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 7718,
+      "percentuale": 13.5
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 9413,
+      "percentuale": 16.5
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 17053,
+      "percentuale": 29.9
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 19849,
+      "percentuale": 34.8
+    }
+  ],
+  "totale": 57086,
+  "pctLaureati": 34.8,
+  "anno": 2011
+}

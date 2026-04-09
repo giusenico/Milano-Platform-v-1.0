@@ -1,0 +1,15 @@
+{
+  "nilId": 47,
+  "nilName": "CANTALUPA",
+  "pubbliciEsercizi": 1,
+  "eserciziVicinato": 12,
+  "bottegheStoriche": 0,
+  "coworking": 0,
+  "grandeDistribuzione": 0,
+  "edicole": 1,
+  "totaleCommercio": 13,
+  "densitaCommerciale": 14,
+  "commercioPer1000Ab": 22.3,
+  "scoreVitalita": 4.1,
+  "livelloVitalita": "Basso"
+}

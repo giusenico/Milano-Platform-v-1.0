@@ -1,0 +1,61 @@
+{
+  "nilId": 35,
+  "nilName": "LODI - CORVETTO",
+  "farmacie": {
+    "totale": 8,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 34",
+        "indirizzo": "VIA CARLO MAROCHETTI,9",
+        "cap": "20139"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 13",
+        "indirizzo": "PIAZZA GEREMIA BONOMELLI, 4",
+        "cap": "20139"
+      },
+      {
+        "descrizione_farmacia": "SAN LUIGI SNC SASSONE & C.",
+        "indirizzo": "CORSO LODI, 62",
+        "cap": "20139"
+      },
+      {
+        "descrizione_farmacia": "OMERO",
+        "indirizzo": "VIA NICOLO' BARABINO, 3",
+        "cap": "20139"
+      },
+      {
+        "descrizione_farmacia": "CORVETTO FARMA ACQUISITION SRL",
+        "indirizzo": "VIALE LUCANIA, 6",
+        "cap": "20139"
+      },
+      {
+        "descrizione_farmacia": "SANTA RITA SRL",
+        "indirizzo": "PIAZZALE GABRIELE ROSA, 11",
+        "cap": "20139"
+      },
+      {
+        "descrizione_farmacia": "ABBAZIA DI CHIARAVALLE & C.",
+        "indirizzo": "VIA COMACCHIO, 4",
+        "cap": "20139"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 54",
+        "indirizzo": "VIA GIOVANNI SCHEIWILLER, 2",
+        "cap": "20139"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 23,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 36370,
+  "rapporti": {
+    "abitantiPerFarmacia": 4546,
+    "abitantiPerMedico": 1581
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

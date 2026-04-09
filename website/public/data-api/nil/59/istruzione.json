@@ -1,0 +1,33 @@
+{
+  "nilId": 59,
+  "nilName": "TRE TORRI",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 142,
+      "percentuale": 10.7
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 196,
+      "percentuale": 14.8
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 392,
+      "percentuale": 29.7
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 541,
+      "percentuale": 40.9
+    }
+  ],
+  "totale": 1322,
+  "pctLaureati": 40.9,
+  "anno": 2011
+}

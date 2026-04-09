@@ -1,0 +1,41 @@
+{
+  "nilId": 52,
+  "nil": "BANDE NERE",
+  "investorScore": 25,
+  "riskLevel": "Alto",
+  "riskColor": "#ef4444",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 78,
+    "verde": 42,
+    "popolazione": 3,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 43808,
+      "media": 15753,
+      "delta": 28054.761363636364
+    },
+    "densita": {
+      "nil": 16445.80136424137,
+      "media": 8881.290415418553,
+      "deltaPercent": 85.2
+    },
+    "stranieri": {
+      "nil": 16.296110299488678,
+      "media": 21.360484986780587,
+      "delta": -5.1
+    },
+    "verde": {
+      "nil": 6.914148638657624,
+      "media": 8.1171861884842,
+      "deltaPercent": -14.8
+    },
+    "qualitaVita": {
+      "nil": 28.789020643279027,
+      "media": 39.6877862711082,
+      "deltaPercent": -27.5
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "nilId": 59,
+  "nilName": "TRE TORRI",
+  "totaleServizi": 3,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 2
+    },
+    {
+      "area_attivita": "Attività ludiche e ricreative",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Migranti",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Giovani,Adulti,Migranti,Anziani,Persone con disabilità",
+      "count": 1
+    }
+  ],
+  "popolazione": 2371,
+  "serviziPer1000Abitanti": 1.27,
+  "qualitaCopertura": "Media"
+}

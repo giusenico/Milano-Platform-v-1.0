@@ -1,0 +1,47 @@
+{
+  "nilId": 41,
+  "nilName": "GRATOSOGLIO - Q.RE MISSAGLIA - Q.RE TERRAZZE",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 2436,
+      "colore": "#3b82f6",
+      "percentuale": 31.6
+    },
+    {
+      "residenti": "2",
+      "valore": 2814,
+      "colore": "#8b5cf6",
+      "percentuale": 36.5
+    },
+    {
+      "residenti": "3",
+      "valore": 1249,
+      "colore": "#ec4899",
+      "percentuale": 16.2
+    },
+    {
+      "residenti": "4",
+      "valore": 817,
+      "colore": "#f59e0b",
+      "percentuale": 10.6
+    },
+    {
+      "residenti": "5+",
+      "valore": 404,
+      "colore": "#22c55e",
+      "percentuale": 5.2
+    }
+  ],
+  "totaleAbitazioni": 7720,
+  "famiglieSingole": 7670,
+  "famiglieCoabitanti": 50,
+  "nuoviEdifici": {
+    "fabbricati": 0,
+    "abitazioni": 0,
+    "superficieMq": 0,
+    "volumeMc": 0,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

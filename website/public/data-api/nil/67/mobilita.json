@@ -1,0 +1,45 @@
+{
+  "nilId": 67,
+  "nilName": "PORTELLO",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 1234,
+      "percentuale": 33.1,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 1015,
+      "percentuale": 27.3,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 940,
+      "percentuale": 25.2,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 343,
+      "percentuale": 9.2,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 192,
+      "percentuale": 5.2,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 3724,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 52.5,
+  "anno": 2011
+}

@@ -1,6 +1,5 @@
 import { useState, useEffect, useCallback } from 'react'
-
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:3001/api'
+import { buildApiUrl, isStaticApiMode } from '../lib/api'
 
 /**
  * Hook to fetch time series data for a specific quartiere
@@ -20,7 +19,7 @@ export const useQuartiereTimeSeries = (quartiereId) => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/quartieri/${quartiereId}/timeseries`)
+      const response = await fetch(buildApiUrl(`/quartieri/${quartiereId}/timeseries`))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
@@ -53,11 +52,18 @@ export const useMilanoStats = () => {
   const [error, setError] = useState(null)
 
   const fetchData = useCallback(async () => {
+    if (!nil && isStaticApiMode) {
+      setData(null)
+      setError(null)
+      setIsLoading(false)
+      return
+    }
+
     setIsLoading(true)
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/stats/milano`)
+      const response = await fetch(buildApiUrl('/stats/milano'))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
@@ -99,14 +105,31 @@ export const useCompareTimeSeries = (quartiereIds = []) => {
     setError(null)
 
     try {
-      const idsParam = quartiereIds.join(',')
-      const response = await fetch(`${API_BASE_URL}/timeseries/compare?ids=${idsParam}`)
-      
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`)
+      let result
+
+      if (isStaticApiMode) {
+        const seriesResults = await Promise.all(
+          quartiereIds.map(async (quartiereId) => {
+            const response = await fetch(buildApiUrl(`/quartieri/${quartiereId}/timeseries`))
+            if (!response.ok) {
+              if (response.status === 404) return null
+              throw new Error(`HTTP error! status: ${response.status}`)
+            }
+            return response.json()
+          })
+        )
+
+        result = seriesResults.filter(Boolean)
+      } else {
+        const idsParam = quartiereIds.join(',')
+        const response = await fetch(buildApiUrl(`/timeseries/compare?ids=${idsParam}`))
+        
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`)
+        }
+        
+        result = await response.json()
       }
-      
-      const result = await response.json()
       setData(result)
     } catch (err) {
       console.error('Error fetching comparison data:', err)
@@ -137,7 +160,7 @@ export const useQuartieriData = () => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/quartieri`)
+      const response = await fetch(buildApiUrl('/quartieri'))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
@@ -174,7 +197,7 @@ export const useSemesters = () => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/semesters`)
+      const response = await fetch(buildApiUrl('/semesters'))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
@@ -212,7 +235,7 @@ export const useTimelineData = () => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/timeline`)
+      const response = await fetch(buildApiUrl('/timeline'))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
@@ -249,7 +272,7 @@ export const useDataOverview = () => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/data-overview`)
+      const response = await fetch(buildApiUrl('/data-overview'))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
@@ -286,7 +309,7 @@ export const useIndicatoriDemografici = () => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/indicatori-demografici`)
+      const response = await fetch(buildApiUrl('/indicatori-demografici'))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
@@ -323,7 +346,7 @@ export const useContribuenti = () => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/contribuenti`)
+      const response = await fetch(buildApiUrl('/contribuenti'))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
@@ -360,7 +383,7 @@ export const useIndicePrezziAbitazioni = () => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/indice-prezzi-abitazioni`)
+      const response = await fetch(buildApiUrl('/indice-prezzi-abitazioni'))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
@@ -398,8 +421,8 @@ export const usePopolazioneQuartiere = (nil = null) => {
 
     try {
       const url = nil 
-        ? `${API_BASE_URL}/popolazione-quartiere/${encodeURIComponent(nil)}`
-        : `${API_BASE_URL}/popolazione-quartiere`
+        ? buildApiUrl(`/popolazione-quartiere/${encodeURIComponent(nil)}`)
+        : buildApiUrl('/popolazione-quartiere')
       
       const response = await fetch(url)
       
@@ -444,7 +467,7 @@ export const useNilAnalisi = (nilName = null) => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/nil/${encodeURIComponent(nilName)}`)
+      const response = await fetch(buildApiUrl(`/nil/${encodeURIComponent(nilName)}`))
       
       if (!response.ok) {
         if (response.status === 404) {
@@ -485,14 +508,18 @@ export const useNilRanking = (limit = 88, order = 'desc') => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/nil/ranking?limit=${limit}&order=${order}`)
+      const response = await fetch(buildApiUrl('/nil/ranking'))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
       }
       
       const result = await response.json()
-      setData(result)
+      const sorted = [...result].sort((a, b) => {
+        const delta = (a.indice_qualita_vita ?? 0) - (b.indice_qualita_vita ?? 0)
+        return order === 'asc' ? delta : -delta
+      })
+      setData(sorted.slice(0, limit))
     } catch (err) {
       console.error('Error fetching NIL ranking:', err)
       setError(err.message)
@@ -522,7 +549,7 @@ export const useNilStatsOverview = () => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/nil/stats/overview`)
+      const response = await fetch(buildApiUrl('/nil/stats/overview'))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
@@ -559,7 +586,7 @@ export const useAmbienteNil = () => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/ambiente-nil`)
+      const response = await fetch(buildApiUrl('/ambiente-nil'))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
@@ -596,7 +623,7 @@ export const useCommercioStats = () => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/commercio-stats`)
+      const response = await fetch(buildApiUrl('/commercio-stats'))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
@@ -633,7 +660,7 @@ export const useCulturaStats = () => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/cultura-stats`)
+      const response = await fetch(buildApiUrl('/cultura-stats'))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
@@ -670,7 +697,7 @@ export const useMobilitaStats = () => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/mobilita-stats`)
+      const response = await fetch(buildApiUrl('/mobilita-stats'))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
@@ -707,7 +734,7 @@ export const useBottegheStoriche = () => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/botteghe-storiche`)
+      const response = await fetch(buildApiUrl('/botteghe-storiche'))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
@@ -744,7 +771,7 @@ export const useBiblioteche = () => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/biblioteche`)
+      const response = await fetch(buildApiUrl('/biblioteche'))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
@@ -781,7 +808,7 @@ export const useColonnineRicarica = () => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/colonnine-ricarica`)
+      const response = await fetch(buildApiUrl('/colonnine-ricarica'))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
@@ -818,7 +845,7 @@ export const useVedovelle = () => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/vedovelle`)
+      const response = await fetch(buildApiUrl('/vedovelle'))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
@@ -855,7 +882,7 @@ export const useNilClusters = () => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/nil/clusters`)
+      const response = await fetch(buildApiUrl('/nil/clusters'))
       
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`)
@@ -902,7 +929,7 @@ export const useNilIstruzione = (nilId) => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/nil/${nilId}/istruzione`)
+      const response = await fetch(buildApiUrl(`/nil/${nilId}/istruzione`))
       
       if (!response.ok) {
         if (response.status === 404) {
@@ -949,7 +976,7 @@ export const useNilMobilita = (nilId) => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/nil/${nilId}/mobilita`)
+      const response = await fetch(buildApiUrl(`/nil/${nilId}/mobilita`))
       
       if (!response.ok) {
         if (response.status === 404) {
@@ -996,7 +1023,7 @@ export const useNilStockAbitativo = (nilId) => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/nil/${nilId}/stock-abitativo`)
+      const response = await fetch(buildApiUrl(`/nil/${nilId}/stock-abitativo`))
       
       if (!response.ok) {
         if (response.status === 404) {
@@ -1043,7 +1070,7 @@ export const useNilInvestorMetrics = (nilId) => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/nil/${nilId}/investor-metrics`)
+      const response = await fetch(buildApiUrl(`/nil/${nilId}/investor-metrics`))
       
       if (!response.ok) {
         if (response.status === 404) {
@@ -1090,7 +1117,7 @@ export const useNilServiziSanitari = (nilId) => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/nil/${nilId}/servizi-sanitari`)
+      const response = await fetch(buildApiUrl(`/nil/${nilId}/servizi-sanitari`))
       
       if (!response.ok) {
         if (response.status === 404) {
@@ -1137,7 +1164,7 @@ export const useNilServiziSociali = (nilId) => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/nil/${nilId}/servizi-sociali`)
+      const response = await fetch(buildApiUrl(`/nil/${nilId}/servizi-sociali`))
       
       if (!response.ok) {
         if (response.status === 404) {
@@ -1184,7 +1211,7 @@ export const useNilCultura = (nilId) => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/nil/${nilId}/cultura`)
+      const response = await fetch(buildApiUrl(`/nil/${nilId}/cultura`))
       
       if (!response.ok) {
         if (response.status === 404) {
@@ -1231,7 +1258,7 @@ export const useNilCommercio = (nilId) => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/nil/${nilId}/commercio`)
+      const response = await fetch(buildApiUrl(`/nil/${nilId}/commercio`))
       
       if (!response.ok) {
         if (response.status === 404) {
@@ -1278,7 +1305,7 @@ export const useNilSicurezza = (nilId) => {
     setError(null)
 
     try {
-      const response = await fetch(`${API_BASE_URL}/nil/${nilId}/sicurezza`)
+      const response = await fetch(buildApiUrl(`/nil/${nilId}/sicurezza`))
       
       if (!response.ok) {
         if (response.status === 404) {

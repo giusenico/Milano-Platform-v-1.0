@@ -1,0 +1,71 @@
+{
+  "nilId": 22,
+  "nilName": "CITTA' STUDI",
+  "farmacie": {
+    "totale": 11,
+    "lista": [
+      {
+        "descrizione_farmacia": "ROSSETTO SNC & C.",
+        "indirizzo": "PIAZZALE PAOLO GORINI, 14",
+        "cap": "20133"
+      },
+      {
+        "descrizione_farmacia": "CALDARINI",
+        "indirizzo": "VIA ANTONIO GROSSICH, 15",
+        "cap": "20131"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 62",
+        "indirizzo": "VIA ILLIRICO, 11",
+        "cap": "20133"
+      },
+      {
+        "descrizione_farmacia": "CITTA' STUDI SRL",
+        "indirizzo": "LARGO ORESTE MURANI, 2",
+        "cap": "20133"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 03",
+        "indirizzo": "VIALE ROMAGNA, 58",
+        "cap": "20133"
+      },
+      {
+        "descrizione_farmacia": "SERENIFARMA SRL A SOCIO UNICO (EX BEATO ANGELICO)",
+        "indirizzo": "VIA CESARE SALDINI, 4",
+        "cap": "20133"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 50",
+        "indirizzo": "VIA ANDREA MARIA AMPE'RE, 87",
+        "cap": "20131"
+      },
+      {
+        "descrizione_farmacia": "PORPORA SRL",
+        "indirizzo": "VIA NICOLA ANTONIO PORPORA, 148",
+        "cap": "20131"
+      },
+      {
+        "descrizione_farmacia": "AMADEO SAS",
+        "indirizzo": "VIA GIOVANNI ANTONIO AMADEO,40",
+        "cap": "20133"
+      },
+      {
+        "descrizione_farmacia": "FARMACEUTICA BRAMANTE",
+        "indirizzo": "VIA GIOVANNI PACINI, 30",
+        "cap": "20131"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 27,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 35964,
+  "rapporti": {
+    "abitantiPerFarmacia": 3269,
+    "abitantiPerMedico": 1332
+  },
+  "scoreHealthcare": 70,
+  "qualitaServizio": "Buono"
+}

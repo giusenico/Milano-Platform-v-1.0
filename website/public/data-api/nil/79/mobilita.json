@@ -1,0 +1,45 @@
+{
+  "nilId": 79,
+  "nilName": "DERGANO",
+  "data": [
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 4440,
+      "percentuale": 39.6,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 3034,
+      "percentuale": 27.1,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 2570,
+      "percentuale": 22.9,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 588,
+      "percentuale": 5.2,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 584,
+      "percentuale": 5.2,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 11216,
+  "mezzo_prevalente": "Mezzi pubblici",
+  "pctSostenibile": 62.5,
+  "anno": 2011
+}

@@ -1,0 +1,15 @@
+{
+  "nilId": 80,
+  "nilName": "AFFORI",
+  "pubbliciEsercizi": 85,
+  "eserciziVicinato": 288,
+  "bottegheStoriche": 4,
+  "coworking": 0,
+  "grandeDistribuzione": 11,
+  "edicole": 11,
+  "totaleCommercio": 384,
+  "densitaCommerciale": 185.4,
+  "commercioPer1000Ab": 15.1,
+  "scoreVitalita": 100,
+  "livelloVitalita": "Alto"
+}

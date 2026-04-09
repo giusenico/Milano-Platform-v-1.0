@@ -1,0 +1,41 @@
+{
+  "nilId": 62,
+  "nil": "QUINTO ROMANO",
+  "investorScore": 36.6,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 19,
+    "verde": 23,
+    "popolazione": 65,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 4662,
+      "media": 15753,
+      "delta": -11091.238636363636
+    },
+    "densita": {
+      "nil": 2832.669379211245,
+      "media": 8881.290415418553,
+      "deltaPercent": -68.1
+    },
+    "stranieri": {
+      "nil": 13.534963534963534,
+      "media": 21.360484986780587,
+      "delta": -7.8
+    },
+    "verde": {
+      "nil": 10.119330385344282,
+      "media": 8.1171861884842,
+      "deltaPercent": 24.7
+    },
+    "qualitaVita": {
+      "nil": 45.47675165215169,
+      "media": 39.6877862711082,
+      "deltaPercent": 14.6
+    }
+  }
+}

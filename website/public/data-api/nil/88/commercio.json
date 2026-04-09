@@ -1,0 +1,15 @@
+{
+  "nilId": 88,
+  "nilName": "PARCO BOSCO IN CITTA'",
+  "pubbliciEsercizi": 6,
+  "eserciziVicinato": 14,
+  "bottegheStoriche": 0,
+  "coworking": 0,
+  "grandeDistribuzione": 0,
+  "edicole": 0,
+  "totaleCommercio": 20,
+  "densitaCommerciale": 2.6,
+  "commercioPer1000Ab": 29.8,
+  "scoreVitalita": 7.2,
+  "livelloVitalita": "Basso"
+}

@@ -1,0 +1,47 @@
+{
+  "nilId": 82,
+  "nilName": "COMASINA",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 1377,
+      "colore": "#3b82f6",
+      "percentuale": 35.1
+    },
+    {
+      "residenti": "2",
+      "valore": 1167,
+      "colore": "#8b5cf6",
+      "percentuale": 29.8
+    },
+    {
+      "residenti": "3",
+      "valore": 667,
+      "colore": "#ec4899",
+      "percentuale": 17
+    },
+    {
+      "residenti": "4",
+      "valore": 492,
+      "colore": "#f59e0b",
+      "percentuale": 12.6
+    },
+    {
+      "residenti": "5+",
+      "valore": 215,
+      "colore": "#22c55e",
+      "percentuale": 5.5
+    }
+  ],
+  "totaleAbitazioni": 3918,
+  "famiglieSingole": 3851,
+  "famiglieCoabitanti": 67,
+  "nuoviEdifici": {
+    "fabbricati": 7,
+    "abitazioni": 248,
+    "superficieMq": 16921,
+    "volumeMc": 92649,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

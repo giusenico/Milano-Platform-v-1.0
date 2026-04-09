@@ -1,0 +1,47 @@
+{
+  "nilId": 42,
+  "nilName": "STADERA - CHIESA ROSSA - Q.RE TORRETTA - CONCA FALLATA",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 5577,
+      "colore": "#3b82f6",
+      "percentuale": 42.3
+    },
+    {
+      "residenti": "2",
+      "valore": 3866,
+      "colore": "#8b5cf6",
+      "percentuale": 29.3
+    },
+    {
+      "residenti": "3",
+      "valore": 2168,
+      "colore": "#ec4899",
+      "percentuale": 16.4
+    },
+    {
+      "residenti": "4",
+      "valore": 1189,
+      "colore": "#f59e0b",
+      "percentuale": 9
+    },
+    {
+      "residenti": "5+",
+      "valore": 389,
+      "colore": "#22c55e",
+      "percentuale": 2.9
+    }
+  ],
+  "totaleAbitazioni": 13189,
+  "famiglieSingole": 13064,
+  "famiglieCoabitanti": 125,
+  "nuoviEdifici": {
+    "fabbricati": 3,
+    "abitazioni": 62,
+    "superficieMq": 3863,
+    "volumeMc": 16571,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

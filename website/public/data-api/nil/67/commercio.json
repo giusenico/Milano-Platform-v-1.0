@@ -1,0 +1,15 @@
+{
+  "nilId": 67,
+  "nilName": "PORTELLO",
+  "pubbliciEsercizi": 58,
+  "eserciziVicinato": 153,
+  "bottegheStoriche": 1,
+  "coworking": 0,
+  "grandeDistribuzione": 12,
+  "edicole": 4,
+  "totaleCommercio": 223,
+  "densitaCommerciale": 245.2,
+  "commercioPer1000Ab": 25.2,
+  "scoreVitalita": 79.9,
+  "livelloVitalita": "Alto"
+}

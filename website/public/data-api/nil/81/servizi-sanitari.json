@@ -1,0 +1,31 @@
+{
+  "nilId": 81,
+  "nilName": "BOVISASCA",
+  "farmacie": {
+    "totale": 2,
+    "lista": [
+      {
+        "descrizione_farmacia": "BOVISASCA SRL",
+        "indirizzo": "VIA BOVISASCA",
+        "cap": "20161"
+      },
+      {
+        "descrizione_farmacia": "FRATELLI RAGNI SRL",
+        "indirizzo": "VIA ALESSANDRO LITTA MODIGNANI, 5",
+        "cap": "20161"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 6,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 7230,
+  "rapporti": {
+    "abitantiPerFarmacia": 3615,
+    "abitantiPerMedico": 1205
+  },
+  "scoreHealthcare": 70,
+  "qualitaServizio": "Buono"
+}

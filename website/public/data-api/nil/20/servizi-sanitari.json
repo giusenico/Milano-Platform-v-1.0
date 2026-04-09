@@ -1,0 +1,71 @@
+{
+  "nilId": 20,
+  "nilName": "LORETO - CASORETTO - NOLO",
+  "farmacie": {
+    "totale": 12,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 28",
+        "indirizzo": "VIA TEODOSIO, 74",
+        "cap": "20131"
+      },
+      {
+        "descrizione_farmacia": "LEONCAVALLO SRL",
+        "indirizzo": "VIA FRANCESCO PREDABISSI, 1",
+        "cap": "20131"
+      },
+      {
+        "descrizione_farmacia": "DE POLI SAS DR.SSA DE POLI MARIACHIARA & C",
+        "indirizzo": "VIALE LOMBARDIA, 65",
+        "cap": "20131"
+      },
+      {
+        "descrizione_farmacia": "BANDI SRL",
+        "indirizzo": "VIA ROVERETO, 14",
+        "cap": "20127"
+      },
+      {
+        "descrizione_farmacia": "CONFALONIERI SNC",
+        "indirizzo": "VIALE MONZA, 63",
+        "cap": "20125"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 77",
+        "indirizzo": "VIA MONTE NEVOSO,1",
+        "cap": "20131"
+      },
+      {
+        "descrizione_farmacia": "MONTI SRL",
+        "indirizzo": "VIA LUIGI VARANINI, 19",
+        "cap": "20127"
+      },
+      {
+        "descrizione_farmacia": "PAVESIO SAS DI G. GASTALDI & C.",
+        "indirizzo": "VIA GIORGIO CHAVEZ, 19",
+        "cap": "20131"
+      },
+      {
+        "descrizione_farmacia": "BERTA SRL",
+        "indirizzo": "VIALE MONZA, 43",
+        "cap": "20125"
+      },
+      {
+        "descrizione_farmacia": "BARNI",
+        "indirizzo": "VIA FRATELLI LUMIE'RE, 2",
+        "cap": "20127"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 15,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 44034,
+  "rapporti": {
+    "abitantiPerFarmacia": 3670,
+    "abitantiPerMedico": 2936
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

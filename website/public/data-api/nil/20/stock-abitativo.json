@@ -1,0 +1,47 @@
+{
+  "nilId": 20,
+  "nilName": "LORETO - CASORETTO - NOLO",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 9502,
+      "colore": "#3b82f6",
+      "percentuale": 49.2
+    },
+    {
+      "residenti": "2",
+      "valore": 4922,
+      "colore": "#8b5cf6",
+      "percentuale": 25.5
+    },
+    {
+      "residenti": "3",
+      "valore": 2572,
+      "colore": "#ec4899",
+      "percentuale": 13.3
+    },
+    {
+      "residenti": "4",
+      "valore": 1729,
+      "colore": "#f59e0b",
+      "percentuale": 9
+    },
+    {
+      "residenti": "5+",
+      "valore": 573,
+      "colore": "#22c55e",
+      "percentuale": 3
+    }
+  ],
+  "totaleAbitazioni": 19298,
+  "famiglieSingole": 18830,
+  "famiglieCoabitanti": 467,
+  "nuoviEdifici": {
+    "fabbricati": 5,
+    "abitazioni": 212,
+    "superficieMq": 11222,
+    "volumeMc": 55191,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

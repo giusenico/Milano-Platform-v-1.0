@@ -1,0 +1,45 @@
+{
+  "nilId": 42,
+  "nilName": "STADERA - CHIESA ROSSA - Q.RE TORRETTA - CONCA FALLATA",
+  "data": [
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 5856,
+      "percentuale": 39.4,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 4522,
+      "percentuale": 30.5,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 2901,
+      "percentuale": 19.5,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 900,
+      "percentuale": 6.1,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 671,
+      "percentuale": 4.5,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 14850,
+  "mezzo_prevalente": "Mezzi pubblici",
+  "pctSostenibile": 58.9,
+  "anno": 2011
+}

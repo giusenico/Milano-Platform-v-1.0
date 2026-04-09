@@ -3090,10 +3090,11 @@ app.get('/api/nil/:id/investor-metrics', (req, res) => {
   }
 })
 
-// Start server
-app.listen(PORT, () => {
-  console.log(`🚀 Milano API server running on http://localhost:${PORT}`)
-  console.log(`📊 Database: ${dbPath}`)
-})
+if (process.argv[1] === __filename) {
+  app.listen(PORT, () => {
+    console.log(`🚀 Milano API server running on http://localhost:${PORT}`)
+    console.log(`📊 Database: ${dbPath}`)
+  })
+}
 
 export default app

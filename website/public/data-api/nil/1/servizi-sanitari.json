@@ -1,0 +1,71 @@
+{
+  "nilId": 1,
+  "nilName": "DUOMO",
+  "farmacie": {
+    "totale": 25,
+    "lista": [
+      {
+        "descrizione_farmacia": "SCHIAVIO SNC",
+        "indirizzo": "VIA GIOSUE' CARDUCCI, 11",
+        "cap": "20123"
+      },
+      {
+        "descrizione_farmacia": "SAN BABILA FARMA SRL",
+        "indirizzo": "VIA DELLA SPIGA, 2",
+        "cap": "20121"
+      },
+      {
+        "descrizione_farmacia": "COOP.FARM.BIGLI",
+        "indirizzo": "VIA BIGLI, 28",
+        "cap": "20121"
+      },
+      {
+        "descrizione_farmacia": "DURINI FARMA ACQUISITION SRL",
+        "indirizzo": "GALLERIA PASSARELLA, 1",
+        "cap": "20122"
+      },
+      {
+        "descrizione_farmacia": "BELTRADE SRL",
+        "indirizzo": "PIAZZA SANTA MARIA BELTRADE, 1",
+        "cap": "20123"
+      },
+      {
+        "descrizione_farmacia": "SAN CELSO",
+        "indirizzo": "VIA CROCEFISSO, 1",
+        "cap": "20122"
+      },
+      {
+        "descrizione_farmacia": "COLONNE DI SAN LORENZO DOTT.SSA STRAZIOTA CATERINA & C SNC",
+        "indirizzo": "CORSO DI PORTA TICINESE, 24",
+        "cap": "20123"
+      },
+      {
+        "descrizione_farmacia": "BENU RETAIL SRL - LARGO AUGUSTO",
+        "indirizzo": "LARGO AUGUSTO, 8",
+        "cap": "20122"
+      },
+      {
+        "descrizione_farmacia": "DEL DUOMO SAS DI HIPPO 41 FARMA SRL",
+        "indirizzo": "VIA SAN CLEMENTE",
+        "cap": "20122"
+      },
+      {
+        "descrizione_farmacia": "MONFORTE SNC",
+        "indirizzo": "CORSO MONFORTE, 19",
+        "cap": "20122"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 21,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 16706,
+  "rapporti": {
+    "abitantiPerFarmacia": 668,
+    "abitantiPerMedico": 796
+  },
+  "scoreHealthcare": 100,
+  "qualitaServizio": "Ottimo"
+}

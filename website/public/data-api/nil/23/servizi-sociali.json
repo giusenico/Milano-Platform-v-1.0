@@ -1,0 +1,52 @@
+{
+  "nilId": 23,
+  "nilName": "LAMBRATE - ORTICA",
+  "totaleServizi": 20,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 12
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 7
+    },
+    {
+      "area_attivita": "Attività socio sanitarie",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Anziani",
+      "count": 12
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18),Giovani,Adulti,Migranti,Anziani,Persone con disabilità,Persone con disagio mentale",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18)",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18),Famiglie",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Anziani,Famiglie,Adulti,Persone con disabilità,Persone con disagio mentale",
+      "count": 1
+    },
+    {
+      "fascia_utenza": null,
+      "count": 1
+    }
+  ],
+  "popolazione": 11923,
+  "serviziPer1000Abitanti": 1.68,
+  "qualitaCopertura": "Media"
+}

@@ -1,0 +1,206 @@
+{
+  "nil": "QT 8",
+  "nilLabel": "QT 8",
+  "idNil": 66,
+  "match": {
+    "matchType": "id",
+    "confidence": 1
+  },
+  "latestYear": 2021,
+  "timeSeries": [
+    {
+      "anno": 2007,
+      "nil": "QT 8",
+      "nil_label": "QT 8 (66)",
+      "totale_famiglie": 1894
+    },
+    {
+      "anno": 2008,
+      "nil": "QT 8",
+      "nil_label": "QT 8 (66)",
+      "totale_famiglie": 1904
+    },
+    {
+      "anno": 2009,
+      "nil": "QT 8",
+      "nil_label": "QT 8 (66)",
+      "totale_famiglie": 1903
+    },
+    {
+      "anno": 2010,
+      "nil": "QT 8",
+      "nil_label": "QT 8 (66)",
+      "totale_famiglie": 1938
+    },
+    {
+      "anno": 2011,
+      "nil": "QT 8",
+      "nil_label": "QT 8 (66)",
+      "totale_famiglie": 1986
+    },
+    {
+      "anno": 2012,
+      "nil": "QT 8",
+      "nil_label": "QT 8 (66)",
+      "totale_famiglie": 1974
+    },
+    {
+      "anno": 2013,
+      "nil": "QT 8",
+      "nil_label": "QT 8 (66)",
+      "totale_famiglie": 1943
+    },
+    {
+      "anno": 2014,
+      "nil": "QT 8",
+      "nil_label": "QT 8 (66)",
+      "totale_famiglie": 1951
+    },
+    {
+      "anno": 2015,
+      "nil": "QT 8",
+      "nil_label": "QT 8 (66)",
+      "totale_famiglie": 1956
+    },
+    {
+      "anno": 2016,
+      "nil": "QT 8",
+      "nil_label": "QT 8 (66)",
+      "totale_famiglie": 1960
+    },
+    {
+      "anno": 2017,
+      "nil": "QT 8",
+      "nil_label": "QT 8 (66)",
+      "totale_famiglie": 1976
+    },
+    {
+      "anno": 2018,
+      "nil": "QT 8",
+      "nil_label": "QT 8 (66)",
+      "totale_famiglie": 2006
+    },
+    {
+      "anno": 2019,
+      "nil": "QT 8",
+      "nil_label": "QT 8 (66)",
+      "totale_famiglie": 2044
+    },
+    {
+      "anno": 2020,
+      "nil": "QT 8",
+      "nil_label": "QT 8 (66)",
+      "totale_famiglie": 2058
+    },
+    {
+      "anno": 2021,
+      "nil": "QT 8",
+      "nil_label": "QT 8 (66)",
+      "totale_famiglie": 2067
+    }
+  ],
+  "crescitaFamiglieYoY": 0.44,
+  "amenities": {
+    "pubblici_esercizi": 5,
+    "mercati": 1,
+    "farmacie": 2,
+    "scuole": 5,
+    "biblioteche": 0
+  },
+  "breakdown": {
+    "tipologie": [
+      {
+        "tipologia_familiare": "Single",
+        "totale": 947
+      },
+      {
+        "tipologia_familiare": "Coppia sposata senza figli",
+        "totale": 325
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con almeno un figlio minorenne",
+        "totale": 218
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con figli tutti maggiorenni",
+        "totale": 170
+      },
+      {
+        "tipologia_familiare": "Monogenitore con figli tutti maggiorenni",
+        "totale": 143
+      },
+      {
+        "tipologia_familiare": "Monogenitore con almeno un figlio minorenne",
+        "totale": 96
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con almeno un figlio minorenne",
+        "totale": 64
+      },
+      {
+        "tipologia_familiare": "Coppia convivente senza figli",
+        "totale": 51
+      },
+      {
+        "tipologia_familiare": "Altre tipologie",
+        "totale": 47
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con figli tutti maggiorenni",
+        "totale": 6
+      }
+    ],
+    "classiEta": [
+      {
+        "classe_eta_capofamiglia": "Da 35 a 64 anni",
+        "totale": 965
+      },
+      {
+        "classe_eta_capofamiglia": "80 anni e più",
+        "totale": 474
+      },
+      {
+        "classe_eta_capofamiglia": "Da 65 a 79 anni",
+        "totale": 443
+      },
+      {
+        "classe_eta_capofamiglia": "Da 18 a 34 anni",
+        "totale": 185
+      }
+    ],
+    "cittadinanza": [
+      {
+        "cittadinanza": "Italia",
+        "totale": 1854
+      },
+      {
+        "cittadinanza": "Altri paesi",
+        "totale": 118
+      },
+      {
+        "cittadinanza": "Filippine",
+        "totale": 26
+      },
+      {
+        "cittadinanza": "Sri Lanka",
+        "totale": 24
+      },
+      {
+        "cittadinanza": "Cina",
+        "totale": 23
+      },
+      {
+        "cittadinanza": "Perù",
+        "totale": 10
+      },
+      {
+        "cittadinanza": "Ecuador",
+        "totale": 8
+      },
+      {
+        "cittadinanza": "Egitto",
+        "totale": 4
+      }
+    ]
+  }
+}

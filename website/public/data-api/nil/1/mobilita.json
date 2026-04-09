@@ -1,0 +1,45 @@
+{
+  "nilId": 1,
+  "nilName": "DUOMO",
+  "data": [
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 3705,
+      "percentuale": 42.3,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 1808,
+      "percentuale": 20.6,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 1651,
+      "percentuale": 18.9,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 808,
+      "percentuale": 9.2,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 785,
+      "percentuale": 9,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 8757,
+  "mezzo_prevalente": "A piedi o in bicicletta",
+  "pctSostenibile": 62.9,
+  "anno": 2011
+}

@@ -1,0 +1,28 @@
+{
+  "nilId": 64,
+  "nilName": "TRENNO",
+  "totaleServizi": 3,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 2
+    },
+    {
+      "area_attivita": "Attività ludiche e ricreative",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Migranti",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Giovani,Adulti,Migranti,Anziani,Persone con disabilità",
+      "count": 1
+    }
+  ],
+  "popolazione": 3975,
+  "serviziPer1000Abitanti": 0.75,
+  "qualitaCopertura": "Bassa"
+}

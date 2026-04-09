@@ -1,0 +1,46 @@
+{
+  "nilId": 55,
+  "nilName": "BAGGIO - Q.RE DEGLI OLMI - Q.RE VALSESIA",
+  "farmacie": {
+    "totale": 5,
+    "lista": [
+      {
+        "descrizione_farmacia": "GASTALDI DI DR.PIETRO BENZI & C. SNC",
+        "indirizzo": "VIA PRIVATA CESARE FACCIOLI, 2",
+        "cap": "20152"
+      },
+      {
+        "descrizione_farmacia": "OLMI SNC",
+        "indirizzo": "VIA DELLE BETULLE, 10",
+        "cap": "20152"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 39",
+        "indirizzo": "PIAZZA ANITA GARIBALDI, 8",
+        "cap": "20153"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 45",
+        "indirizzo": "VIA DELLE BETULLE, 36",
+        "cap": "20152"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 05",
+        "indirizzo": "VIA MAFFEO BAGAROTTI, 38",
+        "cap": "20152"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 13,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 29873,
+  "rapporti": {
+    "abitantiPerFarmacia": 5975,
+    "abitantiPerMedico": 2298
+  },
+  "scoreHealthcare": 40,
+  "qualitaServizio": "Migliorabile"
+}

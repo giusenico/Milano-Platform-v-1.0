@@ -1,0 +1,33 @@
+{
+  "nilId": 5,
+  "nilName": "PORTA VIGENTINA - PORTA LODOVICA",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 2261,
+      "percentuale": 14.6
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 2753,
+      "percentuale": 17.7
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 4412,
+      "percentuale": 28.4
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 5244,
+      "percentuale": 33.8
+    }
+  ],
+  "totale": 15526,
+  "pctLaureati": 33.8,
+  "anno": 2011
+}

@@ -1,0 +1,41 @@
+{
+  "nilId": 38,
+  "nil": "VIGENTINO - Q.RE FATIMA",
+  "investorScore": 35.1,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 47,
+    "verde": 32,
+    "popolazione": 44,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 15079,
+      "media": 15753,
+      "delta": -674.238636363636
+    },
+    "densita": {
+      "nil": 8136.897130427422,
+      "media": 8881.290415418553,
+      "deltaPercent": -8.4
+    },
+    "stranieri": {
+      "nil": 11.97028980701638,
+      "media": 21.360484986780587,
+      "delta": -9.4
+    },
+    "verde": {
+      "nil": 8.420145241507765,
+      "media": 8.1171861884842,
+      "deltaPercent": 3.7
+    },
+    "qualitaVita": {
+      "nil": 39.9263164273187,
+      "media": 39.6877862711082,
+      "deltaPercent": 0.6
+    }
+  }
+}

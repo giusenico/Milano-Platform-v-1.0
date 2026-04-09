@@ -1,0 +1,71 @@
+{
+  "nilId": 69,
+  "nilName": "SARPI",
+  "farmacie": {
+    "totale": 14,
+    "lista": [
+      {
+        "descrizione_farmacia": "GIANNONE SRL",
+        "indirizzo": "VIA CARLO FARINI, 5",
+        "cap": "20154"
+      },
+      {
+        "descrizione_farmacia": "ANGOLO DELLA SALUTE SRL",
+        "indirizzo": "VIA PAOLO SARPI, 53",
+        "cap": "20154"
+      },
+      {
+        "descrizione_farmacia": "COOP.FARM.CANONICA",
+        "indirizzo": "VIA LUIGI CANONICA, 6",
+        "cap": "20154"
+      },
+      {
+        "descrizione_farmacia": "PROCACCINI SRL DI HIPPO 45 FARMA SRL",
+        "indirizzo": "VIA PAOLO LOMAZZO,44",
+        "cap": "20154"
+      },
+      {
+        "descrizione_farmacia": "COOP.FARM.BAIAMONTI",
+        "indirizzo": "PIAZZA ANTONIO BAIAMONTI, 1",
+        "cap": "20154"
+      },
+      {
+        "descrizione_farmacia": "LEGA LOMBARDA SRL",
+        "indirizzo": "VIALE ELVEZIA, 6",
+        "cap": "20154"
+      },
+      {
+        "descrizione_farmacia": "FARINATTI SNC",
+        "indirizzo": "VIA PIERO DELLA FRANCESCA, 3",
+        "cap": "20154"
+      },
+      {
+        "descrizione_farmacia": "CANEVA SRL",
+        "indirizzo": "PIAZZA CARLO CANEVA, 3",
+        "cap": "20154"
+      },
+      {
+        "descrizione_farmacia": "CASTELVETRO SNC DI TAGLIABUE EMILIANO E POZZO FRANCESCA",
+        "indirizzo": "VIA PIERO DELLA FRANCESCA, 38",
+        "cap": "20154"
+      },
+      {
+        "descrizione_farmacia": "CANONICA SNC DEL DR. PIERCARLO MANELLI",
+        "indirizzo": "VIA LUIGI CANONICA, 32",
+        "cap": "20154"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 23,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 30791,
+  "rapporti": {
+    "abitantiPerFarmacia": 2199,
+    "abitantiPerMedico": 1339
+  },
+  "scoreHealthcare": 85,
+  "qualitaServizio": "Ottimo"
+}

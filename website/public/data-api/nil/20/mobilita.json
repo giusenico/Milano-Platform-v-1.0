@@ -1,0 +1,45 @@
+{
+  "nilId": 20,
+  "nilName": "LORETO - CASORETTO - NOLO",
+  "data": [
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 9499,
+      "percentuale": 43.2,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 5386,
+      "percentuale": 24.5,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 4643,
+      "percentuale": 21.1,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 1356,
+      "percentuale": 6.2,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 1100,
+      "percentuale": 5,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 21984,
+  "mezzo_prevalente": "Mezzi pubblici",
+  "pctSostenibile": 67.7,
+  "anno": 2011
+}

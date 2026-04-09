@@ -1,0 +1,41 @@
+{
+  "nilId": 46,
+  "nil": "BARONA",
+  "investorScore": 30.7,
+  "riskLevel": "Alto",
+  "riskColor": "#ef4444",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 42,
+    "verde": 19,
+    "popolazione": 39,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 16575,
+      "media": 15753,
+      "delta": 821.761363636364
+    },
+    "densita": {
+      "nil": 8261.687429880565,
+      "media": 8881.290415418553,
+      "deltaPercent": -7
+    },
+    "stranieri": {
+      "nil": 18.147812971342383,
+      "media": 21.360484986780587,
+      "delta": -3.2
+    },
+    "verde": {
+      "nil": 10.941147892566017,
+      "media": 8.1171861884842,
+      "deltaPercent": 34.8
+    },
+    "qualitaVita": {
+      "nil": 40.378190311999816,
+      "media": 39.6877862711082,
+      "deltaPercent": 1.7
+    }
+  }
+}

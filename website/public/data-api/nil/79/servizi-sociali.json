@@ -1,0 +1,56 @@
+{
+  "nilId": 79,
+  "nilName": "DERGANO",
+  "totaleServizi": 17,
+  "serviziPerArea": [
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 9
+    },
+    {
+      "area_attivita": null,
+      "count": 7
+    },
+    {
+      "area_attivita": "Attività sportive",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Anziani",
+      "count": 8
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18)",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Adolescenti (11-18),Bambini (0-10)",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Famiglie,Giovani,Adulti",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18),Giovani,Adulti,Migranti,Anziani,Persone con disabilità,Persone con disagio mentale",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18),Giovani",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18),Famiglie",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 1
+    }
+  ],
+  "popolazione": 23597,
+  "serviziPer1000Abitanti": 0.72,
+  "qualitaCopertura": "Bassa"
+}

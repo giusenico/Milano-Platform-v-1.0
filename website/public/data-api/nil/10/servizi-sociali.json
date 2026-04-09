@@ -1,0 +1,36 @@
+{
+  "nilId": 10,
+  "nilName": "STAZIONE CENTRALE - PONTE SEVESO",
+  "totaleServizi": 4,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 3
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Famiglie,Persone con disagio mentale,Persone con disabilità,Anziani,Migranti,Adulti,Giovani",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Anziani",
+      "count": 1
+    }
+  ],
+  "popolazione": 18584,
+  "serviziPer1000Abitanti": 0.22,
+  "qualitaCopertura": "Bassa"
+}

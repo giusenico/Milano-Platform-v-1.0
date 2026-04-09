@@ -1,0 +1,33 @@
+{
+  "nilId": 25,
+  "nilName": "CORSICA",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 2476,
+      "percentuale": 13.9
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 3497,
+      "percentuale": 19.6
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 5996,
+      "percentuale": 33.7
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 4922,
+      "percentuale": 27.6
+    }
+  ],
+  "totale": 17815,
+  "pctLaureati": 27.6,
+  "anno": 2011
+}

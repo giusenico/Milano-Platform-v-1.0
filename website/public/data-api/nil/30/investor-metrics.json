@@ -1,0 +1,41 @@
+{
+  "nilId": 30,
+  "nil": "TALIEDO - MORSENCHIO - Q.RE FORLANINI",
+  "investorScore": 34.2,
+  "riskLevel": "Alto",
+  "riskColor": "#ef4444",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 18,
+    "verde": 37,
+    "popolazione": 29,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 19273,
+      "media": 15753,
+      "delta": 3519.761363636364
+    },
+    "densita": {
+      "nil": 5043.690587609295,
+      "media": 8881.290415418553,
+      "deltaPercent": -43.2
+    },
+    "stranieri": {
+      "nil": 18.38841903180615,
+      "media": 21.360484986780587,
+      "delta": -3
+    },
+    "verde": {
+      "nil": 7.795385982610367,
+      "media": 8.1171861884842,
+      "deltaPercent": -4
+    },
+    "qualitaVita": {
+      "nil": 45.50203024277252,
+      "media": 39.6877862711082,
+      "deltaPercent": 14.6
+    }
+  }
+}

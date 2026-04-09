@@ -1,0 +1,44 @@
+{
+  "nilId": 36,
+  "nilName": "SCALO ROMANA",
+  "totaleServizi": 8,
+  "serviziPerArea": [
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 6
+    },
+    {
+      "area_attivita": null,
+      "count": 2
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Adulti,Migranti",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Adulti",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Persone con disabilità,Persone con disagio mentale,Giovani,Adulti",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Migranti,Adulti",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Giovani,Adulti,Migranti,Anziani,Persone con disabilità,Persone con disagio mentale",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18),Giovani",
+      "count": 1
+    }
+  ],
+  "popolazione": 12191,
+  "serviziPer1000Abitanti": 0.66,
+  "qualitaCopertura": "Bassa"
+}

@@ -1,0 +1,41 @@
+{
+  "nilId": 80,
+  "nilName": "AFFORI",
+  "farmacie": {
+    "totale": 4,
+    "lista": [
+      {
+        "descrizione_farmacia": "AFFORI DEL DR. LUIGI WAIFER SPAGGIARI & C. SAS",
+        "indirizzo": "VIA ALESSANDRO ZANOLI, 3",
+        "cap": "20161"
+      },
+      {
+        "descrizione_farmacia": "SANT'ANTONIO SNC",
+        "indirizzo": "VIA PELLEGRINO ROSSI, 44",
+        "cap": "20161"
+      },
+      {
+        "descrizione_farmacia": "PICCHIOTTI",
+        "indirizzo": "VIALE AFFORI, 1",
+        "cap": "20161"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 21",
+        "indirizzo": "VIA GIAN RINALDO CARLI, 14",
+        "cap": "20161"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 9,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 25414,
+  "rapporti": {
+    "abitantiPerFarmacia": 6354,
+    "abitantiPerMedico": 2824
+  },
+  "scoreHealthcare": 40,
+  "qualitaServizio": "Migliorabile"
+}

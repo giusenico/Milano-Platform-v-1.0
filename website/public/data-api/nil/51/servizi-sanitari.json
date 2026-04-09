@@ -1,0 +1,66 @@
+{
+  "nilId": 51,
+  "nilName": "PORTA MAGENTA",
+  "farmacie": {
+    "totale": 9,
+    "lista": [
+      {
+        "descrizione_farmacia": "MILANO VESUVIO",
+        "indirizzo": "PIAZZA VESUVIO, 14",
+        "cap": "20144"
+      },
+      {
+        "descrizione_farmacia": "WASHINGTON SNC",
+        "indirizzo": "VIA ETNA, 2",
+        "cap": "20144"
+      },
+      {
+        "descrizione_farmacia": "SARDEGNA SAS DEL DOTT. MAZZOLI DAVIDE",
+        "indirizzo": "VIA SARDEGNA, 31",
+        "cap": "20146"
+      },
+      {
+        "descrizione_farmacia": "DR.SSA DANIELA MATTALIA",
+        "indirizzo": "VIA GIORGIO WASHINGTON, 98",
+        "cap": "20146"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 75",
+        "indirizzo": "VIA GIORGIO WASHINGTON, 74",
+        "cap": "20146"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 37",
+        "indirizzo": "VIA VETTA D'ITALIA, 18",
+        "cap": "20144"
+      },
+      {
+        "descrizione_farmacia": "SAN MICHELE SRL",
+        "indirizzo": "VIALE CONI ZUGNA, 12",
+        "cap": "20144"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 68",
+        "indirizzo": "PIAZZA ERNESTO DE ANGELI, 1",
+        "cap": "20146"
+      },
+      {
+        "descrizione_farmacia": "COOP.FARM.VERCELLI",
+        "indirizzo": "CORSO VERCELLI, 5",
+        "cap": "20144"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 18,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 26758,
+  "rapporti": {
+    "abitantiPerFarmacia": 2973,
+    "abitantiPerMedico": 1487
+  },
+  "scoreHealthcare": 85,
+  "qualitaServizio": "Ottimo"
+}

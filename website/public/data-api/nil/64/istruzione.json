@@ -1,0 +1,33 @@
+{
+  "nilId": 64,
+  "nilName": "TRENNO",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 907,
+      "percentuale": 21.9
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 1032,
+      "percentuale": 24.9
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 1514,
+      "percentuale": 36.5
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 567,
+      "percentuale": 13.7
+    }
+  ],
+  "totale": 4145,
+  "pctLaureati": 13.7,
+  "anno": 2011
+}

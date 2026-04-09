@@ -1,0 +1,45 @@
+{
+  "nilId": 54,
+  "nilName": "MUGGIANO",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 1103,
+      "percentuale": 55,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 564,
+      "percentuale": 28.1,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 162,
+      "percentuale": 8.1,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 115,
+      "percentuale": 5.7,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 62,
+      "percentuale": 3.1,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 2006,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 36.2,
+  "anno": 2011
+}

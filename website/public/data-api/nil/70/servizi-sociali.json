@@ -1,0 +1,40 @@
+{
+  "nilId": 70,
+  "nilName": "GHISOLFA",
+  "totaleServizi": 7,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 6
+    },
+    {
+      "area_attivita": "Attività ludiche e ricreative",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Giovani,Adulti,Migranti,Anziani,Persone con disabilità",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Anziani",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Adolescenti (11-18),Bambini (0-10)",
+      "count": 1
+    }
+  ],
+  "popolazione": 18017,
+  "serviziPer1000Abitanti": 0.39,
+  "qualitaCopertura": "Bassa"
+}

@@ -1,0 +1,45 @@
+{
+  "nilId": 80,
+  "nilName": "AFFORI",
+  "data": [
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 4852,
+      "percentuale": 39,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 3700,
+      "percentuale": 29.8,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 2654,
+      "percentuale": 21.4,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 629,
+      "percentuale": 5.1,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 591,
+      "percentuale": 4.8,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 12426,
+  "mezzo_prevalente": "Mezzi pubblici",
+  "pctSostenibile": 60.4,
+  "anno": 2011
+}

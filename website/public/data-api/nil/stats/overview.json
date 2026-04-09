@@ -1,0 +1,62 @@
+{
+  "generale": {
+    "totalNil": 88,
+    "iqvMedio": 39.69,
+    "iqvMin": null,
+    "iqvMax": 67.02,
+    "popolazioneMedia": 15753,
+    "popolazioneTotale": 1386285,
+    "pctStranieriMedia": 21.36,
+    "verdeIndiceMedio": 8.12
+  },
+  "trend": {
+    "nilInCrescita": 41,
+    "nilInDeclino": 42,
+    "nilStabili": 5,
+    "saldoTotaleMilano": -1068
+  },
+  "topNil": [
+    {
+      "nil": "PARCO NORD",
+      "indice_qualita_vita": 67.02324856375688
+    },
+    {
+      "nil": "QT 8",
+      "indice_qualita_vita": 65.18930573367395
+    },
+    {
+      "nil": "PARCO SEMPIONE",
+      "indice_qualita_vita": 64.29093890787453
+    },
+    {
+      "nil": "GIARDINI P.TA VENEZIA",
+      "indice_qualita_vita": 63.478977330466606
+    },
+    {
+      "nil": "CIMIANO - ROTTOLE - Q.RE FELTRE",
+      "indice_qualita_vita": 55.939149291046334
+    }
+  ],
+  "bottomNil": [
+    {
+      "nil": "MAGENTA - S. VITTORE",
+      "indice_qualita_vita": 0
+    },
+    {
+      "nil": "NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q.RE FULVIO TESTI",
+      "indice_qualita_vita": 0
+    },
+    {
+      "nil": "CORSICA",
+      "indice_qualita_vita": 19.005917230428416
+    },
+    {
+      "nil": "PORTA MAGENTA",
+      "indice_qualita_vita": 21.298408605224417
+    },
+    {
+      "nil": "SAN SIRO",
+      "indice_qualita_vita": 22.11679408441421
+    }
+  ]
+}

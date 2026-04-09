@@ -1,0 +1,41 @@
+{
+  "nilId": 28,
+  "nilName": "UMBRIA - MOLISE - CALVAIRATE",
+  "farmacie": {
+    "totale": 4,
+    "lista": [
+      {
+        "descrizione_farmacia": "FIORE SNC DELLE DR.SSE FIORE BARBARA E SIMONA",
+        "indirizzo": "VIA GAETANO STRIGELLI, 2",
+        "cap": "20135"
+      },
+      {
+        "descrizione_farmacia": "SAN CAMILLO DEL DR.DARDANELLI GIOVANNI SNC",
+        "indirizzo": "PIAZZALE FERDINANDO MARTINI, 3",
+        "cap": "20137"
+      },
+      {
+        "descrizione_farmacia": "DR.MAX ITALIA SRL - INSUBRIA",
+        "indirizzo": "PIAZZA INSUBRIA, 11",
+        "cap": "20137"
+      },
+      {
+        "descrizione_farmacia": "SALGARI SRL",
+        "indirizzo": "VIA ALBERTO CARONCINI, 6",
+        "cap": "20137"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 16,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 22599,
+  "rapporti": {
+    "abitantiPerFarmacia": 5650,
+    "abitantiPerMedico": 1412
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

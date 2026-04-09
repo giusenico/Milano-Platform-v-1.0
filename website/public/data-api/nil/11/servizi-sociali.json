@@ -1,0 +1,40 @@
+{
+  "nilId": 11,
+  "nilName": "ISOLA",
+  "totaleServizi": 14,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 9
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 5
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Anziani",
+      "count": 8
+    },
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Adolescenti (11-18),Bambini (0-10)",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Adolescenti (11-18)",
+      "count": 1
+    }
+  ],
+  "popolazione": 22690,
+  "serviziPer1000Abitanti": 0.62,
+  "qualitaCopertura": "Bassa"
+}

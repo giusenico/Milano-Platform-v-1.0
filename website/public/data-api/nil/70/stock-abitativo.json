@@ -1,0 +1,47 @@
+{
+  "nilId": 70,
+  "nilName": "GHISOLFA",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 3652,
+      "colore": "#3b82f6",
+      "percentuale": 45.5
+    },
+    {
+      "residenti": "2",
+      "valore": 2215,
+      "colore": "#8b5cf6",
+      "percentuale": 27.6
+    },
+    {
+      "residenti": "3",
+      "valore": 1186,
+      "colore": "#ec4899",
+      "percentuale": 14.8
+    },
+    {
+      "residenti": "4",
+      "valore": 786,
+      "colore": "#f59e0b",
+      "percentuale": 9.8
+    },
+    {
+      "residenti": "5+",
+      "valore": 181,
+      "colore": "#22c55e",
+      "percentuale": 2.3
+    }
+  ],
+  "totaleAbitazioni": 8020,
+  "famiglieSingole": 7909,
+  "famiglieCoabitanti": 110,
+  "nuoviEdifici": {
+    "fabbricati": 9,
+    "abitazioni": 418,
+    "superficieMq": 32501,
+    "volumeMc": 478655,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

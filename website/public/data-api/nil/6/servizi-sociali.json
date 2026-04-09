@@ -1,0 +1,68 @@
+{
+  "nilId": 6,
+  "nilName": "PORTA TICINESE - CONCA DEL NAVIGLIO",
+  "totaleServizi": 31,
+  "serviziPerArea": [
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 17
+    },
+    {
+      "area_attivita": null,
+      "count": 12
+    },
+    {
+      "area_attivita": "Attività ludiche e ricreative",
+      "count": 2
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Anziani",
+      "count": 19
+    },
+    {
+      "fascia_utenza": "Giovani,Adulti,Migranti,Anziani,Persone con disabilità",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18)",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Persone con disabilità,Persone con disagio mentale,Giovani,Adulti",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Famiglie,Giovani,Adulti",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18),Giovani,Adulti,Migranti,Anziani,Persone con disabilità,Persone con disagio mentale",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18),Famiglie",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Anziani,Famiglie,Adulti,Persone con disabilità,Persone con disagio mentale",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Adulti",
+      "count": 1
+    }
+  ],
+  "popolazione": 19932,
+  "serviziPer1000Abitanti": 1.56,
+  "qualitaCopertura": "Media"
+}

@@ -1,0 +1,33 @@
+{
+  "nilId": 56,
+  "nilName": "FORZE ARMATE",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 5498,
+      "percentuale": 24.8
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 6592,
+      "percentuale": 29.7
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 6362,
+      "percentuale": 28.7
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 2711,
+      "percentuale": 12.2
+    }
+  ],
+  "totale": 22159,
+  "pctLaureati": 12.2,
+  "anno": 2011
+}

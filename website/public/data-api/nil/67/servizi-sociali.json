@@ -1,0 +1,68 @@
+{
+  "nilId": 67,
+  "nilName": "PORTELLO",
+  "totaleServizi": 23,
+  "serviziPerArea": [
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 12
+    },
+    {
+      "area_attivita": null,
+      "count": 8
+    },
+    {
+      "area_attivita": "Attività socio sanitarie",
+      "count": 2
+    },
+    {
+      "area_attivita": "Attività socio educative",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 7
+    },
+    {
+      "fascia_utenza": "Anziani",
+      "count": 7
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18)",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Persone con disabilità,Famiglie",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Famiglie,Giovani,Adulti",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18),Giovani",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18),Famiglie",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Adulti,Migranti",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Adulti",
+      "count": 1
+    }
+  ],
+  "popolazione": 8858,
+  "serviziPer1000Abitanti": 2.6,
+  "qualitaCopertura": "Media"
+}

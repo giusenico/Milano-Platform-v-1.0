@@ -1,0 +1,45 @@
+{
+  "nilId": 35,
+  "nilName": "LODI - CORVETTO",
+  "data": [
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 7142,
+      "percentuale": 42.7,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 4059,
+      "percentuale": 24.3,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 3827,
+      "percentuale": 22.9,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 950,
+      "percentuale": 5.7,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 754,
+      "percentuale": 4.5,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 16732,
+  "mezzo_prevalente": "Mezzi pubblici",
+  "pctSostenibile": 65.6,
+  "anno": 2011
+}

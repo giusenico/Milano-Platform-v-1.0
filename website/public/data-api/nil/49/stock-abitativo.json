@@ -1,0 +1,47 @@
+{
+  "nilId": 49,
+  "nilName": "GIAMBELLINO",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 6736,
+      "colore": "#3b82f6",
+      "percentuale": 46.2
+    },
+    {
+      "residenti": "2",
+      "valore": 3977,
+      "colore": "#8b5cf6",
+      "percentuale": 27.3
+    },
+    {
+      "residenti": "3",
+      "valore": 2041,
+      "colore": "#ec4899",
+      "percentuale": 14
+    },
+    {
+      "residenti": "4",
+      "valore": 1325,
+      "colore": "#f59e0b",
+      "percentuale": 9.1
+    },
+    {
+      "residenti": "5+",
+      "valore": 489,
+      "colore": "#22c55e",
+      "percentuale": 3.4
+    }
+  ],
+  "totaleAbitazioni": 14568,
+  "famiglieSingole": 14378,
+  "famiglieCoabitanti": 190,
+  "nuoviEdifici": {
+    "fabbricati": 7,
+    "abitazioni": 628,
+    "superficieMq": 39344,
+    "volumeMc": 252368,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

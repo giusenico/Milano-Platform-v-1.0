@@ -1,0 +1,47 @@
+{
+  "nilId": 25,
+  "nilName": "CORSICA",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 4271,
+      "colore": "#3b82f6",
+      "percentuale": 46.6
+    },
+    {
+      "residenti": "2",
+      "valore": 2639,
+      "colore": "#8b5cf6",
+      "percentuale": 28.8
+    },
+    {
+      "residenti": "3",
+      "valore": 1284,
+      "colore": "#ec4899",
+      "percentuale": 14
+    },
+    {
+      "residenti": "4",
+      "valore": 762,
+      "colore": "#f59e0b",
+      "percentuale": 8.3
+    },
+    {
+      "residenti": "5+",
+      "valore": 204,
+      "colore": "#22c55e",
+      "percentuale": 2.2
+    }
+  ],
+  "totaleAbitazioni": 9160,
+  "famiglieSingole": 8987,
+  "famiglieCoabitanti": 173,
+  "nuoviEdifici": {
+    "fabbricati": 4,
+    "abitazioni": 294,
+    "superficieMq": 20966,
+    "volumeMc": 144237,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

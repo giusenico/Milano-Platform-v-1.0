@@ -1,0 +1,41 @@
+{
+  "nilId": 53,
+  "nil": "LORENTEGGIO",
+  "investorScore": 28.7,
+  "riskLevel": "Alto",
+  "riskColor": "#ef4444",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 59,
+    "verde": 41,
+    "popolazione": 46,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 14230,
+      "media": 15753,
+      "delta": -1523.238636363636
+    },
+    "densita": {
+      "nil": 5381.308839967578,
+      "media": 8881.290415418553,
+      "deltaPercent": -39.4
+    },
+    "stranieri": {
+      "nil": 15.291637385804638,
+      "media": 21.360484986780587,
+      "delta": -6.1
+    },
+    "verde": {
+      "nil": 7.036208333333334,
+      "media": 8.1171861884842,
+      "deltaPercent": -13.3
+    },
+    "qualitaVita": {
+      "nil": 36.670400949429855,
+      "media": 39.6877862711082,
+      "deltaPercent": -7.6
+    }
+  }
+}

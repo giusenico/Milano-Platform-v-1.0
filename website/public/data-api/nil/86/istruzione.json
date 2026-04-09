@@ -1,0 +1,33 @@
+{
+  "nilId": 86,
+  "nilName": "PARCO DEI NAVIGLI",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 60,
+      "percentuale": 20.1
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 73,
+      "percentuale": 24.4
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 86,
+      "percentuale": 28.8
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 56,
+      "percentuale": 18.7
+    }
+  ],
+  "totale": 299,
+  "pctLaureati": 18.7,
+  "anno": 2011
+}

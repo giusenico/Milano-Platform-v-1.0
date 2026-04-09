@@ -1,0 +1,15 @@
+{
+  "nilId": 63,
+  "nilName": "FIGINO",
+  "pubbliciEsercizi": 6,
+  "eserciziVicinato": 16,
+  "bottegheStoriche": 0,
+  "coworking": 1,
+  "grandeDistribuzione": 0,
+  "edicole": 0,
+  "totaleCommercio": 22,
+  "densitaCommerciale": 15.4,
+  "commercioPer1000Ab": 9,
+  "scoreVitalita": 17.8,
+  "livelloVitalita": "Basso"
+}

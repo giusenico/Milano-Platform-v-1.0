@@ -1,0 +1,41 @@
+{
+  "nilId": 73,
+  "nil": "CASCINA MERLATA",
+  "investorScore": 34.5,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 40,
+    "verde": 55,
+    "popolazione": 77,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 919,
+      "media": 15753,
+      "delta": -14834.238636363636
+    },
+    "densita": {
+      "nil": 531.0175465414993,
+      "media": 8881.290415418553,
+      "deltaPercent": -94
+    },
+    "stranieri": {
+      "nil": 32.20892274211099,
+      "media": 21.360484986780587,
+      "delta": 10.8
+    },
+    "verde": {
+      "nil": 5.394058780238065,
+      "media": 8.1171861884842,
+      "deltaPercent": -33.5
+    },
+    "qualitaVita": {
+      "nil": 40.89489547164105,
+      "media": 39.6877862711082,
+      "deltaPercent": 3
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "nilId": 83,
+  "nilName": "BRUZZANO",
+  "totaleServizi": 16,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 11
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 4
+    },
+    {
+      "area_attivita": "Attività ludiche e ricreative",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Anziani",
+      "count": 8
+    },
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 4
+    },
+    {
+      "fascia_utenza": "Adolescenti (11-18),Bambini (0-10)",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Giovani,Adulti,Migranti,Anziani,Persone con disabilità",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Anziani,Famiglie,Adulti,Persone con disabilità,Persone con disagio mentale",
+      "count": 1
+    }
+  ],
+  "popolazione": 12635,
+  "serviziPer1000Abitanti": 1.27,
+  "qualitaCopertura": "Media"
+}

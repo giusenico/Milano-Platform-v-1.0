@@ -1,0 +1,33 @@
+{
+  "nilId": 2,
+  "nilName": "BRERA",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 1841,
+      "percentuale": 11.1
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 2298,
+      "percentuale": 13.8
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 4758,
+      "percentuale": 28.6
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 6726,
+      "percentuale": 40.4
+    }
+  ],
+  "totale": 16656,
+  "pctLaureati": 40.4,
+  "anno": 2011
+}

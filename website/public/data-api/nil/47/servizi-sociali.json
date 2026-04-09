@@ -1,0 +1,24 @@
+{
+  "nilId": 47,
+  "nilName": "CANTALUPA",
+  "totaleServizi": 3,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 3
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Adulti",
+      "count": 1
+    }
+  ],
+  "popolazione": 582,
+  "serviziPer1000Abitanti": 5.15,
+  "qualitaCopertura": "Alta"
+}

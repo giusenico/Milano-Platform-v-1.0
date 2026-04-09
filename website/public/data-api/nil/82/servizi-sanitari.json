@@ -1,0 +1,31 @@
+{
+  "nilId": 82,
+  "nilName": "COMASINA",
+  "farmacie": {
+    "totale": 2,
+    "lista": [
+      {
+        "descrizione_farmacia": "COMASINA SAS DELLA DOTT.SSA VERCESI LAURA & C.",
+        "indirizzo": "PIAZZA CARDINALE PIETRO GASPARRI, 9",
+        "cap": "20161"
+      },
+      {
+        "descrizione_farmacia": "DELLE QUERCE SAS",
+        "indirizzo": "VIA GEROLAMO FORNI, 34",
+        "cap": "20161"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 4,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 9547,
+  "rapporti": {
+    "abitantiPerFarmacia": 4774,
+    "abitantiPerMedico": 2387
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

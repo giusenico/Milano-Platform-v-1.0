@@ -1,0 +1,41 @@
+{
+  "nilId": 84,
+  "nil": "PARCO NORD",
+  "investorScore": 51.8,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 1,
+    "verde": 1,
+    "popolazione": 86,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 104,
+      "media": 15753,
+      "delta": -15649.238636363636
+    },
+    "densita": {
+      "nil": 67.87045341858963,
+      "media": 8881.290415418553,
+      "deltaPercent": -99.2
+    },
+    "stranieri": {
+      "nil": 22.115384615384613,
+      "media": 21.360484986780587,
+      "delta": 0.8
+    },
+    "verde": {
+      "nil": 27.08547156587099,
+      "media": 8.1171861884842,
+      "deltaPercent": 233.7
+    },
+    "qualitaVita": {
+      "nil": 67.02324856375688,
+      "media": 39.6877862711082,
+      "deltaPercent": 68.9
+    }
+  }
+}

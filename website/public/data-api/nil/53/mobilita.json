@@ -1,0 +1,45 @@
+{
+  "nilId": 53,
+  "nilName": "LORENTEGGIO",
+  "data": [
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 2394,
+      "percentuale": 38.8,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 1907,
+      "percentuale": 30.9,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 1285,
+      "percentuale": 20.8,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 344,
+      "percentuale": 5.6,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 234,
+      "percentuale": 3.8,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 6164,
+  "mezzo_prevalente": "Mezzi pubblici",
+  "pctSostenibile": 59.6,
+  "anno": 2011
+}

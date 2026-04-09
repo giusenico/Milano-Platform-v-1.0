@@ -1,0 +1,15 @@
+{
+  "nilId": 87,
+  "nilName": "ASSIANO",
+  "pubbliciEsercizi": 6,
+  "eserciziVicinato": 3,
+  "bottegheStoriche": 0,
+  "coworking": 0,
+  "grandeDistribuzione": 0,
+  "edicole": 4,
+  "totaleCommercio": 9,
+  "densitaCommerciale": 1.5,
+  "commercioPer1000Ab": 44.8,
+  "scoreVitalita": 3.9,
+  "livelloVitalita": "Basso"
+}

@@ -1,0 +1,28 @@
+{
+  "nilId": 20,
+  "nilName": "LORETO - CASORETTO - NOLO",
+  "totaleServizi": 6,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 6
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 3
+    },
+    {
+      "fascia_utenza": "Anziani",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18),Giovani",
+      "count": 1
+    }
+  ],
+  "popolazione": 44034,
+  "serviziPer1000Abitanti": 0.14,
+  "qualitaCopertura": "Bassa"
+}

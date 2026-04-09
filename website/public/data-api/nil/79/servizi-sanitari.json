@@ -1,0 +1,46 @@
+{
+  "nilId": 79,
+  "nilName": "DERGANO",
+  "farmacie": {
+    "totale": 5,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 55",
+        "indirizzo": "VIA CARLO IMBONATI, 24",
+        "cap": "20159"
+      },
+      {
+        "descrizione_farmacia": "SAN LUCA SNC DI NUOVA FARMACIA SAN LUCA SNC DEL DR.DANIELE SOFI E C.",
+        "indirizzo": "VIA ANTONIO CARNEVALI, 70",
+        "cap": "20158"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 11",
+        "indirizzo": "VIA LIVIGNO, 6",
+        "cap": "20158"
+      },
+      {
+        "descrizione_farmacia": "RONDO' FARINI",
+        "indirizzo": "PIAZZALE CARLO MACIACHINI, 24",
+        "cap": "20159"
+      },
+      {
+        "descrizione_farmacia": "PESENTI SRL",
+        "indirizzo": "VIA IGNAZIO CIAIA, 3",
+        "cap": "20158"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 16,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 23597,
+  "rapporti": {
+    "abitantiPerFarmacia": 4719,
+    "abitantiPerMedico": 1475
+  },
+  "scoreHealthcare": 70,
+  "qualitaServizio": "Buono"
+}

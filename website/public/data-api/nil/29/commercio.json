@@ -1,0 +1,15 @@
+{
+  "nilId": 29,
+  "nilName": "ORTOMERCATO",
+  "pubbliciEsercizi": 23,
+  "eserciziVicinato": 96,
+  "bottegheStoriche": 0,
+  "coworking": 0,
+  "grandeDistribuzione": 0,
+  "edicole": 3,
+  "totaleCommercio": 119,
+  "densitaCommerciale": 84.9,
+  "commercioPer1000Ab": 29,
+  "scoreVitalita": 40.3,
+  "livelloVitalita": "Medio"
+}

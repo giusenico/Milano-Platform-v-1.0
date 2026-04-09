@@ -1,0 +1,36 @@
+{
+  "nilId": 48,
+  "nilName": "RONCHETTO SUL NAVIGLIO - Q.RE LODOVICO IL MORO",
+  "farmacie": {
+    "totale": 3,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 02",
+        "indirizzo": "VIA PRIVATA PARENZO, 8",
+        "cap": "20143"
+      },
+      {
+        "descrizione_farmacia": "NOSTRA SIGNORA DI MONTALLEGRO SRL",
+        "indirizzo": "VIA BARI 11A",
+        "cap": "20143"
+      },
+      {
+        "descrizione_farmacia": "SFORZA SAS DI GUARNIERI ANTONIO",
+        "indirizzo": "VIA LODOVICO IL MORO, 163",
+        "cap": "20142"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 4,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 14516,
+  "rapporti": {
+    "abitantiPerFarmacia": 4839,
+    "abitantiPerMedico": 3629
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

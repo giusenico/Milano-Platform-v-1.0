@@ -1,0 +1,206 @@
+{
+  "nil": "LAMBRATE - ORTICA",
+  "nilLabel": "LAMBRATE - ORTICA",
+  "idNil": 23,
+  "match": {
+    "matchType": "id",
+    "confidence": 1
+  },
+  "latestYear": 2021,
+  "timeSeries": [
+    {
+      "anno": 2007,
+      "nil": "Lambrate - Ortica",
+      "nil_label": "Lambrate - Ortica (23)",
+      "totale_famiglie": 4539
+    },
+    {
+      "anno": 2008,
+      "nil": "Lambrate - Ortica",
+      "nil_label": "Lambrate - Ortica (23)",
+      "totale_famiglie": 4619
+    },
+    {
+      "anno": 2009,
+      "nil": "Lambrate - Ortica",
+      "nil_label": "Lambrate - Ortica (23)",
+      "totale_famiglie": 4718
+    },
+    {
+      "anno": 2010,
+      "nil": "Lambrate - Ortica",
+      "nil_label": "Lambrate - Ortica (23)",
+      "totale_famiglie": 4805
+    },
+    {
+      "anno": 2011,
+      "nil": "Lambrate - Ortica",
+      "nil_label": "Lambrate - Ortica (23)",
+      "totale_famiglie": 4901
+    },
+    {
+      "anno": 2012,
+      "nil": "Lambrate - Ortica",
+      "nil_label": "Lambrate - Ortica (23)",
+      "totale_famiglie": 5060
+    },
+    {
+      "anno": 2013,
+      "nil": "Lambrate - Ortica",
+      "nil_label": "Lambrate - Ortica (23)",
+      "totale_famiglie": 5067
+    },
+    {
+      "anno": 2014,
+      "nil": "Lambrate - Ortica",
+      "nil_label": "Lambrate - Ortica (23)",
+      "totale_famiglie": 5079
+    },
+    {
+      "anno": 2015,
+      "nil": "Lambrate - Ortica",
+      "nil_label": "Lambrate - Ortica (23)",
+      "totale_famiglie": 5326
+    },
+    {
+      "anno": 2016,
+      "nil": "Lambrate - Ortica",
+      "nil_label": "Lambrate - Ortica (23)",
+      "totale_famiglie": 5407
+    },
+    {
+      "anno": 2017,
+      "nil": "Lambrate - Ortica",
+      "nil_label": "Lambrate - Ortica (23)",
+      "totale_famiglie": 5828
+    },
+    {
+      "anno": 2018,
+      "nil": "Lambrate - Ortica",
+      "nil_label": "Lambrate - Ortica (23)",
+      "totale_famiglie": 5959
+    },
+    {
+      "anno": 2019,
+      "nil": "Lambrate - Ortica",
+      "nil_label": "Lambrate - Ortica (23)",
+      "totale_famiglie": 6003
+    },
+    {
+      "anno": 2020,
+      "nil": "Lambrate - Ortica",
+      "nil_label": "Lambrate - Ortica (23)",
+      "totale_famiglie": 6038
+    },
+    {
+      "anno": 2021,
+      "nil": "Lambrate - Ortica",
+      "nil_label": "Lambrate - Ortica (23)",
+      "totale_famiglie": 6030
+    }
+  ],
+  "crescitaFamiglieYoY": -0.13,
+  "amenities": {
+    "pubblici_esercizi": 65,
+    "mercati": 1,
+    "farmacie": 2,
+    "scuole": 3,
+    "biblioteche": 0
+  },
+  "breakdown": {
+    "tipologie": [
+      {
+        "tipologia_familiare": "Single",
+        "totale": 2889
+      },
+      {
+        "tipologia_familiare": "Coppia sposata senza figli",
+        "totale": 792
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con almeno un figlio minorenne",
+        "totale": 757
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con figli tutti maggiorenni",
+        "totale": 406
+      },
+      {
+        "tipologia_familiare": "Monogenitore con figli tutti maggiorenni",
+        "totale": 305
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con almeno un figlio minorenne",
+        "totale": 259
+      },
+      {
+        "tipologia_familiare": "Monogenitore con almeno un figlio minorenne",
+        "totale": 253
+      },
+      {
+        "tipologia_familiare": "Coppia convivente senza figli",
+        "totale": 210
+      },
+      {
+        "tipologia_familiare": "Altre tipologie",
+        "totale": 136
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con figli tutti maggiorenni",
+        "totale": 23
+      }
+    ],
+    "classiEta": [
+      {
+        "classe_eta_capofamiglia": "Da 35 a 64 anni",
+        "totale": 3467
+      },
+      {
+        "classe_eta_capofamiglia": "Da 65 a 79 anni",
+        "totale": 891
+      },
+      {
+        "classe_eta_capofamiglia": "Da 18 a 34 anni",
+        "totale": 847
+      },
+      {
+        "classe_eta_capofamiglia": "80 anni e più",
+        "totale": 825
+      }
+    ],
+    "cittadinanza": [
+      {
+        "cittadinanza": "Italia",
+        "totale": 5076
+      },
+      {
+        "cittadinanza": "Altri paesi",
+        "totale": 477
+      },
+      {
+        "cittadinanza": "Filippine",
+        "totale": 146
+      },
+      {
+        "cittadinanza": "Egitto",
+        "totale": 94
+      },
+      {
+        "cittadinanza": "Cina",
+        "totale": 72
+      },
+      {
+        "cittadinanza": "Sri Lanka",
+        "totale": 66
+      },
+      {
+        "cittadinanza": "Perù",
+        "totale": 57
+      },
+      {
+        "cittadinanza": "Ecuador",
+        "totale": 42
+      }
+    ]
+  }
+}

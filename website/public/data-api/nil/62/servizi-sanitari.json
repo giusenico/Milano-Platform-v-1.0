@@ -1,0 +1,26 @@
+{
+  "nilId": 62,
+  "nilName": "QUINTO ROMANO",
+  "farmacie": {
+    "totale": 1,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 06",
+        "indirizzo": "PIAZZA MONTI GIOSIA",
+        "cap": "20153"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 1,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 4662,
+  "rapporti": {
+    "abitantiPerFarmacia": 4662,
+    "abitantiPerMedico": 4662
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

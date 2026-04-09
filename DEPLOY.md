@@ -19,7 +19,7 @@ cp website/.env.example website/.env
 
 Modifica `website/.env` e inserisci il tuo token Mapbox:
 ```env
-VITE_MAPBOX_TOKEN=pk.eyJ1IjoiZ2l1c2VuaWNvIiwiYSI6ImNta2IxemM1MzEzbjYzZHIzeHRlNmxnOWcifQ.nu3GEBSvffvjLg2hz8wA4g
+VITE_MAPBOX_TOKEN=your_mapbox_token_here
 VITE_API_BASE_URL=http://localhost:3001/api
 ```
 
@@ -87,9 +87,10 @@ git push -u origin main
 Nella sezione "Environment Variables" aggiungi:
 
 ```
-VITE_MAPBOX_TOKEN = pk.eyJ1IjoiZ2l1c2VuaWNvIiwiYSI6ImNta2IxemM1MzEzbjYzZHIzeHRlNmxnOWcifQ.nu3GEBSvffvjLg2hz8wA4g
-VITE_API_BASE_URL = /api
+VITE_MAPBOX_TOKEN = your_mapbox_token_here
 ```
+
+Non impostare `VITE_API_BASE_URL` in produzione: il sito legge i dati statici già generati in `website/public/data-api`.
 
 8. Clicca "Deploy"
 
@@ -124,23 +125,20 @@ Vercel rileverà automaticamente i cambiamenti e farà il re-deploy!
 ## ⚠️ Note Importanti
 
 ### Database
-- Il database SQLite (`db/milano_unified.db`) **NON** viene caricato su Git (è nel .gitignore)
-- Per una demo, il frontend può mostrare dati mock
-- Per produzione, considera:
-  - **Supabase** (PostgreSQL gratuito): [supabase.com](https://supabase.com)
-  - **Vercel Postgres**: [vercel.com/docs/storage/vercel-postgres](https://vercel.com/docs/storage/vercel-postgres)
+- Il database SQLite (`db/milano_unified.db`) viene usato in locale per generare i JSON statici del frontend
+- Se aggiorni il DB locale, riesegui `npm run export:static-api`
+- Dopo l'export, fai commit anche di `website/public/data-api`
+- Il deploy Vercel usa solo il frontend statico e non richiede un backend sempre acceso
 
 ### API Backend
-- Attualmente il backend Express (`server/index.js`) non è configurato per Vercel
-- Per includere il backend, dovresti:
-  1. Convertirlo in Vercel Serverless Functions, oppure
-  2. Usare un servizio separato come **Railway** o **Render**
+- Il backend Express (`server/index.js`) resta utile in locale per sviluppo e generazione dati
+- In produzione il sito non dipende da Railway o Render
+- Vercel serve i file già esportati nel repository
 
-### Solo Frontend per Demo Veloce
-Per mostrare rapidamente al tuo capo, puoi:
-- Deployare solo il frontend su Vercel
-- Usare dati statici/mock nel frontend
-- Aggiungere il backend in seguito
+### Deploy Gratis Consigliato
+- Deploya solo il frontend su Vercel
+- Lascia il backend per uso locale
+- Versiona i file applicativi, non serve tenere un servizio backend acceso
 
 ## 📊 URL del Progetto
 
@@ -158,8 +156,8 @@ Dopo il deploy, Vercel ti darà:
 - Verifica il token Mapbox nelle variabili d'ambiente di Vercel
 
 **API non funzionano?**
-- Per ora il backend locale non è incluso nel deploy
-- Considera di aggiungere Vercel Serverless Functions o un servizio esterno
+- Verifica di aver eseguito `npm run export:static-api` prima del push
+- Controlla che `website/public/data-api` sia stato incluso nel commit
 
 ## 📞 Supporto
 

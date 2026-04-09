@@ -1,0 +1,33 @@
+{
+  "nilId": 39,
+  "nilName": "QUINTOSOLE",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 147,
+      "percentuale": 11.7
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 365,
+      "percentuale": 28.9
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 432,
+      "percentuale": 34.3
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 296,
+      "percentuale": 23.5
+    }
+  ],
+  "totale": 1261,
+  "pctLaureati": 23.5,
+  "anno": 2011
+}

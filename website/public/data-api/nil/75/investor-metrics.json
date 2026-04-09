@@ -1,0 +1,41 @@
+{
+  "nilId": 75,
+  "nil": "STEPHENSON",
+  "investorScore": 33.2,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 50,
+    "verde": 68,
+    "popolazione": 85,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 134,
+      "media": 15753,
+      "delta": -15619.238636363636
+    },
+    "densita": {
+      "nil": 239.24964202724286,
+      "media": 8881.290415418553,
+      "deltaPercent": -97.3
+    },
+    "stranieri": {
+      "nil": 38.059701492537314,
+      "media": 21.360484986780587,
+      "delta": 16.7
+    },
+    "verde": {
+      "nil": 4.371031670232274,
+      "media": 8.1171861884842,
+      "deltaPercent": -46.2
+    },
+    "qualitaVita": {
+      "nil": 39.62053298491439,
+      "media": 39.6877862711082,
+      "deltaPercent": -0.2
+    }
+  }
+}

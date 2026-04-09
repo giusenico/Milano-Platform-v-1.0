@@ -1,0 +1,26 @@
+{
+  "nilId": 31,
+  "nilName": "MONLUE' - PONTE LAMBRO",
+  "farmacie": {
+    "totale": 1,
+    "lista": [
+      {
+        "descrizione_farmacia": "MANCA SNC",
+        "indirizzo": "VIA GIACINTO SERRATI MENOTTI,12",
+        "cap": "20138"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 1,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 5205,
+  "rapporti": {
+    "abitantiPerFarmacia": 5205,
+    "abitantiPerMedico": 5205
+  },
+  "scoreHealthcare": 40,
+  "qualitaServizio": "Migliorabile"
+}

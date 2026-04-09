@@ -1,0 +1,16 @@
+{
+  "nilId": 45,
+  "nilName": "MONCUCCO - SAN CRISTOFORO",
+  "composizioneFamiglie": [],
+  "totaleAbitazioni": 0,
+  "famiglieSingole": 0,
+  "famiglieCoabitanti": 0,
+  "nuoviEdifici": {
+    "fabbricati": 5,
+    "abitazioni": 466,
+    "superficieMq": 27881,
+    "volumeMc": 135491,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

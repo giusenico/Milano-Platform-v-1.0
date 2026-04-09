@@ -1,0 +1,24 @@
+{
+  "nilId": 68,
+  "nilName": "PAGANO",
+  "totaleServizi": 2,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 2
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Anziani",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Adulti,Migranti",
+      "count": 1
+    }
+  ],
+  "popolazione": 17745,
+  "serviziPer1000Abitanti": 0.11,
+  "qualitaCopertura": "Bassa"
+}

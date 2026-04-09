@@ -1,0 +1,36 @@
+{
+  "nilId": 69,
+  "nilName": "SARPI",
+  "totaleServizi": 5,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 3
+    },
+    {
+      "area_attivita": "Attività sportive",
+      "count": 2
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Adolescenti (11-18),Bambini (0-10)",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Anziani",
+      "count": 1
+    }
+  ],
+  "popolazione": 30791,
+  "serviziPer1000Abitanti": 0.16,
+  "qualitaCopertura": "Bassa"
+}

@@ -1,0 +1,47 @@
+{
+  "nilId": 29,
+  "nilName": "ORTOMERCATO",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 864,
+      "colore": "#3b82f6",
+      "percentuale": 47.4
+    },
+    {
+      "residenti": "2",
+      "valore": 477,
+      "colore": "#8b5cf6",
+      "percentuale": 26.2
+    },
+    {
+      "residenti": "3",
+      "valore": 276,
+      "colore": "#ec4899",
+      "percentuale": 15.1
+    },
+    {
+      "residenti": "4",
+      "valore": 156,
+      "colore": "#f59e0b",
+      "percentuale": 8.6
+    },
+    {
+      "residenti": "5+",
+      "valore": 50,
+      "colore": "#22c55e",
+      "percentuale": 2.7
+    }
+  ],
+  "totaleAbitazioni": 1823,
+  "famiglieSingole": 1782,
+  "famiglieCoabitanti": 41,
+  "nuoviEdifici": {
+    "fabbricati": 0,
+    "abitazioni": 0,
+    "superficieMq": 0,
+    "volumeMc": 0,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

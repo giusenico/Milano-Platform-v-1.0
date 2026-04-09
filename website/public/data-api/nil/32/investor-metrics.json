@@ -1,0 +1,41 @@
+{
+  "nilId": 32,
+  "nil": "TRIULZO SUPERIORE",
+  "investorScore": 36.5,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 25,
+    "verde": 44,
+    "popolazione": 74,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 1620,
+      "media": 15753,
+      "delta": -14133.238636363636
+    },
+    "densita": {
+      "nil": 1165.8213713937093,
+      "media": 8881.290415418553,
+      "deltaPercent": -86.9
+    },
+    "stranieri": {
+      "nil": 66.85185185185185,
+      "media": 21.360484986780587,
+      "delta": 45.5
+    },
+    "verde": {
+      "nil": 6.684063876651982,
+      "media": 8.1171861884842,
+      "deltaPercent": -17.7
+    },
+    "qualitaVita": {
+      "nil": 44.716819743487704,
+      "media": 39.6877862711082,
+      "deltaPercent": 12.7
+    }
+  }
+}

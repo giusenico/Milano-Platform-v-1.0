@@ -1,0 +1,89 @@
+{
+  "semestre": "2025_1",
+  "prezzoMedioAcquisto": 3894,
+  "prezzoMedioLocazione": 16.3,
+  "prezzoMax": 10911,
+  "prezzoMin": 1600,
+  "variazioneSemestraleMedia": 2.89,
+  "totaleQuartieri": 42,
+  "timeSeries": [
+    {
+      "semestre": "2019_1",
+      "label": "2019 H1",
+      "prezzoAcquisto": 2892,
+      "prezzoLocazione": 11.44
+    },
+    {
+      "semestre": "2019_2",
+      "label": "2019 H2",
+      "prezzoAcquisto": 2939,
+      "prezzoLocazione": 11.67
+    },
+    {
+      "semestre": "2020_1",
+      "label": "2020 H1",
+      "prezzoAcquisto": 2953,
+      "prezzoLocazione": 11.79
+    },
+    {
+      "semestre": "2020_2",
+      "label": "2020 H2",
+      "prezzoAcquisto": 2940,
+      "prezzoLocazione": 11.75
+    },
+    {
+      "semestre": "2021_1",
+      "label": "2021 H1",
+      "prezzoAcquisto": 2963,
+      "prezzoLocazione": 11.78
+    },
+    {
+      "semestre": "2021_2",
+      "label": "2021 H2",
+      "prezzoAcquisto": 3031,
+      "prezzoLocazione": 11.97
+    },
+    {
+      "semestre": "2022_1",
+      "label": "2022 H1",
+      "prezzoAcquisto": 3141,
+      "prezzoLocazione": 12.35
+    },
+    {
+      "semestre": "2022_2",
+      "label": "2022 H2",
+      "prezzoAcquisto": 3251,
+      "prezzoLocazione": 12.87
+    },
+    {
+      "semestre": "2023_1",
+      "label": "2023 H1",
+      "prezzoAcquisto": 3378,
+      "prezzoLocazione": 13.46
+    },
+    {
+      "semestre": "2023_2",
+      "label": "2023 H2",
+      "prezzoAcquisto": 3474,
+      "prezzoLocazione": 13.96
+    },
+    {
+      "semestre": "2024_1",
+      "label": "2024 H1",
+      "prezzoAcquisto": 3551,
+      "prezzoLocazione": 14.39
+    },
+    {
+      "semestre": "2024_2",
+      "label": "2024 H2",
+      "prezzoAcquisto": 3784,
+      "prezzoLocazione": 15.64
+    },
+    {
+      "semestre": "2025_1",
+      "label": "2025 H1",
+      "prezzoAcquisto": 3894,
+      "prezzoLocazione": 16.3
+    }
+  ]
+}

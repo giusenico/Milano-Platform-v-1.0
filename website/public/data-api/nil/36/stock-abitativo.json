@@ -1,0 +1,47 @@
+{
+  "nilId": 36,
+  "nilName": "SCALO ROMANA",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 1889,
+      "colore": "#3b82f6",
+      "percentuale": 41.8
+    },
+    {
+      "residenti": "2",
+      "valore": 1290,
+      "colore": "#8b5cf6",
+      "percentuale": 28.5
+    },
+    {
+      "residenti": "3",
+      "valore": 741,
+      "colore": "#ec4899",
+      "percentuale": 16.4
+    },
+    {
+      "residenti": "4",
+      "valore": 420,
+      "colore": "#f59e0b",
+      "percentuale": 9.3
+    },
+    {
+      "residenti": "5+",
+      "valore": 183,
+      "colore": "#22c55e",
+      "percentuale": 4
+    }
+  ],
+  "totaleAbitazioni": 4523,
+  "famiglieSingole": 4424,
+  "famiglieCoabitanti": 99,
+  "nuoviEdifici": {
+    "fabbricati": 8,
+    "abitazioni": 363,
+    "superficieMq": 20957,
+    "volumeMc": 141716,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

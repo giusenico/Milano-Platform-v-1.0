@@ -1,0 +1,41 @@
+{
+  "nilId": 54,
+  "nil": "MUGGIANO",
+  "investorScore": 39.1,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 26,
+    "verde": 10,
+    "popolazione": 70,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 3081,
+      "media": 15753,
+      "delta": -12672.238636363636
+    },
+    "densita": {
+      "nil": 6936.038966447498,
+      "media": 8881.290415418553,
+      "deltaPercent": -21.9
+    },
+    "stranieri": {
+      "nil": 6.815968841285297,
+      "media": 21.360484986780587,
+      "delta": -14.5
+    },
+    "verde": {
+      "nil": 14.112608292931519,
+      "media": 8.1171861884842,
+      "deltaPercent": 73.9
+    },
+    "qualitaVita": {
+      "nil": 44.310334754579976,
+      "media": 39.6877862711082,
+      "deltaPercent": 11.6
+    }
+  }
+}

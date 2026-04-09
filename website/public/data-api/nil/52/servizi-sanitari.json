@@ -1,0 +1,71 @@
+{
+  "nilId": 52,
+  "nilName": "BANDE NERE",
+  "farmacie": {
+    "totale": 12,
+    "lista": [
+      {
+        "descrizione_farmacia": "A.F.M. N. 42",
+        "indirizzo": "VIA SALVATORE BARZILAI, 1",
+        "cap": "20146"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 25",
+        "indirizzo": "VIA DELLE FORZE ARMATE, 44",
+        "cap": "20147"
+      },
+      {
+        "descrizione_farmacia": "CATTANEO",
+        "indirizzo": "VIALE SAN GIMIGNANO 13A",
+        "cap": "20146"
+      },
+      {
+        "descrizione_farmacia": "CAMPIONI SRL",
+        "indirizzo": "VIALE SAN GIMIGNANO, 30",
+        "cap": "20146"
+      },
+      {
+        "descrizione_farmacia": "MELOZZO DA FORLI' SAS DEI DOTTORI LEARCO E MARCELLO SANDI & C.",
+        "indirizzo": "VIA NOVARA, 3",
+        "cap": "20147"
+      },
+      {
+        "descrizione_farmacia": "FIORDALISI",
+        "indirizzo": "VIA DEI FIORDALISI, 2",
+        "cap": "20146"
+      },
+      {
+        "descrizione_farmacia": "PRIMATICCIO",
+        "indirizzo": "VIA FRANCESCO PRIMATICCIO, 96",
+        "cap": "20147"
+      },
+      {
+        "descrizione_farmacia": "SANTA CATERINA SRL",
+        "indirizzo": "VIALE CATERINA DA FORLI', 7",
+        "cap": "20146"
+      },
+      {
+        "descrizione_farmacia": "MEAZZA SAS DEL DOTT. LORENZO LOCATELLI & C.",
+        "indirizzo": "VIA DELLE FORZE ARMATE, 4",
+        "cap": "20147"
+      },
+      {
+        "descrizione_farmacia": "TRIVULZIO",
+        "indirizzo": "VIA ANTONIO TOLOMEO TRIVULZIO, 28",
+        "cap": "20146"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 29,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 43808,
+  "rapporti": {
+    "abitantiPerFarmacia": 3651,
+    "abitantiPerMedico": 1511
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

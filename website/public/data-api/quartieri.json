@@ -1,0 +1,569 @@
+[
+  {
+    "prezzoAcquistoMedio": 10911,
+    "prezzoLocazioneMedio": 47.02272727272727,
+    "variazioneSemestrale": 1.48,
+    "omiZone": "CENTRO STORICO -DUOMO, SANBABILA, MONTENAPOLEONE, MISSORI, CAIROLI",
+    "quartiereId": "duomo"
+  },
+  {
+    "prezzoAcquistoMedio": 9345,
+    "prezzoLocazioneMedio": 36.086363636363636,
+    "variazioneSemestrale": 7.76,
+    "omiZone": "CENTRO STORICO - BRERA",
+    "quartiereId": "brera"
+  },
+  {
+    "prezzoAcquistoMedio": 9130,
+    "prezzoLocazioneMedio": 30.9,
+    "variazioneSemestrale": 7.54,
+    "omiZone": "PORTA NUOVA",
+    "quartiereId": "isola"
+  },
+  {
+    "prezzoAcquistoMedio": 8233,
+    "prezzoLocazioneMedio": 28,
+    "variazioneSemestrale": -1.59,
+    "omiZone": "CITY LIFE",
+    "quartiereId": "tre-torri"
+  },
+  {
+    "prezzoAcquistoMedio": 8233,
+    "prezzoLocazioneMedio": 28,
+    "variazioneSemestrale": -1.59,
+    "omiZone": "CITY LIFE",
+    "quartiereId": "portello"
+  },
+  {
+    "prezzoAcquistoMedio": 7200,
+    "prezzoLocazioneMedio": 27.70909090909091,
+    "variazioneSemestrale": 6.95,
+    "omiZone": "CENTRO STORICO -SANT`AMBROGIO, CADORNA, VIA DANTE",
+    "quartiereId": "magenta---s-vittore"
+  },
+  {
+    "prezzoAcquistoMedio": 6900,
+    "prezzoLocazioneMedio": 25.068181818181817,
+    "variazioneSemestrale": 4.01,
+    "omiZone": "VENEZIA, PORTA VITTORIA, PORTA ROMANA",
+    "quartiereId": "buenos-aires---porta-venezia---porta-monforte"
+  },
+  {
+    "prezzoAcquistoMedio": 6395,
+    "prezzoLocazioneMedio": 26.022727272727273,
+    "variazioneSemestrale": 3,
+    "omiZone": "CENTRO STORICO -UNIVERSITA STATALE, SAN LORENZO",
+    "quartiereId": "guastalla"
+  },
+  {
+    "prezzoAcquistoMedio": 6358,
+    "prezzoLocazioneMedio": 28.15,
+    "variazioneSemestrale": 2.88,
+    "omiZone": "TURATI, MOSCOVA, CORSO VENEZIA",
+    "quartiereId": "giardini-pta-venezia"
+  },
+  {
+    "prezzoAcquistoMedio": 6358,
+    "prezzoLocazioneMedio": 28.15,
+    "variazioneSemestrale": 2.88,
+    "omiZone": "TURATI, MOSCOVA, CORSO VENEZIA",
+    "quartiereId": "porta-garibaldi---porta-nuova"
+  },
+  {
+    "prezzoAcquistoMedio": 6136,
+    "prezzoLocazioneMedio": 23.65,
+    "variazioneSemestrale": 3.77,
+    "omiZone": "PARCO SEMPIONE, ARCO DELLA PACE, CORSO MAGENTA",
+    "quartiereId": "parco-sempione"
+  },
+  {
+    "prezzoAcquistoMedio": 6136,
+    "prezzoLocazioneMedio": 23.65,
+    "variazioneSemestrale": 3.77,
+    "omiZone": "PARCO SEMPIONE, ARCO DELLA PACE, CORSO MAGENTA",
+    "quartiereId": "porta-magenta"
+  },
+  {
+    "prezzoAcquistoMedio": 5435,
+    "prezzoLocazioneMedio": 20.2,
+    "variazioneSemestrale": -0.42,
+    "omiZone": "SEMPIONE, PAGANO, WASHINGTON",
+    "quartiereId": "pagano"
+  },
+  {
+    "prezzoAcquistoMedio": 5435,
+    "prezzoLocazioneMedio": 20.2,
+    "variazioneSemestrale": -0.42,
+    "omiZone": "SEMPIONE, PAGANO, WASHINGTON",
+    "quartiereId": "de-angeli---monte-rosa"
+  },
+  {
+    "prezzoAcquistoMedio": 4883,
+    "prezzoLocazioneMedio": 22.955555555555556,
+    "variazioneSemestrale": 1.27,
+    "omiZone": "PISANI, BUENOS AIRES, REGINA GIOVANNA",
+    "quartiereId": "loreto---casoretto---nolo"
+  },
+  {
+    "prezzoAcquistoMedio": 4525,
+    "prezzoLocazioneMedio": 20.427777777777777,
+    "variazioneSemestrale": 0.25,
+    "omiZone": "PORTA VIGENTINA, PORTA ROMANA",
+    "quartiereId": "porta-vigentina---porta-lodovica"
+  },
+  {
+    "prezzoAcquistoMedio": 4525,
+    "prezzoLocazioneMedio": 20.427777777777777,
+    "variazioneSemestrale": 0.25,
+    "omiZone": "PORTA VIGENTINA, PORTA ROMANA",
+    "quartiereId": "pta-romana"
+  },
+  {
+    "prezzoAcquistoMedio": 4247,
+    "prezzoLocazioneMedio": 19.427777777777777,
+    "variazioneSemestrale": 1.66,
+    "omiZone": "PORTA TICINESE, PORTA GENOVA, VIA SAN VITTORE",
+    "quartiereId": "porta-ticinese---conca-del-naviglio"
+  },
+  {
+    "prezzoAcquistoMedio": 4247,
+    "prezzoLocazioneMedio": 19.427777777777777,
+    "variazioneSemestrale": 1.66,
+    "omiZone": "PORTA TICINESE, PORTA GENOVA, VIA SAN VITTORE",
+    "quartiereId": "porta-genova"
+  },
+  {
+    "prezzoAcquistoMedio": 4247,
+    "prezzoLocazioneMedio": 19.427777777777777,
+    "variazioneSemestrale": 1.66,
+    "omiZone": "PORTA TICINESE, PORTA GENOVA, VIA SAN VITTORE",
+    "quartiereId": "porta-ticinese---conchetta"
+  },
+  {
+    "prezzoAcquistoMedio": 3908,
+    "prezzoLocazioneMedio": 17.9,
+    "variazioneSemestrale": 6.83,
+    "omiZone": "CENISIO, FARINI, SARPI",
+    "quartiereId": "sarpi"
+  },
+  {
+    "prezzoAcquistoMedio": 3908,
+    "prezzoLocazioneMedio": 17.9,
+    "variazioneSemestrale": 6.83,
+    "omiZone": "CENISIO, FARINI, SARPI",
+    "quartiereId": "farini"
+  },
+  {
+    "prezzoAcquistoMedio": 3908,
+    "prezzoLocazioneMedio": 17.9,
+    "variazioneSemestrale": 6.83,
+    "omiZone": "CENISIO, FARINI, SARPI",
+    "quartiereId": "ghisolfa"
+  },
+  {
+    "prezzoAcquistoMedio": 3858,
+    "prezzoLocazioneMedio": 16.461111111111112,
+    "variazioneSemestrale": 2.81,
+    "omiZone": "LIBIA, ,XXII MARZO, INDIPENDENZA",
+    "quartiereId": "xxii-marzo"
+  },
+  {
+    "prezzoAcquistoMedio": 3858,
+    "prezzoLocazioneMedio": 16.461111111111112,
+    "variazioneSemestrale": 2.81,
+    "omiZone": "LIBIA, ,XXII MARZO, INDIPENDENZA",
+    "quartiereId": "corsica"
+  },
+  {
+    "prezzoAcquistoMedio": 3827,
+    "prezzoLocazioneMedio": 16.436363636363637,
+    "variazioneSemestrale": 5.51,
+    "omiZone": "STAZIONE CENTRALE VIALE STELVIO",
+    "quartiereId": "stazione-centrale---ponte-seveso"
+  },
+  {
+    "prezzoAcquistoMedio": 3733,
+    "prezzoLocazioneMedio": 17.583333333333332,
+    "variazioneSemestrale": 4.19,
+    "omiZone": "SOLARI, P.TA GENOVA, ASCANIO SFORZA",
+    "quartiereId": "moncucco---san-cristoforo"
+  },
+  {
+    "prezzoAcquistoMedio": 3450,
+    "prezzoLocazioneMedio": 16.38888888888889,
+    "variazioneSemestrale": 4.28,
+    "omiZone": "TABACCHI, SARFATTI, CREMA",
+    "quartiereId": "tibaldi"
+  },
+  {
+    "prezzoAcquistoMedio": 3346,
+    "prezzoLocazioneMedio": 14.007142857142856,
+    "variazioneSemestrale": 2.07,
+    "omiZone": "PIOLA, ARGONNE, CORSICA",
+    "quartiereId": "citta-studi"
+  },
+  {
+    "prezzoAcquistoMedio": 2695,
+    "prezzoLocazioneMedio": 11.05909090909091,
+    "variazioneSemestrale": 0.42,
+    "omiZone": "TITO LIVIO, TERTULLIANO, LONGANESI, ORTOMERCATO",
+    "quartiereId": "umbria---molise---calvairate"
+  },
+  {
+    "prezzoAcquistoMedio": 2695,
+    "prezzoLocazioneMedio": 11.05909090909091,
+    "variazioneSemestrale": 0.42,
+    "omiZone": "TITO LIVIO, TERTULLIANO, LONGANESI, ORTOMERCATO",
+    "quartiereId": "ortomercato"
+  },
+  {
+    "prezzoAcquistoMedio": 2695,
+    "prezzoLocazioneMedio": 11.05909090909091,
+    "variazioneSemestrale": 0.42,
+    "omiZone": "TITO LIVIO, TERTULLIANO, LONGANESI, ORTOMERCATO",
+    "quartiereId": "taliedo---morsenchio---qre-forlanini"
+  },
+  {
+    "prezzoAcquistoMedio": 2645,
+    "prezzoLocazioneMedio": 10.654545454545454,
+    "variazioneSemestrale": 1.39,
+    "omiZone": "MAGGIOLINA, PARCO TROTTER, LEONCAVALLO",
+    "quartiereId": "maciachini---maggiolina"
+  },
+  {
+    "prezzoAcquistoMedio": 2613,
+    "prezzoLocazioneMedio": 11.958333333333334,
+    "variazioneSemestrale": 2.79,
+    "omiZone": "SEGESTA, ARETUSA, VESPRI SICILIANI",
+    "quartiereId": "san-siro"
+  },
+  {
+    "prezzoAcquistoMedio": 2613,
+    "prezzoLocazioneMedio": 11.958333333333334,
+    "variazioneSemestrale": 2.79,
+    "omiZone": "SEGESTA, ARETUSA, VESPRI SICILIANI",
+    "quartiereId": "bande-nere"
+  },
+  {
+    "prezzoAcquistoMedio": 2556,
+    "prezzoLocazioneMedio": 9.726923076923077,
+    "variazioneSemestrale": 2.31,
+    "omiZone": "IPPODROMO, CAPRILLI, MONTE STELLA",
+    "quartiereId": "stadio---ippodromi"
+  },
+  {
+    "prezzoAcquistoMedio": 2556,
+    "prezzoLocazioneMedio": 9.726923076923077,
+    "variazioneSemestrale": 2.31,
+    "omiZone": "IPPODROMO, CAPRILLI, MONTE STELLA",
+    "quartiereId": "qt-8"
+  },
+  {
+    "prezzoAcquistoMedio": 2521,
+    "prezzoLocazioneMedio": 11.458333333333334,
+    "variazioneSemestrale": 2.89,
+    "omiZone": "ORTLES, SPADOLINI, BAZZI",
+    "quartiereId": "scalo-romana"
+  },
+  {
+    "prezzoAcquistoMedio": 2521,
+    "prezzoLocazioneMedio": 11.458333333333334,
+    "variazioneSemestrale": 2.89,
+    "omiZone": "ORTLES, SPADOLINI, BAZZI",
+    "quartiereId": "lodi---corvetto"
+  },
+  {
+    "prezzoAcquistoMedio": 2389,
+    "prezzoLocazioneMedio": 10.431818181818182,
+    "variazioneSemestrale": 4.06,
+    "omiZone": "LAMBRATE, RUBATTINO, ROMBON",
+    "quartiereId": "lambrate---ortica"
+  },
+  {
+    "prezzoAcquistoMedio": 2370,
+    "prezzoLocazioneMedio": 10.654545454545454,
+    "variazioneSemestrale": 1.07,
+    "omiZone": "MAROCCHETTI, VIGENTINO, CHIESA ROSSA",
+    "quartiereId": "vigentino---qre-fatima"
+  },
+  {
+    "prezzoAcquistoMedio": 2370,
+    "prezzoLocazioneMedio": 10.654545454545454,
+    "variazioneSemestrale": 1.07,
+    "omiZone": "MAROCCHETTI, VIGENTINO, CHIESA ROSSA",
+    "quartiereId": "morivione"
+  },
+  {
+    "prezzoAcquistoMedio": 2370,
+    "prezzoLocazioneMedio": 10.654545454545454,
+    "variazioneSemestrale": 1.07,
+    "omiZone": "MAROCCHETTI, VIGENTINO, CHIESA ROSSA",
+    "quartiereId": "stadera---chiesa-rossa---qre-torretta---conca-fallata"
+  },
+  {
+    "prezzoAcquistoMedio": 2352,
+    "prezzoLocazioneMedio": 11.0875,
+    "variazioneSemestrale": 1.44,
+    "omiZone": "BARONA, FAMAGOSTA, FAENZA",
+    "quartiereId": "barona"
+  },
+  {
+    "prezzoAcquistoMedio": 2352,
+    "prezzoLocazioneMedio": 11.0875,
+    "variazioneSemestrale": 1.44,
+    "omiZone": "BARONA, FAMAGOSTA, FAENZA",
+    "quartiereId": "cantalupa"
+  },
+  {
+    "prezzoAcquistoMedio": 2352,
+    "prezzoLocazioneMedio": 11.0875,
+    "variazioneSemestrale": 1.44,
+    "omiZone": "BARONA, FAMAGOSTA, FAENZA",
+    "quartiereId": "ronchetto-sul-naviglio---qre-lodovico-il-moro"
+  },
+  {
+    "prezzoAcquistoMedio": 2306,
+    "prezzoLocazioneMedio": 10.700000000000001,
+    "variazioneSemestrale": 1.1,
+    "omiZone": "SANTA GIULIA, ROGOREDO",
+    "quartiereId": "rogoredo---santa-giulia"
+  },
+  {
+    "prezzoAcquistoMedio": 2305,
+    "prezzoLocazioneMedio": 10.545454545454545,
+    "variazioneSemestrale": 0.1,
+    "omiZone": "BOVISA, BAUSAN, IMBONATI",
+    "quartiereId": "bovisa"
+  },
+  {
+    "prezzoAcquistoMedio": 2305,
+    "prezzoLocazioneMedio": 10.545454545454545,
+    "variazioneSemestrale": 0.1,
+    "omiZone": "BOVISA, BAUSAN, IMBONATI",
+    "quartiereId": "dergano"
+  },
+  {
+    "prezzoAcquistoMedio": 2293,
+    "prezzoLocazioneMedio": 10.30909090909091,
+    "variazioneSemestrale": 0.9,
+    "omiZone": "MONZA, CRESCENZAGO, GORLA, QUARTIERE ADRIANO",
+    "quartiereId": "adriano"
+  },
+  {
+    "prezzoAcquistoMedio": 2293,
+    "prezzoLocazioneMedio": 10.30909090909091,
+    "variazioneSemestrale": 0.9,
+    "omiZone": "MONZA, CRESCENZAGO, GORLA, QUARTIERE ADRIANO",
+    "quartiereId": "gorla---precotto"
+  },
+  {
+    "prezzoAcquistoMedio": 2293,
+    "prezzoLocazioneMedio": 10.30909090909091,
+    "variazioneSemestrale": 0.9,
+    "omiZone": "MONZA, CRESCENZAGO, GORLA, QUARTIERE ADRIANO",
+    "quartiereId": "padova---turro---crescenzago"
+  },
+  {
+    "prezzoAcquistoMedio": 2281,
+    "prezzoLocazioneMedio": 10.745833333333332,
+    "variazioneSemestrale": 1.58,
+    "omiZone": "MUSOCCO, CERTOSA",
+    "quartiereId": "villapizzone---cagnola---boldinasco"
+  },
+  {
+    "prezzoAcquistoMedio": 1716,
+    "prezzoLocazioneMedio": 7.4818181818181815,
+    "variazioneSemestrale": 2.44,
+    "omiZone": "QUARTO OGGIARO, SACCO",
+    "quartiereId": "stephenson"
+  },
+  {
+    "prezzoAcquistoMedio": 2281,
+    "prezzoLocazioneMedio": 10.745833333333332,
+    "variazioneSemestrale": 1.58,
+    "omiZone": "MUSOCCO, CERTOSA",
+    "quartiereId": "maggiore---musocco---certosa"
+  },
+  {
+    "prezzoAcquistoMedio": 2255,
+    "prezzoLocazioneMedio": 10.131818181818183,
+    "variazioneSemestrale": 0.3,
+    "omiZone": "PARCO LAMBRO, FELTRE, UDINE",
+    "quartiereId": "cimiano---rottole---qre-feltre"
+  },
+  {
+    "prezzoAcquistoMedio": 2148,
+    "prezzoLocazioneMedio": 10.383333333333333,
+    "variazioneSemestrale": 0.78,
+    "omiZone": "FORLANINI, MECENATE, PONTE LAMBRO",
+    "quartiereId": "parco-forlanini---cavriano"
+  },
+  {
+    "prezzoAcquistoMedio": 2250,
+    "prezzoLocazioneMedio": 9.354545454545454,
+    "variazioneSemestrale": 1.75,
+    "omiZone": "SARCA, BICOCCA",
+    "quartiereId": "bicocca"
+  },
+  {
+    "prezzoAcquistoMedio": 2250,
+    "prezzoLocazioneMedio": 9.354545454545454,
+    "variazioneSemestrale": 1.75,
+    "omiZone": "SARCA, BICOCCA",
+    "quartiereId": "greco---segnano"
+  },
+  {
+    "prezzoAcquistoMedio": 2222,
+    "prezzoLocazioneMedio": 11.4375,
+    "variazioneSemestrale": -0.7,
+    "omiZone": "CASCINA MERLATA, EXPO",
+    "quartiereId": "cascina-merlata"
+  },
+  {
+    "prezzoAcquistoMedio": 2222,
+    "prezzoLocazioneMedio": 11.4375,
+    "variazioneSemestrale": -0.7,
+    "omiZone": "CASCINA MERLATA, EXPO",
+    "quartiereId": "roserio"
+  },
+  {
+    "prezzoAcquistoMedio": 2212,
+    "prezzoLocazioneMedio": 9.388461538461538,
+    "variazioneSemestrale": 3.7,
+    "omiZone": "BOVISASCA, AFFORI, P. ROSSI , COMASINA",
+    "quartiereId": "affori"
+  },
+  {
+    "prezzoAcquistoMedio": 2212,
+    "prezzoLocazioneMedio": 9.388461538461538,
+    "variazioneSemestrale": 3.7,
+    "omiZone": "BOVISASCA, AFFORI, P. ROSSI , COMASINA",
+    "quartiereId": "bovisasca"
+  },
+  {
+    "prezzoAcquistoMedio": 2212,
+    "prezzoLocazioneMedio": 9.388461538461538,
+    "variazioneSemestrale": 3.7,
+    "omiZone": "BOVISASCA, AFFORI, P. ROSSI , COMASINA",
+    "quartiereId": "comasina"
+  },
+  {
+    "prezzoAcquistoMedio": 2212,
+    "prezzoLocazioneMedio": 9.388461538461538,
+    "variazioneSemestrale": 3.7,
+    "omiZone": "BOVISASCA, AFFORI, P. ROSSI , COMASINA",
+    "quartiereId": "bruzzano"
+  },
+  {
+    "prezzoAcquistoMedio": 2155,
+    "prezzoLocazioneMedio": 9.431818181818182,
+    "variazioneSemestrale": 2.27,
+    "omiZone": "NIGUARDA, BIGNAMI, PARCO NORD",
+    "quartiereId": "niguarda---ca-granda---prato-centenaro---qre-fulvio-testi"
+  },
+  {
+    "prezzoAcquistoMedio": 2155,
+    "prezzoLocazioneMedio": 9.431818181818182,
+    "variazioneSemestrale": 2.27,
+    "omiZone": "NIGUARDA, BIGNAMI, PARCO NORD",
+    "quartiereId": "parco-nord"
+  },
+  {
+    "prezzoAcquistoMedio": 2148,
+    "prezzoLocazioneMedio": 10.383333333333333,
+    "variazioneSemestrale": 0.78,
+    "omiZone": "FORLANINI, MECENATE, PONTE LAMBRO",
+    "quartiereId": "monlue---ponte-lambro"
+  },
+  {
+    "prezzoAcquistoMedio": 2129,
+    "prezzoLocazioneMedio": 10.116666666666667,
+    "variazioneSemestrale": 1.09,
+    "omiZone": "LORENTEGGIO, INGANNI, BISCEGLIE, SAN CARLO B.",
+    "quartiereId": "lorenteggio"
+  },
+  {
+    "prezzoAcquistoMedio": 2129,
+    "prezzoLocazioneMedio": 10.116666666666667,
+    "variazioneSemestrale": 1.09,
+    "omiZone": "LORENTEGGIO, INGANNI, BISCEGLIE, SAN CARLO B.",
+    "quartiereId": "giambellino"
+  },
+  {
+    "prezzoAcquistoMedio": 2129,
+    "prezzoLocazioneMedio": 10.116666666666667,
+    "variazioneSemestrale": 1.09,
+    "omiZone": "LORENTEGGIO, INGANNI, BISCEGLIE, SAN CARLO B.",
+    "quartiereId": "forze-armate"
+  },
+  {
+    "prezzoAcquistoMedio": 2129,
+    "prezzoLocazioneMedio": 10.116666666666667,
+    "variazioneSemestrale": 1.09,
+    "omiZone": "LORENTEGGIO, INGANNI, BISCEGLIE, SAN CARLO B.",
+    "quartiereId": "quarto-cagnino"
+  },
+  {
+    "prezzoAcquistoMedio": 1891,
+    "prezzoLocazioneMedio": 8.427272727272728,
+    "variazioneSemestrale": 6.26,
+    "omiZone": "GALLARATESE, LAMPUGNANO, P. TRENNO, BONOLA",
+    "quartiereId": "qre-gallaratese---qre-san-leonardo---lampugnano"
+  },
+  {
+    "prezzoAcquistoMedio": 1891,
+    "prezzoLocazioneMedio": 8.427272727272728,
+    "variazioneSemestrale": 6.26,
+    "omiZone": "GALLARATESE, LAMPUGNANO, P. TRENNO, BONOLA",
+    "quartiereId": "trenno"
+  },
+  {
+    "prezzoAcquistoMedio": 1891,
+    "prezzoLocazioneMedio": 8.427272727272728,
+    "variazioneSemestrale": 6.26,
+    "omiZone": "GALLARATESE, LAMPUGNANO, P. TRENNO, BONOLA",
+    "quartiereId": "figino"
+  },
+  {
+    "prezzoAcquistoMedio": 1810,
+    "prezzoLocazioneMedio": 7.888461538461538,
+    "variazioneSemestrale": 1.29,
+    "omiZone": "BAGGIO, Q. ROMANO, MUGGIANO",
+    "quartiereId": "baggio---qre-degli-olmi---qre-valsesia"
+  },
+  {
+    "prezzoAcquistoMedio": 1810,
+    "prezzoLocazioneMedio": 7.888461538461538,
+    "variazioneSemestrale": 1.29,
+    "omiZone": "BAGGIO, Q. ROMANO, MUGGIANO",
+    "quartiereId": "quinto-romano"
+  },
+  {
+    "prezzoAcquistoMedio": 1810,
+    "prezzoLocazioneMedio": 7.888461538461538,
+    "variazioneSemestrale": 1.29,
+    "omiZone": "BAGGIO, Q. ROMANO, MUGGIANO",
+    "quartiereId": "muggiano"
+  },
+  {
+    "prezzoAcquistoMedio": 1716,
+    "prezzoLocazioneMedio": 7.4818181818181815,
+    "variazioneSemestrale": 2.44,
+    "omiZone": "QUARTO OGGIARO, SACCO",
+    "quartiereId": "quarto-oggiaro---vialba---musocco"
+  },
+  {
+    "prezzoAcquistoMedio": 1600,
+    "prezzoLocazioneMedio": 6.690909090909091,
+    "variazioneSemestrale": 3.38,
+    "omiZone": "MISSAGLIA, GRATOSOGLIO",
+    "quartiereId": "gratosoglio---qre-missaglia---qre-terrazze"
+  },
+  {
+    "prezzoAcquistoMedio": 1600,
+    "prezzoLocazioneMedio": 6.690909090909091,
+    "variazioneSemestrale": 3.38,
+    "omiZone": "MISSAGLIA, GRATOSOGLIO",
+    "quartiereId": "ronchetto-delle-rane"
+  }
+]

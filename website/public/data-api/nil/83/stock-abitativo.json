@@ -1,0 +1,47 @@
+{
+  "nilId": 83,
+  "nilName": "BRUZZANO",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 1771,
+      "colore": "#3b82f6",
+      "percentuale": 35
+    },
+    {
+      "residenti": "2",
+      "valore": 1552,
+      "colore": "#8b5cf6",
+      "percentuale": 30.7
+    },
+    {
+      "residenti": "3",
+      "valore": 908,
+      "colore": "#ec4899",
+      "percentuale": 18
+    },
+    {
+      "residenti": "4",
+      "valore": 605,
+      "colore": "#f59e0b",
+      "percentuale": 12
+    },
+    {
+      "residenti": "5+",
+      "valore": 217,
+      "colore": "#22c55e",
+      "percentuale": 4.3
+    }
+  ],
+  "totaleAbitazioni": 5053,
+  "famiglieSingole": 4994,
+  "famiglieCoabitanti": 60,
+  "nuoviEdifici": {
+    "fabbricati": 5,
+    "abitazioni": 464,
+    "superficieMq": 30954,
+    "volumeMc": 124506,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

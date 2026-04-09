@@ -1,0 +1,41 @@
+{
+  "nilId": 59,
+  "nil": "TRE TORRI",
+  "investorScore": 34.5,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 53,
+    "verde": 47,
+    "popolazione": 72,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 2371,
+      "media": 15753,
+      "delta": -13382.238636363636
+    },
+    "densita": {
+      "nil": 4619.158639805063,
+      "media": 8881.290415418553,
+      "deltaPercent": -48
+    },
+    "stranieri": {
+      "nil": 16.87051876845213,
+      "media": 21.360484986780587,
+      "delta": -4.5
+    },
+    "verde": {
+      "nil": 6.063672340362164,
+      "media": 8.1171861884842,
+      "deltaPercent": -25.3
+    },
+    "qualitaVita": {
+      "nil": 38.424320229864115,
+      "media": 39.6877862711082,
+      "deltaPercent": -3.2
+    }
+  }
+}

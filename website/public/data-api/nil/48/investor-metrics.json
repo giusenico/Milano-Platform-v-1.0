@@ -1,0 +1,41 @@
+{
+  "nilId": 48,
+  "nil": "RONCHETTO SUL NAVIGLIO - Q.RE LODOVICO IL MORO",
+  "investorScore": 36.8,
+  "riskLevel": "Alto",
+  "riskColor": "#ef4444",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 20,
+    "verde": 11,
+    "popolazione": 45,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 14516,
+      "media": 15753,
+      "delta": -1237.238636363636
+    },
+    "densita": {
+      "nil": 6032.482786318784,
+      "media": 8881.290415418553,
+      "deltaPercent": -32.1
+    },
+    "stranieri": {
+      "nil": 13.378341140810141,
+      "media": 21.360484986780587,
+      "delta": -8
+    },
+    "verde": {
+      "nil": 14.008658443540183,
+      "media": 8.1171861884842,
+      "deltaPercent": 72.6
+    },
+    "qualitaVita": {
+      "nil": 45.465907188997676,
+      "media": 39.6877862711082,
+      "deltaPercent": 14.6
+    }
+  }
+}

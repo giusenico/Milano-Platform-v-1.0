@@ -1,0 +1,45 @@
+{
+  "nilId": 75,
+  "nilName": "STEPHENSON",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 12,
+      "percentuale": 50,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 9,
+      "percentuale": 37.5,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 3,
+      "percentuale": 12.5,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 0,
+      "percentuale": 0,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 0,
+      "percentuale": 0,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 24,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 37.5,
+  "anno": 2011
+}

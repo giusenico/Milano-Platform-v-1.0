@@ -1,0 +1,45 @@
+{
+  "nilId": 17,
+  "nilName": "ADRIANO",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 3162,
+      "percentuale": 37.6,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 2966,
+      "percentuale": 35.3,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 1239,
+      "percentuale": 14.8,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 587,
+      "percentuale": 7,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 446,
+      "percentuale": 5.3,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 8400,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 50.1,
+  "anno": 2011
+}

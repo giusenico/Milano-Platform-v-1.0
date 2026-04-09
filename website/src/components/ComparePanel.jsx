@@ -31,8 +31,7 @@ import {
 import { formatPrice, formatVariation } from '../data/quartieriGeoJSON'
 import { getPriceCategory } from '../data/quartieriData'
 import { resolveQuartiereNil } from '../data/quartiereNilMapping'
-
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:3001/api'
+import { buildApiUrl } from '../lib/api'
 
 /**
  * Hook to fetch NIL analysis data for multiple quartieri
@@ -57,7 +56,7 @@ const useCompareNilData = (compareList) => {
           if (!nilId) return
 
           try {
-            const response = await fetch(`${API_BASE_URL}/nil/${nilId}`)
+            const response = await fetch(buildApiUrl(`/nil/${nilId}`))
             if (response.ok) {
               const nilData = await response.json()
               results[quartiere.id] = nilData

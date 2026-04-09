@@ -1,0 +1,32 @@
+{
+  "nilId": 43,
+  "nilName": "TIBALDI",
+  "totaleServizi": 4,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 3
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18),Giovani",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Anziani",
+      "count": 1
+    }
+  ],
+  "popolazione": 11463,
+  "serviziPer1000Abitanti": 0.35,
+  "qualitaCopertura": "Bassa"
+}

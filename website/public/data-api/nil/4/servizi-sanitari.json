@@ -1,0 +1,56 @@
+{
+  "nilId": 4,
+  "nilName": "GUASTALLA",
+  "farmacie": {
+    "totale": 7,
+    "lista": [
+      {
+        "descrizione_farmacia": "MONTENERO",
+        "indirizzo": "VIALE MONTE NERO, 59",
+        "cap": "20135"
+      },
+      {
+        "descrizione_farmacia": "SENATO SRL",
+        "indirizzo": "VIA SENATO, 2",
+        "cap": "20121"
+      },
+      {
+        "descrizione_farmacia": "TADINI SAS DI FARMACIA CINQUE GIORNATE SNC DI VINCENZO E SILVIO BUCCARELLI",
+        "indirizzo": "PIAZZA DEL TRICOLORE, 2",
+        "cap": "20129"
+      },
+      {
+        "descrizione_farmacia": "COOP.FARM.LAMARMORA",
+        "indirizzo": "VIA ALFONSO LAMARMORA, 2",
+        "cap": "20122"
+      },
+      {
+        "descrizione_farmacia": "FERRARINI SNC",
+        "indirizzo": "PIAZZA CINQUE GIORNATE, 6",
+        "cap": "20129"
+      },
+      {
+        "descrizione_farmacia": "COOP.FARM.VITTORIA",
+        "indirizzo": "VIA FONTANA, 1",
+        "cap": "20122"
+      },
+      {
+        "descrizione_farmacia": "PALAZZOLO",
+        "indirizzo": "VIALE MONTE NERO, 37",
+        "cap": "20135"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 5,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 15369,
+  "rapporti": {
+    "abitantiPerFarmacia": 2196,
+    "abitantiPerMedico": 3074
+  },
+  "scoreHealthcare": 70,
+  "qualitaServizio": "Buono"
+}

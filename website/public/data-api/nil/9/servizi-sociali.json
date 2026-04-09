@@ -1,0 +1,36 @@
+{
+  "nilId": 9,
+  "nilName": "PORTA GARIBALDI - PORTA NUOVA",
+  "totaleServizi": 14,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 8
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 6
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Anziani",
+      "count": 11
+    },
+    {
+      "fascia_utenza": "Famiglie,Adolescenti (11-18),Bambini (0-10)",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Anziani,Famiglie,Adulti,Persone con disabilità,Persone con disagio mentale",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Adulti",
+      "count": 1
+    }
+  ],
+  "popolazione": 5864,
+  "serviziPer1000Abitanti": 2.39,
+  "qualitaCopertura": "Media"
+}

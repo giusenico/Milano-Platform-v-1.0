@@ -1,0 +1,56 @@
+{
+  "nilId": 44,
+  "nilName": "PORTA TICINESE - CONCHETTA",
+  "farmacie": {
+    "totale": 7,
+    "lista": [
+      {
+        "descrizione_farmacia": "ALZAIA PAVESE SNC",
+        "indirizzo": "VIA MARIO PICHI, 9",
+        "cap": "20143"
+      },
+      {
+        "descrizione_farmacia": "EREDI CATALUCCI SNC",
+        "indirizzo": "RIPA DI PORTA TICINESE, 99",
+        "cap": "20143"
+      },
+      {
+        "descrizione_farmacia": "NAZIONALE SRL",
+        "indirizzo": "CORSO CRISTOFORO COLOMBO, 6",
+        "cap": "20144"
+      },
+      {
+        "descrizione_farmacia": "CONI ZUGNA FARMA SRL",
+        "indirizzo": "VIALE CONI ZUGNA, 56",
+        "cap": "20144"
+      },
+      {
+        "descrizione_farmacia": "TICINESE FARMA SRL - STAZIONE PORTA GENOVA",
+        "indirizzo": "PIAZZALE STAZIONE GENOVA",
+        "cap": "20144"
+      },
+      {
+        "descrizione_farmacia": "COOP.FARM.COLOMBO",
+        "indirizzo": "CORSO CRISTOFORO COLOMBO, 1",
+        "cap": "20144"
+      },
+      {
+        "descrizione_farmacia": "TARANTINO",
+        "indirizzo": "RIPA DI PORTA TICINESE, 33",
+        "cap": "20143"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 15,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 16962,
+  "rapporti": {
+    "abitantiPerFarmacia": 2423,
+    "abitantiPerMedico": 1131
+  },
+  "scoreHealthcare": 85,
+  "qualitaServizio": "Ottimo"
+}

@@ -1,0 +1,45 @@
+{
+  "nilId": 88,
+  "nilName": "PARCO BOSCO IN CITTA'",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 95,
+      "percentuale": 37.8,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 52,
+      "percentuale": 20.7,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 42,
+      "percentuale": 16.7,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 42,
+      "percentuale": 16.7,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 20,
+      "percentuale": 8,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 251,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 37.4,
+  "anno": 2011
+}

@@ -1,0 +1,41 @@
+{
+  "nilId": 79,
+  "nil": "DERGANO",
+  "investorScore": 35.6,
+  "riskLevel": "Alto",
+  "riskColor": "#ef4444",
+  "growthPotential": "Alto",
+  "ranking": {
+    "qualitaVita": 76,
+    "verde": 67,
+    "popolazione": 22,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 23597,
+      "media": 15753,
+      "delta": 7843.761363636364
+    },
+    "densita": {
+      "nil": 17369.07921598184,
+      "media": 8881.290415418553,
+      "deltaPercent": 95.6
+    },
+    "stranieri": {
+      "nil": 34.74170445395601,
+      "media": 21.360484986780587,
+      "delta": 13.4
+    },
+    "verde": {
+      "nil": 4.402457595272812,
+      "media": 8.1171861884842,
+      "deltaPercent": -45.8
+    },
+    "qualitaVita": {
+      "nil": 29.726074855769774,
+      "media": 39.6877862711082,
+      "deltaPercent": -25.1
+    }
+  }
+}

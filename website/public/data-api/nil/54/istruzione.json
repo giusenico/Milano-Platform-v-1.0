@@ -1,0 +1,33 @@
+{
+  "nilId": 54,
+  "nilName": "MUGGIANO",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 515,
+      "percentuale": 18.2
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 712,
+      "percentuale": 25.1
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 1005,
+      "percentuale": 35.5
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 327,
+      "percentuale": 11.5
+    }
+  ],
+  "totale": 2834,
+  "pctLaureati": 11.5,
+  "anno": 2011
+}

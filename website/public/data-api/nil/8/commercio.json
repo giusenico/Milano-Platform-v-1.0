@@ -1,0 +1,15 @@
+{
+  "nilId": 8,
+  "nilName": "PARCO SEMPIONE",
+  "pubbliciEsercizi": 4,
+  "eserciziVicinato": 2,
+  "bottegheStoriche": 1,
+  "coworking": 0,
+  "grandeDistribuzione": 0,
+  "edicole": 0,
+  "totaleCommercio": 6,
+  "densitaCommerciale": 12.8,
+  "commercioPer1000Ab": 0,
+  "scoreVitalita": 7.6,
+  "livelloVitalita": "Basso"
+}

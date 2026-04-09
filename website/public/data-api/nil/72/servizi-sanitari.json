@@ -1,0 +1,26 @@
+{
+  "nilId": 72,
+  "nilName": "MAGGIORE - MUSOCCO - CERTOSA",
+  "farmacie": {
+    "totale": 1,
+    "lista": [
+      {
+        "descrizione_farmacia": "LAGHI",
+        "indirizzo": "VIALE CERTOSA, 282",
+        "cap": "20156"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 2,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 7710,
+  "rapporti": {
+    "abitantiPerFarmacia": 7710,
+    "abitantiPerMedico": 3855
+  },
+  "scoreHealthcare": 40,
+  "qualitaServizio": "Migliorabile"
+}

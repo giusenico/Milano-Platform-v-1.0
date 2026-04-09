@@ -1,0 +1,24 @@
+{
+  "nilId": 77,
+  "nilName": "BOVISA",
+  "totaleServizi": 2,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 2
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18),Giovani",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 1
+    }
+  ],
+  "popolazione": 13945,
+  "serviziPer1000Abitanti": 0.14,
+  "qualitaCopertura": "Bassa"
+}

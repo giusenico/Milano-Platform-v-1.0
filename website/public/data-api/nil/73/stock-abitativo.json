@@ -1,0 +1,47 @@
+{
+  "nilId": 73,
+  "nilName": "CASCINA MERLATA",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 5,
+      "colore": "#3b82f6",
+      "percentuale": 22.7
+    },
+    {
+      "residenti": "2",
+      "valore": 6,
+      "colore": "#8b5cf6",
+      "percentuale": 27.3
+    },
+    {
+      "residenti": "3",
+      "valore": 3,
+      "colore": "#ec4899",
+      "percentuale": 13.6
+    },
+    {
+      "residenti": "4",
+      "valore": 6,
+      "colore": "#f59e0b",
+      "percentuale": 27.3
+    },
+    {
+      "residenti": "5+",
+      "valore": 2,
+      "colore": "#22c55e",
+      "percentuale": 9.1
+    }
+  ],
+  "totaleAbitazioni": 22,
+  "famiglieSingole": 22,
+  "famiglieCoabitanti": 0,
+  "nuoviEdifici": {
+    "fabbricati": 0,
+    "abitazioni": 0,
+    "superficieMq": 0,
+    "volumeMc": 0,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

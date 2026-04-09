@@ -1,0 +1,206 @@
+{
+  "nil": "DE ANGELI - MONTE ROSA",
+  "nilLabel": "DE ANGELI - MONTE ROSA",
+  "idNil": 58,
+  "match": {
+    "matchType": "id",
+    "confidence": 1
+  },
+  "latestYear": 2021,
+  "timeSeries": [
+    {
+      "anno": 2007,
+      "nil": "De Angeli - Monte Rosa",
+      "nil_label": "De Angeli - Monte Rosa (58)",
+      "totale_famiglie": 9947
+    },
+    {
+      "anno": 2008,
+      "nil": "De Angeli - Monte Rosa",
+      "nil_label": "De Angeli - Monte Rosa (58)",
+      "totale_famiglie": 9981
+    },
+    {
+      "anno": 2009,
+      "nil": "De Angeli - Monte Rosa",
+      "nil_label": "De Angeli - Monte Rosa (58)",
+      "totale_famiglie": 10121
+    },
+    {
+      "anno": 2010,
+      "nil": "De Angeli - Monte Rosa",
+      "nil_label": "De Angeli - Monte Rosa (58)",
+      "totale_famiglie": 10228
+    },
+    {
+      "anno": 2011,
+      "nil": "De Angeli - Monte Rosa",
+      "nil_label": "De Angeli - Monte Rosa (58)",
+      "totale_famiglie": 10356
+    },
+    {
+      "anno": 2012,
+      "nil": "De Angeli - Monte Rosa",
+      "nil_label": "De Angeli - Monte Rosa (58)",
+      "totale_famiglie": 10479
+    },
+    {
+      "anno": 2013,
+      "nil": "De Angeli - Monte Rosa",
+      "nil_label": "De Angeli - Monte Rosa (58)",
+      "totale_famiglie": 10388
+    },
+    {
+      "anno": 2014,
+      "nil": "De Angeli - Monte Rosa",
+      "nil_label": "De Angeli - Monte Rosa (58)",
+      "totale_famiglie": 10352
+    },
+    {
+      "anno": 2015,
+      "nil": "De Angeli - Monte Rosa",
+      "nil_label": "De Angeli - Monte Rosa (58)",
+      "totale_famiglie": 10347
+    },
+    {
+      "anno": 2016,
+      "nil": "De Angeli - Monte Rosa",
+      "nil_label": "De Angeli - Monte Rosa (58)",
+      "totale_famiglie": 10492
+    },
+    {
+      "anno": 2017,
+      "nil": "De Angeli - Monte Rosa",
+      "nil_label": "De Angeli - Monte Rosa (58)",
+      "totale_famiglie": 10686
+    },
+    {
+      "anno": 2018,
+      "nil": "De Angeli - Monte Rosa",
+      "nil_label": "De Angeli - Monte Rosa (58)",
+      "totale_famiglie": 10865
+    },
+    {
+      "anno": 2019,
+      "nil": "De Angeli - Monte Rosa",
+      "nil_label": "De Angeli - Monte Rosa (58)",
+      "totale_famiglie": 10997
+    },
+    {
+      "anno": 2020,
+      "nil": "De Angeli - Monte Rosa",
+      "nil_label": "De Angeli - Monte Rosa (58)",
+      "totale_famiglie": 10976
+    },
+    {
+      "anno": 2021,
+      "nil": "De Angeli - Monte Rosa",
+      "nil_label": "De Angeli - Monte Rosa (58)",
+      "totale_famiglie": 11090
+    }
+  ],
+  "crescitaFamiglieYoY": 1.04,
+  "amenities": {
+    "pubblici_esercizi": 161,
+    "mercati": 0,
+    "farmacie": 9,
+    "scuole": 7,
+    "biblioteche": 0
+  },
+  "breakdown": {
+    "tipologie": [
+      {
+        "tipologia_familiare": "Single",
+        "totale": 5433
+      },
+      {
+        "tipologia_familiare": "Coppia sposata senza figli",
+        "totale": 1697
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con almeno un figlio minorenne",
+        "totale": 1103
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con figli tutti maggiorenni",
+        "totale": 776
+      },
+      {
+        "tipologia_familiare": "Monogenitore con figli tutti maggiorenni",
+        "totale": 720
+      },
+      {
+        "tipologia_familiare": "Monogenitore con almeno un figlio minorenne",
+        "totale": 500
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con almeno un figlio minorenne",
+        "totale": 291
+      },
+      {
+        "tipologia_familiare": "Coppia convivente senza figli",
+        "totale": 286
+      },
+      {
+        "tipologia_familiare": "Altre tipologie",
+        "totale": 249
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con figli tutti maggiorenni",
+        "totale": 35
+      }
+    ],
+    "classiEta": [
+      {
+        "classe_eta_capofamiglia": "Da 35 a 64 anni",
+        "totale": 5629
+      },
+      {
+        "classe_eta_capofamiglia": "80 anni e più",
+        "totale": 2157
+      },
+      {
+        "classe_eta_capofamiglia": "Da 65 a 79 anni",
+        "totale": 2146
+      },
+      {
+        "classe_eta_capofamiglia": "Da 18 a 34 anni",
+        "totale": 1158
+      }
+    ],
+    "cittadinanza": [
+      {
+        "cittadinanza": "Italia",
+        "totale": 9720
+      },
+      {
+        "cittadinanza": "Altri paesi",
+        "totale": 867
+      },
+      {
+        "cittadinanza": "Filippine",
+        "totale": 168
+      },
+      {
+        "cittadinanza": "Cina",
+        "totale": 99
+      },
+      {
+        "cittadinanza": "Perù",
+        "totale": 84
+      },
+      {
+        "cittadinanza": "Sri Lanka",
+        "totale": 68
+      },
+      {
+        "cittadinanza": "Ecuador",
+        "totale": 45
+      },
+      {
+        "cittadinanza": "Egitto",
+        "totale": 39
+      }
+    ]
+  }
+}

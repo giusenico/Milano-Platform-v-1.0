@@ -1,0 +1,47 @@
+{
+  "nilId": 81,
+  "nilName": "BOVISASCA",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 883,
+      "colore": "#3b82f6",
+      "percentuale": 30.7
+    },
+    {
+      "residenti": "2",
+      "valore": 975,
+      "colore": "#8b5cf6",
+      "percentuale": 33.9
+    },
+    {
+      "residenti": "3",
+      "valore": 520,
+      "colore": "#ec4899",
+      "percentuale": 18.1
+    },
+    {
+      "residenti": "4",
+      "valore": 351,
+      "colore": "#f59e0b",
+      "percentuale": 12.2
+    },
+    {
+      "residenti": "5+",
+      "valore": 149,
+      "colore": "#22c55e",
+      "percentuale": 5.2
+    }
+  ],
+  "totaleAbitazioni": 2878,
+  "famiglieSingole": 2848,
+  "famiglieCoabitanti": 31,
+  "nuoviEdifici": {
+    "fabbricati": 2,
+    "abitazioni": 159,
+    "superficieMq": 10311,
+    "volumeMc": 41981,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

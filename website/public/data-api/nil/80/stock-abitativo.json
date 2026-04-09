@@ -1,0 +1,47 @@
+{
+  "nilId": 80,
+  "nilName": "AFFORI",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 3989,
+      "colore": "#3b82f6",
+      "percentuale": 39.9
+    },
+    {
+      "residenti": "2",
+      "valore": 2815,
+      "colore": "#8b5cf6",
+      "percentuale": 28.2
+    },
+    {
+      "residenti": "3",
+      "valore": 1671,
+      "colore": "#ec4899",
+      "percentuale": 16.7
+    },
+    {
+      "residenti": "4",
+      "valore": 1163,
+      "colore": "#f59e0b",
+      "percentuale": 11.6
+    },
+    {
+      "residenti": "5+",
+      "valore": 350,
+      "colore": "#22c55e",
+      "percentuale": 3.5
+    }
+  ],
+  "totaleAbitazioni": 9988,
+  "famiglieSingole": 9813,
+  "famiglieCoabitanti": 175,
+  "nuoviEdifici": {
+    "fabbricati": 7,
+    "abitazioni": 745,
+    "superficieMq": 46300,
+    "volumeMc": 165351,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

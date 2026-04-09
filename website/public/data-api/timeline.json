@@ -1,0 +1,5393 @@
+{
+  "semesters": [
+    "2019_1",
+    "2019_2",
+    "2020_1",
+    "2020_2",
+    "2021_1",
+    "2021_2",
+    "2022_1",
+    "2022_2",
+    "2023_1",
+    "2023_2",
+    "2024_1",
+    "2024_2",
+    "2025_1"
+  ],
+  "timeline": [
+    {
+      "semestre": "2019_1",
+      "label": "2019 H1",
+      "quartieri": [
+        {
+          "quartiereId": "baggio-quarto-romano",
+          "quartiere": "BAGGIO, Q. ROMANO, MUGGIANO",
+          "nilIds": [
+            "baggio---qre-degli-olmi---qre-valsesia",
+            "quinto-romano",
+            "muggiano"
+          ],
+          "prezzoAcquisto": 1436,
+          "prezzoLocazione": 5.9
+        },
+        {
+          "quartiereId": "barona-famagosta",
+          "quartiere": "BARONA, FAMAGOSTA, FAENZA",
+          "nilIds": [
+            "barona",
+            "cantalupa",
+            "ronchetto-sul-naviglio---qre-lodovico-il-moro"
+          ],
+          "prezzoAcquisto": 1596,
+          "prezzoLocazione": 7.4
+        },
+        {
+          "quartiereId": "bovisa-imbonati",
+          "quartiere": "BOVISA, BAUSAN, IMBONATI",
+          "nilIds": [
+            "bovisa",
+            "dergano"
+          ],
+          "prezzoAcquisto": 1654,
+          "prezzoLocazione": 6.68
+        },
+        {
+          "quartiereId": "bovisasca-affori",
+          "quartiere": "BOVISASCA, AFFORI, P. ROSSI , COMASINA",
+          "nilIds": [
+            "affori",
+            "bovisasca",
+            "comasina",
+            "bruzzano"
+          ],
+          "prezzoAcquisto": 1705,
+          "prezzoLocazione": 6.66
+        },
+        {
+          "quartiereId": "cenisio-farini",
+          "quartiere": "CENISIO, FARINI, SARPI",
+          "nilIds": [
+            "sarpi",
+            "farini",
+            "ghisolfa"
+          ],
+          "prezzoAcquisto": 2477,
+          "prezzoLocazione": 10.38
+        },
+        {
+          "quartiereId": "centro-brera",
+          "quartiere": "CENTRO STORICO - BRERA",
+          "nilIds": [
+            "brera"
+          ],
+          "prezzoAcquisto": 6063,
+          "prezzoLocazione": 21.85
+        },
+        {
+          "quartiereId": "centro-duomo",
+          "quartiere": "CENTRO STORICO -DUOMO, SANBABILA, MONTENAPOLEONE, MISSORI, CAIROLI",
+          "nilIds": [
+            "duomo"
+          ],
+          "prezzoAcquisto": 8581,
+          "prezzoLocazione": 34.46
+        },
+        {
+          "quartiereId": "centro-santambrogio",
+          "quartiere": "CENTRO STORICO -SANT`AMBROGIO, CADORNA, VIA DANTE",
+          "nilIds": [
+            "magenta---s-vittore"
+          ],
+          "prezzoAcquisto": 5654,
+          "prezzoLocazione": 20.55
+        },
+        {
+          "quartiereId": "centro-universita",
+          "quartiere": "CENTRO STORICO -UNIVERSITA STATALE, SAN LORENZO",
+          "nilIds": [
+            "guastalla"
+          ],
+          "prezzoAcquisto": 5150,
+          "prezzoLocazione": 20.08
+        },
+        {
+          "quartiereId": "city-life",
+          "quartiere": "CITY LIFE",
+          "nilIds": [
+            "tre-torri",
+            "portello"
+          ],
+          "prezzoAcquisto": 7133,
+          "prezzoLocazione": 23.12
+        },
+        {
+          "quartiereId": "forlanini-mecenate",
+          "quartiere": "FORLANINI, MECENATE, ORTOMERCATO, SANTA GIULIA",
+          "nilIds": [
+            "ortomercato",
+            "taliedo---morsenchio---qre-forlanini"
+          ],
+          "prezzoAcquisto": 1477,
+          "prezzoLocazione": 6.27
+        },
+        {
+          "quartiereId": "gallaratese-lampugnano",
+          "quartiere": "GALLARATESE, LAMPUGNANO, P. TRENNO, BONOLA",
+          "nilIds": [
+            "qre-gallaratese---qre-san-leonardo---lampugnano",
+            "trenno",
+            "figino"
+          ],
+          "prezzoAcquisto": 1344,
+          "prezzoLocazione": 6.11
+        },
+        {
+          "quartiereId": "ippodromo-monte-stella",
+          "quartiere": "IPPODROMO, CAPRILLI, MONTE STELLA",
+          "nilIds": [
+            "stadio---ippodromi",
+            "qt-8"
+          ],
+          "prezzoAcquisto": 2038,
+          "prezzoLocazione": 8.16
+        },
+        {
+          "quartiereId": "lambrate-rubattino",
+          "quartiere": "LAMBRATE, RUBATTINO, ROMBON",
+          "nilIds": [
+            "lambrate---ortica"
+          ],
+          "prezzoAcquisto": 1535,
+          "prezzoLocazione": 6.13
+        },
+        {
+          "quartiereId": "libia-xxii-marzo",
+          "quartiere": "LIBIA, ,XXII MARZO, INDIPENDENZA",
+          "nilIds": [
+            "xxii-marzo",
+            "corsica"
+          ],
+          "prezzoAcquisto": 2742,
+          "prezzoLocazione": 10.77
+        },
+        {
+          "quartiereId": "lorenteggio-inganni",
+          "quartiere": "LORENTEGGIO, INGANNI, BISCEGLIE, SAN CARLO B.",
+          "nilIds": [
+            "lorenteggio",
+            "giambellino",
+            "forze-armate",
+            "quarto-cagnino"
+          ],
+          "prezzoAcquisto": 1440,
+          "prezzoLocazione": 6.53
+        },
+        {
+          "quartiereId": "maggiolina",
+          "quartiere": "MAGGIOLINA, PARCO TROTTER, LEONCAVALLO",
+          "nilIds": [
+            "maciachini---maggiolina"
+          ],
+          "prezzoAcquisto": 1742,
+          "prezzoLocazione": 7.67
+        },
+        {
+          "quartiereId": "marocchetti-vigentino",
+          "quartiere": "MAROCCHETTI, VIGENTINO, CHIESA ROSSA",
+          "nilIds": [
+            "vigentino---qre-fatima",
+            "morivione",
+            "stadera---chiesa-rossa---qre-torretta---conca-fallata"
+          ],
+          "prezzoAcquisto": 1546,
+          "prezzoLocazione": 6.18
+        },
+        {
+          "quartiereId": "missaglia-gratosoglio",
+          "quartiere": "MISSAGLIA, GRATOSOGLIO",
+          "nilIds": [
+            "gratosoglio---qre-missaglia---qre-terrazze",
+            "ronchetto-delle-rane"
+          ],
+          "prezzoAcquisto": 1265,
+          "prezzoLocazione": 5.63
+        },
+        {
+          "quartiereId": "monza-crescenzago",
+          "quartiere": "MONZA, CRESCENZAGO, GORLA, QUARTIERE ADRIANO",
+          "nilIds": [
+            "adriano",
+            "gorla---precotto",
+            "padova---turro---crescenzago"
+          ],
+          "prezzoAcquisto": 1658,
+          "prezzoLocazione": 7.23
+        },
+        {
+          "quartiereId": "musocco-certosa",
+          "quartiere": "MUSOCCO, CERTOSA, EXPO, C.NA MERLATA",
+          "nilIds": [
+            "maggiore---musocco---certosa",
+            "cascina-merlata"
+          ],
+          "prezzoAcquisto": 1629,
+          "prezzoLocazione": 6.92
+        },
+        {
+          "quartiereId": "niguarda-bignami",
+          "quartiere": "NIGUARDA, BIGNAMI, PARCO NORD",
+          "nilIds": [
+            "niguarda---ca-granda---prato-centenaro---qre-fulvio-testi",
+            "parco-nord"
+          ],
+          "prezzoAcquisto": 1631,
+          "prezzoLocazione": 6.63
+        },
+        {
+          "quartiereId": "ortles-spadolini",
+          "quartiere": "ORTLES, SPADOLINI, BAZZI",
+          "nilIds": [
+            "scalo-romana",
+            "lodi---corvetto"
+          ],
+          "prezzoAcquisto": 1592,
+          "prezzoLocazione": 7.18
+        },
+        {
+          "quartiereId": "parco-lambro",
+          "quartiere": "PARCO LAMBRO, FELTRE, UDINE",
+          "nilIds": [
+            "cimiano---rottole---qre-feltre",
+            "parco-forlanini---cavriano"
+          ],
+          "prezzoAcquisto": 1615,
+          "prezzoLocazione": 6.92
+        },
+        {
+          "quartiereId": "parco-sempione",
+          "quartiere": "PARCO SEMPIONE, ARCO DELLA PACE, CORSO MAGENTA",
+          "nilIds": [
+            "parco-sempione",
+            "porta-magenta"
+          ],
+          "prezzoAcquisto": 4521,
+          "prezzoLocazione": 17.36
+        },
+        {
+          "quartiereId": "piola-argonne",
+          "quartiere": "PIOLA, ARGONNE, CORSICA",
+          "nilIds": [
+            "citta-studi"
+          ],
+          "prezzoAcquisto": 1956,
+          "prezzoLocazione": 8.67
+        },
+        {
+          "quartiereId": "pisani-buenos-aires",
+          "quartiere": "PISANI, BUENOS AIRES, REGINA GIOVANNA",
+          "nilIds": [
+            "loreto---casoretto---nolo"
+          ],
+          "prezzoAcquisto": 3423,
+          "prezzoLocazione": 14.03
+        },
+        {
+          "quartiereId": "porta-nuova",
+          "quartiere": "PORTA NUOVA",
+          "nilIds": [
+            "isola"
+          ],
+          "prezzoAcquisto": 7390,
+          "prezzoLocazione": 27.03
+        },
+        {
+          "quartiereId": "porta-ticinese",
+          "quartiere": "PORTA TICINESE, PORTA GENOVA, VIA SAN VITTORE",
+          "nilIds": [
+            "porta-ticinese---conca-del-naviglio",
+            "porta-genova",
+            "porta-ticinese---conchetta"
+          ],
+          "prezzoAcquisto": 3623,
+          "prezzoLocazione": 13.88
+        },
+        {
+          "quartiereId": "porta-vigentina",
+          "quartiere": "PORTA VIGENTINA, PORTA ROMANA",
+          "nilIds": [
+            "porta-vigentina---porta-lodovica",
+            "pta-romana"
+          ],
+          "prezzoAcquisto": 3575,
+          "prezzoLocazione": 14.74
+        },
+        {
+          "quartiereId": "quarto-oggiaro",
+          "quartiere": "QUARTO OGGIARO, SACCO",
+          "nilIds": [
+            "quarto-oggiaro---vialba---musocco",
+            "stephenson"
+          ],
+          "prezzoAcquisto": 1329,
+          "prezzoLocazione": 5.65
+        },
+        {
+          "quartiereId": "sarca-bicocca",
+          "quartiere": "SARCA, BICOCCA",
+          "nilIds": [
+            "bicocca",
+            "greco---segnano"
+          ],
+          "prezzoAcquisto": 1698,
+          "prezzoLocazione": 7.16
+        },
+        {
+          "quartiereId": "segesta-aretusa",
+          "quartiere": "SEGESTA, ARETUSA, VESPRI SICILIANI",
+          "nilIds": [
+            "san-siro",
+            "bande-nere"
+          ],
+          "prezzoAcquisto": 1719,
+          "prezzoLocazione": 7.89
+        },
+        {
+          "quartiereId": "sempione-pagano",
+          "quartiere": "SEMPIONE, PAGANO, WASHINGTON",
+          "nilIds": [
+            "pagano",
+            "de-angeli---monte-rosa"
+          ],
+          "prezzoAcquisto": 3248,
+          "prezzoLocazione": 12.46
+        },
+        {
+          "quartiereId": "solari-navigli",
+          "quartiere": "SOLARI, P.TA GENOVA, ASCANIO SFORZA",
+          "nilIds": [
+            "moncucco---san-cristoforo"
+          ],
+          "prezzoAcquisto": 2454,
+          "prezzoLocazione": 9.88
+        },
+        {
+          "quartiereId": "stazione-centrale",
+          "quartiere": "STAZIONE CENTRALE VIALE STELVIO",
+          "nilIds": [
+            "stazione-centrale---ponte-seveso"
+          ],
+          "prezzoAcquisto": 2333,
+          "prezzoLocazione": 9.17
+        },
+        {
+          "quartiereId": "tabacchi-sarfatti",
+          "quartiere": "TABACCHI, SARFATTI, CREMA",
+          "nilIds": [
+            "tibaldi"
+          ],
+          "prezzoAcquisto": 2306,
+          "prezzoLocazione": 9.54
+        },
+        {
+          "quartiereId": "tito-livio",
+          "quartiere": "TITO LIVIO, TERTULLIANO, LONGANESI",
+          "nilIds": [
+            "umbria---molise---calvairate"
+          ],
+          "prezzoAcquisto": 1742,
+          "prezzoLocazione": 7.08
+        },
+        {
+          "quartiereId": "turati-moscova",
+          "quartiere": "TURATI, MOSCOVA, CORSO VENEZIA",
+          "nilIds": [
+            "giardini-pta-venezia",
+            "porta-garibaldi---porta-nuova"
+          ],
+          "prezzoAcquisto": 4645,
+          "prezzoLocazione": 18.66
+        },
+        {
+          "quartiereId": "venezia-porta-vittoria",
+          "quartiere": "VENEZIA, PORTA VITTORIA, PORTA ROMANA",
+          "nilIds": [
+            "buenos-aires---porta-venezia---porta-monforte"
+          ],
+          "prezzoAcquisto": 5021,
+          "prezzoLocazione": 19.07
+        }
+      ],
+      "stats": {
+        "prezzoMedioAcquisto": 2892,
+        "prezzoMedioLocazione": 11.44,
+        "prezzoMax": 8581,
+        "prezzoMin": 1265,
+        "totaleQuartieri": 40
+      }
+    },
+    {
+      "semestre": "2019_2",
+      "label": "2019 H2",
+      "quartieri": [
+        {
+          "quartiereId": "baggio-quarto-romano",
+          "quartiere": "BAGGIO, Q. ROMANO, MUGGIANO",
+          "nilIds": [
+            "baggio---qre-degli-olmi---qre-valsesia",
+            "quinto-romano",
+            "muggiano"
+          ],
+          "prezzoAcquisto": 1439,
+          "prezzoLocazione": 5.95
+        },
+        {
+          "quartiereId": "barona-famagosta",
+          "quartiere": "BARONA, FAMAGOSTA, FAENZA",
+          "nilIds": [
+            "barona",
+            "cantalupa",
+            "ronchetto-sul-naviglio---qre-lodovico-il-moro"
+          ],
+          "prezzoAcquisto": 1623,
+          "prezzoLocazione": 7.55
+        },
+        {
+          "quartiereId": "bovisa-imbonati",
+          "quartiere": "BOVISA, BAUSAN, IMBONATI",
+          "nilIds": [
+            "bovisa",
+            "dergano"
+          ],
+          "prezzoAcquisto": 1692,
+          "prezzoLocazione": 6.9
+        },
+        {
+          "quartiereId": "bovisasca-affori",
+          "quartiere": "BOVISASCA, AFFORI, P. ROSSI , COMASINA",
+          "nilIds": [
+            "affori",
+            "bovisasca",
+            "comasina",
+            "bruzzano"
+          ],
+          "prezzoAcquisto": 1713,
+          "prezzoLocazione": 6.8
+        },
+        {
+          "quartiereId": "cenisio-farini",
+          "quartiere": "CENISIO, FARINI, SARPI",
+          "nilIds": [
+            "sarpi",
+            "farini",
+            "ghisolfa"
+          ],
+          "prezzoAcquisto": 2579,
+          "prezzoLocazione": 11.08
+        },
+        {
+          "quartiereId": "centro-brera",
+          "quartiere": "CENTRO STORICO - BRERA",
+          "nilIds": [
+            "brera"
+          ],
+          "prezzoAcquisto": 6125,
+          "prezzoLocazione": 21.98
+        },
+        {
+          "quartiereId": "centro-duomo",
+          "quartiere": "CENTRO STORICO -DUOMO, SANBABILA, MONTENAPOLEONE, MISSORI, CAIROLI",
+          "nilIds": [
+            "duomo"
+          ],
+          "prezzoAcquisto": 8602,
+          "prezzoLocazione": 34.77
+        },
+        {
+          "quartiereId": "centro-santambrogio",
+          "quartiere": "CENTRO STORICO -SANT`AMBROGIO, CADORNA, VIA DANTE",
+          "nilIds": [
+            "magenta---s-vittore"
+          ],
+          "prezzoAcquisto": 5796,
+          "prezzoLocazione": 20.88
+        },
+        {
+          "quartiereId": "centro-universita",
+          "quartiere": "CENTRO STORICO -UNIVERSITA STATALE, SAN LORENZO",
+          "nilIds": [
+            "guastalla"
+          ],
+          "prezzoAcquisto": 5154,
+          "prezzoLocazione": 20.14
+        },
+        {
+          "quartiereId": "city-life",
+          "quartiere": "CITY LIFE",
+          "nilIds": [
+            "tre-torri",
+            "portello"
+          ],
+          "prezzoAcquisto": 7100,
+          "prezzoLocazione": 23.8
+        },
+        {
+          "quartiereId": "forlanini-mecenate",
+          "quartiere": "FORLANINI, MECENATE, ORTOMERCATO, SANTA GIULIA",
+          "nilIds": [
+            "ortomercato",
+            "taliedo---morsenchio---qre-forlanini"
+          ],
+          "prezzoAcquisto": 1496,
+          "prezzoLocazione": 6.34
+        },
+        {
+          "quartiereId": "gallaratese-lampugnano",
+          "quartiere": "GALLARATESE, LAMPUGNANO, P. TRENNO, BONOLA",
+          "nilIds": [
+            "qre-gallaratese---qre-san-leonardo---lampugnano",
+            "trenno",
+            "figino"
+          ],
+          "prezzoAcquisto": 1350,
+          "prezzoLocazione": 6.15
+        },
+        {
+          "quartiereId": "ippodromo-monte-stella",
+          "quartiere": "IPPODROMO, CAPRILLI, MONTE STELLA",
+          "nilIds": [
+            "stadio---ippodromi",
+            "qt-8"
+          ],
+          "prezzoAcquisto": 2052,
+          "prezzoLocazione": 8.27
+        },
+        {
+          "quartiereId": "lambrate-rubattino",
+          "quartiere": "LAMBRATE, RUBATTINO, ROMBON",
+          "nilIds": [
+            "lambrate---ortica"
+          ],
+          "prezzoAcquisto": 1573,
+          "prezzoLocazione": 6.26
+        },
+        {
+          "quartiereId": "libia-xxii-marzo",
+          "quartiere": "LIBIA, ,XXII MARZO, INDIPENDENZA",
+          "nilIds": [
+            "xxii-marzo",
+            "corsica"
+          ],
+          "prezzoAcquisto": 2817,
+          "prezzoLocazione": 11.31
+        },
+        {
+          "quartiereId": "lorenteggio-inganni",
+          "quartiere": "LORENTEGGIO, INGANNI, BISCEGLIE, SAN CARLO B.",
+          "nilIds": [
+            "lorenteggio",
+            "giambellino",
+            "forze-armate",
+            "quarto-cagnino"
+          ],
+          "prezzoAcquisto": 1471,
+          "prezzoLocazione": 6.7
+        },
+        {
+          "quartiereId": "maggiolina",
+          "quartiere": "MAGGIOLINA, PARCO TROTTER, LEONCAVALLO",
+          "nilIds": [
+            "maciachini---maggiolina"
+          ],
+          "prezzoAcquisto": 1765,
+          "prezzoLocazione": 7.76
+        },
+        {
+          "quartiereId": "marocchetti-vigentino",
+          "quartiere": "MAROCCHETTI, VIGENTINO, CHIESA ROSSA",
+          "nilIds": [
+            "vigentino---qre-fatima",
+            "morivione",
+            "stadera---chiesa-rossa---qre-torretta---conca-fallata"
+          ],
+          "prezzoAcquisto": 1583,
+          "prezzoLocazione": 6.36
+        },
+        {
+          "quartiereId": "missaglia-gratosoglio",
+          "quartiere": "MISSAGLIA, GRATOSOGLIO",
+          "nilIds": [
+            "gratosoglio---qre-missaglia---qre-terrazze",
+            "ronchetto-delle-rane"
+          ],
+          "prezzoAcquisto": 1265,
+          "prezzoLocazione": 5.63
+        },
+        {
+          "quartiereId": "monza-crescenzago",
+          "quartiere": "MONZA, CRESCENZAGO, GORLA, QUARTIERE ADRIANO",
+          "nilIds": [
+            "adriano",
+            "gorla---precotto",
+            "padova---turro---crescenzago"
+          ],
+          "prezzoAcquisto": 1673,
+          "prezzoLocazione": 7.32
+        },
+        {
+          "quartiereId": "musocco-certosa",
+          "quartiere": "MUSOCCO, CERTOSA, EXPO, C.NA MERLATA",
+          "nilIds": [
+            "maggiore---musocco---certosa",
+            "cascina-merlata"
+          ],
+          "prezzoAcquisto": 1650,
+          "prezzoLocazione": 6.98
+        },
+        {
+          "quartiereId": "niguarda-bignami",
+          "quartiere": "NIGUARDA, BIGNAMI, PARCO NORD",
+          "nilIds": [
+            "niguarda---ca-granda---prato-centenaro---qre-fulvio-testi",
+            "parco-nord"
+          ],
+          "prezzoAcquisto": 1652,
+          "prezzoLocazione": 6.82
+        },
+        {
+          "quartiereId": "ortles-spadolini",
+          "quartiere": "ORTLES, SPADOLINI, BAZZI",
+          "nilIds": [
+            "scalo-romana",
+            "lodi---corvetto"
+          ],
+          "prezzoAcquisto": 1698,
+          "prezzoLocazione": 7.65
+        },
+        {
+          "quartiereId": "parco-lambro",
+          "quartiere": "PARCO LAMBRO, FELTRE, UDINE",
+          "nilIds": [
+            "cimiano---rottole---qre-feltre",
+            "parco-forlanini---cavriano"
+          ],
+          "prezzoAcquisto": 1644,
+          "prezzoLocazione": 6.98
+        },
+        {
+          "quartiereId": "parco-sempione",
+          "quartiere": "PARCO SEMPIONE, ARCO DELLA PACE, CORSO MAGENTA",
+          "nilIds": [
+            "parco-sempione",
+            "porta-magenta"
+          ],
+          "prezzoAcquisto": 4592,
+          "prezzoLocazione": 17.64
+        },
+        {
+          "quartiereId": "piola-argonne",
+          "quartiere": "PIOLA, ARGONNE, CORSICA",
+          "nilIds": [
+            "citta-studi"
+          ],
+          "prezzoAcquisto": 2258,
+          "prezzoLocazione": 9.38
+        },
+        {
+          "quartiereId": "pisani-buenos-aires",
+          "quartiere": "PISANI, BUENOS AIRES, REGINA GIOVANNA",
+          "nilIds": [
+            "loreto---casoretto---nolo"
+          ],
+          "prezzoAcquisto": 3452,
+          "prezzoLocazione": 14.47
+        },
+        {
+          "quartiereId": "porta-nuova",
+          "quartiere": "PORTA NUOVA",
+          "nilIds": [
+            "isola"
+          ],
+          "prezzoAcquisto": 7440,
+          "prezzoLocazione": 26.54
+        },
+        {
+          "quartiereId": "porta-ticinese",
+          "quartiere": "PORTA TICINESE, PORTA GENOVA, VIA SAN VITTORE",
+          "nilIds": [
+            "porta-ticinese---conca-del-naviglio",
+            "porta-genova",
+            "porta-ticinese---conchetta"
+          ],
+          "prezzoAcquisto": 3680,
+          "prezzoLocazione": 14.25
+        },
+        {
+          "quartiereId": "porta-vigentina",
+          "quartiere": "PORTA VIGENTINA, PORTA ROMANA",
+          "nilIds": [
+            "porta-vigentina---porta-lodovica",
+            "pta-romana"
+          ],
+          "prezzoAcquisto": 3680,
+          "prezzoLocazione": 15.29
+        },
+        {
+          "quartiereId": "quarto-oggiaro",
+          "quartiere": "QUARTO OGGIARO, SACCO",
+          "nilIds": [
+            "quarto-oggiaro---vialba---musocco",
+            "stephenson"
+          ],
+          "prezzoAcquisto": 1329,
+          "prezzoLocazione": 5.65
+        },
+        {
+          "quartiereId": "sarca-bicocca",
+          "quartiere": "SARCA, BICOCCA",
+          "nilIds": [
+            "bicocca",
+            "greco---segnano"
+          ],
+          "prezzoAcquisto": 1700,
+          "prezzoLocazione": 7.19
+        },
+        {
+          "quartiereId": "segesta-aretusa",
+          "quartiere": "SEGESTA, ARETUSA, VESPRI SICILIANI",
+          "nilIds": [
+            "san-siro",
+            "bande-nere"
+          ],
+          "prezzoAcquisto": 1762,
+          "prezzoLocazione": 8.05
+        },
+        {
+          "quartiereId": "sempione-pagano",
+          "quartiere": "SEMPIONE, PAGANO, WASHINGTON",
+          "nilIds": [
+            "pagano",
+            "de-angeli---monte-rosa"
+          ],
+          "prezzoAcquisto": 3327,
+          "prezzoLocazione": 12.94
+        },
+        {
+          "quartiereId": "solari-navigli",
+          "quartiere": "SOLARI, P.TA GENOVA, ASCANIO SFORZA",
+          "nilIds": [
+            "moncucco---san-cristoforo"
+          ],
+          "prezzoAcquisto": 2562,
+          "prezzoLocazione": 10.57
+        },
+        {
+          "quartiereId": "stazione-centrale",
+          "quartiere": "STAZIONE CENTRALE VIALE STELVIO",
+          "nilIds": [
+            "stazione-centrale---ponte-seveso"
+          ],
+          "prezzoAcquisto": 2385,
+          "prezzoLocazione": 9.68
+        },
+        {
+          "quartiereId": "tabacchi-sarfatti",
+          "quartiere": "TABACCHI, SARFATTI, CREMA",
+          "nilIds": [
+            "tibaldi"
+          ],
+          "prezzoAcquisto": 2396,
+          "prezzoLocazione": 10.05
+        },
+        {
+          "quartiereId": "tito-livio",
+          "quartiere": "TITO LIVIO, TERTULLIANO, LONGANESI",
+          "nilIds": [
+            "umbria---molise---calvairate"
+          ],
+          "prezzoAcquisto": 1785,
+          "prezzoLocazione": 7.28
+        },
+        {
+          "quartiereId": "turati-moscova",
+          "quartiere": "TURATI, MOSCOVA, CORSO VENEZIA",
+          "nilIds": [
+            "giardini-pta-venezia",
+            "porta-garibaldi---porta-nuova"
+          ],
+          "prezzoAcquisto": 4759,
+          "prezzoLocazione": 18.86
+        },
+        {
+          "quartiereId": "venezia-porta-vittoria",
+          "quartiere": "VENEZIA, PORTA VITTORIA, PORTA ROMANA",
+          "nilIds": [
+            "buenos-aires---porta-venezia---porta-monforte"
+          ],
+          "prezzoAcquisto": 4944,
+          "prezzoLocazione": 18.7
+        }
+      ],
+      "stats": {
+        "prezzoMedioAcquisto": 2939,
+        "prezzoMedioLocazione": 11.67,
+        "prezzoMax": 8602,
+        "prezzoMin": 1265,
+        "totaleQuartieri": 40
+      }
+    },
+    {
+      "semestre": "2020_1",
+      "label": "2020 H1",
+      "quartieri": [
+        {
+          "quartiereId": "baggio-quarto-romano",
+          "quartiere": "BAGGIO, Q. ROMANO, MUGGIANO",
+          "nilIds": [
+            "baggio---qre-degli-olmi---qre-valsesia",
+            "quinto-romano",
+            "muggiano"
+          ],
+          "prezzoAcquisto": 1454,
+          "prezzoLocazione": 6.01
+        },
+        {
+          "quartiereId": "barona-famagosta",
+          "quartiere": "BARONA, FAMAGOSTA, FAENZA",
+          "nilIds": [
+            "barona",
+            "cantalupa",
+            "ronchetto-sul-naviglio---qre-lodovico-il-moro"
+          ],
+          "prezzoAcquisto": 1704,
+          "prezzoLocazione": 8.06
+        },
+        {
+          "quartiereId": "bovisa-imbonati",
+          "quartiere": "BOVISA, BAUSAN, IMBONATI",
+          "nilIds": [
+            "bovisa",
+            "dergano"
+          ],
+          "prezzoAcquisto": 1696,
+          "prezzoLocazione": 7.04
+        },
+        {
+          "quartiereId": "bovisasca-affori",
+          "quartiere": "BOVISASCA, AFFORI, P. ROSSI , COMASINA",
+          "nilIds": [
+            "affori",
+            "bovisasca",
+            "comasina",
+            "bruzzano"
+          ],
+          "prezzoAcquisto": 1705,
+          "prezzoLocazione": 6.83
+        },
+        {
+          "quartiereId": "cenisio-farini",
+          "quartiere": "CENISIO, FARINI, SARPI",
+          "nilIds": [
+            "sarpi",
+            "farini",
+            "ghisolfa"
+          ],
+          "prezzoAcquisto": 2590,
+          "prezzoLocazione": 11.09
+        },
+        {
+          "quartiereId": "centro-brera",
+          "quartiere": "CENTRO STORICO - BRERA",
+          "nilIds": [
+            "brera"
+          ],
+          "prezzoAcquisto": 6113,
+          "prezzoLocazione": 21.89
+        },
+        {
+          "quartiereId": "centro-duomo",
+          "quartiere": "CENTRO STORICO -DUOMO, SANBABILA, MONTENAPOLEONE, MISSORI, CAIROLI",
+          "nilIds": [
+            "duomo"
+          ],
+          "prezzoAcquisto": 8565,
+          "prezzoLocazione": 34.54
+        },
+        {
+          "quartiereId": "centro-santambrogio",
+          "quartiere": "CENTRO STORICO -SANT`AMBROGIO, CADORNA, VIA DANTE",
+          "nilIds": [
+            "magenta---s-vittore"
+          ],
+          "prezzoAcquisto": 5775,
+          "prezzoLocazione": 20.82
+        },
+        {
+          "quartiereId": "centro-universita",
+          "quartiere": "CENTRO STORICO -UNIVERSITA STATALE, SAN LORENZO",
+          "nilIds": [
+            "guastalla"
+          ],
+          "prezzoAcquisto": 5213,
+          "prezzoLocazione": 20.45
+        },
+        {
+          "quartiereId": "city-life",
+          "quartiere": "CITY LIFE",
+          "nilIds": [
+            "tre-torri",
+            "portello"
+          ],
+          "prezzoAcquisto": 7033,
+          "prezzoLocazione": 23.95
+        },
+        {
+          "quartiereId": "forlanini-mecenate",
+          "quartiere": "FORLANINI, MECENATE, ORTOMERCATO, SANTA GIULIA",
+          "nilIds": [
+            "ortomercato",
+            "taliedo---morsenchio---qre-forlanini"
+          ],
+          "prezzoAcquisto": 1523,
+          "prezzoLocazione": 6.43
+        },
+        {
+          "quartiereId": "gallaratese-lampugnano",
+          "quartiere": "GALLARATESE, LAMPUGNANO, P. TRENNO, BONOLA",
+          "nilIds": [
+            "qre-gallaratese---qre-san-leonardo---lampugnano",
+            "trenno",
+            "figino"
+          ],
+          "prezzoAcquisto": 1358,
+          "prezzoLocazione": 6.24
+        },
+        {
+          "quartiereId": "ippodromo-monte-stella",
+          "quartiere": "IPPODROMO, CAPRILLI, MONTE STELLA",
+          "nilIds": [
+            "stadio---ippodromi",
+            "qt-8"
+          ],
+          "prezzoAcquisto": 2052,
+          "prezzoLocazione": 8.27
+        },
+        {
+          "quartiereId": "lambrate-rubattino",
+          "quartiere": "LAMBRATE, RUBATTINO, ROMBON",
+          "nilIds": [
+            "lambrate---ortica"
+          ],
+          "prezzoAcquisto": 1569,
+          "prezzoLocazione": 6.49
+        },
+        {
+          "quartiereId": "libia-xxii-marzo",
+          "quartiere": "LIBIA, ,XXII MARZO, INDIPENDENZA",
+          "nilIds": [
+            "xxii-marzo",
+            "corsica"
+          ],
+          "prezzoAcquisto": 2833,
+          "prezzoLocazione": 11.37
+        },
+        {
+          "quartiereId": "lorenteggio-inganni",
+          "quartiere": "LORENTEGGIO, INGANNI, BISCEGLIE, SAN CARLO B.",
+          "nilIds": [
+            "lorenteggio",
+            "giambellino",
+            "forze-armate",
+            "quarto-cagnino"
+          ],
+          "prezzoAcquisto": 1542,
+          "prezzoLocazione": 7.11
+        },
+        {
+          "quartiereId": "maggiolina",
+          "quartiere": "MAGGIOLINA, PARCO TROTTER, LEONCAVALLO",
+          "nilIds": [
+            "maciachini---maggiolina"
+          ],
+          "prezzoAcquisto": 1788,
+          "prezzoLocazione": 7.93
+        },
+        {
+          "quartiereId": "marocchetti-vigentino",
+          "quartiere": "MAROCCHETTI, VIGENTINO, CHIESA ROSSA",
+          "nilIds": [
+            "vigentino---qre-fatima",
+            "morivione",
+            "stadera---chiesa-rossa---qre-torretta---conca-fallata"
+          ],
+          "prezzoAcquisto": 1606,
+          "prezzoLocazione": 6.45
+        },
+        {
+          "quartiereId": "missaglia-gratosoglio",
+          "quartiere": "MISSAGLIA, GRATOSOGLIO",
+          "nilIds": [
+            "gratosoglio---qre-missaglia---qre-terrazze",
+            "ronchetto-delle-rane"
+          ],
+          "prezzoAcquisto": 1252,
+          "prezzoLocazione": 5.65
+        },
+        {
+          "quartiereId": "monza-crescenzago",
+          "quartiere": "MONZA, CRESCENZAGO, GORLA, QUARTIERE ADRIANO",
+          "nilIds": [
+            "adriano",
+            "gorla---precotto",
+            "padova---turro---crescenzago"
+          ],
+          "prezzoAcquisto": 1669,
+          "prezzoLocazione": 7.4
+        },
+        {
+          "quartiereId": "musocco-certosa",
+          "quartiere": "MUSOCCO, CERTOSA, EXPO, C.NA MERLATA",
+          "nilIds": [
+            "maggiore---musocco---certosa",
+            "cascina-merlata"
+          ],
+          "prezzoAcquisto": 1669,
+          "prezzoLocazione": 7.2
+        },
+        {
+          "quartiereId": "niguarda-bignami",
+          "quartiere": "NIGUARDA, BIGNAMI, PARCO NORD",
+          "nilIds": [
+            "niguarda---ca-granda---prato-centenaro---qre-fulvio-testi",
+            "parco-nord"
+          ],
+          "prezzoAcquisto": 1648,
+          "prezzoLocazione": 6.82
+        },
+        {
+          "quartiereId": "ortles-spadolini",
+          "quartiere": "ORTLES, SPADOLINI, BAZZI",
+          "nilIds": [
+            "scalo-romana",
+            "lodi---corvetto"
+          ],
+          "prezzoAcquisto": 1719,
+          "prezzoLocazione": 7.68
+        },
+        {
+          "quartiereId": "parco-lambro",
+          "quartiere": "PARCO LAMBRO, FELTRE, UDINE",
+          "nilIds": [
+            "cimiano---rottole---qre-feltre",
+            "parco-forlanini---cavriano"
+          ],
+          "prezzoAcquisto": 1646,
+          "prezzoLocazione": 6.95
+        },
+        {
+          "quartiereId": "parco-sempione",
+          "quartiere": "PARCO SEMPIONE, ARCO DELLA PACE, CORSO MAGENTA",
+          "nilIds": [
+            "parco-sempione",
+            "porta-magenta"
+          ],
+          "prezzoAcquisto": 4596,
+          "prezzoLocazione": 17.48
+        },
+        {
+          "quartiereId": "piola-argonne",
+          "quartiere": "PIOLA, ARGONNE, CORSICA",
+          "nilIds": [
+            "citta-studi"
+          ],
+          "prezzoAcquisto": 2272,
+          "prezzoLocazione": 9.44
+        },
+        {
+          "quartiereId": "pisani-buenos-aires",
+          "quartiere": "PISANI, BUENOS AIRES, REGINA GIOVANNA",
+          "nilIds": [
+            "loreto---casoretto---nolo"
+          ],
+          "prezzoAcquisto": 3456,
+          "prezzoLocazione": 14.78
+        },
+        {
+          "quartiereId": "porta-nuova",
+          "quartiere": "PORTA NUOVA",
+          "nilIds": [
+            "isola"
+          ],
+          "prezzoAcquisto": 7460,
+          "prezzoLocazione": 26.39
+        },
+        {
+          "quartiereId": "porta-ticinese",
+          "quartiere": "PORTA TICINESE, PORTA GENOVA, VIA SAN VITTORE",
+          "nilIds": [
+            "porta-ticinese---conca-del-naviglio",
+            "porta-genova",
+            "porta-ticinese---conchetta"
+          ],
+          "prezzoAcquisto": 3659,
+          "prezzoLocazione": 14.53
+        },
+        {
+          "quartiereId": "porta-vigentina",
+          "quartiere": "PORTA VIGENTINA, PORTA ROMANA",
+          "nilIds": [
+            "porta-vigentina---porta-lodovica",
+            "pta-romana"
+          ],
+          "prezzoAcquisto": 3711,
+          "prezzoLocazione": 15.43
+        },
+        {
+          "quartiereId": "quarto-oggiaro",
+          "quartiere": "QUARTO OGGIARO, SACCO",
+          "nilIds": [
+            "quarto-oggiaro---vialba---musocco",
+            "stephenson"
+          ],
+          "prezzoAcquisto": 1319,
+          "prezzoLocazione": 5.71
+        },
+        {
+          "quartiereId": "sarca-bicocca",
+          "quartiere": "SARCA, BICOCCA",
+          "nilIds": [
+            "bicocca",
+            "greco---segnano"
+          ],
+          "prezzoAcquisto": 1700,
+          "prezzoLocazione": 7.21
+        },
+        {
+          "quartiereId": "segesta-aretusa",
+          "quartiere": "SEGESTA, ARETUSA, VESPRI SICILIANI",
+          "nilIds": [
+            "san-siro",
+            "bande-nere"
+          ],
+          "prezzoAcquisto": 1779,
+          "prezzoLocazione": 8.1
+        },
+        {
+          "quartiereId": "sempione-pagano",
+          "quartiere": "SEMPIONE, PAGANO, WASHINGTON",
+          "nilIds": [
+            "pagano",
+            "de-angeli---monte-rosa"
+          ],
+          "prezzoAcquisto": 3320,
+          "prezzoLocazione": 13.04
+        },
+        {
+          "quartiereId": "solari-navigli",
+          "quartiere": "SOLARI, P.TA GENOVA, ASCANIO SFORZA",
+          "nilIds": [
+            "moncucco---san-cristoforo"
+          ],
+          "prezzoAcquisto": 2563,
+          "prezzoLocazione": 10.65
+        },
+        {
+          "quartiereId": "stazione-centrale",
+          "quartiere": "STAZIONE CENTRALE VIALE STELVIO",
+          "nilIds": [
+            "stazione-centrale---ponte-seveso"
+          ],
+          "prezzoAcquisto": 2600,
+          "prezzoLocazione": 10.66
+        },
+        {
+          "quartiereId": "tabacchi-sarfatti",
+          "quartiere": "TABACCHI, SARFATTI, CREMA",
+          "nilIds": [
+            "tibaldi"
+          ],
+          "prezzoAcquisto": 2388,
+          "prezzoLocazione": 10.27
+        },
+        {
+          "quartiereId": "tito-livio",
+          "quartiere": "TITO LIVIO, TERTULLIANO, LONGANESI",
+          "nilIds": [
+            "umbria---molise---calvairate"
+          ],
+          "prezzoAcquisto": 1794,
+          "prezzoLocazione": 7.5
+        },
+        {
+          "quartiereId": "turati-moscova",
+          "quartiere": "TURATI, MOSCOVA, CORSO VENEZIA",
+          "nilIds": [
+            "giardini-pta-venezia",
+            "porta-garibaldi---porta-nuova"
+          ],
+          "prezzoAcquisto": 4805,
+          "prezzoLocazione": 19.17
+        },
+        {
+          "quartiereId": "venezia-porta-vittoria",
+          "quartiere": "VENEZIA, PORTA VITTORIA, PORTA ROMANA",
+          "nilIds": [
+            "buenos-aires---porta-venezia---porta-monforte"
+          ],
+          "prezzoAcquisto": 4965,
+          "prezzoLocazione": 18.64
+        }
+      ],
+      "stats": {
+        "prezzoMedioAcquisto": 2953,
+        "prezzoMedioLocazione": 11.79,
+        "prezzoMax": 8565,
+        "prezzoMin": 1252,
+        "totaleQuartieri": 40
+      }
+    },
+    {
+      "semestre": "2020_2",
+      "label": "2020 H2",
+      "quartieri": [
+        {
+          "quartiereId": "baggio-quarto-romano",
+          "quartiere": "BAGGIO, Q. ROMANO, MUGGIANO",
+          "nilIds": [
+            "baggio---qre-degli-olmi---qre-valsesia",
+            "quinto-romano",
+            "muggiano"
+          ],
+          "prezzoAcquisto": 1445,
+          "prezzoLocazione": 5.97
+        },
+        {
+          "quartiereId": "barona-famagosta",
+          "quartiere": "BARONA, FAMAGOSTA, FAENZA",
+          "nilIds": [
+            "barona",
+            "cantalupa",
+            "ronchetto-sul-naviglio---qre-lodovico-il-moro"
+          ],
+          "prezzoAcquisto": 1683,
+          "prezzoLocazione": 8.03
+        },
+        {
+          "quartiereId": "bovisa-imbonati",
+          "quartiere": "BOVISA, BAUSAN, IMBONATI",
+          "nilIds": [
+            "bovisa",
+            "dergano"
+          ],
+          "prezzoAcquisto": 1683,
+          "prezzoLocazione": 7.04
+        },
+        {
+          "quartiereId": "bovisasca-affori",
+          "quartiere": "BOVISASCA, AFFORI, P. ROSSI , COMASINA",
+          "nilIds": [
+            "affori",
+            "bovisasca",
+            "comasina",
+            "bruzzano"
+          ],
+          "prezzoAcquisto": 1696,
+          "prezzoLocazione": 6.83
+        },
+        {
+          "quartiereId": "cenisio-farini",
+          "quartiere": "CENISIO, FARINI, SARPI",
+          "nilIds": [
+            "sarpi",
+            "farini",
+            "ghisolfa"
+          ],
+          "prezzoAcquisto": 2567,
+          "prezzoLocazione": 11.1
+        },
+        {
+          "quartiereId": "centro-brera",
+          "quartiere": "CENTRO STORICO - BRERA",
+          "nilIds": [
+            "brera"
+          ],
+          "prezzoAcquisto": 6121,
+          "prezzoLocazione": 21.94
+        },
+        {
+          "quartiereId": "centro-duomo",
+          "quartiere": "CENTRO STORICO -DUOMO, SANBABILA, MONTENAPOLEONE, MISSORI, CAIROLI",
+          "nilIds": [
+            "duomo"
+          ],
+          "prezzoAcquisto": 8494,
+          "prezzoLocazione": 34.48
+        },
+        {
+          "quartiereId": "centro-santambrogio",
+          "quartiere": "CENTRO STORICO -SANT`AMBROGIO, CADORNA, VIA DANTE",
+          "nilIds": [
+            "magenta---s-vittore"
+          ],
+          "prezzoAcquisto": 5775,
+          "prezzoLocazione": 20.82
+        },
+        {
+          "quartiereId": "centro-universita",
+          "quartiere": "CENTRO STORICO -UNIVERSITA STATALE, SAN LORENZO",
+          "nilIds": [
+            "guastalla"
+          ],
+          "prezzoAcquisto": 5204,
+          "prezzoLocazione": 20.34
+        },
+        {
+          "quartiereId": "city-life",
+          "quartiere": "CITY LIFE",
+          "nilIds": [
+            "tre-torri",
+            "portello"
+          ],
+          "prezzoAcquisto": 7033,
+          "prezzoLocazione": 23.62
+        },
+        {
+          "quartiereId": "forlanini-mecenate",
+          "quartiere": "FORLANINI, MECENATE, ORTOMERCATO, SANTA GIULIA",
+          "nilIds": [
+            "ortomercato",
+            "taliedo---morsenchio---qre-forlanini"
+          ],
+          "prezzoAcquisto": 1506,
+          "prezzoLocazione": 6.43
+        },
+        {
+          "quartiereId": "gallaratese-lampugnano",
+          "quartiere": "GALLARATESE, LAMPUGNANO, P. TRENNO, BONOLA",
+          "nilIds": [
+            "qre-gallaratese---qre-san-leonardo---lampugnano",
+            "trenno",
+            "figino"
+          ],
+          "prezzoAcquisto": 1358,
+          "prezzoLocazione": 6.18
+        },
+        {
+          "quartiereId": "ippodromo-monte-stella",
+          "quartiere": "IPPODROMO, CAPRILLI, MONTE STELLA",
+          "nilIds": [
+            "stadio---ippodromi",
+            "qt-8"
+          ],
+          "prezzoAcquisto": 2048,
+          "prezzoLocazione": 8.3
+        },
+        {
+          "quartiereId": "lambrate-rubattino",
+          "quartiere": "LAMBRATE, RUBATTINO, ROMBON",
+          "nilIds": [
+            "lambrate---ortica"
+          ],
+          "prezzoAcquisto": 1558,
+          "prezzoLocazione": 6.52
+        },
+        {
+          "quartiereId": "libia-xxii-marzo",
+          "quartiere": "LIBIA, ,XXII MARZO, INDIPENDENZA",
+          "nilIds": [
+            "xxii-marzo",
+            "corsica"
+          ],
+          "prezzoAcquisto": 2806,
+          "prezzoLocazione": 11.48
+        },
+        {
+          "quartiereId": "lorenteggio-inganni",
+          "quartiere": "LORENTEGGIO, INGANNI, BISCEGLIE, SAN CARLO B.",
+          "nilIds": [
+            "lorenteggio",
+            "giambellino",
+            "forze-armate",
+            "quarto-cagnino"
+          ],
+          "prezzoAcquisto": 1533,
+          "prezzoLocazione": 7
+        },
+        {
+          "quartiereId": "maggiolina",
+          "quartiere": "MAGGIOLINA, PARCO TROTTER, LEONCAVALLO",
+          "nilIds": [
+            "maciachini---maggiolina"
+          ],
+          "prezzoAcquisto": 1777,
+          "prezzoLocazione": 7.87
+        },
+        {
+          "quartiereId": "marocchetti-vigentino",
+          "quartiere": "MAROCCHETTI, VIGENTINO, CHIESA ROSSA",
+          "nilIds": [
+            "vigentino---qre-fatima",
+            "morivione",
+            "stadera---chiesa-rossa---qre-torretta---conca-fallata"
+          ],
+          "prezzoAcquisto": 1592,
+          "prezzoLocazione": 6.45
+        },
+        {
+          "quartiereId": "missaglia-gratosoglio",
+          "quartiere": "MISSAGLIA, GRATOSOGLIO",
+          "nilIds": [
+            "gratosoglio---qre-missaglia---qre-terrazze",
+            "ronchetto-delle-rane"
+          ],
+          "prezzoAcquisto": 1238,
+          "prezzoLocazione": 5.56
+        },
+        {
+          "quartiereId": "monza-crescenzago",
+          "quartiere": "MONZA, CRESCENZAGO, GORLA, QUARTIERE ADRIANO",
+          "nilIds": [
+            "adriano",
+            "gorla---precotto",
+            "padova---turro---crescenzago"
+          ],
+          "prezzoAcquisto": 1656,
+          "prezzoLocazione": 7.37
+        },
+        {
+          "quartiereId": "musocco-certosa",
+          "quartiere": "MUSOCCO, CERTOSA, EXPO, C.NA MERLATA",
+          "nilIds": [
+            "maggiore---musocco---certosa",
+            "cascina-merlata"
+          ],
+          "prezzoAcquisto": 1673,
+          "prezzoLocazione": 7.3
+        },
+        {
+          "quartiereId": "niguarda-bignami",
+          "quartiere": "NIGUARDA, BIGNAMI, PARCO NORD",
+          "nilIds": [
+            "niguarda---ca-granda---prato-centenaro---qre-fulvio-testi",
+            "parco-nord"
+          ],
+          "prezzoAcquisto": 1635,
+          "prezzoLocazione": 6.78
+        },
+        {
+          "quartiereId": "ortles-spadolini",
+          "quartiere": "ORTLES, SPADOLINI, BAZZI",
+          "nilIds": [
+            "scalo-romana",
+            "lodi---corvetto"
+          ],
+          "prezzoAcquisto": 1717,
+          "prezzoLocazione": 7.62
+        },
+        {
+          "quartiereId": "parco-lambro",
+          "quartiere": "PARCO LAMBRO, FELTRE, UDINE",
+          "nilIds": [
+            "cimiano---rottole---qre-feltre",
+            "parco-forlanini---cavriano"
+          ],
+          "prezzoAcquisto": 1640,
+          "prezzoLocazione": 6.81
+        },
+        {
+          "quartiereId": "parco-sempione",
+          "quartiere": "PARCO SEMPIONE, ARCO DELLA PACE, CORSO MAGENTA",
+          "nilIds": [
+            "parco-sempione",
+            "porta-magenta"
+          ],
+          "prezzoAcquisto": 4571,
+          "prezzoLocazione": 17.36
+        },
+        {
+          "quartiereId": "piola-argonne",
+          "quartiere": "PIOLA, ARGONNE, CORSICA",
+          "nilIds": [
+            "citta-studi"
+          ],
+          "prezzoAcquisto": 2262,
+          "prezzoLocazione": 9.31
+        },
+        {
+          "quartiereId": "pisani-buenos-aires",
+          "quartiere": "PISANI, BUENOS AIRES, REGINA GIOVANNA",
+          "nilIds": [
+            "loreto---casoretto---nolo"
+          ],
+          "prezzoAcquisto": 3433,
+          "prezzoLocazione": 14.65
+        },
+        {
+          "quartiereId": "porta-nuova",
+          "quartiere": "PORTA NUOVA",
+          "nilIds": [
+            "isola"
+          ],
+          "prezzoAcquisto": 7420,
+          "prezzoLocazione": 26.05
+        },
+        {
+          "quartiereId": "porta-ticinese",
+          "quartiere": "PORTA TICINESE, PORTA GENOVA, VIA SAN VITTORE",
+          "nilIds": [
+            "porta-ticinese---conca-del-naviglio",
+            "porta-genova",
+            "porta-ticinese---conchetta"
+          ],
+          "prezzoAcquisto": 3641,
+          "prezzoLocazione": 14.5
+        },
+        {
+          "quartiereId": "porta-vigentina",
+          "quartiere": "PORTA VIGENTINA, PORTA ROMANA",
+          "nilIds": [
+            "porta-vigentina---porta-lodovica",
+            "pta-romana"
+          ],
+          "prezzoAcquisto": 3698,
+          "prezzoLocazione": 15.34
+        },
+        {
+          "quartiereId": "quarto-oggiaro",
+          "quartiere": "QUARTO OGGIARO, SACCO",
+          "nilIds": [
+            "quarto-oggiaro---vialba---musocco",
+            "stephenson"
+          ],
+          "prezzoAcquisto": 1308,
+          "prezzoLocazione": 5.7
+        },
+        {
+          "quartiereId": "sarca-bicocca",
+          "quartiere": "SARCA, BICOCCA",
+          "nilIds": [
+            "bicocca",
+            "greco---segnano"
+          ],
+          "prezzoAcquisto": 1696,
+          "prezzoLocazione": 7.2
+        },
+        {
+          "quartiereId": "segesta-aretusa",
+          "quartiere": "SEGESTA, ARETUSA, VESPRI SICILIANI",
+          "nilIds": [
+            "san-siro",
+            "bande-nere"
+          ],
+          "prezzoAcquisto": 1773,
+          "prezzoLocazione": 8.07
+        },
+        {
+          "quartiereId": "sempione-pagano",
+          "quartiere": "SEMPIONE, PAGANO, WASHINGTON",
+          "nilIds": [
+            "pagano",
+            "de-angeli---monte-rosa"
+          ],
+          "prezzoAcquisto": 3303,
+          "prezzoLocazione": 13.14
+        },
+        {
+          "quartiereId": "solari-navigli",
+          "quartiere": "SOLARI, P.TA GENOVA, ASCANIO SFORZA",
+          "nilIds": [
+            "moncucco---san-cristoforo"
+          ],
+          "prezzoAcquisto": 2548,
+          "prezzoLocazione": 10.58
+        },
+        {
+          "quartiereId": "stazione-centrale",
+          "quartiere": "STAZIONE CENTRALE VIALE STELVIO",
+          "nilIds": [
+            "stazione-centrale---ponte-seveso"
+          ],
+          "prezzoAcquisto": 2597,
+          "prezzoLocazione": 10.67
+        },
+        {
+          "quartiereId": "tabacchi-sarfatti",
+          "quartiere": "TABACCHI, SARFATTI, CREMA",
+          "nilIds": [
+            "tibaldi"
+          ],
+          "prezzoAcquisto": 2388,
+          "prezzoLocazione": 10.3
+        },
+        {
+          "quartiereId": "tito-livio",
+          "quartiere": "TITO LIVIO, TERTULLIANO, LONGANESI",
+          "nilIds": [
+            "umbria---molise---calvairate"
+          ],
+          "prezzoAcquisto": 1779,
+          "prezzoLocazione": 7.49
+        },
+        {
+          "quartiereId": "turati-moscova",
+          "quartiere": "TURATI, MOSCOVA, CORSO VENEZIA",
+          "nilIds": [
+            "giardini-pta-venezia",
+            "porta-garibaldi---porta-nuova"
+          ],
+          "prezzoAcquisto": 4795,
+          "prezzoLocazione": 19.1
+        },
+        {
+          "quartiereId": "venezia-porta-vittoria",
+          "quartiere": "VENEZIA, PORTA VITTORIA, PORTA ROMANA",
+          "nilIds": [
+            "buenos-aires---porta-venezia---porta-monforte"
+          ],
+          "prezzoAcquisto": 4960,
+          "prezzoLocazione": 18.82
+        }
+      ],
+      "stats": {
+        "prezzoMedioAcquisto": 2940,
+        "prezzoMedioLocazione": 11.75,
+        "prezzoMax": 8494,
+        "prezzoMin": 1238,
+        "totaleQuartieri": 40
+      }
+    },
+    {
+      "semestre": "2021_1",
+      "label": "2021 H1",
+      "quartieri": [
+        {
+          "quartiereId": "baggio-quarto-romano",
+          "quartiere": "BAGGIO, Q. ROMANO, MUGGIANO",
+          "nilIds": [
+            "baggio---qre-degli-olmi---qre-valsesia",
+            "quinto-romano",
+            "muggiano"
+          ],
+          "prezzoAcquisto": 1466,
+          "prezzoLocazione": 5.96
+        },
+        {
+          "quartiereId": "barona-famagosta",
+          "quartiere": "BARONA, FAMAGOSTA, FAENZA",
+          "nilIds": [
+            "barona",
+            "cantalupa",
+            "ronchetto-sul-naviglio---qre-lodovico-il-moro"
+          ],
+          "prezzoAcquisto": 1702,
+          "prezzoLocazione": 7.87
+        },
+        {
+          "quartiereId": "bovisa-imbonati",
+          "quartiere": "BOVISA, BAUSAN, IMBONATI",
+          "nilIds": [
+            "bovisa",
+            "dergano"
+          ],
+          "prezzoAcquisto": 1677,
+          "prezzoLocazione": 7.08
+        },
+        {
+          "quartiereId": "bovisasca-affori",
+          "quartiere": "BOVISASCA, AFFORI, P. ROSSI , COMASINA",
+          "nilIds": [
+            "affori",
+            "bovisasca",
+            "comasina",
+            "bruzzano"
+          ],
+          "prezzoAcquisto": 1688,
+          "prezzoLocazione": 6.84
+        },
+        {
+          "quartiereId": "cenisio-farini",
+          "quartiere": "CENISIO, FARINI, SARPI",
+          "nilIds": [
+            "sarpi",
+            "farini",
+            "ghisolfa"
+          ],
+          "prezzoAcquisto": 2577,
+          "prezzoLocazione": 11.22
+        },
+        {
+          "quartiereId": "centro-brera",
+          "quartiere": "CENTRO STORICO - BRERA",
+          "nilIds": [
+            "brera"
+          ],
+          "prezzoAcquisto": 6117,
+          "prezzoLocazione": 21.78
+        },
+        {
+          "quartiereId": "centro-duomo",
+          "quartiere": "CENTRO STORICO -DUOMO, SANBABILA, MONTENAPOLEONE, MISSORI, CAIROLI",
+          "nilIds": [
+            "duomo"
+          ],
+          "prezzoAcquisto": 8473,
+          "prezzoLocazione": 34.31
+        },
+        {
+          "quartiereId": "centro-santambrogio",
+          "quartiere": "CENTRO STORICO -SANT`AMBROGIO, CADORNA, VIA DANTE",
+          "nilIds": [
+            "magenta---s-vittore"
+          ],
+          "prezzoAcquisto": 5758,
+          "prezzoLocazione": 20.79
+        },
+        {
+          "quartiereId": "centro-universita",
+          "quartiere": "CENTRO STORICO -UNIVERSITA STATALE, SAN LORENZO",
+          "nilIds": [
+            "guastalla"
+          ],
+          "prezzoAcquisto": 5192,
+          "prezzoLocazione": 20.23
+        },
+        {
+          "quartiereId": "city-life",
+          "quartiere": "CITY LIFE",
+          "nilIds": [
+            "tre-torri",
+            "portello"
+          ],
+          "prezzoAcquisto": 7083,
+          "prezzoLocazione": 23.58
+        },
+        {
+          "quartiereId": "forlanini-mecenate",
+          "quartiere": "FORLANINI, MECENATE, ORTOMERCATO, SANTA GIULIA",
+          "nilIds": [
+            "ortomercato",
+            "taliedo---morsenchio---qre-forlanini"
+          ],
+          "prezzoAcquisto": 1533,
+          "prezzoLocazione": 6.45
+        },
+        {
+          "quartiereId": "gallaratese-lampugnano",
+          "quartiere": "GALLARATESE, LAMPUGNANO, P. TRENNO, BONOLA",
+          "nilIds": [
+            "qre-gallaratese---qre-san-leonardo---lampugnano",
+            "trenno",
+            "figino"
+          ],
+          "prezzoAcquisto": 1429,
+          "prezzoLocazione": 6.24
+        },
+        {
+          "quartiereId": "ippodromo-monte-stella",
+          "quartiere": "IPPODROMO, CAPRILLI, MONTE STELLA",
+          "nilIds": [
+            "stadio---ippodromi",
+            "qt-8"
+          ],
+          "prezzoAcquisto": 2055,
+          "prezzoLocazione": 8.31
+        },
+        {
+          "quartiereId": "lambrate-rubattino",
+          "quartiere": "LAMBRATE, RUBATTINO, ROMBON",
+          "nilIds": [
+            "lambrate---ortica"
+          ],
+          "prezzoAcquisto": 1579,
+          "prezzoLocazione": 6.56
+        },
+        {
+          "quartiereId": "libia-xxii-marzo",
+          "quartiere": "LIBIA, ,XXII MARZO, INDIPENDENZA",
+          "nilIds": [
+            "xxii-marzo",
+            "corsica"
+          ],
+          "prezzoAcquisto": 2821,
+          "prezzoLocazione": 11.56
+        },
+        {
+          "quartiereId": "lorenteggio-inganni",
+          "quartiere": "LORENTEGGIO, INGANNI, BISCEGLIE, SAN CARLO B.",
+          "nilIds": [
+            "lorenteggio",
+            "giambellino",
+            "forze-armate",
+            "quarto-cagnino"
+          ],
+          "prezzoAcquisto": 1542,
+          "prezzoLocazione": 7.03
+        },
+        {
+          "quartiereId": "maggiolina",
+          "quartiere": "MAGGIOLINA, PARCO TROTTER, LEONCAVALLO",
+          "nilIds": [
+            "maciachini---maggiolina"
+          ],
+          "prezzoAcquisto": 1810,
+          "prezzoLocazione": 7.95
+        },
+        {
+          "quartiereId": "marocchetti-vigentino",
+          "quartiere": "MAROCCHETTI, VIGENTINO, CHIESA ROSSA",
+          "nilIds": [
+            "vigentino---qre-fatima",
+            "morivione",
+            "stadera---chiesa-rossa---qre-torretta---conca-fallata"
+          ],
+          "prezzoAcquisto": 1604,
+          "prezzoLocazione": 6.54
+        },
+        {
+          "quartiereId": "missaglia-gratosoglio",
+          "quartiere": "MISSAGLIA, GRATOSOGLIO",
+          "nilIds": [
+            "gratosoglio---qre-missaglia---qre-terrazze",
+            "ronchetto-delle-rane"
+          ],
+          "prezzoAcquisto": 1275,
+          "prezzoLocazione": 5.58
+        },
+        {
+          "quartiereId": "monza-crescenzago",
+          "quartiere": "MONZA, CRESCENZAGO, GORLA, QUARTIERE ADRIANO",
+          "nilIds": [
+            "adriano",
+            "gorla---precotto",
+            "padova---turro---crescenzago"
+          ],
+          "prezzoAcquisto": 1696,
+          "prezzoLocazione": 7.35
+        },
+        {
+          "quartiereId": "musocco-certosa",
+          "quartiere": "MUSOCCO, CERTOSA, EXPO, C.NA MERLATA",
+          "nilIds": [
+            "maggiore---musocco---certosa",
+            "cascina-merlata"
+          ],
+          "prezzoAcquisto": 1694,
+          "prezzoLocazione": 7.35
+        },
+        {
+          "quartiereId": "niguarda-bignami",
+          "quartiere": "NIGUARDA, BIGNAMI, PARCO NORD",
+          "nilIds": [
+            "niguarda---ca-granda---prato-centenaro---qre-fulvio-testi",
+            "parco-nord"
+          ],
+          "prezzoAcquisto": 1635,
+          "prezzoLocazione": 6.83
+        },
+        {
+          "quartiereId": "ortles-spadolini",
+          "quartiere": "ORTLES, SPADOLINI, BAZZI",
+          "nilIds": [
+            "scalo-romana",
+            "lodi---corvetto"
+          ],
+          "prezzoAcquisto": 1744,
+          "prezzoLocazione": 7.71
+        },
+        {
+          "quartiereId": "parco-lambro",
+          "quartiere": "PARCO LAMBRO, FELTRE, UDINE",
+          "nilIds": [
+            "cimiano---rottole---qre-feltre",
+            "parco-forlanini---cavriano"
+          ],
+          "prezzoAcquisto": 1667,
+          "prezzoLocazione": 6.89
+        },
+        {
+          "quartiereId": "parco-sempione",
+          "quartiere": "PARCO SEMPIONE, ARCO DELLA PACE, CORSO MAGENTA",
+          "nilIds": [
+            "parco-sempione",
+            "porta-magenta"
+          ],
+          "prezzoAcquisto": 4625,
+          "prezzoLocazione": 17.59
+        },
+        {
+          "quartiereId": "piola-argonne",
+          "quartiere": "PIOLA, ARGONNE, CORSICA",
+          "nilIds": [
+            "citta-studi"
+          ],
+          "prezzoAcquisto": 2315,
+          "prezzoLocazione": 9.32
+        },
+        {
+          "quartiereId": "pisani-buenos-aires",
+          "quartiere": "PISANI, BUENOS AIRES, REGINA GIOVANNA",
+          "nilIds": [
+            "loreto---casoretto---nolo"
+          ],
+          "prezzoAcquisto": 3460,
+          "prezzoLocazione": 14.76
+        },
+        {
+          "quartiereId": "porta-nuova",
+          "quartiere": "PORTA NUOVA",
+          "nilIds": [
+            "isola"
+          ],
+          "prezzoAcquisto": 7500,
+          "prezzoLocazione": 26.09
+        },
+        {
+          "quartiereId": "porta-ticinese",
+          "quartiere": "PORTA TICINESE, PORTA GENOVA, VIA SAN VITTORE",
+          "nilIds": [
+            "porta-ticinese---conca-del-naviglio",
+            "porta-genova",
+            "porta-ticinese---conchetta"
+          ],
+          "prezzoAcquisto": 3652,
+          "prezzoLocazione": 14.5
+        },
+        {
+          "quartiereId": "porta-vigentina",
+          "quartiere": "PORTA VIGENTINA, PORTA ROMANA",
+          "nilIds": [
+            "porta-vigentina---porta-lodovica",
+            "pta-romana"
+          ],
+          "prezzoAcquisto": 3730,
+          "prezzoLocazione": 15.27
+        },
+        {
+          "quartiereId": "quarto-oggiaro",
+          "quartiere": "QUARTO OGGIARO, SACCO",
+          "nilIds": [
+            "quarto-oggiaro---vialba---musocco",
+            "stephenson"
+          ],
+          "prezzoAcquisto": 1317,
+          "prezzoLocazione": 5.67
+        },
+        {
+          "quartiereId": "sarca-bicocca",
+          "quartiere": "SARCA, BICOCCA",
+          "nilIds": [
+            "bicocca",
+            "greco---segnano"
+          ],
+          "prezzoAcquisto": 1725,
+          "prezzoLocazione": 7.2
+        },
+        {
+          "quartiereId": "segesta-aretusa",
+          "quartiere": "SEGESTA, ARETUSA, VESPRI SICILIANI",
+          "nilIds": [
+            "san-siro",
+            "bande-nere"
+          ],
+          "prezzoAcquisto": 1815,
+          "prezzoLocazione": 8.14
+        },
+        {
+          "quartiereId": "sempione-pagano",
+          "quartiere": "SEMPIONE, PAGANO, WASHINGTON",
+          "nilIds": [
+            "pagano",
+            "de-angeli---monte-rosa"
+          ],
+          "prezzoAcquisto": 3327,
+          "prezzoLocazione": 13.21
+        },
+        {
+          "quartiereId": "solari-navigli",
+          "quartiere": "SOLARI, P.TA GENOVA, ASCANIO SFORZA",
+          "nilIds": [
+            "moncucco---san-cristoforo"
+          ],
+          "prezzoAcquisto": 2571,
+          "prezzoLocazione": 10.66
+        },
+        {
+          "quartiereId": "stazione-centrale",
+          "quartiere": "STAZIONE CENTRALE VIALE STELVIO",
+          "nilIds": [
+            "stazione-centrale---ponte-seveso"
+          ],
+          "prezzoAcquisto": 2647,
+          "prezzoLocazione": 10.74
+        },
+        {
+          "quartiereId": "tabacchi-sarfatti",
+          "quartiere": "TABACCHI, SARFATTI, CREMA",
+          "nilIds": [
+            "tibaldi"
+          ],
+          "prezzoAcquisto": 2431,
+          "prezzoLocazione": 10.38
+        },
+        {
+          "quartiereId": "tito-livio",
+          "quartiere": "TITO LIVIO, TERTULLIANO, LONGANESI",
+          "nilIds": [
+            "umbria---molise---calvairate"
+          ],
+          "prezzoAcquisto": 1792,
+          "prezzoLocazione": 7.51
+        },
+        {
+          "quartiereId": "turati-moscova",
+          "quartiere": "TURATI, MOSCOVA, CORSO VENEZIA",
+          "nilIds": [
+            "giardini-pta-venezia",
+            "porta-garibaldi---porta-nuova"
+          ],
+          "prezzoAcquisto": 4832,
+          "prezzoLocazione": 19.35
+        },
+        {
+          "quartiereId": "venezia-porta-vittoria",
+          "quartiere": "VENEZIA, PORTA VITTORIA, PORTA ROMANA",
+          "nilIds": [
+            "buenos-aires---porta-venezia---porta-monforte"
+          ],
+          "prezzoAcquisto": 4983,
+          "prezzoLocazione": 18.87
+        }
+      ],
+      "stats": {
+        "prezzoMedioAcquisto": 2963,
+        "prezzoMedioLocazione": 11.78,
+        "prezzoMax": 8473,
+        "prezzoMin": 1275,
+        "totaleQuartieri": 40
+      }
+    },
+    {
+      "semestre": "2021_2",
+      "label": "2021 H2",
+      "quartieri": [
+        {
+          "quartiereId": "baggio-quarto-romano",
+          "quartiere": "BAGGIO, Q. ROMANO, MUGGIANO",
+          "nilIds": [
+            "baggio---qre-degli-olmi---qre-valsesia",
+            "quinto-romano",
+            "muggiano"
+          ],
+          "prezzoAcquisto": 1475,
+          "prezzoLocazione": 5.99
+        },
+        {
+          "quartiereId": "barona-famagosta",
+          "quartiere": "BARONA, FAMAGOSTA, FAENZA",
+          "nilIds": [
+            "barona",
+            "cantalupa",
+            "ronchetto-sul-naviglio---qre-lodovico-il-moro"
+          ],
+          "prezzoAcquisto": 1750,
+          "prezzoLocazione": 8.02
+        },
+        {
+          "quartiereId": "bovisa-imbonati",
+          "quartiere": "BOVISA, BAUSAN, IMBONATI",
+          "nilIds": [
+            "bovisa",
+            "dergano"
+          ],
+          "prezzoAcquisto": 1696,
+          "prezzoLocazione": 7.18
+        },
+        {
+          "quartiereId": "bovisasca-affori",
+          "quartiere": "BOVISASCA, AFFORI, P. ROSSI , COMASINA",
+          "nilIds": [
+            "affori",
+            "bovisasca",
+            "comasina",
+            "bruzzano"
+          ],
+          "prezzoAcquisto": 1702,
+          "prezzoLocazione": 6.87
+        },
+        {
+          "quartiereId": "cenisio-farini",
+          "quartiere": "CENISIO, FARINI, SARPI",
+          "nilIds": [
+            "sarpi",
+            "farini",
+            "ghisolfa"
+          ],
+          "prezzoAcquisto": 2662,
+          "prezzoLocazione": 11.15
+        },
+        {
+          "quartiereId": "centro-brera",
+          "quartiere": "CENTRO STORICO - BRERA",
+          "nilIds": [
+            "brera"
+          ],
+          "prezzoAcquisto": 6588,
+          "prezzoLocazione": 22.22
+        },
+        {
+          "quartiereId": "centro-duomo",
+          "quartiere": "CENTRO STORICO -DUOMO, SANBABILA, MONTENAPOLEONE, MISSORI, CAIROLI",
+          "nilIds": [
+            "duomo"
+          ],
+          "prezzoAcquisto": 8710,
+          "prezzoLocazione": 36.04
+        },
+        {
+          "quartiereId": "centro-santambrogio",
+          "quartiere": "CENTRO STORICO -SANT`AMBROGIO, CADORNA, VIA DANTE",
+          "nilIds": [
+            "magenta---s-vittore"
+          ],
+          "prezzoAcquisto": 5808,
+          "prezzoLocazione": 21.02
+        },
+        {
+          "quartiereId": "centro-universita",
+          "quartiere": "CENTRO STORICO -UNIVERSITA STATALE, SAN LORENZO",
+          "nilIds": [
+            "guastalla"
+          ],
+          "prezzoAcquisto": 5175,
+          "prezzoLocazione": 20.45
+        },
+        {
+          "quartiereId": "city-life",
+          "quartiere": "CITY LIFE",
+          "nilIds": [
+            "tre-torri",
+            "portello"
+          ],
+          "prezzoAcquisto": 7150,
+          "prezzoLocazione": 24
+        },
+        {
+          "quartiereId": "forlanini-mecenate",
+          "quartiere": "FORLANINI, MECENATE, ORTOMERCATO, SANTA GIULIA",
+          "nilIds": [
+            "ortomercato",
+            "taliedo---morsenchio---qre-forlanini"
+          ],
+          "prezzoAcquisto": 1571,
+          "prezzoLocazione": 6.61
+        },
+        {
+          "quartiereId": "gallaratese-lampugnano",
+          "quartiere": "GALLARATESE, LAMPUGNANO, P. TRENNO, BONOLA",
+          "nilIds": [
+            "qre-gallaratese---qre-san-leonardo---lampugnano",
+            "trenno",
+            "figino"
+          ],
+          "prezzoAcquisto": 1425,
+          "prezzoLocazione": 6.16
+        },
+        {
+          "quartiereId": "ippodromo-monte-stella",
+          "quartiere": "IPPODROMO, CAPRILLI, MONTE STELLA",
+          "nilIds": [
+            "stadio---ippodromi",
+            "qt-8"
+          ],
+          "prezzoAcquisto": 2095,
+          "prezzoLocazione": 8.37
+        },
+        {
+          "quartiereId": "lambrate-rubattino",
+          "quartiere": "LAMBRATE, RUBATTINO, ROMBON",
+          "nilIds": [
+            "lambrate---ortica"
+          ],
+          "prezzoAcquisto": 1629,
+          "prezzoLocazione": 6.73
+        },
+        {
+          "quartiereId": "libia-xxii-marzo",
+          "quartiere": "LIBIA, ,XXII MARZO, INDIPENDENZA",
+          "nilIds": [
+            "xxii-marzo",
+            "corsica"
+          ],
+          "prezzoAcquisto": 2888,
+          "prezzoLocazione": 11.63
+        },
+        {
+          "quartiereId": "lorenteggio-inganni",
+          "quartiere": "LORENTEGGIO, INGANNI, BISCEGLIE, SAN CARLO B.",
+          "nilIds": [
+            "lorenteggio",
+            "giambellino",
+            "forze-armate",
+            "quarto-cagnino"
+          ],
+          "prezzoAcquisto": 1575,
+          "prezzoLocazione": 7.07
+        },
+        {
+          "quartiereId": "maggiolina",
+          "quartiere": "MAGGIOLINA, PARCO TROTTER, LEONCAVALLO",
+          "nilIds": [
+            "maciachini---maggiolina"
+          ],
+          "prezzoAcquisto": 1869,
+          "prezzoLocazione": 7.95
+        },
+        {
+          "quartiereId": "marocchetti-vigentino",
+          "quartiere": "MAROCCHETTI, VIGENTINO, CHIESA ROSSA",
+          "nilIds": [
+            "vigentino---qre-fatima",
+            "morivione",
+            "stadera---chiesa-rossa---qre-torretta---conca-fallata"
+          ],
+          "prezzoAcquisto": 1592,
+          "prezzoLocazione": 6.55
+        },
+        {
+          "quartiereId": "missaglia-gratosoglio",
+          "quartiere": "MISSAGLIA, GRATOSOGLIO",
+          "nilIds": [
+            "gratosoglio---qre-missaglia---qre-terrazze",
+            "ronchetto-delle-rane"
+          ],
+          "prezzoAcquisto": 1310,
+          "prezzoLocazione": 5.62
+        },
+        {
+          "quartiereId": "monza-crescenzago",
+          "quartiere": "MONZA, CRESCENZAGO, GORLA, QUARTIERE ADRIANO",
+          "nilIds": [
+            "adriano",
+            "gorla---precotto",
+            "padova---turro---crescenzago"
+          ],
+          "prezzoAcquisto": 1717,
+          "prezzoLocazione": 7.42
+        },
+        {
+          "quartiereId": "musocco-certosa",
+          "quartiere": "MUSOCCO, CERTOSA, EXPO, C.NA MERLATA",
+          "nilIds": [
+            "maggiore---musocco---certosa",
+            "cascina-merlata"
+          ],
+          "prezzoAcquisto": 1710,
+          "prezzoLocazione": 7.41
+        },
+        {
+          "quartiereId": "niguarda-bignami",
+          "quartiere": "NIGUARDA, BIGNAMI, PARCO NORD",
+          "nilIds": [
+            "niguarda---ca-granda---prato-centenaro---qre-fulvio-testi",
+            "parco-nord"
+          ],
+          "prezzoAcquisto": 1667,
+          "prezzoLocazione": 6.93
+        },
+        {
+          "quartiereId": "ortles-spadolini",
+          "quartiere": "ORTLES, SPADOLINI, BAZZI",
+          "nilIds": [
+            "scalo-romana",
+            "lodi---corvetto"
+          ],
+          "prezzoAcquisto": 1794,
+          "prezzoLocazione": 7.85
+        },
+        {
+          "quartiereId": "parco-lambro",
+          "quartiere": "PARCO LAMBRO, FELTRE, UDINE",
+          "nilIds": [
+            "cimiano---rottole---qre-feltre",
+            "parco-forlanini---cavriano"
+          ],
+          "prezzoAcquisto": 1669,
+          "prezzoLocazione": 6.98
+        },
+        {
+          "quartiereId": "parco-sempione",
+          "quartiere": "PARCO SEMPIONE, ARCO DELLA PACE, CORSO MAGENTA",
+          "nilIds": [
+            "parco-sempione",
+            "porta-magenta"
+          ],
+          "prezzoAcquisto": 4675,
+          "prezzoLocazione": 17.91
+        },
+        {
+          "quartiereId": "piola-argonne",
+          "quartiere": "PIOLA, ARGONNE, CORSICA",
+          "nilIds": [
+            "citta-studi"
+          ],
+          "prezzoAcquisto": 2530,
+          "prezzoLocazione": 9.95
+        },
+        {
+          "quartiereId": "pisani-buenos-aires",
+          "quartiere": "PISANI, BUENOS AIRES, REGINA GIOVANNA",
+          "nilIds": [
+            "loreto---casoretto---nolo"
+          ],
+          "prezzoAcquisto": 3492,
+          "prezzoLocazione": 15.02
+        },
+        {
+          "quartiereId": "porta-nuova",
+          "quartiere": "PORTA NUOVA",
+          "nilIds": [
+            "isola"
+          ],
+          "prezzoAcquisto": 7630,
+          "prezzoLocazione": 26.09
+        },
+        {
+          "quartiereId": "porta-ticinese",
+          "quartiere": "PORTA TICINESE, PORTA GENOVA, VIA SAN VITTORE",
+          "nilIds": [
+            "porta-ticinese---conca-del-naviglio",
+            "porta-genova",
+            "porta-ticinese---conchetta"
+          ],
+          "prezzoAcquisto": 3670,
+          "prezzoLocazione": 14.59
+        },
+        {
+          "quartiereId": "porta-vigentina",
+          "quartiere": "PORTA VIGENTINA, PORTA ROMANA",
+          "nilIds": [
+            "porta-vigentina---porta-lodovica",
+            "pta-romana"
+          ],
+          "prezzoAcquisto": 3807,
+          "prezzoLocazione": 15.34
+        },
+        {
+          "quartiereId": "quarto-oggiaro",
+          "quartiere": "QUARTO OGGIARO, SACCO",
+          "nilIds": [
+            "quarto-oggiaro---vialba---musocco",
+            "stephenson"
+          ],
+          "prezzoAcquisto": 1338,
+          "prezzoLocazione": 5.79
+        },
+        {
+          "quartiereId": "sarca-bicocca",
+          "quartiere": "SARCA, BICOCCA",
+          "nilIds": [
+            "bicocca",
+            "greco---segnano"
+          ],
+          "prezzoAcquisto": 1754,
+          "prezzoLocazione": 7.23
+        },
+        {
+          "quartiereId": "segesta-aretusa",
+          "quartiere": "SEGESTA, ARETUSA, VESPRI SICILIANI",
+          "nilIds": [
+            "san-siro",
+            "bande-nere"
+          ],
+          "prezzoAcquisto": 1931,
+          "prezzoLocazione": 8.45
+        },
+        {
+          "quartiereId": "sempione-pagano",
+          "quartiere": "SEMPIONE, PAGANO, WASHINGTON",
+          "nilIds": [
+            "pagano",
+            "de-angeli---monte-rosa"
+          ],
+          "prezzoAcquisto": 3435,
+          "prezzoLocazione": 13.41
+        },
+        {
+          "quartiereId": "solari-navigli",
+          "quartiere": "SOLARI, P.TA GENOVA, ASCANIO SFORZA",
+          "nilIds": [
+            "moncucco---san-cristoforo"
+          ],
+          "prezzoAcquisto": 2621,
+          "prezzoLocazione": 10.87
+        },
+        {
+          "quartiereId": "stazione-centrale",
+          "quartiere": "STAZIONE CENTRALE VIALE STELVIO",
+          "nilIds": [
+            "stazione-centrale---ponte-seveso"
+          ],
+          "prezzoAcquisto": 2697,
+          "prezzoLocazione": 11.05
+        },
+        {
+          "quartiereId": "tabacchi-sarfatti",
+          "quartiere": "TABACCHI, SARFATTI, CREMA",
+          "nilIds": [
+            "tibaldi"
+          ],
+          "prezzoAcquisto": 2471,
+          "prezzoLocazione": 10.39
+        },
+        {
+          "quartiereId": "tito-livio",
+          "quartiere": "TITO LIVIO, TERTULLIANO, LONGANESI",
+          "nilIds": [
+            "umbria---molise---calvairate"
+          ],
+          "prezzoAcquisto": 1871,
+          "prezzoLocazione": 7.79
+        },
+        {
+          "quartiereId": "turati-moscova",
+          "quartiere": "TURATI, MOSCOVA, CORSO VENEZIA",
+          "nilIds": [
+            "giardini-pta-venezia",
+            "porta-garibaldi---porta-nuova"
+          ],
+          "prezzoAcquisto": 4973,
+          "prezzoLocazione": 19.77
+        },
+        {
+          "quartiereId": "venezia-porta-vittoria",
+          "quartiere": "VENEZIA, PORTA VITTORIA, PORTA ROMANA",
+          "nilIds": [
+            "buenos-aires---porta-venezia---porta-monforte"
+          ],
+          "prezzoAcquisto": 5117,
+          "prezzoLocazione": 19.05
+        }
+      ],
+      "stats": {
+        "prezzoMedioAcquisto": 3031,
+        "prezzoMedioLocazione": 11.97,
+        "prezzoMax": 8710,
+        "prezzoMin": 1310,
+        "totaleQuartieri": 40
+      }
+    },
+    {
+      "semestre": "2022_1",
+      "label": "2022 H1",
+      "quartieri": [
+        {
+          "quartiereId": "baggio-quarto-romano",
+          "quartiere": "BAGGIO, Q. ROMANO, MUGGIANO",
+          "nilIds": [
+            "baggio---qre-degli-olmi---qre-valsesia",
+            "quinto-romano",
+            "muggiano"
+          ],
+          "prezzoAcquisto": 1474,
+          "prezzoLocazione": 6.12
+        },
+        {
+          "quartiereId": "barona-famagosta",
+          "quartiere": "BARONA, FAMAGOSTA, FAENZA",
+          "nilIds": [
+            "barona",
+            "cantalupa",
+            "ronchetto-sul-naviglio---qre-lodovico-il-moro"
+          ],
+          "prezzoAcquisto": 1890,
+          "prezzoLocazione": 8.56
+        },
+        {
+          "quartiereId": "bovisa-imbonati",
+          "quartiere": "BOVISA, BAUSAN, IMBONATI",
+          "nilIds": [
+            "bovisa",
+            "dergano"
+          ],
+          "prezzoAcquisto": 1696,
+          "prezzoLocazione": 7.18
+        },
+        {
+          "quartiereId": "bovisasca-affori",
+          "quartiere": "BOVISASCA, AFFORI, P. ROSSI , COMASINA",
+          "nilIds": [
+            "affori",
+            "bovisasca",
+            "comasina",
+            "bruzzano"
+          ],
+          "prezzoAcquisto": 1730,
+          "prezzoLocazione": 7.25
+        },
+        {
+          "quartiereId": "cenisio-farini",
+          "quartiere": "CENISIO, FARINI, SARPI",
+          "nilIds": [
+            "sarpi",
+            "farini",
+            "ghisolfa"
+          ],
+          "prezzoAcquisto": 2748,
+          "prezzoLocazione": 11.42
+        },
+        {
+          "quartiereId": "centro-brera",
+          "quartiere": "CENTRO STORICO - BRERA",
+          "nilIds": [
+            "brera"
+          ],
+          "prezzoAcquisto": 6888,
+          "prezzoLocazione": 24.15
+        },
+        {
+          "quartiereId": "centro-duomo",
+          "quartiere": "CENTRO STORICO -DUOMO, SANBABILA, MONTENAPOLEONE, MISSORI, CAIROLI",
+          "nilIds": [
+            "duomo"
+          ],
+          "prezzoAcquisto": 9060,
+          "prezzoLocazione": 36.39
+        },
+        {
+          "quartiereId": "centro-santambrogio",
+          "quartiere": "CENTRO STORICO -SANT`AMBROGIO, CADORNA, VIA DANTE",
+          "nilIds": [
+            "magenta---s-vittore"
+          ],
+          "prezzoAcquisto": 5825,
+          "prezzoLocazione": 21.22
+        },
+        {
+          "quartiereId": "centro-universita",
+          "quartiere": "CENTRO STORICO -UNIVERSITA STATALE, SAN LORENZO",
+          "nilIds": [
+            "guastalla"
+          ],
+          "prezzoAcquisto": 5342,
+          "prezzoLocazione": 21.01
+        },
+        {
+          "quartiereId": "city-life",
+          "quartiere": "CITY LIFE",
+          "nilIds": [
+            "tre-torri",
+            "portello"
+          ],
+          "prezzoAcquisto": 7233,
+          "prezzoLocazione": 24.33
+        },
+        {
+          "quartiereId": "forlanini-mecenate",
+          "quartiere": "FORLANINI, MECENATE, ORTOMERCATO, SANTA GIULIA",
+          "nilIds": [
+            "ortomercato",
+            "taliedo---morsenchio---qre-forlanini"
+          ],
+          "prezzoAcquisto": 1723,
+          "prezzoLocazione": 7.03
+        },
+        {
+          "quartiereId": "gallaratese-lampugnano",
+          "quartiere": "GALLARATESE, LAMPUGNANO, P. TRENNO, BONOLA",
+          "nilIds": [
+            "qre-gallaratese---qre-san-leonardo---lampugnano",
+            "trenno",
+            "figino"
+          ],
+          "prezzoAcquisto": 1442,
+          "prezzoLocazione": 6.21
+        },
+        {
+          "quartiereId": "ippodromo-monte-stella",
+          "quartiere": "IPPODROMO, CAPRILLI, MONTE STELLA",
+          "nilIds": [
+            "stadio---ippodromi",
+            "qt-8"
+          ],
+          "prezzoAcquisto": 2170,
+          "prezzoLocazione": 8.59
+        },
+        {
+          "quartiereId": "lambrate-rubattino",
+          "quartiere": "LAMBRATE, RUBATTINO, ROMBON",
+          "nilIds": [
+            "lambrate---ortica"
+          ],
+          "prezzoAcquisto": 1713,
+          "prezzoLocazione": 6.99
+        },
+        {
+          "quartiereId": "libia-xxii-marzo",
+          "quartiere": "LIBIA, ,XXII MARZO, INDIPENDENZA",
+          "nilIds": [
+            "xxii-marzo",
+            "corsica"
+          ],
+          "prezzoAcquisto": 3006,
+          "prezzoLocazione": 12.13
+        },
+        {
+          "quartiereId": "lorenteggio-inganni",
+          "quartiere": "LORENTEGGIO, INGANNI, BISCEGLIE, SAN CARLO B.",
+          "nilIds": [
+            "lorenteggio",
+            "giambellino",
+            "forze-armate",
+            "quarto-cagnino"
+          ],
+          "prezzoAcquisto": 1788,
+          "prezzoLocazione": 7.48
+        },
+        {
+          "quartiereId": "maggiolina",
+          "quartiere": "MAGGIOLINA, PARCO TROTTER, LEONCAVALLO",
+          "nilIds": [
+            "maciachini---maggiolina"
+          ],
+          "prezzoAcquisto": 1915,
+          "prezzoLocazione": 8.16
+        },
+        {
+          "quartiereId": "marocchetti-vigentino",
+          "quartiere": "MAROCCHETTI, VIGENTINO, CHIESA ROSSA",
+          "nilIds": [
+            "vigentino---qre-fatima",
+            "morivione",
+            "stadera---chiesa-rossa---qre-torretta---conca-fallata"
+          ],
+          "prezzoAcquisto": 1665,
+          "prezzoLocazione": 6.87
+        },
+        {
+          "quartiereId": "missaglia-gratosoglio",
+          "quartiere": "MISSAGLIA, GRATOSOGLIO",
+          "nilIds": [
+            "gratosoglio---qre-missaglia---qre-terrazze",
+            "ronchetto-delle-rane"
+          ],
+          "prezzoAcquisto": 1342,
+          "prezzoLocazione": 5.7
+        },
+        {
+          "quartiereId": "monza-crescenzago",
+          "quartiere": "MONZA, CRESCENZAGO, GORLA, QUARTIERE ADRIANO",
+          "nilIds": [
+            "adriano",
+            "gorla---precotto",
+            "padova---turro---crescenzago"
+          ],
+          "prezzoAcquisto": 1802,
+          "prezzoLocazione": 7.63
+        },
+        {
+          "quartiereId": "musocco-certosa",
+          "quartiere": "MUSOCCO, CERTOSA, EXPO, C.NA MERLATA",
+          "nilIds": [
+            "maggiore---musocco---certosa",
+            "cascina-merlata"
+          ],
+          "prezzoAcquisto": 1821,
+          "prezzoLocazione": 7.93
+        },
+        {
+          "quartiereId": "niguarda-bignami",
+          "quartiere": "NIGUARDA, BIGNAMI, PARCO NORD",
+          "nilIds": [
+            "niguarda---ca-granda---prato-centenaro---qre-fulvio-testi",
+            "parco-nord"
+          ],
+          "prezzoAcquisto": 1733,
+          "prezzoLocazione": 7.16
+        },
+        {
+          "quartiereId": "ortles-spadolini",
+          "quartiere": "ORTLES, SPADOLINI, BAZZI",
+          "nilIds": [
+            "scalo-romana",
+            "lodi---corvetto"
+          ],
+          "prezzoAcquisto": 1913,
+          "prezzoLocazione": 8.04
+        },
+        {
+          "quartiereId": "parco-lambro",
+          "quartiere": "PARCO LAMBRO, FELTRE, UDINE",
+          "nilIds": [
+            "cimiano---rottole---qre-feltre",
+            "parco-forlanini---cavriano"
+          ],
+          "prezzoAcquisto": 1767,
+          "prezzoLocazione": 7.33
+        },
+        {
+          "quartiereId": "parco-sempione",
+          "quartiere": "PARCO SEMPIONE, ARCO DELLA PACE, CORSO MAGENTA",
+          "nilIds": [
+            "parco-sempione",
+            "porta-magenta"
+          ],
+          "prezzoAcquisto": 4933,
+          "prezzoLocazione": 18.61
+        },
+        {
+          "quartiereId": "piola-argonne",
+          "quartiere": "PIOLA, ARGONNE, CORSICA",
+          "nilIds": [
+            "citta-studi"
+          ],
+          "prezzoAcquisto": 2687,
+          "prezzoLocazione": 10.47
+        },
+        {
+          "quartiereId": "pisani-buenos-aires",
+          "quartiere": "PISANI, BUENOS AIRES, REGINA GIOVANNA",
+          "nilIds": [
+            "loreto---casoretto---nolo"
+          ],
+          "prezzoAcquisto": 3631,
+          "prezzoLocazione": 15.7
+        },
+        {
+          "quartiereId": "porta-nuova",
+          "quartiere": "PORTA NUOVA",
+          "nilIds": [
+            "isola"
+          ],
+          "prezzoAcquisto": 7660,
+          "prezzoLocazione": 25.89
+        },
+        {
+          "quartiereId": "porta-ticinese",
+          "quartiere": "PORTA TICINESE, PORTA GENOVA, VIA SAN VITTORE",
+          "nilIds": [
+            "porta-ticinese---conca-del-naviglio",
+            "porta-genova",
+            "porta-ticinese---conchetta"
+          ],
+          "prezzoAcquisto": 3784,
+          "prezzoLocazione": 14.96
+        },
+        {
+          "quartiereId": "porta-vigentina",
+          "quartiere": "PORTA VIGENTINA, PORTA ROMANA",
+          "nilIds": [
+            "porta-vigentina---porta-lodovica",
+            "pta-romana"
+          ],
+          "prezzoAcquisto": 3925,
+          "prezzoLocazione": 15.57
+        },
+        {
+          "quartiereId": "quarto-oggiaro",
+          "quartiere": "QUARTO OGGIARO, SACCO",
+          "nilIds": [
+            "quarto-oggiaro---vialba---musocco",
+            "stephenson"
+          ],
+          "prezzoAcquisto": 1324,
+          "prezzoLocazione": 5.88
+        },
+        {
+          "quartiereId": "sarca-bicocca",
+          "quartiere": "SARCA, BICOCCA",
+          "nilIds": [
+            "bicocca",
+            "greco---segnano"
+          ],
+          "prezzoAcquisto": 1779,
+          "prezzoLocazione": 7.4
+        },
+        {
+          "quartiereId": "segesta-aretusa",
+          "quartiere": "SEGESTA, ARETUSA, VESPRI SICILIANI",
+          "nilIds": [
+            "san-siro",
+            "bande-nere"
+          ],
+          "prezzoAcquisto": 2019,
+          "prezzoLocazione": 8.85
+        },
+        {
+          "quartiereId": "sempione-pagano",
+          "quartiere": "SEMPIONE, PAGANO, WASHINGTON",
+          "nilIds": [
+            "pagano",
+            "de-angeli---monte-rosa"
+          ],
+          "prezzoAcquisto": 3553,
+          "prezzoLocazione": 13.79
+        },
+        {
+          "quartiereId": "solari-navigli",
+          "quartiere": "SOLARI, P.TA GENOVA, ASCANIO SFORZA",
+          "nilIds": [
+            "moncucco---san-cristoforo"
+          ],
+          "prezzoAcquisto": 2706,
+          "prezzoLocazione": 11.34
+        },
+        {
+          "quartiereId": "stazione-centrale",
+          "quartiere": "STAZIONE CENTRALE VIALE STELVIO",
+          "nilIds": [
+            "stazione-centrale---ponte-seveso"
+          ],
+          "prezzoAcquisto": 2773,
+          "prezzoLocazione": 11.3
+        },
+        {
+          "quartiereId": "tabacchi-sarfatti",
+          "quartiere": "TABACCHI, SARFATTI, CREMA",
+          "nilIds": [
+            "tibaldi"
+          ],
+          "prezzoAcquisto": 2583,
+          "prezzoLocazione": 10.72
+        },
+        {
+          "quartiereId": "tito-livio",
+          "quartiere": "TITO LIVIO, TERTULLIANO, LONGANESI",
+          "nilIds": [
+            "umbria---molise---calvairate"
+          ],
+          "prezzoAcquisto": 2077,
+          "prezzoLocazione": 8.36
+        },
+        {
+          "quartiereId": "turati-moscova",
+          "quartiere": "TURATI, MOSCOVA, CORSO VENEZIA",
+          "nilIds": [
+            "giardini-pta-venezia",
+            "porta-garibaldi---porta-nuova"
+          ],
+          "prezzoAcquisto": 5145,
+          "prezzoLocazione": 20.8
+        },
+        {
+          "quartiereId": "venezia-porta-vittoria",
+          "quartiere": "VENEZIA, PORTA VITTORIA, PORTA ROMANA",
+          "nilIds": [
+            "buenos-aires---porta-venezia---porta-monforte"
+          ],
+          "prezzoAcquisto": 5375,
+          "prezzoLocazione": 19.52
+        }
+      ],
+      "stats": {
+        "prezzoMedioAcquisto": 3141,
+        "prezzoMedioLocazione": 12.35,
+        "prezzoMax": 9060,
+        "prezzoMin": 1324,
+        "totaleQuartieri": 40
+      }
+    },
+    {
+      "semestre": "2022_2",
+      "label": "2022 H2",
+      "quartieri": [
+        {
+          "quartiereId": "baggio-quarto-romano",
+          "quartiere": "BAGGIO, Q. ROMANO, MUGGIANO",
+          "nilIds": [
+            "baggio---qre-degli-olmi---qre-valsesia",
+            "quinto-romano",
+            "muggiano"
+          ],
+          "prezzoAcquisto": 1592,
+          "prezzoLocazione": 6.62
+        },
+        {
+          "quartiereId": "barona-famagosta",
+          "quartiere": "BARONA, FAMAGOSTA, FAENZA",
+          "nilIds": [
+            "barona",
+            "cantalupa",
+            "ronchetto-sul-naviglio---qre-lodovico-il-moro"
+          ],
+          "prezzoAcquisto": 1948,
+          "prezzoLocazione": 8.98
+        },
+        {
+          "quartiereId": "bovisa-imbonati",
+          "quartiere": "BOVISA, BAUSAN, IMBONATI",
+          "nilIds": [
+            "bovisa",
+            "dergano"
+          ],
+          "prezzoAcquisto": 1729,
+          "prezzoLocazione": 7.38
+        },
+        {
+          "quartiereId": "bovisasca-affori",
+          "quartiere": "BOVISASCA, AFFORI, P. ROSSI , COMASINA",
+          "nilIds": [
+            "affori",
+            "bovisasca",
+            "comasina",
+            "bruzzano"
+          ],
+          "prezzoAcquisto": 1788,
+          "prezzoLocazione": 7.6
+        },
+        {
+          "quartiereId": "cenisio-farini",
+          "quartiere": "CENISIO, FARINI, SARPI",
+          "nilIds": [
+            "sarpi",
+            "farini",
+            "ghisolfa"
+          ],
+          "prezzoAcquisto": 2833,
+          "prezzoLocazione": 11.8
+        },
+        {
+          "quartiereId": "centro-brera",
+          "quartiere": "CENTRO STORICO - BRERA",
+          "nilIds": [
+            "brera"
+          ],
+          "prezzoAcquisto": 7142,
+          "prezzoLocazione": 26.47
+        },
+        {
+          "quartiereId": "centro-duomo",
+          "quartiere": "CENTRO STORICO -DUOMO, SANBABILA, MONTENAPOLEONE, MISSORI, CAIROLI",
+          "nilIds": [
+            "duomo"
+          ],
+          "prezzoAcquisto": 9090,
+          "prezzoLocazione": 37.8
+        },
+        {
+          "quartiereId": "centro-santambrogio",
+          "quartiere": "CENTRO STORICO -SANT`AMBROGIO, CADORNA, VIA DANTE",
+          "nilIds": [
+            "magenta---s-vittore"
+          ],
+          "prezzoAcquisto": 5988,
+          "prezzoLocazione": 22.31
+        },
+        {
+          "quartiereId": "centro-universita",
+          "quartiere": "CENTRO STORICO -UNIVERSITA STATALE, SAN LORENZO",
+          "nilIds": [
+            "guastalla"
+          ],
+          "prezzoAcquisto": 5413,
+          "prezzoLocazione": 21.1
+        },
+        {
+          "quartiereId": "city-life",
+          "quartiere": "CITY LIFE",
+          "nilIds": [
+            "tre-torri",
+            "portello"
+          ],
+          "prezzoAcquisto": 7267,
+          "prezzoLocazione": 24.83
+        },
+        {
+          "quartiereId": "forlanini-mecenate",
+          "quartiere": "FORLANINI, MECENATE, ORTOMERCATO, SANTA GIULIA",
+          "nilIds": [
+            "ortomercato",
+            "taliedo---morsenchio---qre-forlanini"
+          ],
+          "prezzoAcquisto": 1796,
+          "prezzoLocazione": 7.42
+        },
+        {
+          "quartiereId": "gallaratese-lampugnano",
+          "quartiere": "GALLARATESE, LAMPUGNANO, P. TRENNO, BONOLA",
+          "nilIds": [
+            "qre-gallaratese---qre-san-leonardo---lampugnano",
+            "trenno",
+            "figino"
+          ],
+          "prezzoAcquisto": 1552,
+          "prezzoLocazione": 6.9
+        },
+        {
+          "quartiereId": "ippodromo-monte-stella",
+          "quartiere": "IPPODROMO, CAPRILLI, MONTE STELLA",
+          "nilIds": [
+            "stadio---ippodromi",
+            "qt-8"
+          ],
+          "prezzoAcquisto": 2168,
+          "prezzoLocazione": 8.59
+        },
+        {
+          "quartiereId": "lambrate-rubattino",
+          "quartiere": "LAMBRATE, RUBATTINO, ROMBON",
+          "nilIds": [
+            "lambrate---ortica"
+          ],
+          "prezzoAcquisto": 1833,
+          "prezzoLocazione": 7.34
+        },
+        {
+          "quartiereId": "libia-xxii-marzo",
+          "quartiere": "LIBIA, ,XXII MARZO, INDIPENDENZA",
+          "nilIds": [
+            "xxii-marzo",
+            "corsica"
+          ],
+          "prezzoAcquisto": 3063,
+          "prezzoLocazione": 12.59
+        },
+        {
+          "quartiereId": "lorenteggio-inganni",
+          "quartiere": "LORENTEGGIO, INGANNI, BISCEGLIE, SAN CARLO B.",
+          "nilIds": [
+            "lorenteggio",
+            "giambellino",
+            "forze-armate",
+            "quarto-cagnino"
+          ],
+          "prezzoAcquisto": 1819,
+          "prezzoLocazione": 7.8
+        },
+        {
+          "quartiereId": "maggiolina",
+          "quartiere": "MAGGIOLINA, PARCO TROTTER, LEONCAVALLO",
+          "nilIds": [
+            "maciachini---maggiolina"
+          ],
+          "prezzoAcquisto": 2017,
+          "prezzoLocazione": 8.5
+        },
+        {
+          "quartiereId": "marocchetti-vigentino",
+          "quartiere": "MAROCCHETTI, VIGENTINO, CHIESA ROSSA",
+          "nilIds": [
+            "vigentino---qre-fatima",
+            "morivione",
+            "stadera---chiesa-rossa---qre-torretta---conca-fallata"
+          ],
+          "prezzoAcquisto": 1825,
+          "prezzoLocazione": 7.54
+        },
+        {
+          "quartiereId": "missaglia-gratosoglio",
+          "quartiere": "MISSAGLIA, GRATOSOGLIO",
+          "nilIds": [
+            "gratosoglio---qre-missaglia---qre-terrazze",
+            "ronchetto-delle-rane"
+          ],
+          "prezzoAcquisto": 1375,
+          "prezzoLocazione": 5.88
+        },
+        {
+          "quartiereId": "monza-crescenzago",
+          "quartiere": "MONZA, CRESCENZAGO, GORLA, QUARTIERE ADRIANO",
+          "nilIds": [
+            "adriano",
+            "gorla---precotto",
+            "padova---turro---crescenzago"
+          ],
+          "prezzoAcquisto": 1919,
+          "prezzoLocazione": 7.96
+        },
+        {
+          "quartiereId": "musocco-certosa",
+          "quartiere": "MUSOCCO, CERTOSA, EXPO, C.NA MERLATA",
+          "nilIds": [
+            "maggiore---musocco---certosa",
+            "cascina-merlata"
+          ],
+          "prezzoAcquisto": 1810,
+          "prezzoLocazione": 7.93
+        },
+        {
+          "quartiereId": "niguarda-bignami",
+          "quartiere": "NIGUARDA, BIGNAMI, PARCO NORD",
+          "nilIds": [
+            "niguarda---ca-granda---prato-centenaro---qre-fulvio-testi",
+            "parco-nord"
+          ],
+          "prezzoAcquisto": 1788,
+          "prezzoLocazione": 7.27
+        },
+        {
+          "quartiereId": "ortles-spadolini",
+          "quartiere": "ORTLES, SPADOLINI, BAZZI",
+          "nilIds": [
+            "scalo-romana",
+            "lodi---corvetto"
+          ],
+          "prezzoAcquisto": 2002,
+          "prezzoLocazione": 8.55
+        },
+        {
+          "quartiereId": "parco-lambro",
+          "quartiere": "PARCO LAMBRO, FELTRE, UDINE",
+          "nilIds": [
+            "cimiano---rottole---qre-feltre",
+            "parco-forlanini---cavriano"
+          ],
+          "prezzoAcquisto": 1821,
+          "prezzoLocazione": 7.77
+        },
+        {
+          "quartiereId": "parco-sempione",
+          "quartiere": "PARCO SEMPIONE, ARCO DELLA PACE, CORSO MAGENTA",
+          "nilIds": [
+            "parco-sempione",
+            "porta-magenta"
+          ],
+          "prezzoAcquisto": 5117,
+          "prezzoLocazione": 19.46
+        },
+        {
+          "quartiereId": "piola-argonne",
+          "quartiere": "PIOLA, ARGONNE, CORSICA",
+          "nilIds": [
+            "citta-studi"
+          ],
+          "prezzoAcquisto": 2892,
+          "prezzoLocazione": 11.09
+        },
+        {
+          "quartiereId": "pisani-buenos-aires",
+          "quartiere": "PISANI, BUENOS AIRES, REGINA GIOVANNA",
+          "nilIds": [
+            "loreto---casoretto---nolo"
+          ],
+          "prezzoAcquisto": 3823,
+          "prezzoLocazione": 16.58
+        },
+        {
+          "quartiereId": "porta-nuova",
+          "quartiere": "PORTA NUOVA",
+          "nilIds": [
+            "isola"
+          ],
+          "prezzoAcquisto": 8010,
+          "prezzoLocazione": 26.63
+        },
+        {
+          "quartiereId": "porta-ticinese",
+          "quartiere": "PORTA TICINESE, PORTA GENOVA, VIA SAN VITTORE",
+          "nilIds": [
+            "porta-ticinese---conca-del-naviglio",
+            "porta-genova",
+            "porta-ticinese---conchetta"
+          ],
+          "prezzoAcquisto": 3880,
+          "prezzoLocazione": 15.29
+        },
+        {
+          "quartiereId": "porta-vigentina",
+          "quartiere": "PORTA VIGENTINA, PORTA ROMANA",
+          "nilIds": [
+            "porta-vigentina---porta-lodovica",
+            "pta-romana"
+          ],
+          "prezzoAcquisto": 4095,
+          "prezzoLocazione": 16.27
+        },
+        {
+          "quartiereId": "quarto-oggiaro",
+          "quartiere": "QUARTO OGGIARO, SACCO",
+          "nilIds": [
+            "quarto-oggiaro---vialba---musocco",
+            "stephenson"
+          ],
+          "prezzoAcquisto": 1333,
+          "prezzoLocazione": 5.98
+        },
+        {
+          "quartiereId": "sarca-bicocca",
+          "quartiere": "SARCA, BICOCCA",
+          "nilIds": [
+            "bicocca",
+            "greco---segnano"
+          ],
+          "prezzoAcquisto": 1867,
+          "prezzoLocazione": 7.68
+        },
+        {
+          "quartiereId": "segesta-aretusa",
+          "quartiere": "SEGESTA, ARETUSA, VESPRI SICILIANI",
+          "nilIds": [
+            "san-siro",
+            "bande-nere"
+          ],
+          "prezzoAcquisto": 2071,
+          "prezzoLocazione": 9.02
+        },
+        {
+          "quartiereId": "sempione-pagano",
+          "quartiere": "SEMPIONE, PAGANO, WASHINGTON",
+          "nilIds": [
+            "pagano",
+            "de-angeli---monte-rosa"
+          ],
+          "prezzoAcquisto": 3860,
+          "prezzoLocazione": 14.23
+        },
+        {
+          "quartiereId": "solari-navigli",
+          "quartiere": "SOLARI, P.TA GENOVA, ASCANIO SFORZA",
+          "nilIds": [
+            "moncucco---san-cristoforo"
+          ],
+          "prezzoAcquisto": 2812,
+          "prezzoLocazione": 11.91
+        },
+        {
+          "quartiereId": "stazione-centrale",
+          "quartiere": "STAZIONE CENTRALE VIALE STELVIO",
+          "nilIds": [
+            "stazione-centrale---ponte-seveso"
+          ],
+          "prezzoAcquisto": 2933,
+          "prezzoLocazione": 12.22
+        },
+        {
+          "quartiereId": "tabacchi-sarfatti",
+          "quartiere": "TABACCHI, SARFATTI, CREMA",
+          "nilIds": [
+            "tibaldi"
+          ],
+          "prezzoAcquisto": 2627,
+          "prezzoLocazione": 10.84
+        },
+        {
+          "quartiereId": "tito-livio",
+          "quartiere": "TITO LIVIO, TERTULLIANO, LONGANESI",
+          "nilIds": [
+            "umbria---molise---calvairate"
+          ],
+          "prezzoAcquisto": 2258,
+          "prezzoLocazione": 9.17
+        },
+        {
+          "quartiereId": "turati-moscova",
+          "quartiere": "TURATI, MOSCOVA, CORSO VENEZIA",
+          "nilIds": [
+            "giardini-pta-venezia",
+            "porta-garibaldi---porta-nuova"
+          ],
+          "prezzoAcquisto": 5314,
+          "prezzoLocazione": 21.5
+        },
+        {
+          "quartiereId": "venezia-porta-vittoria",
+          "quartiere": "VENEZIA, PORTA VITTORIA, PORTA ROMANA",
+          "nilIds": [
+            "buenos-aires---porta-venezia---porta-monforte"
+          ],
+          "prezzoAcquisto": 5585,
+          "prezzoLocazione": 19.87
+        }
+      ],
+      "stats": {
+        "prezzoMedioAcquisto": 3251,
+        "prezzoMedioLocazione": 12.87,
+        "prezzoMax": 9090,
+        "prezzoMin": 1333,
+        "totaleQuartieri": 40
+      }
+    },
+    {
+      "semestre": "2023_1",
+      "label": "2023 H1",
+      "quartieri": [
+        {
+          "quartiereId": "baggio-quarto-romano",
+          "quartiere": "BAGGIO, Q. ROMANO, MUGGIANO",
+          "nilIds": [
+            "baggio---qre-degli-olmi---qre-valsesia",
+            "quinto-romano",
+            "muggiano"
+          ],
+          "prezzoAcquisto": 1634,
+          "prezzoLocazione": 6.83
+        },
+        {
+          "quartiereId": "barona-famagosta",
+          "quartiere": "BARONA, FAMAGOSTA, FAENZA",
+          "nilIds": [
+            "barona",
+            "cantalupa",
+            "ronchetto-sul-naviglio---qre-lodovico-il-moro"
+          ],
+          "prezzoAcquisto": 2033,
+          "prezzoLocazione": 9.59
+        },
+        {
+          "quartiereId": "bovisa-imbonati",
+          "quartiere": "BOVISA, BAUSAN, IMBONATI",
+          "nilIds": [
+            "bovisa",
+            "dergano"
+          ],
+          "prezzoAcquisto": 1904,
+          "prezzoLocazione": 8.3
+        },
+        {
+          "quartiereId": "bovisasca-affori",
+          "quartiere": "BOVISASCA, AFFORI, P. ROSSI , COMASINA",
+          "nilIds": [
+            "affori",
+            "bovisasca",
+            "comasina",
+            "bruzzano"
+          ],
+          "prezzoAcquisto": 1850,
+          "prezzoLocazione": 7.98
+        },
+        {
+          "quartiereId": "cenisio-farini",
+          "quartiere": "CENISIO, FARINI, SARPI",
+          "nilIds": [
+            "sarpi",
+            "farini",
+            "ghisolfa"
+          ],
+          "prezzoAcquisto": 2923,
+          "prezzoLocazione": 12.39
+        },
+        {
+          "quartiereId": "centro-brera",
+          "quartiere": "CENTRO STORICO - BRERA",
+          "nilIds": [
+            "brera"
+          ],
+          "prezzoAcquisto": 7663,
+          "prezzoLocazione": 28.55
+        },
+        {
+          "quartiereId": "centro-duomo",
+          "quartiere": "CENTRO STORICO -DUOMO, SANBABILA, MONTENAPOLEONE, MISSORI, CAIROLI",
+          "nilIds": [
+            "duomo"
+          ],
+          "prezzoAcquisto": 9373,
+          "prezzoLocazione": 38.44
+        },
+        {
+          "quartiereId": "centro-santambrogio",
+          "quartiere": "CENTRO STORICO -SANT`AMBROGIO, CADORNA, VIA DANTE",
+          "nilIds": [
+            "magenta---s-vittore"
+          ],
+          "prezzoAcquisto": 6033,
+          "prezzoLocazione": 22.67
+        },
+        {
+          "quartiereId": "centro-universita",
+          "quartiere": "CENTRO STORICO -UNIVERSITA STATALE, SAN LORENZO",
+          "nilIds": [
+            "guastalla"
+          ],
+          "prezzoAcquisto": 5388,
+          "prezzoLocazione": 21.29
+        },
+        {
+          "quartiereId": "city-life",
+          "quartiere": "CITY LIFE",
+          "nilIds": [
+            "tre-torri",
+            "portello"
+          ],
+          "prezzoAcquisto": 7917,
+          "prezzoLocazione": 26.33
+        },
+        {
+          "quartiereId": "forlanini-mecenate",
+          "quartiere": "FORLANINI, MECENATE, ORTOMERCATO, SANTA GIULIA",
+          "nilIds": [
+            "ortomercato",
+            "taliedo---morsenchio---qre-forlanini"
+          ],
+          "prezzoAcquisto": 1838,
+          "prezzoLocazione": 7.63
+        },
+        {
+          "quartiereId": "gallaratese-lampugnano",
+          "quartiere": "GALLARATESE, LAMPUGNANO, P. TRENNO, BONOLA",
+          "nilIds": [
+            "qre-gallaratese---qre-san-leonardo---lampugnano",
+            "trenno",
+            "figino"
+          ],
+          "prezzoAcquisto": 1598,
+          "prezzoLocazione": 7.18
+        },
+        {
+          "quartiereId": "ippodromo-monte-stella",
+          "quartiere": "IPPODROMO, CAPRILLI, MONTE STELLA",
+          "nilIds": [
+            "stadio---ippodromi",
+            "qt-8"
+          ],
+          "prezzoAcquisto": 2213,
+          "prezzoLocazione": 8.68
+        },
+        {
+          "quartiereId": "lambrate-rubattino",
+          "quartiere": "LAMBRATE, RUBATTINO, ROMBON",
+          "nilIds": [
+            "lambrate---ortica"
+          ],
+          "prezzoAcquisto": 1975,
+          "prezzoLocazione": 7.85
+        },
+        {
+          "quartiereId": "libia-xxii-marzo",
+          "quartiere": "LIBIA, ,XXII MARZO, INDIPENDENZA",
+          "nilIds": [
+            "xxii-marzo",
+            "corsica"
+          ],
+          "prezzoAcquisto": 3173,
+          "prezzoLocazione": 12.99
+        },
+        {
+          "quartiereId": "lorenteggio-inganni",
+          "quartiere": "LORENTEGGIO, INGANNI, BISCEGLIE, SAN CARLO B.",
+          "nilIds": [
+            "lorenteggio",
+            "giambellino",
+            "forze-armate",
+            "quarto-cagnino"
+          ],
+          "prezzoAcquisto": 1904,
+          "prezzoLocazione": 8.16
+        },
+        {
+          "quartiereId": "maggiolina",
+          "quartiere": "MAGGIOLINA, PARCO TROTTER, LEONCAVALLO",
+          "nilIds": [
+            "maciachini---maggiolina"
+          ],
+          "prezzoAcquisto": 2190,
+          "prezzoLocazione": 9.03
+        },
+        {
+          "quartiereId": "marocchetti-vigentino",
+          "quartiere": "MAROCCHETTI, VIGENTINO, CHIESA ROSSA",
+          "nilIds": [
+            "vigentino---qre-fatima",
+            "morivione",
+            "stadera---chiesa-rossa---qre-torretta---conca-fallata"
+          ],
+          "prezzoAcquisto": 1915,
+          "prezzoLocazione": 8.16
+        },
+        {
+          "quartiereId": "missaglia-gratosoglio",
+          "quartiere": "MISSAGLIA, GRATOSOGLIO",
+          "nilIds": [
+            "gratosoglio---qre-missaglia---qre-terrazze",
+            "ronchetto-delle-rane"
+          ],
+          "prezzoAcquisto": 1440,
+          "prezzoLocazione": 6.14
+        },
+        {
+          "quartiereId": "monza-crescenzago",
+          "quartiere": "MONZA, CRESCENZAGO, GORLA, QUARTIERE ADRIANO",
+          "nilIds": [
+            "adriano",
+            "gorla---precotto",
+            "padova---turro---crescenzago"
+          ],
+          "prezzoAcquisto": 2015,
+          "prezzoLocazione": 8.37
+        },
+        {
+          "quartiereId": "musocco-certosa",
+          "quartiere": "MUSOCCO, CERTOSA, EXPO, C.NA MERLATA",
+          "nilIds": [
+            "maggiore---musocco---certosa",
+            "cascina-merlata"
+          ],
+          "prezzoAcquisto": 1969,
+          "prezzoLocazione": 8.95
+        },
+        {
+          "quartiereId": "niguarda-bignami",
+          "quartiere": "NIGUARDA, BIGNAMI, PARCO NORD",
+          "nilIds": [
+            "niguarda---ca-granda---prato-centenaro---qre-fulvio-testi",
+            "parco-nord"
+          ],
+          "prezzoAcquisto": 1852,
+          "prezzoLocazione": 7.6
+        },
+        {
+          "quartiereId": "ortles-spadolini",
+          "quartiere": "ORTLES, SPADOLINI, BAZZI",
+          "nilIds": [
+            "scalo-romana",
+            "lodi---corvetto"
+          ],
+          "prezzoAcquisto": 2092,
+          "prezzoLocazione": 9.1
+        },
+        {
+          "quartiereId": "parco-lambro",
+          "quartiere": "PARCO LAMBRO, FELTRE, UDINE",
+          "nilIds": [
+            "cimiano---rottole---qre-feltre",
+            "parco-forlanini---cavriano"
+          ],
+          "prezzoAcquisto": 1890,
+          "prezzoLocazione": 8.33
+        },
+        {
+          "quartiereId": "parco-sempione",
+          "quartiere": "PARCO SEMPIONE, ARCO DELLA PACE, CORSO MAGENTA",
+          "nilIds": [
+            "parco-sempione",
+            "porta-magenta"
+          ],
+          "prezzoAcquisto": 5354,
+          "prezzoLocazione": 19.93
+        },
+        {
+          "quartiereId": "piola-argonne",
+          "quartiere": "PIOLA, ARGONNE, CORSICA",
+          "nilIds": [
+            "citta-studi"
+          ],
+          "prezzoAcquisto": 2933,
+          "prezzoLocazione": 11.66
+        },
+        {
+          "quartiereId": "pisani-buenos-aires",
+          "quartiere": "PISANI, BUENOS AIRES, REGINA GIOVANNA",
+          "nilIds": [
+            "loreto---casoretto---nolo"
+          ],
+          "prezzoAcquisto": 3952,
+          "prezzoLocazione": 16.86
+        },
+        {
+          "quartiereId": "porta-nuova",
+          "quartiere": "PORTA NUOVA",
+          "nilIds": [
+            "isola"
+          ],
+          "prezzoAcquisto": 8000,
+          "prezzoLocazione": 27.23
+        },
+        {
+          "quartiereId": "porta-ticinese",
+          "quartiere": "PORTA TICINESE, PORTA GENOVA, VIA SAN VITTORE",
+          "nilIds": [
+            "porta-ticinese---conca-del-naviglio",
+            "porta-genova",
+            "porta-ticinese---conchetta"
+          ],
+          "prezzoAcquisto": 3936,
+          "prezzoLocazione": 15.86
+        },
+        {
+          "quartiereId": "porta-vigentina",
+          "quartiere": "PORTA VIGENTINA, PORTA ROMANA",
+          "nilIds": [
+            "porta-vigentina---porta-lodovica",
+            "pta-romana"
+          ],
+          "prezzoAcquisto": 4343,
+          "prezzoLocazione": 17.58
+        },
+        {
+          "quartiereId": "quarto-oggiaro",
+          "quartiere": "QUARTO OGGIARO, SACCO",
+          "nilIds": [
+            "quarto-oggiaro---vialba---musocco",
+            "stephenson"
+          ],
+          "prezzoAcquisto": 1396,
+          "prezzoLocazione": 6.27
+        },
+        {
+          "quartiereId": "sarca-bicocca",
+          "quartiere": "SARCA, BICOCCA",
+          "nilIds": [
+            "bicocca",
+            "greco---segnano"
+          ],
+          "prezzoAcquisto": 1913,
+          "prezzoLocazione": 8.04
+        },
+        {
+          "quartiereId": "segesta-aretusa",
+          "quartiere": "SEGESTA, ARETUSA, VESPRI SICILIANI",
+          "nilIds": [
+            "san-siro",
+            "bande-nere"
+          ],
+          "prezzoAcquisto": 2125,
+          "prezzoLocazione": 9.42
+        },
+        {
+          "quartiereId": "sempione-pagano",
+          "quartiere": "SEMPIONE, PAGANO, WASHINGTON",
+          "nilIds": [
+            "pagano",
+            "de-angeli---monte-rosa"
+          ],
+          "prezzoAcquisto": 4018,
+          "prezzoLocazione": 15.07
+        },
+        {
+          "quartiereId": "solari-navigli",
+          "quartiere": "SOLARI, P.TA GENOVA, ASCANIO SFORZA",
+          "nilIds": [
+            "moncucco---san-cristoforo"
+          ],
+          "prezzoAcquisto": 3025,
+          "prezzoLocazione": 12.9
+        },
+        {
+          "quartiereId": "stazione-centrale",
+          "quartiere": "STAZIONE CENTRALE VIALE STELVIO",
+          "nilIds": [
+            "stazione-centrale---ponte-seveso"
+          ],
+          "prezzoAcquisto": 2998,
+          "prezzoLocazione": 12.58
+        },
+        {
+          "quartiereId": "tabacchi-sarfatti",
+          "quartiere": "TABACCHI, SARFATTI, CREMA",
+          "nilIds": [
+            "tibaldi"
+          ],
+          "prezzoAcquisto": 2738,
+          "prezzoLocazione": 11.74
+        },
+        {
+          "quartiereId": "tito-livio",
+          "quartiere": "TITO LIVIO, TERTULLIANO, LONGANESI",
+          "nilIds": [
+            "umbria---molise---calvairate"
+          ],
+          "prezzoAcquisto": 2275,
+          "prezzoLocazione": 9.17
+        },
+        {
+          "quartiereId": "turati-moscova",
+          "quartiere": "TURATI, MOSCOVA, CORSO VENEZIA",
+          "nilIds": [
+            "giardini-pta-venezia",
+            "porta-garibaldi---porta-nuova"
+          ],
+          "prezzoAcquisto": 5541,
+          "prezzoLocazione": 22.23
+        },
+        {
+          "quartiereId": "venezia-porta-vittoria",
+          "quartiere": "VENEZIA, PORTA VITTORIA, PORTA ROMANA",
+          "nilIds": [
+            "buenos-aires---porta-venezia---porta-monforte"
+          ],
+          "prezzoAcquisto": 5810,
+          "prezzoLocazione": 21.18
+        }
+      ],
+      "stats": {
+        "prezzoMedioAcquisto": 3378,
+        "prezzoMedioLocazione": 13.46,
+        "prezzoMax": 9373,
+        "prezzoMin": 1396,
+        "totaleQuartieri": 40
+      }
+    },
+    {
+      "semestre": "2023_2",
+      "label": "2023 H2",
+      "quartieri": [
+        {
+          "quartiereId": "baggio-quarto-romano",
+          "quartiere": "BAGGIO, Q. ROMANO, MUGGIANO",
+          "nilIds": [
+            "baggio---qre-degli-olmi---qre-valsesia",
+            "quinto-romano",
+            "muggiano"
+          ],
+          "prezzoAcquisto": 1682,
+          "prezzoLocazione": 7.09
+        },
+        {
+          "quartiereId": "barona-famagosta",
+          "quartiere": "BARONA, FAMAGOSTA, FAENZA",
+          "nilIds": [
+            "barona",
+            "cantalupa",
+            "ronchetto-sul-naviglio---qre-lodovico-il-moro"
+          ],
+          "prezzoAcquisto": 2100,
+          "prezzoLocazione": 10.01
+        },
+        {
+          "quartiereId": "bovisa-imbonati",
+          "quartiere": "BOVISA, BAUSAN, IMBONATI",
+          "nilIds": [
+            "bovisa",
+            "dergano"
+          ],
+          "prezzoAcquisto": 2027,
+          "prezzoLocazione": 8.79
+        },
+        {
+          "quartiereId": "bovisasca-affori",
+          "quartiere": "BOVISASCA, AFFORI, P. ROSSI , COMASINA",
+          "nilIds": [
+            "affori",
+            "bovisasca",
+            "comasina",
+            "bruzzano"
+          ],
+          "prezzoAcquisto": 1907,
+          "prezzoLocazione": 8.37
+        },
+        {
+          "quartiereId": "cenisio-farini",
+          "quartiere": "CENISIO, FARINI, SARPI",
+          "nilIds": [
+            "sarpi",
+            "farini",
+            "ghisolfa"
+          ],
+          "prezzoAcquisto": 3063,
+          "prezzoLocazione": 13.25
+        },
+        {
+          "quartiereId": "centro-brera",
+          "quartiere": "CENTRO STORICO - BRERA",
+          "nilIds": [
+            "brera"
+          ],
+          "prezzoAcquisto": 7746,
+          "prezzoLocazione": 29.36
+        },
+        {
+          "quartiereId": "centro-duomo",
+          "quartiere": "CENTRO STORICO -DUOMO, SANBABILA, MONTENAPOLEONE, MISSORI, CAIROLI",
+          "nilIds": [
+            "duomo"
+          ],
+          "prezzoAcquisto": 9748,
+          "prezzoLocazione": 38.76
+        },
+        {
+          "quartiereId": "centro-santambrogio",
+          "quartiere": "CENTRO STORICO -SANT`AMBROGIO, CADORNA, VIA DANTE",
+          "nilIds": [
+            "magenta---s-vittore"
+          ],
+          "prezzoAcquisto": 6108,
+          "prezzoLocazione": 23.48
+        },
+        {
+          "quartiereId": "centro-universita",
+          "quartiere": "CENTRO STORICO -UNIVERSITA STATALE, SAN LORENZO",
+          "nilIds": [
+            "guastalla"
+          ],
+          "prezzoAcquisto": 5488,
+          "prezzoLocazione": 21.6
+        },
+        {
+          "quartiereId": "city-life",
+          "quartiere": "CITY LIFE",
+          "nilIds": [
+            "tre-torri",
+            "portello"
+          ],
+          "prezzoAcquisto": 8183,
+          "prezzoLocazione": 25.75
+        },
+        {
+          "quartiereId": "forlanini-mecenate",
+          "quartiere": "FORLANINI, MECENATE, ORTOMERCATO, SANTA GIULIA",
+          "nilIds": [
+            "ortomercato",
+            "taliedo---morsenchio---qre-forlanini"
+          ],
+          "prezzoAcquisto": 1860,
+          "prezzoLocazione": 8.22
+        },
+        {
+          "quartiereId": "gallaratese-lampugnano",
+          "quartiere": "GALLARATESE, LAMPUGNANO, P. TRENNO, BONOLA",
+          "nilIds": [
+            "qre-gallaratese---qre-san-leonardo---lampugnano",
+            "trenno",
+            "figino"
+          ],
+          "prezzoAcquisto": 1613,
+          "prezzoLocazione": 7.44
+        },
+        {
+          "quartiereId": "ippodromo-monte-stella",
+          "quartiere": "IPPODROMO, CAPRILLI, MONTE STELLA",
+          "nilIds": [
+            "stadio---ippodromi",
+            "qt-8"
+          ],
+          "prezzoAcquisto": 2295,
+          "prezzoLocazione": 8.94
+        },
+        {
+          "quartiereId": "lambrate-rubattino",
+          "quartiere": "LAMBRATE, RUBATTINO, ROMBON",
+          "nilIds": [
+            "lambrate---ortica"
+          ],
+          "prezzoAcquisto": 2023,
+          "prezzoLocazione": 8.53
+        },
+        {
+          "quartiereId": "libia-xxii-marzo",
+          "quartiere": "LIBIA, ,XXII MARZO, INDIPENDENZA",
+          "nilIds": [
+            "xxii-marzo",
+            "corsica"
+          ],
+          "prezzoAcquisto": 3265,
+          "prezzoLocazione": 13.61
+        },
+        {
+          "quartiereId": "lorenteggio-inganni",
+          "quartiere": "LORENTEGGIO, INGANNI, BISCEGLIE, SAN CARLO B.",
+          "nilIds": [
+            "lorenteggio",
+            "giambellino",
+            "forze-armate",
+            "quarto-cagnino"
+          ],
+          "prezzoAcquisto": 1979,
+          "prezzoLocazione": 8.81
+        },
+        {
+          "quartiereId": "maggiolina",
+          "quartiere": "MAGGIOLINA, PARCO TROTTER, LEONCAVALLO",
+          "nilIds": [
+            "maciachini---maggiolina"
+          ],
+          "prezzoAcquisto": 2321,
+          "prezzoLocazione": 9.68
+        },
+        {
+          "quartiereId": "marocchetti-vigentino",
+          "quartiere": "MAROCCHETTI, VIGENTINO, CHIESA ROSSA",
+          "nilIds": [
+            "vigentino---qre-fatima",
+            "morivione",
+            "stadera---chiesa-rossa---qre-torretta---conca-fallata"
+          ],
+          "prezzoAcquisto": 2017,
+          "prezzoLocazione": 8.68
+        },
+        {
+          "quartiereId": "missaglia-gratosoglio",
+          "quartiere": "MISSAGLIA, GRATOSOGLIO",
+          "nilIds": [
+            "gratosoglio---qre-missaglia---qre-terrazze",
+            "ronchetto-delle-rane"
+          ],
+          "prezzoAcquisto": 1456,
+          "prezzoLocazione": 6.11
+        },
+        {
+          "quartiereId": "monza-crescenzago",
+          "quartiere": "MONZA, CRESCENZAGO, GORLA, QUARTIERE ADRIANO",
+          "nilIds": [
+            "adriano",
+            "gorla---precotto",
+            "padova---turro---crescenzago"
+          ],
+          "prezzoAcquisto": 2081,
+          "prezzoLocazione": 8.89
+        },
+        {
+          "quartiereId": "musocco-certosa",
+          "quartiere": "MUSOCCO, CERTOSA, EXPO, C.NA MERLATA",
+          "nilIds": [
+            "maggiore---musocco---certosa",
+            "cascina-merlata"
+          ],
+          "prezzoAcquisto": 2060,
+          "prezzoLocazione": 9.37
+        },
+        {
+          "quartiereId": "niguarda-bignami",
+          "quartiere": "NIGUARDA, BIGNAMI, PARCO NORD",
+          "nilIds": [
+            "niguarda---ca-granda---prato-centenaro---qre-fulvio-testi",
+            "parco-nord"
+          ],
+          "prezzoAcquisto": 1923,
+          "prezzoLocazione": 8.23
+        },
+        {
+          "quartiereId": "ortles-spadolini",
+          "quartiere": "ORTLES, SPADOLINI, BAZZI",
+          "nilIds": [
+            "scalo-romana",
+            "lodi---corvetto"
+          ],
+          "prezzoAcquisto": 2175,
+          "prezzoLocazione": 9.92
+        },
+        {
+          "quartiereId": "parco-lambro",
+          "quartiere": "PARCO LAMBRO, FELTRE, UDINE",
+          "nilIds": [
+            "cimiano---rottole---qre-feltre",
+            "parco-forlanini---cavriano"
+          ],
+          "prezzoAcquisto": 1998,
+          "prezzoLocazione": 8.78
+        },
+        {
+          "quartiereId": "parco-sempione",
+          "quartiere": "PARCO SEMPIONE, ARCO DELLA PACE, CORSO MAGENTA",
+          "nilIds": [
+            "parco-sempione",
+            "porta-magenta"
+          ],
+          "prezzoAcquisto": 5358,
+          "prezzoLocazione": 20.72
+        },
+        {
+          "quartiereId": "piola-argonne",
+          "quartiere": "PIOLA, ARGONNE, CORSICA",
+          "nilIds": [
+            "citta-studi"
+          ],
+          "prezzoAcquisto": 3065,
+          "prezzoLocazione": 12.52
+        },
+        {
+          "quartiereId": "pisani-buenos-aires",
+          "quartiere": "PISANI, BUENOS AIRES, REGINA GIOVANNA",
+          "nilIds": [
+            "loreto---casoretto---nolo"
+          ],
+          "prezzoAcquisto": 4071,
+          "prezzoLocazione": 17.42
+        },
+        {
+          "quartiereId": "porta-nuova",
+          "quartiere": "PORTA NUOVA",
+          "nilIds": [
+            "isola"
+          ],
+          "prezzoAcquisto": 8050,
+          "prezzoLocazione": 27.4
+        },
+        {
+          "quartiereId": "porta-ticinese",
+          "quartiere": "PORTA TICINESE, PORTA GENOVA, VIA SAN VITTORE",
+          "nilIds": [
+            "porta-ticinese---conca-del-naviglio",
+            "porta-genova",
+            "porta-ticinese---conchetta"
+          ],
+          "prezzoAcquisto": 4050,
+          "prezzoLocazione": 16.45
+        },
+        {
+          "quartiereId": "porta-vigentina",
+          "quartiere": "PORTA VIGENTINA, PORTA ROMANA",
+          "nilIds": [
+            "porta-vigentina---porta-lodovica",
+            "pta-romana"
+          ],
+          "prezzoAcquisto": 4589,
+          "prezzoLocazione": 18.7
+        },
+        {
+          "quartiereId": "quarto-oggiaro",
+          "quartiere": "QUARTO OGGIARO, SACCO",
+          "nilIds": [
+            "quarto-oggiaro---vialba---musocco",
+            "stephenson"
+          ],
+          "prezzoAcquisto": 1475,
+          "prezzoLocazione": 6.61
+        },
+        {
+          "quartiereId": "sarca-bicocca",
+          "quartiere": "SARCA, BICOCCA",
+          "nilIds": [
+            "bicocca",
+            "greco---segnano"
+          ],
+          "prezzoAcquisto": 1985,
+          "prezzoLocazione": 8.47
+        },
+        {
+          "quartiereId": "segesta-aretusa",
+          "quartiere": "SEGESTA, ARETUSA, VESPRI SICILIANI",
+          "nilIds": [
+            "san-siro",
+            "bande-nere"
+          ],
+          "prezzoAcquisto": 2229,
+          "prezzoLocazione": 9.97
+        },
+        {
+          "quartiereId": "sempione-pagano",
+          "quartiere": "SEMPIONE, PAGANO, WASHINGTON",
+          "nilIds": [
+            "pagano",
+            "de-angeli---monte-rosa"
+          ],
+          "prezzoAcquisto": 4147,
+          "prezzoLocazione": 15.9
+        },
+        {
+          "quartiereId": "solari-navigli",
+          "quartiere": "SOLARI, P.TA GENOVA, ASCANIO SFORZA",
+          "nilIds": [
+            "moncucco---san-cristoforo"
+          ],
+          "prezzoAcquisto": 3048,
+          "prezzoLocazione": 13.23
+        },
+        {
+          "quartiereId": "stazione-centrale",
+          "quartiere": "STAZIONE CENTRALE VIALE STELVIO",
+          "nilIds": [
+            "stazione-centrale---ponte-seveso"
+          ],
+          "prezzoAcquisto": 3087,
+          "prezzoLocazione": 12.78
+        },
+        {
+          "quartiereId": "tabacchi-sarfatti",
+          "quartiere": "TABACCHI, SARFATTI, CREMA",
+          "nilIds": [
+            "tibaldi"
+          ],
+          "prezzoAcquisto": 2787,
+          "prezzoLocazione": 11.99
+        },
+        {
+          "quartiereId": "tito-livio",
+          "quartiere": "TITO LIVIO, TERTULLIANO, LONGANESI",
+          "nilIds": [
+            "umbria---molise---calvairate"
+          ],
+          "prezzoAcquisto": 2369,
+          "prezzoLocazione": 9.77
+        },
+        {
+          "quartiereId": "turati-moscova",
+          "quartiere": "TURATI, MOSCOVA, CORSO VENEZIA",
+          "nilIds": [
+            "giardini-pta-venezia",
+            "porta-garibaldi---porta-nuova"
+          ],
+          "prezzoAcquisto": 5714,
+          "prezzoLocazione": 23.09
+        },
+        {
+          "quartiereId": "venezia-porta-vittoria",
+          "quartiere": "VENEZIA, PORTA VITTORIA, PORTA ROMANA",
+          "nilIds": [
+            "buenos-aires---porta-venezia---porta-monforte"
+          ],
+          "prezzoAcquisto": 5800,
+          "prezzoLocazione": 21.63
+        }
+      ],
+      "stats": {
+        "prezzoMedioAcquisto": 3474,
+        "prezzoMedioLocazione": 13.96,
+        "prezzoMax": 9748,
+        "prezzoMin": 1456,
+        "totaleQuartieri": 40
+      }
+    },
+    {
+      "semestre": "2024_1",
+      "label": "2024 H1",
+      "quartieri": [
+        {
+          "quartiereId": "baggio-quarto-romano",
+          "quartiere": "BAGGIO, Q. ROMANO, MUGGIANO",
+          "nilIds": [
+            "baggio---qre-degli-olmi---qre-valsesia",
+            "quinto-romano",
+            "muggiano"
+          ],
+          "prezzoAcquisto": 1693,
+          "prezzoLocazione": 7.26
+        },
+        {
+          "quartiereId": "barona-famagosta",
+          "quartiere": "BARONA, FAMAGOSTA, FAENZA",
+          "nilIds": [
+            "barona",
+            "cantalupa",
+            "ronchetto-sul-naviglio---qre-lodovico-il-moro"
+          ],
+          "prezzoAcquisto": 2138,
+          "prezzoLocazione": 10.26
+        },
+        {
+          "quartiereId": "bovisa-imbonati",
+          "quartiere": "BOVISA, BAUSAN, IMBONATI",
+          "nilIds": [
+            "bovisa",
+            "dergano"
+          ],
+          "prezzoAcquisto": 2104,
+          "prezzoLocazione": 9.14
+        },
+        {
+          "quartiereId": "bovisasca-affori",
+          "quartiere": "BOVISASCA, AFFORI, P. ROSSI , COMASINA",
+          "nilIds": [
+            "affori",
+            "bovisasca",
+            "comasina",
+            "bruzzano"
+          ],
+          "prezzoAcquisto": 1955,
+          "prezzoLocazione": 8.59
+        },
+        {
+          "quartiereId": "cenisio-farini",
+          "quartiere": "CENISIO, FARINI, SARPI",
+          "nilIds": [
+            "sarpi",
+            "farini",
+            "ghisolfa"
+          ],
+          "prezzoAcquisto": 3190,
+          "prezzoLocazione": 13.7
+        },
+        {
+          "quartiereId": "centro-brera",
+          "quartiere": "CENTRO STORICO - BRERA",
+          "nilIds": [
+            "brera"
+          ],
+          "prezzoAcquisto": 7967,
+          "prezzoLocazione": 30.47
+        },
+        {
+          "quartiereId": "centro-duomo",
+          "quartiere": "CENTRO STORICO -DUOMO, SANBABILA, MONTENAPOLEONE, MISSORI, CAIROLI",
+          "nilIds": [
+            "duomo"
+          ],
+          "prezzoAcquisto": 10060,
+          "prezzoLocazione": 39.99
+        },
+        {
+          "quartiereId": "centro-santambrogio",
+          "quartiere": "CENTRO STORICO -SANT`AMBROGIO, CADORNA, VIA DANTE",
+          "nilIds": [
+            "magenta---s-vittore"
+          ],
+          "prezzoAcquisto": 6200,
+          "prezzoLocazione": 24.35
+        },
+        {
+          "quartiereId": "centro-universita",
+          "quartiere": "CENTRO STORICO -UNIVERSITA STATALE, SAN LORENZO",
+          "nilIds": [
+            "guastalla"
+          ],
+          "prezzoAcquisto": 5513,
+          "prezzoLocazione": 22.17
+        },
+        {
+          "quartiereId": "city-life",
+          "quartiere": "CITY LIFE",
+          "nilIds": [
+            "tre-torri",
+            "portello"
+          ],
+          "prezzoAcquisto": 8500,
+          "prezzoLocazione": 26.67
+        },
+        {
+          "quartiereId": "forlanini-mecenate",
+          "quartiere": "FORLANINI, MECENATE, ORTOMERCATO, SANTA GIULIA",
+          "nilIds": [
+            "ortomercato",
+            "taliedo---morsenchio---qre-forlanini"
+          ],
+          "prezzoAcquisto": 1933,
+          "prezzoLocazione": 8.61
+        },
+        {
+          "quartiereId": "gallaratese-lampugnano",
+          "quartiere": "GALLARATESE, LAMPUGNANO, P. TRENNO, BONOLA",
+          "nilIds": [
+            "qre-gallaratese---qre-san-leonardo---lampugnano",
+            "trenno",
+            "figino"
+          ],
+          "prezzoAcquisto": 1638,
+          "prezzoLocazione": 7.48
+        },
+        {
+          "quartiereId": "ippodromo-monte-stella",
+          "quartiere": "IPPODROMO, CAPRILLI, MONTE STELLA",
+          "nilIds": [
+            "stadio---ippodromi",
+            "qt-8"
+          ],
+          "prezzoAcquisto": 2316,
+          "prezzoLocazione": 9.07
+        },
+        {
+          "quartiereId": "lambrate-rubattino",
+          "quartiere": "LAMBRATE, RUBATTINO, ROMBON",
+          "nilIds": [
+            "lambrate---ortica"
+          ],
+          "prezzoAcquisto": 2048,
+          "prezzoLocazione": 8.84
+        },
+        {
+          "quartiereId": "libia-xxii-marzo",
+          "quartiere": "LIBIA, ,XXII MARZO, INDIPENDENZA",
+          "nilIds": [
+            "xxii-marzo",
+            "corsica"
+          ],
+          "prezzoAcquisto": 3388,
+          "prezzoLocazione": 13.92
+        },
+        {
+          "quartiereId": "lorenteggio-inganni",
+          "quartiere": "LORENTEGGIO, INGANNI, BISCEGLIE, SAN CARLO B.",
+          "nilIds": [
+            "lorenteggio",
+            "giambellino",
+            "forze-armate",
+            "quarto-cagnino"
+          ],
+          "prezzoAcquisto": 1992,
+          "prezzoLocazione": 9.07
+        },
+        {
+          "quartiereId": "maggiolina",
+          "quartiere": "MAGGIOLINA, PARCO TROTTER, LEONCAVALLO",
+          "nilIds": [
+            "maciachini---maggiolina"
+          ],
+          "prezzoAcquisto": 2383,
+          "prezzoLocazione": 10.04
+        },
+        {
+          "quartiereId": "marocchetti-vigentino",
+          "quartiere": "MAROCCHETTI, VIGENTINO, CHIESA ROSSA",
+          "nilIds": [
+            "vigentino---qre-fatima",
+            "morivione",
+            "stadera---chiesa-rossa---qre-torretta---conca-fallata"
+          ],
+          "prezzoAcquisto": 2050,
+          "prezzoLocazione": 9.03
+        },
+        {
+          "quartiereId": "missaglia-gratosoglio",
+          "quartiere": "MISSAGLIA, GRATOSOGLIO",
+          "nilIds": [
+            "gratosoglio---qre-missaglia---qre-terrazze",
+            "ronchetto-delle-rane"
+          ],
+          "prezzoAcquisto": 1452,
+          "prezzoLocazione": 6.15
+        },
+        {
+          "quartiereId": "monza-crescenzago",
+          "quartiere": "MONZA, CRESCENZAGO, GORLA, QUARTIERE ADRIANO",
+          "nilIds": [
+            "adriano",
+            "gorla---precotto",
+            "padova---turro---crescenzago"
+          ],
+          "prezzoAcquisto": 2129,
+          "prezzoLocazione": 9.26
+        },
+        {
+          "quartiereId": "musocco-certosa",
+          "quartiere": "MUSOCCO, CERTOSA, EXPO, C.NA MERLATA",
+          "nilIds": [
+            "maggiore---musocco---certosa",
+            "cascina-merlata"
+          ],
+          "prezzoAcquisto": 2131,
+          "prezzoLocazione": 9.7
+        },
+        {
+          "quartiereId": "niguarda-bignami",
+          "quartiere": "NIGUARDA, BIGNAMI, PARCO NORD",
+          "nilIds": [
+            "niguarda---ca-granda---prato-centenaro---qre-fulvio-testi",
+            "parco-nord"
+          ],
+          "prezzoAcquisto": 1952,
+          "prezzoLocazione": 8.57
+        },
+        {
+          "quartiereId": "ortles-spadolini",
+          "quartiere": "ORTLES, SPADOLINI, BAZZI",
+          "nilIds": [
+            "scalo-romana",
+            "lodi---corvetto"
+          ],
+          "prezzoAcquisto": 2231,
+          "prezzoLocazione": 10.15
+        },
+        {
+          "quartiereId": "parco-lambro",
+          "quartiere": "PARCO LAMBRO, FELTRE, UDINE",
+          "nilIds": [
+            "cimiano---rottole---qre-feltre",
+            "parco-forlanini---cavriano"
+          ],
+          "prezzoAcquisto": 2010,
+          "prezzoLocazione": 8.92
+        },
+        {
+          "quartiereId": "parco-sempione",
+          "quartiere": "PARCO SEMPIONE, ARCO DELLA PACE, CORSO MAGENTA",
+          "nilIds": [
+            "parco-sempione",
+            "porta-magenta"
+          ],
+          "prezzoAcquisto": 5396,
+          "prezzoLocazione": 20.99
+        },
+        {
+          "quartiereId": "piola-argonne",
+          "quartiere": "PIOLA, ARGONNE, CORSICA",
+          "nilIds": [
+            "citta-studi"
+          ],
+          "prezzoAcquisto": 3078,
+          "prezzoLocazione": 12.74
+        },
+        {
+          "quartiereId": "pisani-buenos-aires",
+          "quartiere": "PISANI, BUENOS AIRES, REGINA GIOVANNA",
+          "nilIds": [
+            "loreto---casoretto---nolo"
+          ],
+          "prezzoAcquisto": 4133,
+          "prezzoLocazione": 18.14
+        },
+        {
+          "quartiereId": "porta-nuova",
+          "quartiere": "PORTA NUOVA",
+          "nilIds": [
+            "isola"
+          ],
+          "prezzoAcquisto": 8070,
+          "prezzoLocazione": 28.63
+        },
+        {
+          "quartiereId": "porta-ticinese",
+          "quartiere": "PORTA TICINESE, PORTA GENOVA, VIA SAN VITTORE",
+          "nilIds": [
+            "porta-ticinese---conca-del-naviglio",
+            "porta-genova",
+            "porta-ticinese---conchetta"
+          ],
+          "prezzoAcquisto": 4136,
+          "prezzoLocazione": 16.85
+        },
+        {
+          "quartiereId": "porta-vigentina",
+          "quartiere": "PORTA VIGENTINA, PORTA ROMANA",
+          "nilIds": [
+            "porta-vigentina---porta-lodovica",
+            "pta-romana"
+          ],
+          "prezzoAcquisto": 4602,
+          "prezzoLocazione": 18.74
+        },
+        {
+          "quartiereId": "quarto-oggiaro",
+          "quartiere": "QUARTO OGGIARO, SACCO",
+          "nilIds": [
+            "quarto-oggiaro---vialba---musocco",
+            "stephenson"
+          ],
+          "prezzoAcquisto": 1519,
+          "prezzoLocazione": 6.78
+        },
+        {
+          "quartiereId": "sarca-bicocca",
+          "quartiere": "SARCA, BICOCCA",
+          "nilIds": [
+            "bicocca",
+            "greco---segnano"
+          ],
+          "prezzoAcquisto": 2006,
+          "prezzoLocazione": 8.72
+        },
+        {
+          "quartiereId": "segesta-aretusa",
+          "quartiere": "SEGESTA, ARETUSA, VESPRI SICILIANI",
+          "nilIds": [
+            "san-siro",
+            "bande-nere"
+          ],
+          "prezzoAcquisto": 2267,
+          "prezzoLocazione": 10.21
+        },
+        {
+          "quartiereId": "sempione-pagano",
+          "quartiere": "SEMPIONE, PAGANO, WASHINGTON",
+          "nilIds": [
+            "pagano",
+            "de-angeli---monte-rosa"
+          ],
+          "prezzoAcquisto": 4317,
+          "prezzoLocazione": 16.53
+        },
+        {
+          "quartiereId": "solari-navigli",
+          "quartiere": "SOLARI, P.TA GENOVA, ASCANIO SFORZA",
+          "nilIds": [
+            "moncucco---san-cristoforo"
+          ],
+          "prezzoAcquisto": 3108,
+          "prezzoLocazione": 13.7
+        },
+        {
+          "quartiereId": "stazione-centrale",
+          "quartiere": "STAZIONE CENTRALE VIALE STELVIO",
+          "nilIds": [
+            "stazione-centrale---ponte-seveso"
+          ],
+          "prezzoAcquisto": 3195,
+          "prezzoLocazione": 13.24
+        },
+        {
+          "quartiereId": "tabacchi-sarfatti",
+          "quartiere": "TABACCHI, SARFATTI, CREMA",
+          "nilIds": [
+            "tibaldi"
+          ],
+          "prezzoAcquisto": 2898,
+          "prezzoLocazione": 12.5
+        },
+        {
+          "quartiereId": "tito-livio",
+          "quartiere": "TITO LIVIO, TERTULLIANO, LONGANESI",
+          "nilIds": [
+            "umbria---molise---calvairate"
+          ],
+          "prezzoAcquisto": 2469,
+          "prezzoLocazione": 10.05
+        },
+        {
+          "quartiereId": "turati-moscova",
+          "quartiere": "TURATI, MOSCOVA, CORSO VENEZIA",
+          "nilIds": [
+            "giardini-pta-venezia",
+            "porta-garibaldi---porta-nuova"
+          ],
+          "prezzoAcquisto": 5925,
+          "prezzoLocazione": 24.03
+        },
+        {
+          "quartiereId": "venezia-porta-vittoria",
+          "quartiere": "VENEZIA, PORTA VITTORIA, PORTA ROMANA",
+          "nilIds": [
+            "buenos-aires---porta-venezia---porta-monforte"
+          ],
+          "prezzoAcquisto": 5933,
+          "prezzoLocazione": 22.47
+        }
+      ],
+      "stats": {
+        "prezzoMedioAcquisto": 3551,
+        "prezzoMedioLocazione": 14.39,
+        "prezzoMax": 10060,
+        "prezzoMin": 1452,
+        "totaleQuartieri": 40
+      }
+    },
+    {
+      "semestre": "2024_2",
+      "label": "2024 H2",
+      "quartieri": [
+        {
+          "quartiereId": "baggio-quarto-romano",
+          "quartiere": "BAGGIO, Q. ROMANO, MUGGIANO",
+          "nilIds": [
+            "baggio---qre-degli-olmi---qre-valsesia",
+            "quinto-romano",
+            "muggiano"
+          ],
+          "prezzoAcquisto": 1787,
+          "prezzoLocazione": 7.56
+        },
+        {
+          "quartiereId": "barona-famagosta",
+          "quartiere": "BARONA, FAMAGOSTA, FAENZA",
+          "nilIds": [
+            "barona",
+            "cantalupa",
+            "ronchetto-sul-naviglio---qre-lodovico-il-moro"
+          ],
+          "prezzoAcquisto": 2319,
+          "prezzoLocazione": 10.92
+        },
+        {
+          "quartiereId": "bovisa-imbonati",
+          "quartiere": "BOVISA, BAUSAN, IMBONATI",
+          "nilIds": [
+            "bovisa",
+            "dergano"
+          ],
+          "prezzoAcquisto": 2302,
+          "prezzoLocazione": 10.01
+        },
+        {
+          "quartiereId": "bovisasca-affori",
+          "quartiere": "BOVISASCA, AFFORI, P. ROSSI , COMASINA",
+          "nilIds": [
+            "affori",
+            "bovisasca",
+            "comasina",
+            "bruzzano"
+          ],
+          "prezzoAcquisto": 2133,
+          "prezzoLocazione": 9.02
+        },
+        {
+          "quartiereId": "expo-cascina-merlata",
+          "quartiere": "CASCINA MERLATA, EXPO",
+          "nilIds": [
+            "cascina-merlata",
+            "roserio"
+          ],
+          "prezzoAcquisto": 2238,
+          "prezzoLocazione": 11.44
+        },
+        {
+          "quartiereId": "cenisio-farini",
+          "quartiere": "CENISIO, FARINI, SARPI",
+          "nilIds": [
+            "sarpi",
+            "farini",
+            "ghisolfa"
+          ],
+          "prezzoAcquisto": 3658,
+          "prezzoLocazione": 16.72
+        },
+        {
+          "quartiereId": "centro-brera",
+          "quartiere": "CENTRO STORICO - BRERA",
+          "nilIds": [
+            "brera"
+          ],
+          "prezzoAcquisto": 8673,
+          "prezzoLocazione": 33.78
+        },
+        {
+          "quartiereId": "centro-duomo",
+          "quartiere": "CENTRO STORICO -DUOMO, SANBABILA, MONTENAPOLEONE, MISSORI, CAIROLI",
+          "nilIds": [
+            "duomo"
+          ],
+          "prezzoAcquisto": 10752,
+          "prezzoLocazione": 44.43
+        },
+        {
+          "quartiereId": "centro-santambrogio",
+          "quartiere": "CENTRO STORICO -SANT`AMBROGIO, CADORNA, VIA DANTE",
+          "nilIds": [
+            "magenta---s-vittore"
+          ],
+          "prezzoAcquisto": 6732,
+          "prezzoLocazione": 26.74
+        },
+        {
+          "quartiereId": "centro-universita",
+          "quartiere": "CENTRO STORICO -UNIVERSITA STATALE, SAN LORENZO",
+          "nilIds": [
+            "guastalla"
+          ],
+          "prezzoAcquisto": 6209,
+          "prezzoLocazione": 24.7
+        },
+        {
+          "quartiereId": "city-life",
+          "quartiere": "CITY LIFE",
+          "nilIds": [
+            "tre-torri",
+            "portello"
+          ],
+          "prezzoAcquisto": 8367,
+          "prezzoLocazione": 26.67
+        },
+        {
+          "quartiereId": "forlanini-mecenate",
+          "quartiere": "FORLANINI, MECENATE, PONTE LAMBRO",
+          "nilIds": [
+            "monlue---ponte-lambro",
+            "parco-forlanini---cavriano"
+          ],
+          "prezzoAcquisto": 2131,
+          "prezzoLocazione": 10.02
+        },
+        {
+          "quartiereId": "gallaratese-lampugnano",
+          "quartiere": "GALLARATESE, LAMPUGNANO, P. TRENNO, BONOLA",
+          "nilIds": [
+            "qre-gallaratese---qre-san-leonardo---lampugnano",
+            "trenno",
+            "figino"
+          ],
+          "prezzoAcquisto": 1780,
+          "prezzoLocazione": 8
+        },
+        {
+          "quartiereId": "ippodromo-monte-stella",
+          "quartiere": "IPPODROMO, CAPRILLI, MONTE STELLA",
+          "nilIds": [
+            "stadio---ippodromi",
+            "qt-8"
+          ],
+          "prezzoAcquisto": 2498,
+          "prezzoLocazione": 9.5
+        },
+        {
+          "quartiereId": "lambrate-rubattino",
+          "quartiere": "LAMBRATE, RUBATTINO, ROMBON",
+          "nilIds": [
+            "lambrate---ortica"
+          ],
+          "prezzoAcquisto": 2295,
+          "prezzoLocazione": 9.86
+        },
+        {
+          "quartiereId": "libia-xxii-marzo",
+          "quartiere": "LIBIA, ,XXII MARZO, INDIPENDENZA",
+          "nilIds": [
+            "xxii-marzo",
+            "corsica"
+          ],
+          "prezzoAcquisto": 3753,
+          "prezzoLocazione": 16.04
+        },
+        {
+          "quartiereId": "lorenteggio-inganni",
+          "quartiere": "LORENTEGGIO, INGANNI, BISCEGLIE, SAN CARLO B.",
+          "nilIds": [
+            "lorenteggio",
+            "giambellino",
+            "forze-armate",
+            "quarto-cagnino"
+          ],
+          "prezzoAcquisto": 2106,
+          "prezzoLocazione": 9.88
+        },
+        {
+          "quartiereId": "maggiolina",
+          "quartiere": "MAGGIOLINA, PARCO TROTTER, LEONCAVALLO",
+          "nilIds": [
+            "maciachini---maggiolina"
+          ],
+          "prezzoAcquisto": 2609,
+          "prezzoLocazione": 10.6
+        },
+        {
+          "quartiereId": "marocchetti-vigentino",
+          "quartiere": "MAROCCHETTI, VIGENTINO, CHIESA ROSSA",
+          "nilIds": [
+            "vigentino---qre-fatima",
+            "morivione",
+            "stadera---chiesa-rossa---qre-torretta---conca-fallata"
+          ],
+          "prezzoAcquisto": 2345,
+          "prezzoLocazione": 10.21
+        },
+        {
+          "quartiereId": "missaglia-gratosoglio",
+          "quartiere": "MISSAGLIA, GRATOSOGLIO",
+          "nilIds": [
+            "gratosoglio---qre-missaglia---qre-terrazze",
+            "ronchetto-delle-rane"
+          ],
+          "prezzoAcquisto": 1548,
+          "prezzoLocazione": 6.4
+        },
+        {
+          "quartiereId": "monza-crescenzago",
+          "quartiere": "MONZA, CRESCENZAGO, GORLA, QUARTIERE ADRIANO",
+          "nilIds": [
+            "adriano",
+            "gorla---precotto",
+            "padova---turro---crescenzago"
+          ],
+          "prezzoAcquisto": 2273,
+          "prezzoLocazione": 9.89
+        },
+        {
+          "quartiereId": "musocco-certosa",
+          "quartiere": "MUSOCCO, CERTOSA",
+          "nilIds": [
+            "villapizzone---cagnola---boldinasco",
+            "stephenson",
+            "maggiore---musocco---certosa"
+          ],
+          "prezzoAcquisto": 2246,
+          "prezzoLocazione": 10.47
+        },
+        {
+          "quartiereId": "niguarda-bignami",
+          "quartiere": "NIGUARDA, BIGNAMI, PARCO NORD",
+          "nilIds": [
+            "niguarda---ca-granda---prato-centenaro---qre-fulvio-testi",
+            "parco-nord"
+          ],
+          "prezzoAcquisto": 2107,
+          "prezzoLocazione": 9.12
+        },
+        {
+          "quartiereId": "ortles-spadolini",
+          "quartiere": "ORTLES, SPADOLINI, BAZZI",
+          "nilIds": [
+            "scalo-romana",
+            "lodi---corvetto"
+          ],
+          "prezzoAcquisto": 2450,
+          "prezzoLocazione": 10.89
+        },
+        {
+          "quartiereId": "parco-lambro",
+          "quartiere": "PARCO LAMBRO, FELTRE, UDINE",
+          "nilIds": [
+            "cimiano---rottole---qre-feltre",
+            "parco-forlanini---cavriano"
+          ],
+          "prezzoAcquisto": 2248,
+          "prezzoLocazione": 9.77
+        },
+        {
+          "quartiereId": "parco-sempione",
+          "quartiere": "PARCO SEMPIONE, ARCO DELLA PACE, CORSO MAGENTA",
+          "nilIds": [
+            "parco-sempione",
+            "porta-magenta"
+          ],
+          "prezzoAcquisto": 5914,
+          "prezzoLocazione": 23.22
+        },
+        {
+          "quartiereId": "piola-argonne",
+          "quartiere": "PIOLA, ARGONNE, CORSICA",
+          "nilIds": [
+            "citta-studi"
+          ],
+          "prezzoAcquisto": 3279,
+          "prezzoLocazione": 13.27
+        },
+        {
+          "quartiereId": "pisani-buenos-aires",
+          "quartiere": "PISANI, BUENOS AIRES, REGINA GIOVANNA",
+          "nilIds": [
+            "loreto---casoretto---nolo"
+          ],
+          "prezzoAcquisto": 4822,
+          "prezzoLocazione": 22.01
+        },
+        {
+          "quartiereId": "porta-nuova",
+          "quartiere": "PORTA NUOVA",
+          "nilIds": [
+            "isola"
+          ],
+          "prezzoAcquisto": 8490,
+          "prezzoLocazione": 28.5
+        },
+        {
+          "quartiereId": "porta-ticinese",
+          "quartiere": "PORTA TICINESE, PORTA GENOVA, VIA SAN VITTORE",
+          "nilIds": [
+            "porta-ticinese---conca-del-naviglio",
+            "porta-genova",
+            "porta-ticinese---conchetta"
+          ],
+          "prezzoAcquisto": 4178,
+          "prezzoLocazione": 18.52
+        },
+        {
+          "quartiereId": "porta-vigentina",
+          "quartiere": "PORTA VIGENTINA, PORTA ROMANA",
+          "nilIds": [
+            "porta-vigentina---porta-lodovica",
+            "pta-romana"
+          ],
+          "prezzoAcquisto": 4514,
+          "prezzoLocazione": 20.12
+        },
+        {
+          "quartiereId": "quarto-oggiaro",
+          "quartiere": "QUARTO OGGIARO, SACCO",
+          "nilIds": [
+            "quarto-oggiaro---vialba---musocco",
+            "stephenson"
+          ],
+          "prezzoAcquisto": 1675,
+          "prezzoLocazione": 7.37
+        },
+        {
+          "quartiereId": "santa-giulia-rogoredo",
+          "quartiere": "SANTA GIULIA, ROGOREDO",
+          "nilIds": [
+            "rogoredo---santa-giulia"
+          ],
+          "prezzoAcquisto": 2281,
+          "prezzoLocazione": 10.76
+        },
+        {
+          "quartiereId": "sarca-bicocca",
+          "quartiere": "SARCA, BICOCCA",
+          "nilIds": [
+            "bicocca",
+            "greco---segnano"
+          ],
+          "prezzoAcquisto": 2211,
+          "prezzoLocazione": 9.14
+        },
+        {
+          "quartiereId": "segesta-aretusa",
+          "quartiere": "SEGESTA, ARETUSA, VESPRI SICILIANI",
+          "nilIds": [
+            "san-siro",
+            "bande-nere"
+          ],
+          "prezzoAcquisto": 2542,
+          "prezzoLocazione": 11.35
+        },
+        {
+          "quartiereId": "sempione-pagano",
+          "quartiere": "SEMPIONE, PAGANO, WASHINGTON",
+          "nilIds": [
+            "pagano",
+            "de-angeli---monte-rosa"
+          ],
+          "prezzoAcquisto": 5458,
+          "prezzoLocazione": 19.31
+        },
+        {
+          "quartiereId": "solari-navigli",
+          "quartiere": "SOLARI, P.TA GENOVA, ASCANIO SFORZA",
+          "nilIds": [
+            "moncucco---san-cristoforo"
+          ],
+          "prezzoAcquisto": 3583,
+          "prezzoLocazione": 16.89
+        },
+        {
+          "quartiereId": "stazione-centrale",
+          "quartiere": "STAZIONE CENTRALE VIALE STELVIO",
+          "nilIds": [
+            "stazione-centrale---ponte-seveso"
+          ],
+          "prezzoAcquisto": 3627,
+          "prezzoLocazione": 15.42
+        },
+        {
+          "quartiereId": "tabacchi-sarfatti",
+          "quartiere": "TABACCHI, SARFATTI, CREMA",
+          "nilIds": [
+            "tibaldi"
+          ],
+          "prezzoAcquisto": 3308,
+          "prezzoLocazione": 16
+        },
+        {
+          "quartiereId": "tito-livio",
+          "quartiere": "TITO LIVIO, TERTULLIANO, LONGANESI, ORTOMERCATO",
+          "nilIds": [
+            "umbria---molise---calvairate",
+            "ortomercato",
+            "taliedo---morsenchio---qre-forlanini"
+          ],
+          "prezzoAcquisto": 2684,
+          "prezzoLocazione": 10.81
+        },
+        {
+          "quartiereId": "turati-moscova",
+          "quartiere": "TURATI, MOSCOVA, CORSO VENEZIA",
+          "nilIds": [
+            "giardini-pta-venezia",
+            "porta-garibaldi---porta-nuova"
+          ],
+          "prezzoAcquisto": 6181,
+          "prezzoLocazione": 27.07
+        },
+        {
+          "quartiereId": "venezia-porta-vittoria",
+          "quartiere": "VENEZIA, PORTA VITTORIA, PORTA ROMANA",
+          "nilIds": [
+            "buenos-aires---porta-venezia---porta-monforte"
+          ],
+          "prezzoAcquisto": 6634,
+          "prezzoLocazione": 24.33
+        }
+      ],
+      "stats": {
+        "prezzoMedioAcquisto": 3784,
+        "prezzoMedioLocazione": 15.64,
+        "prezzoMax": 10752,
+        "prezzoMin": 1548,
+        "totaleQuartieri": 42
+      }
+    },
+    {
+      "semestre": "2025_1",
+      "label": "2025 H1",
+      "quartieri": [
+        {
+          "quartiereId": "baggio-quarto-romano",
+          "quartiere": "BAGGIO, Q. ROMANO, MUGGIANO",
+          "nilIds": [
+            "baggio---qre-degli-olmi---qre-valsesia",
+            "quinto-romano",
+            "muggiano"
+          ],
+          "prezzoAcquisto": 1810,
+          "prezzoLocazione": 7.89
+        },
+        {
+          "quartiereId": "barona-famagosta",
+          "quartiere": "BARONA, FAMAGOSTA, FAENZA",
+          "nilIds": [
+            "barona",
+            "cantalupa",
+            "ronchetto-sul-naviglio---qre-lodovico-il-moro"
+          ],
+          "prezzoAcquisto": 2352,
+          "prezzoLocazione": 11.09
+        },
+        {
+          "quartiereId": "bovisa-imbonati",
+          "quartiere": "BOVISA, BAUSAN, IMBONATI",
+          "nilIds": [
+            "bovisa",
+            "dergano"
+          ],
+          "prezzoAcquisto": 2305,
+          "prezzoLocazione": 10.55
+        },
+        {
+          "quartiereId": "bovisasca-affori",
+          "quartiere": "BOVISASCA, AFFORI, P. ROSSI , COMASINA",
+          "nilIds": [
+            "affori",
+            "bovisasca",
+            "comasina",
+            "bruzzano"
+          ],
+          "prezzoAcquisto": 2212,
+          "prezzoLocazione": 9.39
+        },
+        {
+          "quartiereId": "expo-cascina-merlata",
+          "quartiere": "CASCINA MERLATA, EXPO",
+          "nilIds": [
+            "cascina-merlata",
+            "roserio"
+          ],
+          "prezzoAcquisto": 2222,
+          "prezzoLocazione": 11.44
+        },
+        {
+          "quartiereId": "cenisio-farini",
+          "quartiere": "CENISIO, FARINI, SARPI",
+          "nilIds": [
+            "sarpi",
+            "farini",
+            "ghisolfa"
+          ],
+          "prezzoAcquisto": 3908,
+          "prezzoLocazione": 17.9
+        },
+        {
+          "quartiereId": "centro-brera",
+          "quartiere": "CENTRO STORICO - BRERA",
+          "nilIds": [
+            "brera"
+          ],
+          "prezzoAcquisto": 9345,
+          "prezzoLocazione": 36.09
+        },
+        {
+          "quartiereId": "centro-duomo",
+          "quartiere": "CENTRO STORICO -DUOMO, SANBABILA, MONTENAPOLEONE, MISSORI, CAIROLI",
+          "nilIds": [
+            "duomo"
+          ],
+          "prezzoAcquisto": 10911,
+          "prezzoLocazione": 47.02
+        },
+        {
+          "quartiereId": "centro-santambrogio",
+          "quartiere": "CENTRO STORICO -SANT`AMBROGIO, CADORNA, VIA DANTE",
+          "nilIds": [
+            "magenta---s-vittore"
+          ],
+          "prezzoAcquisto": 7200,
+          "prezzoLocazione": 27.71
+        },
+        {
+          "quartiereId": "centro-universita",
+          "quartiere": "CENTRO STORICO -UNIVERSITA STATALE, SAN LORENZO",
+          "nilIds": [
+            "guastalla"
+          ],
+          "prezzoAcquisto": 6395,
+          "prezzoLocazione": 26.02
+        },
+        {
+          "quartiereId": "city-life",
+          "quartiere": "CITY LIFE",
+          "nilIds": [
+            "tre-torri",
+            "portello"
+          ],
+          "prezzoAcquisto": 8233,
+          "prezzoLocazione": 28
+        },
+        {
+          "quartiereId": "forlanini-mecenate",
+          "quartiere": "FORLANINI, MECENATE, PONTE LAMBRO",
+          "nilIds": [
+            "monlue---ponte-lambro",
+            "parco-forlanini---cavriano"
+          ],
+          "prezzoAcquisto": 2148,
+          "prezzoLocazione": 10.38
+        },
+        {
+          "quartiereId": "gallaratese-lampugnano",
+          "quartiere": "GALLARATESE, LAMPUGNANO, P. TRENNO, BONOLA",
+          "nilIds": [
+            "qre-gallaratese---qre-san-leonardo---lampugnano",
+            "trenno",
+            "figino"
+          ],
+          "prezzoAcquisto": 1891,
+          "prezzoLocazione": 8.43
+        },
+        {
+          "quartiereId": "ippodromo-monte-stella",
+          "quartiere": "IPPODROMO, CAPRILLI, MONTE STELLA",
+          "nilIds": [
+            "stadio---ippodromi",
+            "qt-8"
+          ],
+          "prezzoAcquisto": 2556,
+          "prezzoLocazione": 9.73
+        },
+        {
+          "quartiereId": "lambrate-rubattino",
+          "quartiere": "LAMBRATE, RUBATTINO, ROMBON",
+          "nilIds": [
+            "lambrate---ortica"
+          ],
+          "prezzoAcquisto": 2389,
+          "prezzoLocazione": 10.43
+        },
+        {
+          "quartiereId": "libia-xxii-marzo",
+          "quartiere": "LIBIA, ,XXII MARZO, INDIPENDENZA",
+          "nilIds": [
+            "xxii-marzo",
+            "corsica"
+          ],
+          "prezzoAcquisto": 3858,
+          "prezzoLocazione": 16.46
+        },
+        {
+          "quartiereId": "lorenteggio-inganni",
+          "quartiere": "LORENTEGGIO, INGANNI, BISCEGLIE, SAN CARLO B.",
+          "nilIds": [
+            "lorenteggio",
+            "giambellino",
+            "forze-armate",
+            "quarto-cagnino"
+          ],
+          "prezzoAcquisto": 2129,
+          "prezzoLocazione": 10.12
+        },
+        {
+          "quartiereId": "maggiolina",
+          "quartiere": "MAGGIOLINA, PARCO TROTTER, LEONCAVALLO",
+          "nilIds": [
+            "maciachini---maggiolina"
+          ],
+          "prezzoAcquisto": 2645,
+          "prezzoLocazione": 10.65
+        },
+        {
+          "quartiereId": "marocchetti-vigentino",
+          "quartiere": "MAROCCHETTI, VIGENTINO, CHIESA ROSSA",
+          "nilIds": [
+            "vigentino---qre-fatima",
+            "morivione",
+            "stadera---chiesa-rossa---qre-torretta---conca-fallata"
+          ],
+          "prezzoAcquisto": 2370,
+          "prezzoLocazione": 10.65
+        },
+        {
+          "quartiereId": "missaglia-gratosoglio",
+          "quartiere": "MISSAGLIA, GRATOSOGLIO",
+          "nilIds": [
+            "gratosoglio---qre-missaglia---qre-terrazze",
+            "ronchetto-delle-rane"
+          ],
+          "prezzoAcquisto": 1600,
+          "prezzoLocazione": 6.69
+        },
+        {
+          "quartiereId": "monza-crescenzago",
+          "quartiere": "MONZA, CRESCENZAGO, GORLA, QUARTIERE ADRIANO",
+          "nilIds": [
+            "adriano",
+            "gorla---precotto",
+            "padova---turro---crescenzago"
+          ],
+          "prezzoAcquisto": 2293,
+          "prezzoLocazione": 10.31
+        },
+        {
+          "quartiereId": "musocco-certosa",
+          "quartiere": "MUSOCCO, CERTOSA",
+          "nilIds": [
+            "villapizzone---cagnola---boldinasco",
+            "stephenson",
+            "maggiore---musocco---certosa"
+          ],
+          "prezzoAcquisto": 2281,
+          "prezzoLocazione": 10.75
+        },
+        {
+          "quartiereId": "niguarda-bignami",
+          "quartiere": "NIGUARDA, BIGNAMI, PARCO NORD",
+          "nilIds": [
+            "niguarda---ca-granda---prato-centenaro---qre-fulvio-testi",
+            "parco-nord"
+          ],
+          "prezzoAcquisto": 2155,
+          "prezzoLocazione": 9.43
+        },
+        {
+          "quartiereId": "ortles-spadolini",
+          "quartiere": "ORTLES, SPADOLINI, BAZZI",
+          "nilIds": [
+            "scalo-romana",
+            "lodi---corvetto"
+          ],
+          "prezzoAcquisto": 2521,
+          "prezzoLocazione": 11.46
+        },
+        {
+          "quartiereId": "parco-lambro",
+          "quartiere": "PARCO LAMBRO, FELTRE, UDINE",
+          "nilIds": [
+            "cimiano---rottole---qre-feltre",
+            "parco-forlanini---cavriano"
+          ],
+          "prezzoAcquisto": 2255,
+          "prezzoLocazione": 10.13
+        },
+        {
+          "quartiereId": "parco-sempione",
+          "quartiere": "PARCO SEMPIONE, ARCO DELLA PACE, CORSO MAGENTA",
+          "nilIds": [
+            "parco-sempione",
+            "porta-magenta"
+          ],
+          "prezzoAcquisto": 6136,
+          "prezzoLocazione": 23.65
+        },
+        {
+          "quartiereId": "piola-argonne",
+          "quartiere": "PIOLA, ARGONNE, CORSICA",
+          "nilIds": [
+            "citta-studi"
+          ],
+          "prezzoAcquisto": 3346,
+          "prezzoLocazione": 14.01
+        },
+        {
+          "quartiereId": "pisani-buenos-aires",
+          "quartiere": "PISANI, BUENOS AIRES, REGINA GIOVANNA",
+          "nilIds": [
+            "loreto---casoretto---nolo"
+          ],
+          "prezzoAcquisto": 4883,
+          "prezzoLocazione": 22.96
+        },
+        {
+          "quartiereId": "porta-nuova",
+          "quartiere": "PORTA NUOVA",
+          "nilIds": [
+            "isola"
+          ],
+          "prezzoAcquisto": 9130,
+          "prezzoLocazione": 30.9
+        },
+        {
+          "quartiereId": "porta-ticinese",
+          "quartiere": "PORTA TICINESE, PORTA GENOVA, VIA SAN VITTORE",
+          "nilIds": [
+            "porta-ticinese---conca-del-naviglio",
+            "porta-genova",
+            "porta-ticinese---conchetta"
+          ],
+          "prezzoAcquisto": 4247,
+          "prezzoLocazione": 19.43
+        },
+        {
+          "quartiereId": "porta-vigentina",
+          "quartiere": "PORTA VIGENTINA, PORTA ROMANA",
+          "nilIds": [
+            "porta-vigentina---porta-lodovica",
+            "pta-romana"
+          ],
+          "prezzoAcquisto": 4525,
+          "prezzoLocazione": 20.43
+        },
+        {
+          "quartiereId": "quarto-oggiaro",
+          "quartiere": "QUARTO OGGIARO, SACCO",
+          "nilIds": [
+            "quarto-oggiaro---vialba---musocco",
+            "stephenson"
+          ],
+          "prezzoAcquisto": 1716,
+          "prezzoLocazione": 7.48
+        },
+        {
+          "quartiereId": "santa-giulia-rogoredo",
+          "quartiere": "SANTA GIULIA, ROGOREDO",
+          "nilIds": [
+            "rogoredo---santa-giulia"
+          ],
+          "prezzoAcquisto": 2306,
+          "prezzoLocazione": 10.7
+        },
+        {
+          "quartiereId": "sarca-bicocca",
+          "quartiere": "SARCA, BICOCCA",
+          "nilIds": [
+            "bicocca",
+            "greco---segnano"
+          ],
+          "prezzoAcquisto": 2250,
+          "prezzoLocazione": 9.35
+        },
+        {
+          "quartiereId": "segesta-aretusa",
+          "quartiere": "SEGESTA, ARETUSA, VESPRI SICILIANI",
+          "nilIds": [
+            "san-siro",
+            "bande-nere"
+          ],
+          "prezzoAcquisto": 2613,
+          "prezzoLocazione": 11.96
+        },
+        {
+          "quartiereId": "sempione-pagano",
+          "quartiere": "SEMPIONE, PAGANO, WASHINGTON",
+          "nilIds": [
+            "pagano",
+            "de-angeli---monte-rosa"
+          ],
+          "prezzoAcquisto": 5435,
+          "prezzoLocazione": 20.2
+        },
+        {
+          "quartiereId": "solari-navigli",
+          "quartiere": "SOLARI, P.TA GENOVA, ASCANIO SFORZA",
+          "nilIds": [
+            "moncucco---san-cristoforo"
+          ],
+          "prezzoAcquisto": 3733,
+          "prezzoLocazione": 17.58
+        },
+        {
+          "quartiereId": "stazione-centrale",
+          "quartiere": "STAZIONE CENTRALE VIALE STELVIO",
+          "nilIds": [
+            "stazione-centrale---ponte-seveso"
+          ],
+          "prezzoAcquisto": 3827,
+          "prezzoLocazione": 16.44
+        },
+        {
+          "quartiereId": "tabacchi-sarfatti",
+          "quartiere": "TABACCHI, SARFATTI, CREMA",
+          "nilIds": [
+            "tibaldi"
+          ],
+          "prezzoAcquisto": 3450,
+          "prezzoLocazione": 16.39
+        },
+        {
+          "quartiereId": "tito-livio",
+          "quartiere": "TITO LIVIO, TERTULLIANO, LONGANESI, ORTOMERCATO",
+          "nilIds": [
+            "umbria---molise---calvairate",
+            "ortomercato",
+            "taliedo---morsenchio---qre-forlanini"
+          ],
+          "prezzoAcquisto": 2695,
+          "prezzoLocazione": 11.06
+        },
+        {
+          "quartiereId": "turati-moscova",
+          "quartiere": "TURATI, MOSCOVA, CORSO VENEZIA",
+          "nilIds": [
+            "giardini-pta-venezia",
+            "porta-garibaldi---porta-nuova"
+          ],
+          "prezzoAcquisto": 6358,
+          "prezzoLocazione": 28.15
+        },
+        {
+          "quartiereId": "venezia-porta-vittoria",
+          "quartiere": "VENEZIA, PORTA VITTORIA, PORTA ROMANA",
+          "nilIds": [
+            "buenos-aires---porta-venezia---porta-monforte"
+          ],
+          "prezzoAcquisto": 6900,
+          "prezzoLocazione": 25.07
+        }
+      ],
+      "stats": {
+        "prezzoMedioAcquisto": 3894,
+        "prezzoMedioLocazione": 16.3,
+        "prezzoMax": 10911,
+        "prezzoMin": 1600,
+        "totaleQuartieri": 42
+      }
+    }
+  ]
+}

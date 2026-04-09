@@ -1,0 +1,45 @@
+{
+  "nilId": 72,
+  "nilName": "MAGGIORE - MUSOCCO - CERTOSA",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 1041,
+      "percentuale": 41.8,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 816,
+      "percentuale": 32.8,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 416,
+      "percentuale": 16.7,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 134,
+      "percentuale": 5.4,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 84,
+      "percentuale": 3.4,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 2491,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 49.5,
+  "anno": 2011
+}

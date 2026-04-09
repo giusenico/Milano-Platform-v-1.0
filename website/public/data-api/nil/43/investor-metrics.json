@@ -1,0 +1,41 @@
+{
+  "nilId": 43,
+  "nil": "TIBALDI",
+  "investorScore": 32.9,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Alto",
+  "ranking": {
+    "qualitaVita": 71,
+    "verde": 61,
+    "popolazione": 54,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 11463,
+      "media": 15753,
+      "delta": -4290.238636363636
+    },
+    "densita": {
+      "nil": 14580.545119383278,
+      "media": 8881.290415418553,
+      "deltaPercent": 64.2
+    },
+    "stranieri": {
+      "nil": 17.089767076681497,
+      "media": 21.360484986780587,
+      "delta": -4.3
+    },
+    "verde": {
+      "nil": 4.660762240211723,
+      "media": 8.1171861884842,
+      "deltaPercent": -42.6
+    },
+    "qualitaVita": {
+      "nil": 32.11028855158419,
+      "media": 39.6877862711082,
+      "deltaPercent": -19.1
+    }
+  }
+}

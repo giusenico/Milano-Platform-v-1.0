@@ -1,0 +1,45 @@
+{
+  "nilId": 32,
+  "nilName": "TRIULZO SUPERIORE",
+  "data": [
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 425,
+      "percentuale": 50.2,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 211,
+      "percentuale": 24.9,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 113,
+      "percentuale": 13.4,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 62,
+      "percentuale": 7.3,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 35,
+      "percentuale": 4.1,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 846,
+  "mezzo_prevalente": "Mezzi pubblici",
+  "pctSostenibile": 63.6,
+  "anno": 2011
+}

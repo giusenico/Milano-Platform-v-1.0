@@ -1,0 +1,32 @@
+{
+  "nilId": 57,
+  "nilName": "SAN SIRO",
+  "totaleServizi": 13,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 13
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18),Giovani",
+      "count": 7
+    },
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Anziani",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Adolescenti (11-18),Bambini (0-10)",
+      "count": 2
+    }
+  ],
+  "popolazione": 26354,
+  "serviziPer1000Abitanti": 0.49,
+  "qualitaCopertura": "Bassa"
+}

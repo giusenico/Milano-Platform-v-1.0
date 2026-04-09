@@ -1,0 +1,33 @@
+{
+  "nilId": 78,
+  "nilName": "FARINI",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 477,
+      "percentuale": 15.1
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 816,
+      "percentuale": 25.9
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 1063,
+      "percentuale": 33.7
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 598,
+      "percentuale": 19
+    }
+  ],
+  "totale": 3155,
+  "pctLaureati": 19,
+  "anno": 2011
+}

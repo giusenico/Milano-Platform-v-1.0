@@ -1,0 +1,15 @@
+{
+  "nilId": 75,
+  "nilName": "STEPHENSON",
+  "pubbliciEsercizi": 8,
+  "eserciziVicinato": 9,
+  "bottegheStoriche": 0,
+  "coworking": 0,
+  "grandeDistribuzione": 0,
+  "edicole": 0,
+  "totaleCommercio": 17,
+  "densitaCommerciale": 30.4,
+  "commercioPer1000Ab": 126.9,
+  "scoreVitalita": 6.7,
+  "livelloVitalita": "Basso"
+}

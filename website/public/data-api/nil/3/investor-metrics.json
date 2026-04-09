@@ -1,0 +1,41 @@
+{
+  "nilId": 3,
+  "nil": "GIARDINI P.TA VENEZIA",
+  "investorScore": 50.5,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 4,
+    "verde": 4,
+    "popolazione": 87,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 42,
+      "media": 15753,
+      "delta": -15711.238636363636
+    },
+    "densita": {
+      "nil": 168.2440283624741,
+      "media": 8881.290415418553,
+      "deltaPercent": -98.1
+    },
+    "stranieri": {
+      "nil": 26.190476190476193,
+      "media": 21.360484986780587,
+      "delta": 4.8
+    },
+    "verde": {
+      "nil": 24.1761906511833,
+      "media": 8.1171861884842,
+      "deltaPercent": 197.8
+    },
+    "qualitaVita": {
+      "nil": 63.478977330466606,
+      "media": 39.6877862711082,
+      "deltaPercent": 59.9
+    }
+  }
+}

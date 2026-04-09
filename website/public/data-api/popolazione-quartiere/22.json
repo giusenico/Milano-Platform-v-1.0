@@ -1,0 +1,206 @@
+{
+  "nil": "CITTA' STUDI",
+  "nilLabel": "CITTA' STUDI",
+  "idNil": 22,
+  "match": {
+    "matchType": "id",
+    "confidence": 1
+  },
+  "latestYear": 2021,
+  "timeSeries": [
+    {
+      "anno": 2007,
+      "nil": "Citta' studi",
+      "nil_label": "Citta' studi (22)",
+      "totale_famiglie": 17917
+    },
+    {
+      "anno": 2008,
+      "nil": "Citta' studi",
+      "nil_label": "Citta' studi (22)",
+      "totale_famiglie": 17802
+    },
+    {
+      "anno": 2009,
+      "nil": "Citta' studi",
+      "nil_label": "Citta' studi (22)",
+      "totale_famiglie": 17991
+    },
+    {
+      "anno": 2010,
+      "nil": "Citta' studi",
+      "nil_label": "Citta' studi (22)",
+      "totale_famiglie": 18291
+    },
+    {
+      "anno": 2011,
+      "nil": "Citta' studi",
+      "nil_label": "Citta' studi (22)",
+      "totale_famiglie": 18593
+    },
+    {
+      "anno": 2012,
+      "nil": "Citta' studi",
+      "nil_label": "Citta' studi (22)",
+      "totale_famiglie": 18663
+    },
+    {
+      "anno": 2013,
+      "nil": "Citta' studi",
+      "nil_label": "Citta' studi (22)",
+      "totale_famiglie": 18381
+    },
+    {
+      "anno": 2014,
+      "nil": "Citta' studi",
+      "nil_label": "Citta' studi (22)",
+      "totale_famiglie": 18240
+    },
+    {
+      "anno": 2015,
+      "nil": "Citta' studi",
+      "nil_label": "Citta' studi (22)",
+      "totale_famiglie": 18157
+    },
+    {
+      "anno": 2016,
+      "nil": "Citta' studi",
+      "nil_label": "Citta' studi (22)",
+      "totale_famiglie": 18229
+    },
+    {
+      "anno": 2017,
+      "nil": "Citta' studi",
+      "nil_label": "Citta' studi (22)",
+      "totale_famiglie": 18322
+    },
+    {
+      "anno": 2018,
+      "nil": "Citta' studi",
+      "nil_label": "Citta' studi (22)",
+      "totale_famiglie": 18463
+    },
+    {
+      "anno": 2019,
+      "nil": "Citta' studi",
+      "nil_label": "Citta' studi (22)",
+      "totale_famiglie": 18749
+    },
+    {
+      "anno": 2020,
+      "nil": "Citta' studi",
+      "nil_label": "Citta' studi (22)",
+      "totale_famiglie": 18829
+    },
+    {
+      "anno": 2021,
+      "nil": "Citta' studi",
+      "nil_label": "Citta' studi (22)",
+      "totale_famiglie": 18690
+    }
+  ],
+  "crescitaFamiglieYoY": -0.74,
+  "amenities": {
+    "pubblici_esercizi": 220,
+    "mercati": 1,
+    "farmacie": 11,
+    "scuole": 14,
+    "biblioteche": 0
+  },
+  "breakdown": {
+    "tipologie": [
+      {
+        "tipologia_familiare": "Single",
+        "totale": 9078
+      },
+      {
+        "tipologia_familiare": "Coppia sposata senza figli",
+        "totale": 2770
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con almeno un figlio minorenne",
+        "totale": 1886
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con figli tutti maggiorenni",
+        "totale": 1259
+      },
+      {
+        "tipologia_familiare": "Monogenitore con figli tutti maggiorenni",
+        "totale": 1247
+      },
+      {
+        "tipologia_familiare": "Monogenitore con almeno un figlio minorenne",
+        "totale": 764
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con almeno un figlio minorenne",
+        "totale": 613
+      },
+      {
+        "tipologia_familiare": "Coppia convivente senza figli",
+        "totale": 503
+      },
+      {
+        "tipologia_familiare": "Altre tipologie",
+        "totale": 494
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con figli tutti maggiorenni",
+        "totale": 76
+      }
+    ],
+    "classiEta": [
+      {
+        "classe_eta_capofamiglia": "Da 35 a 64 anni",
+        "totale": 9185
+      },
+      {
+        "classe_eta_capofamiglia": "80 anni e più",
+        "totale": 3801
+      },
+      {
+        "classe_eta_capofamiglia": "Da 65 a 79 anni",
+        "totale": 3601
+      },
+      {
+        "classe_eta_capofamiglia": "Da 18 a 34 anni",
+        "totale": 2103
+      }
+    ],
+    "cittadinanza": [
+      {
+        "cittadinanza": "Italia",
+        "totale": 16148
+      },
+      {
+        "cittadinanza": "Altri paesi",
+        "totale": 1411
+      },
+      {
+        "cittadinanza": "Filippine",
+        "totale": 368
+      },
+      {
+        "cittadinanza": "Perù",
+        "totale": 184
+      },
+      {
+        "cittadinanza": "Sri Lanka",
+        "totale": 176
+      },
+      {
+        "cittadinanza": "Cina",
+        "totale": 158
+      },
+      {
+        "cittadinanza": "Egitto",
+        "totale": 142
+      },
+      {
+        "cittadinanza": "Ecuador",
+        "totale": 103
+      }
+    ]
+  }
+}

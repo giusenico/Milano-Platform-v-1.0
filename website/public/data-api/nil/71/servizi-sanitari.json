@@ -1,0 +1,66 @@
+{
+  "nilId": 71,
+  "nilName": "VILLAPIZZONE - CAGNOLA - BOLDINASCO",
+  "farmacie": {
+    "totale": 9,
+    "lista": [
+      {
+        "descrizione_farmacia": "CERTOSA SAS",
+        "indirizzo": "VIALE CERTOSA, 121",
+        "cap": "20151"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 46",
+        "indirizzo": "VIA DEI CIGNOLI, 1",
+        "cap": "20151"
+      },
+      {
+        "descrizione_farmacia": "CARLETTI SAS",
+        "indirizzo": "VIA MAC MAHON, 111",
+        "cap": "20155"
+      },
+      {
+        "descrizione_farmacia": "AL PORTELLO SNC",
+        "indirizzo": "VIA GROSOTTO, 5",
+        "cap": "20149"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 19",
+        "indirizzo": "PIAZZA PREALPI, 3",
+        "cap": "20155"
+      },
+      {
+        "descrizione_farmacia": "CASTELLI SNC DOTT.SSE GIORGIA PAVAN E DALILA PEDRETTI",
+        "indirizzo": "PIAZZA POMPEO CASTELLI, 14",
+        "cap": "20156"
+      },
+      {
+        "descrizione_farmacia": "AMORETTI DI CRUPI NICOLA & C. SNC",
+        "indirizzo": "VIALE CARLO ESPINASSE, 30",
+        "cap": "20156"
+      },
+      {
+        "descrizione_farmacia": "SAN GUIDO",
+        "indirizzo": "VIALE CARLO ESPINASSE, 172",
+        "cap": "20156"
+      },
+      {
+        "descrizione_farmacia": "FUSCO SAS DELLA DOTT.SSA MONTAGNANI MARELLI ROSSELLA E C.",
+        "indirizzo": "VIA GIANBATTISTA BODONI, 19",
+        "cap": "20155"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 13,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 41190,
+  "rapporti": {
+    "abitantiPerFarmacia": 4577,
+    "abitantiPerMedico": 3168
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

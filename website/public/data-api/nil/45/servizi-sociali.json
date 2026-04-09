@@ -1,0 +1,40 @@
+{
+  "nilId": 45,
+  "nilName": "MONCUCCO - SAN CRISTOFORO",
+  "totaleServizi": 8,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 7
+    },
+    {
+      "area_attivita": "Attività ludiche e ricreative",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18),Giovani",
+      "count": 4
+    },
+    {
+      "fascia_utenza": "Persone con disabilità",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Giovani,Adulti,Migranti,Anziani,Persone con disabilità",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Anziani",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Adulti",
+      "count": 1
+    }
+  ],
+  "popolazione": 13744,
+  "serviziPer1000Abitanti": 0.58,
+  "qualitaCopertura": "Bassa"
+}

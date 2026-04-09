@@ -1,0 +1,41 @@
+{
+  "nilId": 26,
+  "nil": "XXII MARZO",
+  "investorScore": 32,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 73,
+    "verde": 82,
+    "popolazione": 10,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 31493,
+      "media": 15753,
+      "delta": 15739.761363636364
+    },
+    "densita": {
+      "nil": 19233.096807220347,
+      "media": 8881.290415418553,
+      "deltaPercent": 116.6
+    },
+    "stranieri": {
+      "nil": 10.01809926015305,
+      "media": 21.360484986780587,
+      "delta": -11.3
+    },
+    "verde": {
+      "nil": 3.100541336744603,
+      "media": 8.1171861884842,
+      "deltaPercent": -61.8
+    },
+    "qualitaVita": {
+      "nil": 31.88698610956341,
+      "media": 39.6877862711082,
+      "deltaPercent": -19.7
+    }
+  }
+}

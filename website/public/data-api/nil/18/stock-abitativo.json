@@ -1,0 +1,47 @@
+{
+  "nilId": 18,
+  "nilName": "CIMIANO - ROTTOLE - Q.RE FELTRE",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 4070,
+      "colore": "#3b82f6",
+      "percentuale": 44
+    },
+    {
+      "residenti": "2",
+      "valore": 2747,
+      "colore": "#8b5cf6",
+      "percentuale": 29.7
+    },
+    {
+      "residenti": "3",
+      "valore": 1352,
+      "colore": "#ec4899",
+      "percentuale": 14.6
+    },
+    {
+      "residenti": "4",
+      "valore": 834,
+      "colore": "#f59e0b",
+      "percentuale": 9
+    },
+    {
+      "residenti": "5+",
+      "valore": 243,
+      "colore": "#22c55e",
+      "percentuale": 2.6
+    }
+  ],
+  "totaleAbitazioni": 9246,
+  "famiglieSingole": 9130,
+  "famiglieCoabitanti": 116,
+  "nuoviEdifici": {
+    "fabbricati": 5,
+    "abitazioni": 571,
+    "superficieMq": 34612,
+    "volumeMc": 240511,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

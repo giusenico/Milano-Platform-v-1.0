@@ -1,0 +1,41 @@
+{
+  "nilId": 83,
+  "nil": "BRUZZANO",
+  "investorScore": 39.4,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 16,
+    "verde": 9,
+    "popolazione": 51,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 12635,
+      "media": 15753,
+      "delta": -3118.238636363636
+    },
+    "densita": {
+      "nil": 7563.874788485629,
+      "media": 8881.290415418553,
+      "deltaPercent": -14.8
+    },
+    "stranieri": {
+      "nil": 20.601503759398497,
+      "media": 21.360484986780587,
+      "delta": -0.8
+    },
+    "verde": {
+      "nil": 14.185387462999461,
+      "media": 8.1171861884842,
+      "deltaPercent": 74.8
+    },
+    "qualitaVita": {
+      "nil": 46.329174113569856,
+      "media": 39.6877862711082,
+      "deltaPercent": 16.7
+    }
+  }
+}

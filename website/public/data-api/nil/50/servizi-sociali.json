@@ -1,0 +1,32 @@
+{
+  "nilId": 50,
+  "nilName": "PORTA GENOVA",
+  "totaleServizi": 4,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 3
+    },
+    {
+      "area_attivita": "Attività socio assistenziali",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Anziani",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Adulti",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Adolescenti (11-18),Bambini (0-10)",
+      "count": 1
+    }
+  ],
+  "popolazione": 15119,
+  "serviziPer1000Abitanti": 0.26,
+  "qualitaCopertura": "Bassa"
+}

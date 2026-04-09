@@ -1,0 +1,41 @@
+{
+  "nilId": 63,
+  "nil": "FIGINO",
+  "investorScore": 38.4,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 22,
+    "verde": 24,
+    "popolazione": 71,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 2445,
+      "media": 15753,
+      "delta": -13308.238636363636
+    },
+    "densita": {
+      "nil": 1716.198863628077,
+      "media": 8881.290415418553,
+      "deltaPercent": -80.7
+    },
+    "stranieri": {
+      "nil": 25.357873210633947,
+      "media": 21.360484986780587,
+      "delta": 4
+    },
+    "verde": {
+      "nil": 10.020208392340637,
+      "media": 8.1171861884842,
+      "deltaPercent": 23.4
+    },
+    "qualitaVita": {
+      "nil": 45.22247262207746,
+      "media": 39.6877862711082,
+      "deltaPercent": 13.9
+    }
+  }
+}

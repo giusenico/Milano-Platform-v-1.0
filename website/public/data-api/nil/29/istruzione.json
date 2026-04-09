@@ -1,0 +1,33 @@
+{
+  "nilId": 29,
+  "nilName": "ORTOMERCATO",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 766,
+      "percentuale": 21.9
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 1053,
+      "percentuale": 30.1
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 1019,
+      "percentuale": 29.1
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 481,
+      "percentuale": 13.7
+    }
+  ],
+  "totale": 3499,
+  "pctLaureati": 13.7,
+  "anno": 2011
+}

@@ -1,0 +1,41 @@
+{
+  "nilId": 49,
+  "nil": "GIAMBELLINO",
+  "investorScore": 32,
+  "riskLevel": "Alto",
+  "riskColor": "#ef4444",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 57,
+    "verde": 65,
+    "popolazione": 12,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 30905,
+      "media": 15753,
+      "delta": 15151.761363636364
+    },
+    "densita": {
+      "nil": 15701.488357133536,
+      "media": 8881.290415418553,
+      "deltaPercent": 76.8
+    },
+    "stranieri": {
+      "nil": 26.704416761041905,
+      "media": 21.360484986780587,
+      "delta": 5.3
+    },
+    "verde": {
+      "nil": 4.438617230294778,
+      "media": 8.1171861884842,
+      "deltaPercent": -45.3
+    },
+    "qualitaVita": {
+      "nil": 37.23645872548254,
+      "media": 39.6877862711082,
+      "deltaPercent": -6.2
+    }
+  }
+}

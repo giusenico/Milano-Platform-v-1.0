@@ -1,0 +1,36 @@
+{
+  "nilId": 53,
+  "nilName": "LORENTEGGIO",
+  "farmacie": {
+    "totale": 3,
+    "lista": [
+      {
+        "descrizione_farmacia": "NUOVA INGANNI SNC",
+        "indirizzo": "VIA ANGELO INGANNI, 70",
+        "cap": "20147"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 73",
+        "indirizzo": "VIA ANGELO INGANNI, 40",
+        "cap": "20147"
+      },
+      {
+        "descrizione_farmacia": "LORENTEGGIO SNC",
+        "indirizzo": "VIA LORENTEGGIO, 208",
+        "cap": "20147"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 1,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 14230,
+  "rapporti": {
+    "abitantiPerFarmacia": 4743,
+    "abitantiPerMedico": 14230
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

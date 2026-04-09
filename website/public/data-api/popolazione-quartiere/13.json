@@ -1,0 +1,206 @@
+{
+  "nil": "GRECO - SEGNANO",
+  "nilLabel": "GRECO - SEGNANO",
+  "idNil": 13,
+  "match": {
+    "matchType": "id",
+    "confidence": 1
+  },
+  "latestYear": 2021,
+  "timeSeries": [
+    {
+      "anno": 2007,
+      "nil": "Greco - Segnano",
+      "nil_label": "Greco - Segnano (13)",
+      "totale_famiglie": 6892
+    },
+    {
+      "anno": 2008,
+      "nil": "Greco - Segnano",
+      "nil_label": "Greco - Segnano (13)",
+      "totale_famiglie": 6883
+    },
+    {
+      "anno": 2009,
+      "nil": "Greco - Segnano",
+      "nil_label": "Greco - Segnano (13)",
+      "totale_famiglie": 7014
+    },
+    {
+      "anno": 2010,
+      "nil": "Greco - Segnano",
+      "nil_label": "Greco - Segnano (13)",
+      "totale_famiglie": 7148
+    },
+    {
+      "anno": 2011,
+      "nil": "Greco - Segnano",
+      "nil_label": "Greco - Segnano (13)",
+      "totale_famiglie": 7260
+    },
+    {
+      "anno": 2012,
+      "nil": "Greco - Segnano",
+      "nil_label": "Greco - Segnano (13)",
+      "totale_famiglie": 7398
+    },
+    {
+      "anno": 2013,
+      "nil": "Greco - Segnano",
+      "nil_label": "Greco - Segnano (13)",
+      "totale_famiglie": 7432
+    },
+    {
+      "anno": 2014,
+      "nil": "Greco - Segnano",
+      "nil_label": "Greco - Segnano (13)",
+      "totale_famiglie": 7424
+    },
+    {
+      "anno": 2015,
+      "nil": "Greco - Segnano",
+      "nil_label": "Greco - Segnano (13)",
+      "totale_famiglie": 7471
+    },
+    {
+      "anno": 2016,
+      "nil": "Greco - Segnano",
+      "nil_label": "Greco - Segnano (13)",
+      "totale_famiglie": 7540
+    },
+    {
+      "anno": 2017,
+      "nil": "Greco - Segnano",
+      "nil_label": "Greco - Segnano (13)",
+      "totale_famiglie": 7665
+    },
+    {
+      "anno": 2018,
+      "nil": "Greco - Segnano",
+      "nil_label": "Greco - Segnano (13)",
+      "totale_famiglie": 7810
+    },
+    {
+      "anno": 2019,
+      "nil": "Greco - Segnano",
+      "nil_label": "Greco - Segnano (13)",
+      "totale_famiglie": 8008
+    },
+    {
+      "anno": 2020,
+      "nil": "Greco - Segnano",
+      "nil_label": "Greco - Segnano (13)",
+      "totale_famiglie": 8043
+    },
+    {
+      "anno": 2021,
+      "nil": "Greco - Segnano",
+      "nil_label": "Greco - Segnano (13)",
+      "totale_famiglie": 8107
+    }
+  ],
+  "crescitaFamiglieYoY": 0.8,
+  "amenities": {
+    "pubblici_esercizi": 55,
+    "mercati": 0,
+    "farmacie": 2,
+    "scuole": 5,
+    "biblioteche": 0
+  },
+  "breakdown": {
+    "tipologie": [
+      {
+        "tipologia_familiare": "Single",
+        "totale": 3778
+      },
+      {
+        "tipologia_familiare": "Coppia sposata senza figli",
+        "totale": 1244
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con almeno un figlio minorenne",
+        "totale": 910
+      },
+      {
+        "tipologia_familiare": "Coppia sposata con figli tutti maggiorenni",
+        "totale": 546
+      },
+      {
+        "tipologia_familiare": "Monogenitore con figli tutti maggiorenni",
+        "totale": 481
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con almeno un figlio minorenne",
+        "totale": 356
+      },
+      {
+        "tipologia_familiare": "Monogenitore con almeno un figlio minorenne",
+        "totale": 317
+      },
+      {
+        "tipologia_familiare": "Coppia convivente senza figli",
+        "totale": 230
+      },
+      {
+        "tipologia_familiare": "Altre tipologie",
+        "totale": 206
+      },
+      {
+        "tipologia_familiare": "Coppia convivente con figli tutti maggiorenni",
+        "totale": 39
+      }
+    ],
+    "classiEta": [
+      {
+        "classe_eta_capofamiglia": "Da 35 a 64 anni",
+        "totale": 4385
+      },
+      {
+        "classe_eta_capofamiglia": "80 anni e più",
+        "totale": 1479
+      },
+      {
+        "classe_eta_capofamiglia": "Da 65 a 79 anni",
+        "totale": 1295
+      },
+      {
+        "classe_eta_capofamiglia": "Da 18 a 34 anni",
+        "totale": 948
+      }
+    ],
+    "cittadinanza": [
+      {
+        "cittadinanza": "Italia",
+        "totale": 6471
+      },
+      {
+        "cittadinanza": "Altri paesi",
+        "totale": 653
+      },
+      {
+        "cittadinanza": "Filippine",
+        "totale": 290
+      },
+      {
+        "cittadinanza": "Cina",
+        "totale": 266
+      },
+      {
+        "cittadinanza": "Egitto",
+        "totale": 144
+      },
+      {
+        "cittadinanza": "Sri Lanka",
+        "totale": 121
+      },
+      {
+        "cittadinanza": "Perù",
+        "totale": 92
+      },
+      {
+        "cittadinanza": "Ecuador",
+        "totale": 70
+      }
+    ]
+  }
+}

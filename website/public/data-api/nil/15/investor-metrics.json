@@ -1,0 +1,41 @@
+{
+  "nilId": 15,
+  "nil": "BICOCCA",
+  "investorScore": 32,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 63,
+    "verde": 54,
+    "popolazione": 59,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 8516,
+      "media": 15753,
+      "delta": -7237.238636363636
+    },
+    "densita": {
+      "nil": 5567.838695407883,
+      "media": 8881.290415418553,
+      "deltaPercent": -37.3
+    },
+    "stranieri": {
+      "nil": 16.838891498356034,
+      "media": 21.360484986780587,
+      "delta": -4.5
+    },
+    "verde": {
+      "nil": 5.40362843093789,
+      "media": 8.1171861884842,
+      "deltaPercent": -33.4
+    },
+    "qualitaVita": {
+      "nil": 35.74449462844073,
+      "media": 39.6877862711082,
+      "deltaPercent": -9.9
+    }
+  }
+}

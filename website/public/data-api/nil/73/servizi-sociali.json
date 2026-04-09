@@ -1,0 +1,20 @@
+{
+  "nilId": 73,
+  "nilName": "CASCINA MERLATA",
+  "totaleServizi": 1,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 1
+    }
+  ],
+  "popolazione": 919,
+  "serviziPer1000Abitanti": 1.09,
+  "qualitaCopertura": "Media"
+}

@@ -1,0 +1,40 @@
+{
+  "nilId": 17,
+  "nilName": "ADRIANO",
+  "totaleServizi": 8,
+  "serviziPerArea": [
+    {
+      "area_attivita": null,
+      "count": 7
+    },
+    {
+      "area_attivita": "Attività ludiche e ricreative",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Famiglie,Bambini (0-10),Adolescenti (11-18),Giovani",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Anziani",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Adolescenti (11-18),Bambini (0-10)",
+      "count": 2
+    },
+    {
+      "fascia_utenza": "Giovani,Adulti,Migranti,Anziani,Persone con disabilità",
+      "count": 1
+    },
+    {
+      "fascia_utenza": "Bambini (0-10),Adolescenti (11-18)",
+      "count": 1
+    }
+  ],
+  "popolazione": 17741,
+  "serviziPer1000Abitanti": 0.45,
+  "qualitaCopertura": "Bassa"
+}

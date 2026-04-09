@@ -1,0 +1,46 @@
+{
+  "nilId": 25,
+  "nilName": "CORSICA",
+  "farmacie": {
+    "totale": 5,
+    "lista": [
+      {
+        "descrizione_farmacia": "ARGONNE SAS DEL DR. MAZZANTINI MASSIMO & C.",
+        "indirizzo": "VIA UMBERTO MASOTTO, 1",
+        "cap": "20133"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 71",
+        "indirizzo": "VIA LUISA BATTISTOTTI SASSI, 24",
+        "cap": "20133"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 78",
+        "indirizzo": "VIA NEGROLI, 55",
+        "cap": "20133"
+      },
+      {
+        "descrizione_farmacia": "TOSCHI",
+        "indirizzo": "VIALE CORSICA, 42",
+        "cap": "20137"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 23",
+        "indirizzo": "VIA MONTE SUELLO, 1",
+        "cap": "20133"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 12,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 19482,
+  "rapporti": {
+    "abitantiPerFarmacia": 3896,
+    "abitantiPerMedico": 1624
+  },
+  "scoreHealthcare": 55,
+  "qualitaServizio": "Buono"
+}

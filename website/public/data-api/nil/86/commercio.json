@@ -1,0 +1,15 @@
+{
+  "nilId": 86,
+  "nilName": "PARCO DEI NAVIGLI",
+  "pubbliciEsercizi": 2,
+  "eserciziVicinato": 2,
+  "bottegheStoriche": 0,
+  "coworking": 0,
+  "grandeDistribuzione": 0,
+  "edicole": 0,
+  "totaleCommercio": 4,
+  "densitaCommerciale": 1.1,
+  "commercioPer1000Ab": 11.8,
+  "scoreVitalita": 1.6,
+  "livelloVitalita": "Basso"
+}

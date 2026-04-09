@@ -1,0 +1,46 @@
+{
+  "nilId": 9,
+  "nilName": "PORTA GARIBALDI - PORTA NUOVA",
+  "farmacie": {
+    "totale": 5,
+    "lista": [
+      {
+        "descrizione_farmacia": "GALILEO SNC",
+        "indirizzo": "VIA VINCENZO VIVIANI, 2",
+        "cap": "20124"
+      },
+      {
+        "descrizione_farmacia": "DR.MAX MILANO PORTA NUOVA",
+        "indirizzo": "PIAZZA GAE AULENTI,1",
+        "cap": "20154"
+      },
+      {
+        "descrizione_farmacia": "PASUBIO FARMA ACQUISITION SRL",
+        "indirizzo": "VIALE PASUBIO, 6",
+        "cap": "20154"
+      },
+      {
+        "descrizione_farmacia": "HUMANITAS TOSELLI & C. SNC",
+        "indirizzo": "VIA MELCHIORRE GIOIA, 43",
+        "cap": "20124"
+      },
+      {
+        "descrizione_farmacia": "MONTE SANTO SRL",
+        "indirizzo": "PIAZZALE PRINCIPESSA CLOTILDE, 8",
+        "cap": "20121"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 6,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 5864,
+  "rapporti": {
+    "abitantiPerFarmacia": 1173,
+    "abitantiPerMedico": 977
+  },
+  "scoreHealthcare": 100,
+  "qualitaServizio": "Ottimo"
+}

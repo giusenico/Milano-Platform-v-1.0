@@ -1,0 +1,137 @@
+{
+  "totali": {
+    "eserciziVicinato": 29312,
+    "pubbliciEsercizi": 9417,
+    "grandeDistribuzione": 1027,
+    "bottegheStoriche": 626,
+    "coworking": 110
+  },
+  "perMunicipio": {
+    "vicinato": [
+      {
+        "municipio": 1,
+        "count": 6781
+      },
+      {
+        "municipio": 3,
+        "count": 3694
+      },
+      {
+        "municipio": 9,
+        "count": 2928
+      },
+      {
+        "municipio": 4,
+        "count": 2888
+      },
+      {
+        "municipio": 8,
+        "count": 2764
+      },
+      {
+        "municipio": 2,
+        "count": 2757
+      },
+      {
+        "municipio": 7,
+        "count": 2554
+      },
+      {
+        "municipio": 6,
+        "count": 2391
+      },
+      {
+        "municipio": 5,
+        "count": 2110
+      },
+      {
+        "municipio": null,
+        "count": 445
+      }
+    ],
+    "pubblici": [
+      {
+        "municipio": 1,
+        "count": 1865
+      },
+      {
+        "municipio": 3,
+        "count": 1175
+      },
+      {
+        "municipio": 9,
+        "count": 1110
+      },
+      {
+        "municipio": 2,
+        "count": 955
+      },
+      {
+        "municipio": 4,
+        "count": 922
+      },
+      {
+        "municipio": 8,
+        "count": 904
+      },
+      {
+        "municipio": 6,
+        "count": 888
+      },
+      {
+        "municipio": 5,
+        "count": 726
+      },
+      {
+        "municipio": 7,
+        "count": 661
+      },
+      {
+        "municipio": null,
+        "count": 211
+      }
+    ],
+    "gdo": [
+      {
+        "municipio": "1",
+        "count": 287
+      },
+      {
+        "municipio": null,
+        "count": 180
+      },
+      {
+        "municipio": "8",
+        "count": 92
+      },
+      {
+        "municipio": "3",
+        "count": 80
+      },
+      {
+        "municipio": "9",
+        "count": 78
+      },
+      {
+        "municipio": "7",
+        "count": 67
+      },
+      {
+        "municipio": "6",
+        "count": 67
+      },
+      {
+        "municipio": "2",
+        "count": 64
+      },
+      {
+        "municipio": "4",
+        "count": 62
+      },
+      {
+        "municipio": "5",
+        "count": 50
+      }
+    ]
+  }
+}

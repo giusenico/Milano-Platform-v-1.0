@@ -1,0 +1,882 @@
+[
+  {
+    "nil": "PARCO NORD",
+    "id_nil": 84,
+    "indice_qualita_vita": 67.02324856375688,
+    "comp_verde": 100,
+    "popolazione_totale": 104,
+    "ranking_iqv": 1,
+    "ranking_verde": 1,
+    "ranking_popolazione": 86
+  },
+  {
+    "nil": "QT 8",
+    "id_nil": 66,
+    "indice_qualita_vita": 65.18930573367395,
+    "comp_verde": 94.55808433342162,
+    "popolazione_totale": 4051,
+    "ranking_iqv": 2,
+    "ranking_verde": 2,
+    "ranking_popolazione": 67
+  },
+  {
+    "nil": "PARCO SEMPIONE",
+    "id_nil": 8,
+    "indice_qualita_vita": 64.29093890787453,
+    "comp_verde": 90.68093280960078,
+    "popolazione_totale": 0,
+    "ranking_iqv": 3,
+    "ranking_verde": 3,
+    "ranking_popolazione": 88
+  },
+  {
+    "nil": "GIARDINI P.TA VENEZIA",
+    "id_nil": 3,
+    "indice_qualita_vita": 63.478977330466606,
+    "comp_verde": 88.3083132605036,
+    "popolazione_totale": 42,
+    "ranking_iqv": 4,
+    "ranking_verde": 4,
+    "ranking_popolazione": 87
+  },
+  {
+    "nil": "CIMIANO - ROTTOLE - Q.RE FELTRE",
+    "id_nil": 18,
+    "indice_qualita_vita": 55.939149291046334,
+    "comp_verde": 53.07796547476581,
+    "popolazione_totale": 19447,
+    "ranking_iqv": 5,
+    "ranking_verde": 8,
+    "ranking_popolazione": 28
+  },
+  {
+    "nil": "FORZE ARMATE",
+    "id_nil": 56,
+    "indice_qualita_vita": 55.56471874574834,
+    "comp_verde": 41.58748581846928,
+    "popolazione_totale": 25022,
+    "ranking_iqv": 6,
+    "ranking_verde": 13,
+    "ranking_popolazione": 21
+  },
+  {
+    "nil": "CHIARAVALLE",
+    "id_nil": 34,
+    "indice_qualita_vita": 55.46231637441705,
+    "comp_verde": 71.18058432460971,
+    "popolazione_totale": 1015,
+    "ranking_iqv": 7,
+    "ranking_verde": 5,
+    "ranking_popolazione": 75
+  },
+  {
+    "nil": "MAGGIORE - MUSOCCO - CERTOSA",
+    "id_nil": 72,
+    "indice_qualita_vita": 55.36935875804548,
+    "comp_verde": 15.498461487152557,
+    "popolazione_totale": 7710,
+    "ranking_iqv": 8,
+    "ranking_verde": 48,
+    "ranking_popolazione": 60
+  },
+  {
+    "nil": "PARCO BOSCO IN CITTA'",
+    "id_nil": 88,
+    "indice_qualita_vita": 54.90832459819916,
+    "comp_verde": 58.437423478240504,
+    "popolazione_totale": 672,
+    "ranking_iqv": 9,
+    "ranking_verde": 6,
+    "ranking_popolazione": 79
+  },
+  {
+    "nil": "Q.RE GALLARATESE - Q.RE SAN LEONARDO - LAMPUGNANO",
+    "id_nil": 65,
+    "indice_qualita_vita": 50.72783593426974,
+    "comp_verde": 37.34775140071384,
+    "popolazione_totale": 32425,
+    "ranking_iqv": 10,
+    "ranking_verde": 17,
+    "ranking_popolazione": 9
+  },
+  {
+    "nil": "ROSERIO",
+    "id_nil": 74,
+    "indice_qualita_vita": 50.6815480955654,
+    "comp_verde": 46.38134251966427,
+    "popolazione_totale": 242,
+    "ranking_iqv": 11,
+    "ranking_verde": 12,
+    "ranking_popolazione": 83
+  },
+  {
+    "nil": "BOVISASCA",
+    "id_nil": 81,
+    "indice_qualita_vita": 50.50666140552282,
+    "comp_verde": 54.88568504091005,
+    "popolazione_totale": 7230,
+    "ranking_iqv": 12,
+    "ranking_verde": 7,
+    "ranking_popolazione": 62
+  },
+  {
+    "nil": "MONLUE' - PONTE LAMBRO",
+    "id_nil": 31,
+    "indice_qualita_vita": 48.682336974019805,
+    "comp_verde": 22.332270051953802,
+    "popolazione_totale": 5205,
+    "ranking_iqv": 13,
+    "ranking_verde": 38,
+    "ranking_popolazione": 64
+  },
+  {
+    "nil": "BOVISA",
+    "id_nil": 77,
+    "indice_qualita_vita": 48.45188455638784,
+    "comp_verde": 24.321517766555743,
+    "popolazione_totale": 13945,
+    "ranking_iqv": 14,
+    "ranking_verde": 34,
+    "ranking_popolazione": 47
+  },
+  {
+    "nil": "CANTALUPA",
+    "id_nil": 47,
+    "indice_qualita_vita": 47.053489636724116,
+    "comp_verde": 33.373293629760894,
+    "popolazione_totale": 582,
+    "ranking_iqv": 15,
+    "ranking_verde": 22,
+    "ranking_popolazione": 80
+  },
+  {
+    "nil": "BRUZZANO",
+    "id_nil": 83,
+    "indice_qualita_vita": 46.329174113569856,
+    "comp_verde": 48.15772465199624,
+    "popolazione_totale": 12635,
+    "ranking_iqv": 16,
+    "ranking_verde": 9,
+    "ranking_popolazione": 51
+  },
+  {
+    "nil": "ASSIANO",
+    "id_nil": 87,
+    "indice_qualita_vita": 45.911120816178,
+    "comp_verde": 34.558150234313416,
+    "popolazione_totale": 201,
+    "ranking_iqv": 17,
+    "ranking_verde": 20,
+    "ranking_popolazione": 84
+  },
+  {
+    "nil": "TALIEDO - MORSENCHIO - Q.RE FORLANINI",
+    "id_nil": 30,
+    "indice_qualita_vita": 45.50203024277252,
+    "comp_verde": 22.477875313127,
+    "popolazione_totale": 19273,
+    "ranking_iqv": 18,
+    "ranking_verde": 37,
+    "ranking_popolazione": 29
+  },
+  {
+    "nil": "QUINTO ROMANO",
+    "id_nil": 62,
+    "indice_qualita_vita": 45.47675165215169,
+    "comp_verde": 31.817238115666058,
+    "popolazione_totale": 4662,
+    "ranking_iqv": 19,
+    "ranking_verde": 23,
+    "ranking_popolazione": 65
+  },
+  {
+    "nil": "RONCHETTO SUL NAVIGLIO - Q.RE LODOVICO IL MORO",
+    "id_nil": 48,
+    "indice_qualita_vita": 45.465907188997676,
+    "comp_verde": 47.44749405072822,
+    "popolazione_totale": 14516,
+    "ranking_iqv": 20,
+    "ranking_verde": 11,
+    "ranking_popolazione": 45
+  },
+  {
+    "nil": "LODI - CORVETTO",
+    "id_nil": 35,
+    "indice_qualita_vita": 45.43270559749787,
+    "comp_verde": 18.281187899131904,
+    "popolazione_totale": 36370,
+    "ranking_iqv": 21,
+    "ranking_verde": 43,
+    "ranking_popolazione": 6
+  },
+  {
+    "nil": "FIGINO",
+    "id_nil": 63,
+    "indice_qualita_vita": 45.22247262207746,
+    "comp_verde": 31.418891127122468,
+    "popolazione_totale": 2445,
+    "ranking_iqv": 22,
+    "ranking_verde": 24,
+    "ranking_popolazione": 71
+  },
+  {
+    "nil": "QUINTOSOLE",
+    "id_nil": 39,
+    "indice_qualita_vita": 44.92447319086909,
+    "comp_verde": 28.401809790307635,
+    "popolazione_totale": 935,
+    "ranking_iqv": 23,
+    "ranking_verde": 28,
+    "ranking_popolazione": 76
+  },
+  {
+    "nil": "PARCO DEI NAVIGLI",
+    "id_nil": 86,
+    "indice_qualita_vita": 44.85676656367103,
+    "comp_verde": 25.431579744528182,
+    "popolazione_totale": 339,
+    "ranking_iqv": 24,
+    "ranking_verde": 31,
+    "ranking_popolazione": 82
+  },
+  {
+    "nil": "TRIULZO SUPERIORE",
+    "id_nil": 32,
+    "indice_qualita_vita": 44.716819743487704,
+    "comp_verde": 18.01174422762552,
+    "popolazione_totale": 1620,
+    "ranking_iqv": 25,
+    "ranking_verde": 44,
+    "ranking_popolazione": 74
+  },
+  {
+    "nil": "MUGGIANO",
+    "id_nil": 54,
+    "indice_qualita_vita": 44.310334754579976,
+    "comp_verde": 47.865243010467914,
+    "popolazione_totale": 3081,
+    "ranking_iqv": 26,
+    "ranking_verde": 10,
+    "ranking_popolazione": 70
+  },
+  {
+    "nil": "PAGANO",
+    "id_nil": 68,
+    "indice_qualita_vita": 44.20642163582153,
+    "comp_verde": 26.677614148823714,
+    "popolazione_totale": 17745,
+    "ranking_iqv": 27,
+    "ranking_verde": 30,
+    "ranking_popolazione": 35
+  },
+  {
+    "nil": "PARCO DELLE ABBAZIE",
+    "id_nil": 85,
+    "indice_qualita_vita": 44.13612994782986,
+    "comp_verde": 23.596650282230193,
+    "popolazione_totale": 434,
+    "ranking_iqv": 28,
+    "ranking_verde": 35,
+    "ranking_popolazione": 81
+  },
+  {
+    "nil": "PARCO FORLANINI - CAVRIANO",
+    "id_nil": 24,
+    "indice_qualita_vita": 44.00348260906059,
+    "comp_verde": 34.40334467447081,
+    "popolazione_totale": 2180,
+    "ranking_iqv": 29,
+    "ranking_verde": 21,
+    "ranking_popolazione": 73
+  },
+  {
+    "nil": "LAMBRATE - ORTICA",
+    "id_nil": 23,
+    "indice_qualita_vita": 43.532355745776336,
+    "comp_verde": 10.621221761889213,
+    "popolazione_totale": 11923,
+    "ranking_iqv": 30,
+    "ranking_verde": 57,
+    "ranking_popolazione": 53
+  },
+  {
+    "nil": "STADIO - IPPODROMI",
+    "id_nil": 60,
+    "indice_qualita_vita": 43.40510292969491,
+    "comp_verde": 36.86610662025522,
+    "popolazione_totale": 13031,
+    "ranking_iqv": 31,
+    "ranking_verde": 18,
+    "ranking_popolazione": 50
+  },
+  {
+    "nil": "GORLA - PRECOTTO",
+    "id_nil": 16,
+    "indice_qualita_vita": 43.1669740710952,
+    "comp_verde": 13.805204338085526,
+    "popolazione_totale": 29488,
+    "ranking_iqv": 32,
+    "ranking_verde": 52,
+    "ranking_popolazione": 15
+  },
+  {
+    "nil": "CITTA' STUDI",
+    "id_nil": 22,
+    "indice_qualita_vita": 42.919314980038,
+    "comp_verde": 2.089606657131826,
+    "popolazione_totale": 35964,
+    "ranking_iqv": 33,
+    "ranking_verde": 84,
+    "ranking_popolazione": 7
+  },
+  {
+    "nil": "ADRIANO",
+    "id_nil": 17,
+    "indice_qualita_vita": 42.62016947778238,
+    "comp_verde": 22.781108416113867,
+    "popolazione_totale": 17741,
+    "ranking_iqv": 34,
+    "ranking_verde": 36,
+    "ranking_popolazione": 36
+  },
+  {
+    "nil": "BUENOS AIRES - PORTA VENEZIA - PORTA MONFORTE",
+    "id_nil": 21,
+    "indice_qualita_vita": 42.21732171015013,
+    "comp_verde": 1.261956197538334,
+    "popolazione_totale": 62093,
+    "ranking_iqv": 35,
+    "ranking_verde": 86,
+    "ranking_popolazione": 1
+  },
+  {
+    "nil": "PORTA TICINESE - CONCA DEL NAVIGLIO",
+    "id_nil": 6,
+    "indice_qualita_vita": 41.41656604753486,
+    "comp_verde": 5.174614570900265,
+    "popolazione_totale": 19932,
+    "ranking_iqv": 36,
+    "ranking_verde": 77,
+    "ranking_popolazione": 26
+  },
+  {
+    "nil": "STADERA - CHIESA ROSSA - Q.RE TORRETTA - CONCA FALLATA",
+    "id_nil": 42,
+    "indice_qualita_vita": 41.38860305813063,
+    "comp_verde": 27.378905531715247,
+    "popolazione_totale": 29307,
+    "ranking_iqv": 37,
+    "ranking_verde": 29,
+    "ranking_popolazione": 16
+  },
+  {
+    "nil": "GRATOSOGLIO - Q.RE MISSAGLIA - Q.RE TERRAZZE",
+    "id_nil": 41,
+    "indice_qualita_vita": 41.2785454564334,
+    "comp_verde": 29.4478934175989,
+    "popolazione_totale": 18398,
+    "ranking_iqv": 38,
+    "ranking_verde": 27,
+    "ranking_popolazione": 31
+  },
+  {
+    "nil": "BRERA",
+    "id_nil": 2,
+    "indice_qualita_vita": 41.01041248185012,
+    "comp_verde": 3.6523471409186397,
+    "popolazione_totale": 18156,
+    "ranking_iqv": 39,
+    "ranking_verde": 81,
+    "ranking_popolazione": 32
+  },
+  {
+    "nil": "CASCINA MERLATA",
+    "id_nil": 73,
+    "indice_qualita_vita": 40.89489547164105,
+    "comp_verde": 12.827530010469228,
+    "popolazione_totale": 919,
+    "ranking_iqv": 40,
+    "ranking_verde": 55,
+    "ranking_popolazione": 77
+  },
+  {
+    "nil": "QUARTO CAGNINO",
+    "id_nil": 61,
+    "indice_qualita_vita": 40.746651318321035,
+    "comp_verde": 40.264380647280504,
+    "popolazione_totale": 9801,
+    "ranking_iqv": 41,
+    "ranking_verde": 15,
+    "ranking_popolazione": 56
+  },
+  {
+    "nil": "BARONA",
+    "id_nil": 46,
+    "indice_qualita_vita": 40.378190311999816,
+    "comp_verde": 35.119921195516326,
+    "popolazione_totale": 16575,
+    "ranking_iqv": 42,
+    "ranking_verde": 19,
+    "ranking_popolazione": 39
+  },
+  {
+    "nil": "BAGGIO - Q.RE DEGLI OLMI - Q.RE VALSESIA",
+    "id_nil": 55,
+    "indice_qualita_vita": 40.309755729158724,
+    "comp_verde": 30.543525312702524,
+    "popolazione_totale": 29873,
+    "ranking_iqv": 43,
+    "ranking_verde": 26,
+    "ranking_popolazione": 14
+  },
+  {
+    "nil": "PORTA TICINESE - CONCHETTA",
+    "id_nil": 44,
+    "indice_qualita_vita": 40.21855501119493,
+    "comp_verde": 6.449311089246216,
+    "popolazione_totale": 16962,
+    "ranking_iqv": 44,
+    "ranking_verde": 73,
+    "ranking_popolazione": 37
+  },
+  {
+    "nil": "VILLAPIZZONE - CAGNOLA - BOLDINASCO",
+    "id_nil": 71,
+    "indice_qualita_vita": 40.07245490785583,
+    "comp_verde": 12.895978854800456,
+    "popolazione_totale": 41190,
+    "ranking_iqv": 45,
+    "ranking_verde": 53,
+    "ranking_popolazione": 4
+  },
+  {
+    "nil": "MACIACHINI - MAGGIOLINA",
+    "id_nil": 12,
+    "indice_qualita_vita": 39.95655304263296,
+    "comp_verde": 21.50855163109457,
+    "popolazione_totale": 25926,
+    "ranking_iqv": 46,
+    "ranking_verde": 39,
+    "ranking_popolazione": 19
+  },
+  {
+    "nil": "VIGENTINO - Q.RE FATIMA",
+    "id_nil": 38,
+    "indice_qualita_vita": 39.9263164273187,
+    "comp_verde": 24.988629604935372,
+    "popolazione_totale": 15079,
+    "ranking_iqv": 47,
+    "ranking_verde": 32,
+    "ranking_popolazione": 44
+  },
+  {
+    "nil": "AFFORI",
+    "id_nil": 80,
+    "indice_qualita_vita": 39.89230969966649,
+    "comp_verde": 31.38821809337603,
+    "popolazione_totale": 25414,
+    "ranking_iqv": 48,
+    "ranking_verde": 25,
+    "ranking_popolazione": 20
+  },
+  {
+    "nil": "MONCUCCO - SAN CRISTOFORO",
+    "id_nil": 45,
+    "indice_qualita_vita": 39.66475880909179,
+    "comp_verde": 9.599081544114293,
+    "popolazione_totale": 13744,
+    "ranking_iqv": 49,
+    "ranking_verde": 62,
+    "ranking_popolazione": 48
+  },
+  {
+    "nil": "STEPHENSON",
+    "id_nil": 75,
+    "indice_qualita_vita": 39.62053298491439,
+    "comp_verde": 8.716234866774231,
+    "popolazione_totale": 134,
+    "ranking_iqv": 50,
+    "ranking_verde": 68,
+    "ranking_popolazione": 85
+  },
+  {
+    "nil": "RONCHETTO DELLE RANE",
+    "id_nil": 40,
+    "indice_qualita_vita": 39.54911145882144,
+    "comp_verde": 19.790916551365363,
+    "popolazione_totale": 737,
+    "ranking_iqv": 51,
+    "ranking_verde": 40,
+    "ranking_popolazione": 78
+  },
+  {
+    "nil": "COMASINA",
+    "id_nil": 82,
+    "indice_qualita_vita": 38.67391313944372,
+    "comp_verde": 41.271226272687784,
+    "popolazione_totale": 9547,
+    "ranking_iqv": 52,
+    "ranking_verde": 14,
+    "ranking_popolazione": 57
+  },
+  {
+    "nil": "TRE TORRI",
+    "id_nil": 59,
+    "indice_qualita_vita": 38.424320229864115,
+    "comp_verde": 15.518542742160124,
+    "popolazione_totale": 2371,
+    "ranking_iqv": 53,
+    "ranking_verde": 47,
+    "ranking_popolazione": 72
+  },
+  {
+    "nil": "SARPI",
+    "id_nil": 69,
+    "indice_qualita_vita": 38.14393229594816,
+    "comp_verde": 12.298830239564804,
+    "popolazione_totale": 30791,
+    "ranking_iqv": 54,
+    "ranking_verde": 56,
+    "ranking_popolazione": 13
+  },
+  {
+    "nil": "QUARTO OGGIARO - VIALBA - MUSOCCO",
+    "id_nil": 76,
+    "indice_qualita_vita": 38.00759424331807,
+    "comp_verde": 24.69568533928528,
+    "popolazione_totale": 30914,
+    "ranking_iqv": 55,
+    "ranking_verde": 33,
+    "ranking_popolazione": 11
+  },
+  {
+    "nil": "DUOMO",
+    "id_nil": 1,
+    "indice_qualita_vita": 37.777070490980705,
+    "comp_verde": 1.1447967120552334,
+    "popolazione_totale": 16706,
+    "ranking_iqv": 56,
+    "ranking_verde": 87,
+    "ranking_popolazione": 38
+  },
+  {
+    "nil": "GIAMBELLINO",
+    "id_nil": 49,
+    "indice_qualita_vita": 37.23645872548254,
+    "comp_verde": 8.987844662987067,
+    "popolazione_totale": 30905,
+    "ranking_iqv": 57,
+    "ranking_verde": 65,
+    "ranking_popolazione": 12
+  },
+  {
+    "nil": "FARINI",
+    "id_nil": 78,
+    "indice_qualita_vita": 37.149058171767905,
+    "comp_verde": 5.032064573077685,
+    "popolazione_totale": 3784,
+    "ranking_iqv": 58,
+    "ranking_verde": 78,
+    "ranking_popolazione": 69
+  },
+  {
+    "nil": "LORENTEGGIO",
+    "id_nil": 53,
+    "indice_qualita_vita": 36.670400949429855,
+    "comp_verde": 19.426926465195898,
+    "popolazione_totale": 14230,
+    "ranking_iqv": 59,
+    "ranking_verde": 41,
+    "ranking_popolazione": 46
+  },
+  {
+    "nil": "ORTOMERCATO",
+    "id_nil": 29,
+    "indice_qualita_vita": 36.37678683177134,
+    "comp_verde": 9.889375600549682,
+    "popolazione_totale": 4107,
+    "ranking_iqv": 60,
+    "ranking_verde": 60,
+    "ranking_popolazione": 66
+  },
+  {
+    "nil": "ISOLA",
+    "id_nil": 11,
+    "indice_qualita_vita": 36.13879485059498,
+    "comp_verde": 6.961069451083472,
+    "popolazione_totale": 22690,
+    "ranking_iqv": 61,
+    "ranking_verde": 72,
+    "ranking_popolazione": 23
+  },
+  {
+    "nil": "ROGOREDO - SANTA GIULIA",
+    "id_nil": 33,
+    "indice_qualita_vita": 35.893058658899136,
+    "comp_verde": 7.549868587045694,
+    "popolazione_totale": 11290,
+    "ranking_iqv": 62,
+    "ranking_verde": 70,
+    "ranking_popolazione": 55
+  },
+  {
+    "nil": "BICOCCA",
+    "id_nil": 15,
+    "indice_qualita_vita": 35.74449462844073,
+    "comp_verde": 12.865988090479274,
+    "popolazione_totale": 8516,
+    "ranking_iqv": 63,
+    "ranking_verde": 54,
+    "ranking_popolazione": 59
+  },
+  {
+    "nil": "MORIVIONE",
+    "id_nil": 37,
+    "indice_qualita_vita": 35.34380629920484,
+    "comp_verde": 14.173045774046395,
+    "popolazione_totale": 7702,
+    "ranking_iqv": 64,
+    "ranking_verde": 50,
+    "ranking_popolazione": 61
+  },
+  {
+    "nil": "SCALO ROMANA",
+    "id_nil": 36,
+    "indice_qualita_vita": 35.19835029317818,
+    "comp_verde": 9.07513522883136,
+    "popolazione_totale": 12191,
+    "ranking_iqv": 65,
+    "ranking_verde": 64,
+    "ranking_popolazione": 52
+  },
+  {
+    "nil": "PADOVA - TURRO - CRESCENZAGO",
+    "id_nil": 19,
+    "indice_qualita_vita": 35.0341192587289,
+    "comp_verde": 16.598120904205654,
+    "popolazione_totale": 37409,
+    "ranking_iqv": 66,
+    "ranking_verde": 45,
+    "ranking_popolazione": 5
+  },
+  {
+    "nil": "GRECO - SEGNANO",
+    "id_nil": 13,
+    "indice_qualita_vita": 34.493279340792796,
+    "comp_verde": 10.289101828244709,
+    "popolazione_totale": 16058,
+    "ranking_iqv": 67,
+    "ranking_verde": 59,
+    "ranking_popolazione": 41
+  },
+  {
+    "nil": "PTA ROMANA",
+    "id_nil": 27,
+    "indice_qualita_vita": 33.89853005683197,
+    "comp_verde": 2.5470620027385245,
+    "popolazione_totale": 16469,
+    "ranking_iqv": 68,
+    "ranking_verde": 83,
+    "ranking_popolazione": 40
+  },
+  {
+    "nil": "GUASTALLA",
+    "id_nil": 4,
+    "indice_qualita_vita": 33.23197442449765,
+    "comp_verde": 7.1439987741489075,
+    "popolazione_totale": 15369,
+    "ranking_iqv": 69,
+    "ranking_verde": 71,
+    "ranking_popolazione": 42
+  },
+  {
+    "nil": "PORTA GARIBALDI - PORTA NUOVA",
+    "id_nil": 9,
+    "indice_qualita_vita": 32.6319150754044,
+    "comp_verde": 1.3643536695740037,
+    "popolazione_totale": 5864,
+    "ranking_iqv": 70,
+    "ranking_verde": 85,
+    "ranking_popolazione": 63
+  },
+  {
+    "nil": "TIBALDI",
+    "id_nil": 43,
+    "indice_qualita_vita": 32.11028855158419,
+    "comp_verde": 9.880590995449793,
+    "popolazione_totale": 11463,
+    "ranking_iqv": 71,
+    "ranking_verde": 61,
+    "ranking_popolazione": 54
+  },
+  {
+    "nil": "TRENNO",
+    "id_nil": 64,
+    "indice_qualita_vita": 32.01650066090335,
+    "comp_verde": 16.26598364293613,
+    "popolazione_totale": 3975,
+    "ranking_iqv": 72,
+    "ranking_verde": 46,
+    "ranking_popolazione": 68
+  },
+  {
+    "nil": "XXII MARZO",
+    "id_nil": 26,
+    "indice_qualita_vita": 31.88698610956341,
+    "comp_verde": 3.6104456974630383,
+    "popolazione_totale": 31493,
+    "ranking_iqv": 73,
+    "ranking_verde": 82,
+    "ranking_popolazione": 10
+  },
+  {
+    "nil": "PORTELLO",
+    "id_nil": 67,
+    "indice_qualita_vita": 31.638979965270874,
+    "comp_verde": 8.938329187052098,
+    "popolazione_totale": 8858,
+    "ranking_iqv": 74,
+    "ranking_verde": 66,
+    "ranking_popolazione": 58
+  },
+  {
+    "nil": "PORTA VIGENTINA - PORTA LODOVICA",
+    "id_nil": 5,
+    "indice_qualita_vita": 30.467552369623387,
+    "comp_verde": 14.074044345743683,
+    "popolazione_totale": 13519,
+    "ranking_iqv": 75,
+    "ranking_verde": 51,
+    "ranking_popolazione": 49
+  },
+  {
+    "nil": "DERGANO",
+    "id_nil": 79,
+    "indice_qualita_vita": 29.726074855769774,
+    "comp_verde": 8.842527954945236,
+    "popolazione_totale": 23597,
+    "ranking_iqv": 76,
+    "ranking_verde": 67,
+    "ranking_popolazione": 22
+  },
+  {
+    "nil": "STAZIONE CENTRALE - PONTE SEVESO",
+    "id_nil": 10,
+    "indice_qualita_vita": 29.691012869890265,
+    "comp_verde": 0,
+    "popolazione_totale": 18584,
+    "ranking_iqv": 77,
+    "ranking_verde": 88,
+    "ranking_popolazione": 30
+  },
+  {
+    "nil": "BANDE NERE",
+    "id_nil": 52,
+    "indice_qualita_vita": 28.789020643279027,
+    "comp_verde": 18.936398477175818,
+    "popolazione_totale": 43808,
+    "ranking_iqv": 78,
+    "ranking_verde": 42,
+    "ranking_popolazione": 3
+  },
+  {
+    "nil": "DE ANGELI - MONTE ROSA",
+    "id_nil": 58,
+    "indice_qualita_vita": 28.369032416362046,
+    "comp_verde": 10.494316806551863,
+    "popolazione_totale": 21405,
+    "ranking_iqv": 79,
+    "ranking_verde": 58,
+    "ranking_popolazione": 25
+  },
+  {
+    "nil": "GHISOLFA",
+    "id_nil": 70,
+    "indice_qualita_vita": 26.767253121534516,
+    "comp_verde": 14.97757942335937,
+    "popolazione_totale": 18017,
+    "ranking_iqv": 80,
+    "ranking_verde": 49,
+    "ranking_popolazione": 33
+  },
+  {
+    "nil": "PORTA GENOVA",
+    "id_nil": 50,
+    "indice_qualita_vita": 25.706086527213394,
+    "comp_verde": 4.8373275877968975,
+    "popolazione_totale": 15119,
+    "ranking_iqv": 81,
+    "ranking_verde": 79,
+    "ranking_popolazione": 43
+  },
+  {
+    "nil": "UMBRIA - MOLISE - CALVAIRATE",
+    "id_nil": 28,
+    "indice_qualita_vita": 25.23087039291928,
+    "comp_verde": 7.693798722154026,
+    "popolazione_totale": 22599,
+    "ranking_iqv": 82,
+    "ranking_verde": 69,
+    "ranking_popolazione": 24
+  },
+  {
+    "nil": "LORETO - CASORETTO - NOLO",
+    "id_nil": 20,
+    "indice_qualita_vita": 23.626418773575278,
+    "comp_verde": 5.800423627366732,
+    "popolazione_totale": 44034,
+    "ranking_iqv": 83,
+    "ranking_verde": 75,
+    "ranking_popolazione": 2
+  },
+  {
+    "nil": "SAN SIRO",
+    "id_nil": 57,
+    "indice_qualita_vita": 22.11679408441421,
+    "comp_verde": 5.786500995937899,
+    "popolazione_totale": 26354,
+    "ranking_iqv": 84,
+    "ranking_verde": 76,
+    "ranking_popolazione": 18
+  },
+  {
+    "nil": "PORTA MAGENTA",
+    "id_nil": 51,
+    "indice_qualita_vita": 21.298408605224417,
+    "comp_verde": 9.164649487248363,
+    "popolazione_totale": 26758,
+    "ranking_iqv": 85,
+    "ranking_verde": 63,
+    "ranking_popolazione": 17
+  },
+  {
+    "nil": "CORSICA",
+    "id_nil": 25,
+    "indice_qualita_vita": 19.005917230428416,
+    "comp_verde": 4.014043646027917,
+    "popolazione_totale": 19482,
+    "ranking_iqv": 86,
+    "ranking_verde": 80,
+    "ranking_popolazione": 27
+  },
+  {
+    "nil": "NIGUARDA - CA' GRANDA - PRATO CENTENARO - Q.RE FULVIO TESTI",
+    "id_nil": 14,
+    "indice_qualita_vita": 0,
+    "comp_verde": 38.03839627293395,
+    "popolazione_totale": 35852,
+    "ranking_iqv": 87,
+    "ranking_verde": 16,
+    "ranking_popolazione": 8
+  },
+  {
+    "nil": "MAGENTA - S. VITTORE",
+    "id_nil": 7,
+    "indice_qualita_vita": 0,
+    "comp_verde": 5.98051074617994,
+    "popolazione_totale": 17940,
+    "ranking_iqv": 88,
+    "ranking_verde": 74,
+    "ranking_popolazione": 34
+  }
+]

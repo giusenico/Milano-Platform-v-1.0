@@ -1,0 +1,47 @@
+{
+  "nilId": 28,
+  "nilName": "UMBRIA - MOLISE - CALVAIRATE",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 5251,
+      "colore": "#3b82f6",
+      "percentuale": 48.4
+    },
+    {
+      "residenti": "2",
+      "valore": 2920,
+      "colore": "#8b5cf6",
+      "percentuale": 26.9
+    },
+    {
+      "residenti": "3",
+      "valore": 1502,
+      "colore": "#ec4899",
+      "percentuale": 13.9
+    },
+    {
+      "residenti": "4",
+      "valore": 853,
+      "colore": "#f59e0b",
+      "percentuale": 7.9
+    },
+    {
+      "residenti": "5+",
+      "valore": 313,
+      "colore": "#22c55e",
+      "percentuale": 2.9
+    }
+  ],
+  "totaleAbitazioni": 10839,
+  "famiglieSingole": 10695,
+  "famiglieCoabitanti": 143,
+  "nuoviEdifici": {
+    "fabbricati": 5,
+    "abitazioni": 264,
+    "superficieMq": 17573,
+    "volumeMc": 99586,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

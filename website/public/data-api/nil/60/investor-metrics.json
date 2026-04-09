@@ -1,0 +1,41 @@
+{
+  "nilId": 60,
+  "nil": "STADIO - IPPODROMI",
+  "investorScore": 36.8,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Moderato",
+  "ranking": {
+    "qualitaVita": 31,
+    "verde": 18,
+    "popolazione": 50,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 13031,
+      "media": 15753,
+      "delta": -2722.238636363636
+    },
+    "densita": {
+      "nil": 3793.39931489428,
+      "media": 8881.290415418553,
+      "deltaPercent": -57.3
+    },
+    "stranieri": {
+      "nil": 18.43296753894559,
+      "media": 21.360484986780587,
+      "delta": -2.9
+    },
+    "verde": {
+      "nil": 11.375656962376887,
+      "media": 8.1171861884842,
+      "deltaPercent": 40.1
+    },
+    "qualitaVita": {
+      "nil": 43.40510292969491,
+      "media": 39.6877862711082,
+      "deltaPercent": 9.4
+    }
+  }
+}

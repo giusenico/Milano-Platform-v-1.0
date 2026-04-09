@@ -1,0 +1,16 @@
+{
+  "nilId": 38,
+  "nilName": "VIGENTINO - Q.RE FATIMA",
+  "composizioneFamiglie": [],
+  "totaleAbitazioni": 0,
+  "famiglieSingole": 0,
+  "famiglieCoabitanti": 0,
+  "nuoviEdifici": {
+    "fabbricati": 5,
+    "abitazioni": 837,
+    "superficieMq": 52225,
+    "volumeMc": 335707,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

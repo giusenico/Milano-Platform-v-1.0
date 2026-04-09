@@ -1,0 +1,41 @@
+{
+  "nilId": 77,
+  "nil": "BOVISA",
+  "investorScore": 43.5,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Alto",
+  "ranking": {
+    "qualitaVita": 14,
+    "verde": 34,
+    "popolazione": 47,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 13945,
+      "media": 15753,
+      "delta": -1808.238636363636
+    },
+    "densita": {
+      "nil": 7289.367416466749,
+      "media": 8881.290415418553,
+      "deltaPercent": -17.9
+    },
+    "stranieri": {
+      "nil": 34.68626747938329,
+      "media": 21.360484986780587,
+      "delta": 13.3
+    },
+    "verde": {
+      "nil": 8.254145605817587,
+      "media": 8.1171861884842,
+      "deltaPercent": 1.7
+    },
+    "qualitaVita": {
+      "nil": 48.45188455638784,
+      "media": 39.6877862711082,
+      "deltaPercent": 22.1
+    }
+  }
+}

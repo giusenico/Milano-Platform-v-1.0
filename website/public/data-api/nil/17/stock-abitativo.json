@@ -1,0 +1,47 @@
+{
+  "nilId": 17,
+  "nilName": "ADRIANO",
+  "composizioneFamiglie": [
+    {
+      "residenti": "1",
+      "valore": 1878,
+      "colore": "#3b82f6",
+      "percentuale": 33.9
+    },
+    {
+      "residenti": "2",
+      "valore": 1573,
+      "colore": "#8b5cf6",
+      "percentuale": 28.4
+    },
+    {
+      "residenti": "3",
+      "valore": 990,
+      "colore": "#ec4899",
+      "percentuale": 17.9
+    },
+    {
+      "residenti": "4",
+      "valore": 898,
+      "colore": "#f59e0b",
+      "percentuale": 16.2
+    },
+    {
+      "residenti": "5+",
+      "valore": 201,
+      "colore": "#22c55e",
+      "percentuale": 3.6
+    }
+  ],
+  "totaleAbitazioni": 5540,
+  "famiglieSingole": 5458,
+  "famiglieCoabitanti": 82,
+  "nuoviEdifici": {
+    "fabbricati": 7,
+    "abitazioni": 907,
+    "superficieMq": 55102,
+    "volumeMc": 253140,
+    "periodo": "2010-2023"
+  },
+  "anno": 2011
+}

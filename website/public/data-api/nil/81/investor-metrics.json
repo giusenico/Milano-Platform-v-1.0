@@ -1,0 +1,41 @@
+{
+  "nilId": 81,
+  "nil": "BOVISASCA",
+  "investorScore": 41.2,
+  "riskLevel": "Medio",
+  "riskColor": "#f59e0b",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 12,
+    "verde": 7,
+    "popolazione": 62,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 7230,
+      "media": 15753,
+      "delta": -8523.238636363636
+    },
+    "densita": {
+      "nil": 4581.668770309616,
+      "media": 8881.290415418553,
+      "deltaPercent": -48.4
+    },
+    "stranieri": {
+      "nil": 16.832641770401107,
+      "media": 21.360484986780587,
+      "delta": -4.5
+    },
+    "verde": {
+      "nil": 15.859528003227858,
+      "media": 8.1171861884842,
+      "deltaPercent": 95.4
+    },
+    "qualitaVita": {
+      "nil": 50.50666140552282,
+      "media": 39.6877862711082,
+      "deltaPercent": 27.3
+    }
+  }
+}

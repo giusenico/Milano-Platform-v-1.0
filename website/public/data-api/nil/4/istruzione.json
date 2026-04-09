@@ -1,0 +1,33 @@
+{
+  "nilId": 4,
+  "nilName": "GUASTALLA",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 1641,
+      "percentuale": 11.6
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 2012,
+      "percentuale": 14.2
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 3850,
+      "percentuale": 27.2
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 5820,
+      "percentuale": 41.1
+    }
+  ],
+  "totale": 14154,
+  "pctLaureati": 41.1,
+  "anno": 2011
+}

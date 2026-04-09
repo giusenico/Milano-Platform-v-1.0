@@ -1,0 +1,33 @@
+{
+  "nilId": 19,
+  "nilName": "PADOVA - TURRO - CRESCENZAGO",
+  "data": [
+    {
+      "categoria": "Nessun titolo o licenza elementare",
+      "categoriaShort": "Elementare",
+      "valore": 7069,
+      "percentuale": 22.4
+    },
+    {
+      "categoria": "Licenza di scuola media inferiore o di avviamento professionale",
+      "categoriaShort": "Media",
+      "valore": 8479,
+      "percentuale": 26.9
+    },
+    {
+      "categoria": "Diploma di scuola secondaria superiore",
+      "categoriaShort": "Diploma",
+      "valore": 9930,
+      "percentuale": 31.5
+    },
+    {
+      "categoria": "Titoli universitari o para-universitari",
+      "categoriaShort": "Laurea",
+      "valore": 4360,
+      "percentuale": 13.8
+    }
+  ],
+  "totale": 31519,
+  "pctLaureati": 13.8,
+  "anno": 2011
+}

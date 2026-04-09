@@ -1,0 +1,45 @@
+{
+  "nilId": 47,
+  "nilName": "CANTALUPA",
+  "data": [
+    {
+      "mezzo": "Auto privata",
+      "mezzoShort": "Auto",
+      "valore": 154,
+      "percentuale": 56.6,
+      "colore": "#ef4444"
+    },
+    {
+      "mezzo": "Mezzi pubblici",
+      "mezzoShort": "Pubblici",
+      "valore": 63,
+      "percentuale": 23.2,
+      "colore": "#3b82f6"
+    },
+    {
+      "mezzo": "Altri mezzi",
+      "mezzoShort": "Altro",
+      "valore": 25,
+      "percentuale": 9.2,
+      "colore": "#6b7280"
+    },
+    {
+      "mezzo": "A piedi o in bicicletta",
+      "mezzoShort": "Piedi/Bici",
+      "valore": 19,
+      "percentuale": 7,
+      "colore": "#22c55e"
+    },
+    {
+      "mezzo": "Non disponibile",
+      "mezzoShort": "Non disponibile",
+      "valore": 11,
+      "percentuale": 4,
+      "colore": "#6b7280"
+    }
+  ],
+  "totale": 272,
+  "mezzo_prevalente": "Auto privata",
+  "pctSostenibile": 30.2,
+  "anno": 2011
+}

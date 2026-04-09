@@ -1,0 +1,20 @@
+{
+  "nilId": 38,
+  "nilName": "VIGENTINO - Q.RE FATIMA",
+  "totaleServizi": 1,
+  "serviziPerArea": [
+    {
+      "area_attivita": "Attività ludiche e ricreative",
+      "count": 1
+    }
+  ],
+  "serviziPerTarget": [
+    {
+      "fascia_utenza": "Giovani,Adulti,Migranti,Anziani,Persone con disabilità",
+      "count": 1
+    }
+  ],
+  "popolazione": 15079,
+  "serviziPer1000Abitanti": 0.07,
+  "qualitaCopertura": "Bassa"
+}

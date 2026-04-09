@@ -1,0 +1,41 @@
+{
+  "nilId": 50,
+  "nilName": "PORTA GENOVA",
+  "farmacie": {
+    "totale": 4,
+    "lista": [
+      {
+        "descrizione_farmacia": "BERGOGNONE SRL",
+        "indirizzo": "VIA AMBROGIO DA FOSSANO BERGOGNONE, 31",
+        "cap": "20144"
+      },
+      {
+        "descrizione_farmacia": "A.F.M. N. 47",
+        "indirizzo": "VIA VINCENZO FOPPA, 5",
+        "cap": "20144"
+      },
+      {
+        "descrizione_farmacia": "SOLARI",
+        "indirizzo": "VIA ANDREA SOLARI, 40",
+        "cap": "20144"
+      },
+      {
+        "descrizione_farmacia": "DEL NAVIGLIO SRL",
+        "indirizzo": "VIALE CARLO TROYA, 11",
+        "cap": "20144"
+      }
+    ]
+  },
+  "medici": {
+    "totale": 13,
+    "mediciBase": 0,
+    "pediatri": 0
+  },
+  "popolazione": 15119,
+  "rapporti": {
+    "abitantiPerFarmacia": 3780,
+    "abitantiPerMedico": 1163
+  },
+  "scoreHealthcare": 70,
+  "qualitaServizio": "Buono"
+}

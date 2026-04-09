@@ -1,0 +1,41 @@
+{
+  "nilId": 18,
+  "nil": "CIMIANO - ROTTOLE - Q.RE FELTRE",
+  "investorScore": 42.4,
+  "riskLevel": "Alto",
+  "riskColor": "#ef4444",
+  "growthPotential": "Basso",
+  "ranking": {
+    "qualitaVita": 5,
+    "verde": 8,
+    "popolazione": 28,
+    "totaleNil": 88
+  },
+  "confrontoMilano": {
+    "popolazione": {
+      "nil": 19447,
+      "media": 15753,
+      "delta": 3693.761363636364
+    },
+    "densita": {
+      "nil": 3911.7602658687024,
+      "media": 8881.290415418553,
+      "deltaPercent": -56
+    },
+    "stranieri": {
+      "nil": 16.439553658662003,
+      "media": 21.360484986780587,
+      "delta": -4.9
+    },
+    "verde": {
+      "nil": 15.40970719036562,
+      "media": 8.1171861884842,
+      "deltaPercent": 89.8
+    },
+    "qualitaVita": {
+      "nil": 55.939149291046334,
+      "media": 39.6877862711082,
+      "deltaPercent": 40.9
+    }
+  }
+}

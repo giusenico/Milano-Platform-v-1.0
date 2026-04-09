@@ -233,6 +233,9 @@ open reports/data_quality_report.html
 ## 🧪 Test
 
 ```bash
+npm run export:static-api
+git add website/public/data-api
+
 make test
 
 # Test API
